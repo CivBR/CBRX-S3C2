@@ -36,7 +36,7 @@ function EW_UnitLimits_Check(playerID)
 	local iAvg_Pop = iTotal_Pop / iCities
 
 	--Land Unit Count
-	iLandCap = iLandCap + math.ceil((6 * iCities) * iAvg_Pop)
+	iLandCap = iLandCap + math.ceil((5 * iCities) * iAvg_Pop)
 
 	--Air Unit Count
 	iAirCap = iAirLandCap + math.ceil((2 * iCities) * iAvg_Pop)
