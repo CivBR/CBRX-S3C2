@@ -1,0 +1,287 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_01">
+			<Text>Belgrade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_02">
+			<Text>Zagreb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_03">
+			<Text>Sarajevo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_04">
+			<Text>Skopje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_05">
+			<Text>Ljubljana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_06">
+			<Text>Titograd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_07">
+			<Text>Split</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_08">
+			<Text>Pristina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_09">
+			<Text>Novi Sad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_10">
+			<Text>Nis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_11">
+			<Text>Banja Luka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_12">
+			<Text>Rijeka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_13">
+			<Text>Maribor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_14">
+			<Text>Mostar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_15">
+			<Text>Osijek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_16">
+			<Text>Zadar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_17">
+			<Text>Kragujevac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_18">
+			<Text>Tuzla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_19">
+			<Text>Subotica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_20">
+			<Text>Pula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_21">
+			<Text>Zenica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_22">
+			<Text>Prizren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_23">
+			<Text>Mitrovica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_24">
+			<Text>Niksic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_25">
+			<Text>Cacak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_26">
+			<Text>Bitola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_27">
+			<Text>Kraljevo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_28">
+			<Text>Kumanovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_29">
+			<Text>Novi Pazar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_30">
+			<Text>Zrenjanin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_31">
+			<Text>Tetovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_32">
+			<Text>Karlovac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_33">
+			<Text>Pec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_34">
+			<Text>Pancevo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_35">
+			<Text>Leskovac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_36">
+			<Text>Uzice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_37">
+			<Text>Krusevac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_38">
+			<Text>Smederovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_39">
+			<Text>Sabac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUGOSLAVIA_40">
+			<Text>Prilep</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_0">
+			<Text>Petar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_1">
+			<Text>Ivan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_2">
+			<Text>Aleksandar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_3">
+			<Text>Dzemal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_4">
+			<Text>Jovanka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_5">
+			<Text>Davorjanka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_6">
+			<Text>Cica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_7">
+			<Text>Milan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_8">
+			<Text>Lazar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUGOSLAVIA_9">
+			<Text>Slobodan</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_YUGOSLAVIA_ADJECTIVE">
+			<Text>Yugoslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_YUGOSLAVIA_DESC">
+			<Text>SFR Yugoslavia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_YUGOSLAVIA_SHORT_DESC">
+			<Text>Yugoslavia</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_TITO_TEXT">
+			<Text>We stand with you, Josip Broz Tito, great leader of Yugoslavia! Distinguishing yourself as the most effective resistance leader in all of Axis-occupied Europe during the Second World War, you were recognised by all as the liberator of the Yugoslavs. With wide support both internally and abroad, you emerged as leader of a new Communist Yugoslavia. Far from being a Soviet puppet like many of your contemporaries, you led your new Socialist Republic down a path of independence and assertiveness. You fostered cooperation between the many peoples of Yugoslavia, created a progressive socialist ideology which was the envy of the Communist bloc, and worked with a diverse range of nations to create the Non-Aligned Movement at the height of the Cold War. Truly, under your guiding hand Yugoslavia emerged as a beacon of brotherhood and unity![NEWLINE][NEWLINE]Great Marshal Tito, Yugoslavia would not last long after your passing. Only a decade later, your nation fractured and shattered, leaving only reactionary and vitriolic substates in its wake. But the spirit of the Yugoslavs lives on - and once more they call for you to lead them! Will you unite these squabbling nations into a brotherhood once more? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUGOSLAVIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUGOSLAVIA_TEXT_1">
+			<Text>
+				Yugoslavia (meaning "South Slavia" or "land of the South Slavs"), was created twice in the twentieth century—both times after a world war—and it disintegrated twice: the first time because of an invasion and partition during the Second World War and the second time at the end of the Cold War, when an internal conflict led to hundreds of thousands of dead, millions displaced, and a foreign intervention. Between 1918 and 1941 (formally 1945) Yugoslavia was a monarchy. The fragile democracy of the 1920s was replaced by a royal dictatorship in 1929. The country was invaded and partitioned by Germany, Italy, and their allies in 1941, but, despite a bloody civil war that, combined with wars for liberation, claimed one million lives, a united South Slav state reemerged at the end of the Second World War. Between 1945 and 1991–1992 Yugoslavia was a socialist federation, comprising six republics: Slovenia, Croatia, Bosnia-Herzegovina, Serbia, Montenegro, and Macedonia. Serbia also had two provinces, Vojvodina and Kosovo. The Yugoslav successor states today are all formally democratic republics, but in the 1990s the Federal Republic of Yugoslavia (comprising just Serbia and Montenegro) and Croatia were ruled by semi-authoritarian regimes, while Bosnia emerged from war as a de facto international protectorate. Kosovo, only nominally part of Serbia, has been an international protectorate since 1999. The region is gradually being integrated into international institutions, with Slovenia leading the way as a member of the European Union (EU) and NATO since 2004.
+				[NEWLINE][NEWLINE]
+				Political instability and ethnic conflict represent only one aspect—albeit the darkest one—in the rich and complex mosaic that is twentieth-century Yugoslav history. Perhaps as remarkable as the country's instability had been the perseverance of Yugoslavist ideals throughout the period. The turbulence of Yugoslavia's history reflects the history of Europe in the twentieth century. Periods of political and economic crises and wars were intersected by years of peace and stability.
+			</Text>
+		</Row>
+		
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_TITO_LIVED">
+			<Text>1892 - 1980</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_TITO_NAME">
+			<Text>Josip Broz Tito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_TITO_SUBTITLE">
+			<Text>President of Yugoslavia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_TITO">
+			<Text>Josip Broz Tito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_TITO_TITLES_1">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_TITO_TITLES_2">
+			<Text>Prime Minister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_TITO_TITLES_3">
+			<Text>Marshal</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_TITO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_TITO_TEXT_1">
+			<Text>
+				Josip Broz, commonly known as Tito, was a Yugoslav communist revolutionary and statesman, serving in various roles from 1943 until his death in 1980. During World War II, he was the leader of the Partisans, often regarded as the most effective resistance movement in occupied Europe. He also served as the President of the Socialist Federal Republic of Yugoslavia from 14 January 1953 to 4 May 1980.
+				[NEWLINE][NEWLINE]
+				Tito was born to a Croat father and Slovene mother in the village of Kumrovec, Austria-Hungary (now in Croatia). Drafted into military service, he distinguished himself, becoming the youngest sergeant major in the Austro-Hungarian Army of that time. After being seriously wounded and captured by the Imperial Russians during World War I, he was sent to a work camp in the Ural Mountains. He participated in some events of the Russian Revolution in 1917 and the subsequent Civil War. Upon his return to the Balkans in 1918, Broz entered the newly established Kingdom of Yugoslavia, where he joined the Communist Party of Yugoslavia. He later was elected as General Secretary, later President, of the League of Communists of Yugoslavia. During World War II, after the Nazi invasion of the area, he led the Yugoslav guerrilla movement, the Partisans.
+				[NEWLINE][NEWLINE]
+				After the war, he was the chief architect of the Socialist Federal Republic of Yugoslavia, serving as both Prime Minister, President, and Marshal of Yugoslavia, the highest rank of the Yugoslav People's Army. Despite being one of the founders of Cominform, he became the first Cominform member to defy Soviet hegemony in 1948. He was the only leader in Joseph Stalin's time to leave Cominform and begin with his country's own socialist program, which contained elements of market socialism. Economists active in the former Yugoslavia, including Czech-born Jaroslav Vanek and Yugoslav-born Branko Horvat, promoted a model of market socialism that was dubbed the Illyrian model. Firms were socially owned by their employees and structured on workers' self-management; they competed in open and free markets. Tito managed to keep ethnic tensions under control by delegating as much power as possible to each republic. The 1974 Yugoslav Constitution defined SFR Yugoslavia as a "federal republic of equal nations and nationalities, freely united on the principle of brotherhood and unity in achieving specific and common interest." Each republic was also given the right to self-determination and secession if done through legal channels. Lastly, Tito gave Kosovo and Vojvodina, the two constituent provinces of Serbia, substantially increased autonomy, including de facto veto power in the Serbian parliament. Tito built a very powerful cult of personality around himself, which was maintained by the League of Communists of Yugoslavia after his death. Ten years after his death, as communism collapsed in Eastern Europe, Yugoslavia dissolved and descended into civil war.
+				[NEWLINE][NEWLINE]
+				While some criticise his presidency as authoritarian and compare him to the brutality of Stalin, most see Tito as a benevolent dictator. He was a popular public figure both in Yugoslavia and abroad. Viewed as a unifying symbol, his internal policies maintained the peaceful coexistence of the nations of the Yugoslav federation. He gained further international attention as the chief leader of the Non-Aligned Movement, alongside Jawaharlal Nehru of India, Gamal Abdel Nasser of Egypt, and Kwame Nkrumah of Ghana. With a highly favourable reputation abroad in both Cold War blocs, he received some 98 foreign decorations, including the Legion of Honour and the Order of the Bath.
+			</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_YUGOSLAVIA_SHORT">
+			<Text>Hej Slaveni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_YUGOSLAVIA">
+			<Text>Buildings and Wonders which increase Unit Production or Experience also increase [ICON_CULTURE] Culture. Units trained during War begin with additional Experience based on your [ICON_CULTURE] Culture output.</Text>
+		</Row>
+
+		<!--Unique Units-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_PARTISAN">
+			<Text>Partisan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_PARTISAN_STRATEGY">
+			<Text>Unique Yugoslav replacement for the Machine Gun, which ignores Rough Terrain and is unlocked earlier, at Railroad. Its Ranged Strength increases with each Level, and it receives +1 Range when beginning a turn adjacent to an enemy unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_PARTISAN_HELP">
+			<Text>Unique Yugoslav replacement for the Machine Gun, which ignores Rough Terrain and is unlocked earlier, at Railroad. Its Ranged Strength increases with each Level, and it receives +1 Range when beginning a turn adjacent to an enemy unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_PARTISAN_TEXT">
+			<Text>
+				The Yugoslav Partisans were a guerrilla force led by the Communist Party of Yugoslavia during World War II against the Axis powers, their Yugoslav collaborators, and a rival resistance force, the royalist Chetniks.
+				[NEWLINE][NEWLINE]
+				Germany and Italy occupied Yugoslavia in April 1941, but it was not until Germany invaded the Soviet Union in June of that year that the Yugoslav communists were ordered to mount attacks against Axis units. Under the direction of the party leader, Josip Broz Tito, Partisan detachments conducted small-scale sabotage until September 1941, when they occupied the Serbian town of Uzice and proclaimed a liberated Uzice Republic. The Partisans’ clear intent to go beyond national liberation to create a socialist federation alienated them from the Chetniks, who were mostly Serbian soldiers loyal to the exiled king. The two forces also fell out over atrocities committed by the Germans in reprisal for acts of resistance; the Chetniks wished to avoid provoking such atrocities, but Tito calculated that they would drive yet more people into the resistance. Even after the Partisans were forced to retreat into the mountains of Montenegro and Bosnia and Herzegovina, they attracted enough recruits to designate themselves the People’s Liberation Army (PLA), with elite Proletarian Brigades selected for their fighting abilities, ideological commitment, and all-Yugoslav character. In November 1942 Tito demonstrated the strength of his movement by convening the Anti-Fascist Council for the National Liberation of Yugoslavia, which eventually became a provisional government.
+				[NEWLINE][NEWLINE]
+				Fearful that a powerful resistance force might encourage the Allies to invade the Balkan Peninsula, the Germans and Italians led seven major offensives against the PLA. The turning point of the war came in May 1943, when Partisans escaped encirclement in Herzegovina by forcing an exit up the Sutjeska Gorge. The battle of Sutjeska was of first importance in persuading the Allies to switch their support from the royalists to the communists. Anglo-American and Soviet arms and equipment thenceforth were supplied in ever-increasing amounts. The Italian surrender in the fall of 1943 relieved the military pressure on the Partisans, who also benefited from the capture of considerable supplies of munitions and equipment. By the end of 1943 the PLA had grown to an estimated 300,000 troops and had diverted a significant number of enemy forces from other Allied fronts. In October 1944 Partisans took part in the liberation of Belgrade by the Soviet Red Army; they were then able to focus their campaigns against the Chetniks and other Yugoslav collaborators. Reprisals against fleeing anti-Partisan forces were especially brutal in northern Yugoslavia. (Hundreds of mass graves, thought to contain tens of thousands of victims of such reprisals, were unearthed in Slovenia in the early 21st century.)
+				[NEWLINE][NEWLINE]
+				On March 1, 1945, the PLA was reconstituted as the Yugoslav People’s Army (YPA). During the Cold War, nonaligned Yugoslavia adopted a strategy of “Total National Defense” against possible invasion by the Soviet bloc or the Western allies, in which the YPA was supplemented by locally based, Partisan-style Territorial Defense Forces. Upon the disintegration of Yugoslavia in 1991–92, these militias became the nuclei of armed forces that defended seceding republics from the YPA.
+			</Text>
+		</Row>
+
+
+		<!--Unique Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SPOMENIK">
+			<Text>Spomenik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SPOMENIK_STRATEGY">
+			<Text>Unique Yugoslav replacement for the Zoo. In addition to the Zoo's regular bonuses, it temporarily generates Culture whenever a Unit is defeated within range of the city, regardless of its owner. When producing Units, receive additional Production based on the city's Local Happiness, doubled while at War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SPOMENIK_HELP">
+			<Text>Unique Yugoslav replacement for the Zoo. In addition to the Zoo's regular bonuses, it temporarily generates Culture whenever a Unit is defeated within range of the city, regardless of its owner. When producing Units, receive additional Production based on the city's Local Happiness, doubled while at War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_SENSHI_SPOMENIK_TEXT">
+			<Text>
+				Spomeniks, literally meaning 'Monuments', are a series of memorial structures built from the 1950s-1990s during Tito's Socialist Federal Republic of Yugoslavia, whose primary intent was to honor its people's resistance struggle during the National Liberation War against Axis occupation. They commemorate not only the crimes which occurred during the region's brutal occupation, but they additionally celebrate the 'Revolution' which defeated them, all lead by Tito's Partisan Army of rebels and fighters. However, these monuments were, and still are, more than just the sum of their parts.
+				[NEWLINE][NEWLINE]
+				At the outset of Tito's new Republic (established from the ashes of that revolution), ambitious plans were laid to craft something new, something brave and adventurous -- a classless country ruled by principles of socialism, a population free of ethnic tension, all bound together by feelings of 'brotherhood and unity'... and Yugoslavia's 'spomenik project'  was a part of that grand plan. A 2017 paper by Nina Stevanovic cites a source relating that by 1961, over 14,000 memorial objects were already constructed across Yugoslavia honoring WWII and the socialist revolution. By the dismantling of Yugoslavia in the early 1990s, it is unknown exactly how many memorial objects were created in total, but if their creation was at the same rate that they were built from 1945-1961, the total number would be well over 40,000. Such a phenomenal wellspring of memorial construction is distinct and unique compared to other European countries during that time period, as such, the importance with which the Yugoslav government regarded this spomenik project becomes evident.
+			</Text>
+		</Row>
+
+		<!--SKOPJE-->
+		<Replace Tag="TXT_KEY_CITYSTATE_BELGRADE">
+			<Text>Skopje</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITYSTATE_BELGRADE_ADJ">
+			<Text>Skopje</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_BELGRADE_TITLE">
+			<Text>Skopje</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_BELGRADE_TEXT">
+			<Text>Standing on the banks of the Vardar River amid mountainous country, Skopje began as ancient Scupi, an Illyrian tribal centre. It became the capital of the district of Dardania (part of the Roman province of Moesia Superior) under the emperor Diocletian in the 4th century. In 518 it was totally destroyed by an earthquake. A brief Slav incursion occurred in the 7th century, and in the 9th and 10th centuries the town grew rapidly. The Serbs first captured Skopje in 1189, and in 1392 the Turks after conquering Macedonia made it their provincial capital and an important commercial centre. In 1689 it was burned to the ground by Austrian forces to eradicate a cholera epidemic, after which it declined until a revival in the 19th century with the building of the Belgrade–Thessaloníki railway. By treaty Skopje was in 1913 incorporated into Serbia, and in 1918 it became part of the new Yugoslavia. During World War II the Germans occupied it in April 1941, and it was then garrisoned by Bulgarian troops. Liberated in 1944, it became the capital of the People’s (later Socialist) Republic of Macedonia in 1945. In 1991 it became the capital of the newly independent Republic of Macedonia, which changed its name to the Republic of North Macedonia in 2019.[NEWLINE][NEWLINE]The old city is located on the terraced riverbank dominated by an ancient fortress, north of which is a Roman aqueduct. Medieval monasteries in the vicinity include that of Nerezi (1164), with fine 12th-century frescoes. Other notable buildings are a medieval Turkish inn, the Kuršumli Han, and several mosques. The former strongly Turkish aspect of the city has been altered, however, by reconstruction since 1963, when a severe earthquake left some 80 percent of Skopje in ruins, with 1,070 persons dead and more than 120,000 homeless. Relief in money and kind, including medical, engineering, and building teams with supplies, came from 78 countries. From this, Skopje was called the “City of International Solidarity.” A completely new earthquake-resistant town plan was formulated, with several satellite residential nuclei and four industrial regions. On the left bank are the houses of the representative bodies of North Macedonia, educational institutions, a library, concert halls, and radio and television stations. On the right bank is the economic and commercial centre. Skopje is an industrial, commercial, and administrative centre. Industries produce chemicals, cement, agricultural machinery, electrical goods, bricks, ceramics, glass, beer and spirits, canned fruits and vegetables, and tobacco. There are also leather processing, woodworking, chrome refining, and a steelworks. Skopje is an important transportation centre, with rail and road connections and a modern airport. It has a university (1949) and an engineering school and is the site of the Macedonian Academy of Science and Art. Pop. (2002) 467,275; (2016 est.) 505,400.</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

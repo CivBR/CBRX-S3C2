@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_ANGLO_NORSE_DESCRIPTION">
+			<Text>------------------------------------[NEWLINE]CIVILIZATION: ANGLO-NORSE[NEWLINE]LEADER: CANUTE[NEWLINE][NEWLINE]TRAIT: NORTH SEA EMPIRE[NEWLINE]Conquered Capitals begin with no [ICON_RESISTANCE] Resistance and half [ICON_PRODUCTION] progress toward their Courthouse. Construct Buildings present in a conquered Capital 10% faster.[NEWLINE][NEWLINE]UNIQUE UNIT: DRAKKER (GALLEASS)[NEWLINE]A powerful Knight replacement that heals damage every turn, increasing with the number of major Civilizations you are at war with. Only Greater Armenia may train it.A Medieval Era Melee Unit that generates Great General Points when garrisoned in a conquered city and Great Admiral Points when garrisoned in a settled one. Courthouses create a Tinglid for free. Unique to the Anglo-Norse.[NEWLINE][NEWLINE]UNIQUE UNIT: TINGLID (PIKEMAN)[NEWLINE]A Medieval Ranged Naval Unit that supports land units in pillaging coastal cities. Land Combat Units beginning within two tiles of a Drakker receive the Viking Raider promotion, allowing them to earn [ICON_GOLD] Gold from assaulting cities and to do so more effectively. The Drakker also begins with this promotion. Only the Anglo-Norse can build it.</Text>
+		</Row>
+		<!--ANGLO-NORSE-->
+		<Row Tag="TXT_KEY_CIV_JFD_ANGLO_NORSE_ADJECTIVE">
+			<Text>Anglo-Norse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ANGLO_NORSE_DESC">
+			<Text>Anglo-Norse Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ANGLO_NORSE_SHORT_DESC">
+			<Text>The Anglo-Norse</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_TEXT_1">
+			<Text>The North Sea Empire, also known as the Anglo-Scandinavian Empire, was the thalassocratic domain ruled by Cnut the Great as King of England, Denmark, Norway and parts of what is now Sweden between 1016 and 1035.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_HEADING_2">
+			<Text>England</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_TEXT_2">
+			<Text>Cnut was the younger son of the Danish king Sweyn Forkbeard. When his father died on 3 February 1014 during an invasion of England, Cnut, who had been left in command of the fleet in the River Trent while Sweyn was in the south of England, was acclaimed by the Danes. However, the invasion fell apart: the men of the Kingdom of Lindsey, who had promised to supply horses for a tactical raid, were not ready before the English nobles had reinstalled King Æthelred, whom they had previously sent into exile, after forcing him to agree to govern less harshly.[NEWLINE][NEWLINE]Cnut's brother Harald became king of Denmark, but with help from Eric Haakonsson of Norway, Cnut raised a new invasion fleet of his own and returned to England in summer 1015. The English were divided by intrigue among the king, his sons, and other nobles; within four months one of Æthelred's sons had pledged allegiance to Cnut and he controlled Wessex, the historic heart of the kingdom. Before the decisive battle for London could be fought, Æthelred died on 23 April 1016. The Londoners chose his son Edmund as their king, while most of the nobles met at Southampton and swore fealty to Cnut. Cnut blockaded London, but was forced to leave to replenish his supplies and beaten by Edmund at the Battle of Otford; however, following the Danes as they raided into Essex, Edmund was in turn defeated at the Battle of Assandun. He and Cnut struck an agreement under which Edmund would retain Wessex and Cnut rule all of England north of the Thames. But on 30 November 1016, Edmund in turn died, leaving Cnut as King of England.[NEWLINE][NEWLINE]In summer 1017 he cemented his power by marrying Æthelred's widow, Emma, although he had previously married an English noblewoman, Ælfgifu of Northampton. In 1018 he paid off his fleet (with money especially from the citizens of London) and was fully recognised as King of England. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_HEADING_3">
+			<Text>Denmark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_TEXT_3">
+			<Text>King Harald died childless in 1018 or 1019, leaving the country without a king. Cnut was his brother's heir and went to Denmark in 1019 to claim it. While there he sent his subjects in England a letter saying he was abroad to avert an unspecified "danger", and he only returned to quell incipient rebellions. One Danish chronicle states that the Danes had previously deposed Harald in favour of Cnut, then brought back Harald because of Cnut's frequent absences, until Cnut finally became king permanently after his brother's death.[NEWLINE][NEWLINE]King Olaf of Norway and King Anund Jacob of Sweden, seeing the combined Anglo-Danish kingdom as a threat – Cnut's father Sweyn had asserted power over both their countries – took advantage of Cnut's being in England to attack Denmark in 1025 or 1026, and were joined by Ulf Jarl, Cnut's Danish regent, and his brother. Cnut took Olaf's fleet by surprise and took the battle to the Swedish fleet at the Battle of the Helgeå. The precise outcome is disputed, but Cnut came out best; Olaf fled and the threat to Denmark was dispelled.[NEWLINE][NEWLINE]In 1027, Cnut travelled to Rome, partly to expiate his sin for having Jarl Ulf killed the previous Christmas, partly to attend the coronation of Conrad II as Holy Roman Emperor and to demonstrate his importance as a ruler. He secured relaxation of tolls levied on pilgrims journeying to Rome from Northern Europe, and on Papal fees for English archbishops receiving their pallium; he also began a relationship with Conrad that led to the Emperor's son Henry marrying Cnut's daughter Gunnhild and before that to the Emperor ceding to Denmark Schleswig and a strip of ancient Danish territory between Hedeby and the Eider that the Germans had occupied as a buffer zone against the Danes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_HEADING_4">
+			<Text>Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_TEXT_4">
+			<Text>Olaf II had extended his power throughout Norway while Jarl Erik was with Cnut in England. Cnut's enmity with him extended further back: Æthelred had returned to England in a fleet provided by Olaf. In 1024 Cnut had offered to let Olaf govern Norway as his vassal; but after Helgeå, he set about undermining his unpopular rule with bribes, and in 1028 set out with 50 ships to subjugate Norway. A large contingent of Danish ships joined him, and Olaf withdrew into the Oslo Fjord while Cnut sailed along the coast, landing at various points and receiving oaths of allegiance from the local chieftains. Finally at Nidaros, now Trondheim, he was acclaimed king at the Eyrathing, and in a few months Olaf fled to Sweden.[NEWLINE][NEWLINE]In 1030, Olaf attempted to return, but the people of the Trondheim area did not want him back and he was defeated and killed at the Battle of Stiklestad. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_HEADING_5">
+			<Text>Sweden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_TEXT_5">
+			<Text>After Helgeå, Cnut also claimed to rule "part of Sweden" together with England, Denmark, and Norway. He had coins minted either in the capital, Sigtuna, or in Lund, then part of Denmark, with the inscription CNVT REX SW ("Cnut King of the Swedes"). Western Götaland or Blekinge have been suggested. Most England runestones are in Uppland. It was probably either overlordship or disputed rule; Cnut did not have to be present in Sweden to order the minting of coins, coins were also minted asserting he ruled Ireland, and Swedish history at this early date is very uncertain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_HEADING_6">
+			<Text>After Cnut's death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_NORSE_TEXT_6">
+			<Text>The North Sea Empire collapsed immediately once Cnut died in 1035. In fact in Norway it was already collapsing: by the winter of 1033, Swein and Ælfgifu were so unpopular that they were forced to leave Trondheim. In 1034 the leader of the army that had rebuffed and killed King Olaf at Stiklestad went together with one of the king's loyal followers to bring his young son Magnus back from Gardariki to rule, and in autumn 1035, a few weeks before Cnut's death, Swein and his mother had to flee the country altogether and go to Denmark. Swein died shortly afterwards.[NEWLINE][NEWLINE]In Denmark, Harthacnut was already ruling as king, but he was unable to leave for three years because of the threat that Magnus of Norway would invade to exact revenge. In the meantime the English nobles, divided between him and Cnut's younger son by Ælfgifu, Harold Harefoot, decided to compromise by having Harold rule as regent, and by the end of 1037 Ælfgifu had persuaded the most important to swear allegiance to Harold, he was firmly ensconced as Harold I, and Harthacnut's own mother, Queen Emma, had been forced to take refuge in Flanders.[NEWLINE][NEWLINE]Harthacnut prepared an invasion fleet to wrest England from his half-brother, but the latter died in 1040 before it could be used. Harthacnut then became king of England, reuniting it with Denmark, but made a generally bad impression as king. The Anglo-Saxon Chronicle said of him that he never did anything royal during his entire reign. He died suddenly in June 1042 "as he stood at his drink" at a wedding feast, and with him died the North Sea Empire.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_01">
+			<Text>Roskilde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_02">
+			<Text>Lundenburh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_03">
+			<Text>Ribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_04">
+			<Text>Wintanceastre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_05">
+			<Text>Borg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_06">
+			<Text>Jórvík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_07">
+			<Text>Viborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_08">
+			<Text>Nidaros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_09">
+			<Text>Køpmannæhafn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_10">
+			<Text>Århus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_11">
+			<Text>Cantwareburh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_12">
+			<Text>Tønsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_13">
+			<Text>Heiðabyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_14">
+			<Text>Odense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_15">
+			<Text>Áslo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_16">
+			<Text>Alabur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_17">
+			<Text>Jelling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_18">
+			<Text>Skanderborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_19">
+			<Text>Vorbasse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_20">
+			<Text>Djúra-bý</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_21">
+			<Text>Stavanger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_22">
+			<Text>Legacæstir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_23">
+			<Text>Bjørgvin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_24">
+			<Text>Ligeraceaster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_25">
+			<Text>Lincylene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_26">
+			<Text>Konungahella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_27">
+			<Text>Horsenes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_28">
+			<Text>Snotingaham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_29">
+			<Text>Tromsø</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_30">
+			<Text>Stanford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_31">
+			<Text>Tomworðig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_NORSE_32">
+			<Text>Theodford</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_0">
+			<Text>Eric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_1">
+			<Text>Sigurd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_2">
+			<Text>Olaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_3">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_4">
+			<Text>Gunhilda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_5">
+			<Text>Ælfgifu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_6">
+			<Text>Sweyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_7">
+			<Text>Emma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_8">
+			<Text>Artaxias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_9">
+			<Text>Tigranes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_10">
+			<Text>Harold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_NORSE_11">
+			<Text>Svein</Text>
+		</Row>
+		<!--CANUTE-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE">
+			<Text>Canute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANUTE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANUTE_TEXT_1">
+			<Text>Canute was a Danish king of England, of Denmark, and of Norway (1028–35), who was a power in the politics of Europe in the 11th century, respected by both emperor and pope. Neither the place nor the date of his birth is known.[NEWLINE][NEWLINE]Canute was the grandson of the Polish ruler Mieszko I on his mother’s side. As a youth he accompanied his father, Sweyn I Forkbeard, king of Denmark, on his invasion of England in 1013. Canute was left in charge of the fleet at Gainsborough, Lincolnshire, and it was probably then that he met Aelfgifu, daughter of an ealdorman (chief officer) of Northumbria who had been murdered with King Aethelred II’s connivance in 1006; she bore him two sons, Sweyn and Harold. Sweyn I Forkbeard was accepted as king of England by the end of 1013 but died in February 1014, and the English invited Aethelred to return. Canute and the men of Lindsey planned a combined expedition, but Canute deserted his allies at Easter and sailed to Denmark, putting his hostages, savagely mutilated, ashore at Sandwich. In 1015 he returned and began a long struggle with Aethelred’s son Edmund II Ironside. Earl Uhtred of Northumbria submitted to Canute in 1016 and was murdered in his hall. After Aethelred died in April 1016, the English witan (council) elected Canute king at Southampton, but those councillors who were in London, with the citizens, elected Edmund. Canute won a victory at Ashingdon, Essex, on October 18, and the kingdom was then divided; but Edmund died on November 30, and Canute succeeded to the whole.[NEWLINE][NEWLINE]Canute’s first actions were ruthless: he gave Englishmen’s estates to his Danish followers as rewards; he engineered the death of Edmund’s brother Eadwig; and he had some prominent Englishmen killed or outlawed. Edmund’s infant sons, however, eventually reached an asylum in Hungary. Already in 1016, Canute had given the earldom of Northumbria to the Norwegian Viking Eric of Hlathir, and in 1017 he put the renowned Viking chief Thorkell the Tall over East Anglia. Yet Canute did not rule like a foreign conqueror for long: by 1018 Englishmen were holding earldoms in Wessex and Mercia. The Danish element in his entourage steadily decreased. Thorkell was outlawed in 1021, and, during the rest of the reign, of his three most influential advisers only one was a Dane. Canute paid off most of his fleet in 1018, and the Danes and the English reached an agreement at Oxford, one authority adding “according to Edgar’s law.” A draft of the treaty survives, written in the style of Archbishop Wulfstan of York, who later drew up Canute’s laws, mainly based on previous legislation. It is likely that it was Wulfstan who aroused in the young Canute an ambition to emulate the best of his English predecessors, especially King Edgar. Canute proved an effective ruler who brought internal peace and prosperity to the land. He became a strong supporter and a generous donor to the church, and his journey to Rome was inspired by religious as well as diplomatic motives. He needed English support against external dangers. King Aethelred’s sons were in Normandy, and Canute married their mother, Emma, in 1017 to prevent her brother, Duke Richard II, from espousing their cause. English forces helped to secure Canute’s position in Scandinavia in 1019, when he went to Denmark to obtain the throne on his brother’s death; in 1023, when the outlawed Thorkell was causing trouble; and again in 1026 when his regent in Denmark, Ulf Jarl, the husband of his sister Estrid, joined the king of Norway and the king of Sweden in a coalition against Denmark. Though Canute was defeated at the Battle of the Holy River, Sweden, terms were made. Scandinavian sources attribute to Canute the death of Ulf soon afterward. Canute fomented with bribes the unrest of Norwegian landowners against their king, Olaf II Haraldsson, and was able to drive him out in 1028. He put Norway in charge of Haakon, son of Eric of Hlathir, and, after Haakon’s death, of his concubine Aelfgifu and their son Sweyn. Olaf attempted to return in 1030 but fell at Stiklestad. Aelfgifu and Sweyn became unpopular and fled to Denmark in 1035 before Canute’s death.[NEWLINE][NEWLINE]In England, peace was broken only by Canute’s expedition to Scotland in 1027, by which he secured recognition from three of the Scottish kings. English trade profited by Canute’s control of the Baltic trade route. On his pilgrimage to Rome, timed for him to attend the coronation of the Holy Roman emperor Conrad II in 1027, he secured from the latter and other princes whom he met reductions in tolls for English traders and pilgrims. Denmark benefited from his friendly relations with the emperor, who surrendered Schleswig and territory north of the Eider River when negotiations were begun for the marriage of the emperor’s son Henry to Canute’s daughter Gunhild.[NEWLINE][NEWLINE]Neither Canute’s illegitimate son Harold, who ruled England until 1040, nor his legitimate son Hardecanute, who succeeded to Denmark in 1035 and to England in 1040, inherited his qualities. The English reverted to their old royal line in 1042, and Denmark passed to Sweyn II, son of Earl Ulf and Estrid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANUTE_NAME">
+			<Text>Canute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANUTE_SUBTITLE">
+			<Text>Leader of the Anglo-Norse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANUTE_TITLES_1">
+			<Text>King of England[NEWLINE]King of Denmark[NEWLINE]King of Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANUTE_LIVED">
+			<Text>?? - 1035</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_ANGLO_NORSE_TEXT">
+			<Text>The thrones of the northern kingdoms lie in wait, O' terrible Canute, great viking lord. Yours is the legacy of the North Sea Empire - an empire straddling the kingdoms of England, Denmark, Norway, and some of the Swedes. Yet, you did not rule as a foreigner to any one throne; yours was a reign that wisely put to work the laws of your tributaries. So exemplary was the justness of your rule that your kingship would inspire the awe of friend and foe alike. No other would come to rival your legacy.[NEWLINE][NEWLINE]Great King Canute, the pieces to the mighty North Sea Empire are once more within your grasp. Can you lay claim to the thrones of those feeble kings who would stand in your way? Can you raise your viking armies to nobility and repel those who would challenge your prestige? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_FIRSTGREETING_1">
+			<Text>Have you come to pay tribute to the great king Canute?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_DEFEATED_1">
+			<Text>May my death come swiftly and my empire collapse without me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_ATTACKED_EXCITED_1">
+			<Text>Good. It has been some time since my men had a worthy battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_ATTACKED_HOSTILE_1">
+			<Text>Your defeat will be swift.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_ATTACKED_SAD_1">
+			<Text>A shame. You will not make for a worthy battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_DEC_FRIENDSHIP_1">
+			<Text>I have come seeking a public Declaration of Friendship with one as honourable as you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_DENOUNCE_1">
+			<Text>Your claim to your throne is illegitimate and forfeit.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_DONT_SETTLE_NO_1">
+			<Text>Who are you to make demands of me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_DONT_SETTLE_YES_1">
+			<Text>I will respect your wishes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_DOW_GENERIC_1">
+			<Text>I lay claim to your throne, as God is my witness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_DOW_LAND_1">
+			<Text>I lay claim to your throne and to the lands you call yours, as God is my witness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_DOW_WORLD_CONQUEST_1">
+			<Text>I lay claim to your throne and to the lands you call yours, as God is my witness. This is my path to world domination.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_EMBASSY_EXCHANGE_1">
+			<Text>I come with this offer. Do you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>My ambition is great. If you insist on expanding into my lands, you will quickly find yourself lost within them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_GREETING_AT_WAR_HOSTILE_1">
+			<Text>If you have come to bow, then I will swiftly cut off you head.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Yours is a worthy force. I look forward to the day we might test our strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Are you sure you even have men you could call warriors?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_GREETING_POLITE_HELLO_1">
+			<Text>You have my ear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_GREETING_NEUTRAL_HELLO_1">
+			<Text>Speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_GREETING_HOSTILE_HELLO_1">
+			<Text>Speak quickly before I have you thrown into the sea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Throw your men at me then. I will throw back corpses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now in awe of you and believe that you have the power to change the tide! We're worried the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are now in awe of me and believe that I have the power to change the tide. They are wrong, but the amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_INSULT_CITIES_1">
+			<Text>If you should think that remaining small will save you from my expansion, then you are mistaken.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_INSULT_MILITARY_1">
+			<Text>Your warriors are pathetic. What will they do when they face a real force?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_LETS_HEAR_IT_1">
+			<Text>Speak then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_LUXURY_TRADE_1">
+			<Text>Your people are plenty content, whilst mine suffer. I come to offer a trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_NO_PEACE_1">
+			<Text>I will submit to no weaker ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_OPEN_BORDERS_EXCHANGE">
+			<Text>My fleets will pass you by unscathed if you would accept an open borders arrangement with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_PEACE_OFFER_1">
+			<Text>I am willing to concede peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_REPEAT_NO_1">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_REPEAT_TRADE_1">
+			<Text>I do not enjoy such talks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_RESPONSE_REQUEST_1">
+			<Text>I have an offer for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I am not intimidated by the likes of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_TOO_SOON_FOR_DOF_1">
+			<Text>Return when you have proven yourself worthy. If you can...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_TOO_SOON_NO_PEACE_1">
+			<Text>I will not rest until I pry that crown from your corpse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_WARMONGER_1">
+			<Text>You are a worthy foe in battle, but you have no sense of dignity. What will you do after the war is won?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANUTE_WINWAR_1">
+			<Text>You have been defeated most bloodily. But I am merciful, and I extend my hand in peace.</Text>
+		</Row>
+		<!--NORTH SEA EMPIRE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ANGLO_NORSE_SHORT">
+			<Text>North Sea Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ANGLO_NORSE">
+			<Text>Conquered Capitals begin with no [ICON_RESISTANCE] Resistance and half [ICON_PRODUCTION] progress toward their Courthouse. Construct Buildings present in a conquered Capital 10% faster.</Text>
+		</Row>
+		<!--JFD: Anglo-Norse Production-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_ANGLO_NORSE_PRODUCTION">
+			<Text>JFD: Anglo-Norse Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ANGLO_NORSE_PRODUCTION_HELP">
+			<Text>+20% [ICON_PRODUCTION] Building Production.</Text>
+		</Row>
+		<!--DRAKKER-->
+		<Row Tag="TXT_KEY_UNIT_JFD_DRAKKER">
+			<Text>Drakker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DRAKKER_HELP">
+			<Text>A Medieval Ranged Naval Unit that supports land units in pillaging coastal cities. Land Combat Units beginning within two tiles of a Drakker receive the Viking Raider promotion, allowing them to earn [ICON_GOLD] Gold from assaulting cities and to do so more effectively. The Drakker also begins with this promotion. Only the Anglo-Norse can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DRAKKER_STRATEGY">
+			<Text>The Drakker is a unique Galleass replacement, and is one of two unique units for the Anglo-Norse. This unit is more effective than the Galleass at attacking cities, gaining a 20% Combat Bonus against them. It also earns [ICON_GOLD] Gold equal to 33% of the damage inflicted upon a city that it assaults. It grants both of these effects to Land Units that begin their turn within two tiles. Drakker make for excellent support ships for your invading an enemy's coastal cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DRAKKER_TEXT">
+			<Text>Drakkar are the type of ship, of thirty rooms and upwards that are only known from historical sources, such as the 13th-century Göngu-Hrólfs saga. Here, the ships are described as most unusual, elegant, ornately decorated, and used by those who went raiding and plundering. These ships were likely skeids that differed only in the carvings of menacing beasts, such as dragons and snakes, carried on the prow of the ship. These carvings allegedly protected the ship and crew, and warded off the terrible sea monsters of Norse mythology. It is however likely that the carvings, like those on the Oseberg ship, might have had a ritual purpose, or that the purported effect was to frighten enemies and townspeople.</Text>
+		</Row>
+		<!--Dragon Ship-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DRAKKER">
+			<Text>Dragon Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DRAKKER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Land Units beginning within two tiles[ENDCOLOR] receive the [COLOR_POSITIVE_TEXT]Viking Raider[ENDCOLOR] promotion.</Text>
+		</Row>
+		<!--Viking Raider-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DRAKKER_COASTAL_RAIDER">
+			<Text>Viking Raider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DRAKKER_COASTAL_RAIDER_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength when attacking Cities. Steal [ICON_GOLD] Gold equal to 33% of the damage inflicted on a city.</Text>
+		</Row>
+		<!--TINGLID-->
+		<Row Tag="TXT_KEY_UNIT_JFD_TINGLID">
+			<Text>Tinglid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TINGLID_HELP">
+			<Text>A Medieval Era Melee Unit that generates Great General Points when garrisoned in a conquered city and Great Admiral Points when garrisoned in a settled one. Courthouses create a Tinglid for free. Unique to the Anglo-Norse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TINGLID_STRATEGY">
+			<Text>The unique Tinglid is the second unique unit for the Anglo-Norse. This unit functions best as a garrison, generating Great General Points or Great Admiral Points depending on whether the city in which it is garrisoned was conquered or founded. The amount it generates increases with the unit's Level. In addition, a free Tinglid is created with every new Courthouse. Use Tinglids to both guard your newfound conquests and to push the boundaries of those conquests further.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TINGLID_TEXT">
+			<Text>Canute's most remarkable institution was the Tinglid, a military brotherhood, originally 3000 in number, composed of members of the richest and noblest families, who not only formed the royal bodyguard, but did garrison duty and defended the marches or borders. They were subject to strict discipline, embodied in written rules called the Viderlog or Vederlag, and were the nucleus not only of a standing army but of a royal council.</Text>
+		</Row>
+		<!--MCIS-->
+		<Row Tag="TXT_KEY_JFD_TINGLID_GREAT_ADMIRAL_POINTS_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_GREAT_ADMIRAL] Great Admiral Point(s) whilst there is a Tinglid garrisoned in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_TINGLID_GREAT_GENERAL_POINTS_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_GREAT_GENERAL] Great General Point(s) whilst there is a Tinglid garrisoned in this City.</Text>
+		</Row>
+		<!--Viderlag-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TINGLID">
+			<Text>Viderlag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TINGLID_HELP">
+			<Text>Generates Great General Points [COLOR_POSITIVE_TEXT]when garrisoned in a conquered city[ENDCOLOR] or Great Admiral Points [COLOR_POSITIVE_TEXT]when garrisoned in a settled one[ENDCOLOR].</Text>
+		</Row>
+		<!--ACHIEVEMENTS-->
+		<!--JFDLC-->
+		<Replace Tag="TXT_KEY_TAB_JFD_JFDLC_HEADER">
+			<Text>JFDLC</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TAB_JFD_JFDLC_DESC">
+			<Text>All Achievements related to or added by JFD mods.</Text>
+		</Replace>
+		<!--JFD's Civilizations - Anglo-Norse-->
+		<Row Tag="TXT_KEY_MOD_JFD_ANGLO_NORSE_NAME">
+			<Text>JFD's Civilizations - Anglo-Norse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_JFD_ANGLO_NORSE_MODID">
+			<Text>0d7c7c35-3e64-40eb-a5e3-344a64bc86aa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_JFD_ANGLO_NORSE_AUTHORS">
+			<Text>JFD, Tarcisio, DarthStarKiller</Text>
+		</Row>
+		<!--Don't You Mean Cnut?-->
+		<Row Tag="TXT_KEY_AA_JFD_ANGLO_NORSE_VICTORY_HEADER">
+			<Text>Don't You Mean Cnut?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JFD_ANGLO_NORSE_VICTORY_TEXT">
+			<Text>Beat the game on any difficulty setting as Canute of the Anglo-Norse.</Text>
+		</Row>
+		<!--King of the North-->
+		<Row Tag="TXT_KEY_AA_JFD_ANGLO_NORSE_SPECIAL_HEADER">
+			<Text>King of the North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JFD_ANGLO_NORSE_SPECIAL_TEXT">
+			<Text>As Canute of the Anglo-Norse, control three former Capitals and your original Capital, and have 10 [ICON_HAPPINESS_1] Happiness or more.</Text>
+		</Row>
+		<!--DECISIONS-->
+		<!--Bestow Ecumenical Gifts-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_NORSE_ECUMENICAL_GIFTS">
+			<Text>Bestow Ecumenical Gifts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_NORSE_ECUMENICAL_GIFTS_DESC">
+			<Text>
+				We of all know that martial power alone does not guarantee our legitimacy. It is spiritual power that will make our authority complete, and to cultivate such power, we must align ourselves with those who claim to speak for God on earth.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE]{1_Icon}Must have enacted the 'Institute the North Sea Empire' Decision.
+				[NEWLINE]{2_Icon}Must be at least Friends with at least one Military or Religious City-State.
+				[NEWLINE]{3_Icon}May only be enacted from the beginning of the Medieval Era.
+				[NEWLINE][ICON_UNCHECKBOX]May only be enacted once per era.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{4_Num} [ICON_PEACE] Faith.
+				[NEWLINE][ICON_BULLET]{5_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain 20 [ICON_INFLUENCE] Influence with all known Military and Religious City-States.
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_GOLD] Gold cost increases with each City-State you would gain Influence over.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_NORSE_ECUMENICAL_GIFTS_ENACTED_DESC">
+			<Text>
+				We of all know that martial power alone does not guarantee our legitimacy. It is spiritual power that will make our authority complete, and to cultivate such power, we must align ourselves with those who claim to speak for God on earth.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain 20 [ICON_INFLUENCE] Influence with all known Military and Religious City-States.
+			</Text>
+		</Row>
+		<!--Institute the North Sea Empire-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_NORSE_NORTH_SEA">
+			<Text>Institute the North Sea Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_NORSE_NORTH_SEA_DESC">
+			<Text>
+				Our dominion stretches far across the seas, and to many ancient thrones do we lay our claim. But to ensure that this is to last, we must consolidate this dominion into an Empire.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE]{1_Icon}Must control at least three foreign Capitals.
+				[NEWLINE]{2_Icon}Must control your original Capital.
+				[NEWLINE][ICON_UNCHECKBOX]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{3_Num} {4_Resource}.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as North Sea.
+				[NEWLINE][ICON_BULLET]A {5_WLTKD} begins in all former Capitals under your control.
+				[NEWLINE][ICON_BULLET]Courthouses yield {6_Yield}.
+				[NEWLINE][COLOR_WARNING_TEXT]Note: The {4_Resource} cost increases with each former Capital you have.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_NORSE_NORTH_SEA_DESC_SOVEREIGNTY">
+			<Text>
+				Our dominion stretches far across the seas, and to many ancient thrones do we lay our claim. But to ensure that this is to last, we must consolidate this dominion into an Empire.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE]{1_Icon}Must control at least three foreign Capitals.
+				[NEWLINE]{2_Icon}Must control your original Capital.
+				[NEWLINE]{3_Icon}Must have a Government.
+				[NEWLINE][ICON_UNCHECKBOX]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{4_Num} {5_Resource}.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as North Sea.
+				[NEWLINE][ICON_BULLET]A {6_WLTKD} begins in all former Capitals under your control.
+				[NEWLINE][ICON_BULLET]Passes the [ICON_JFD_REFORM] Empire (State) Reform without incurring Cooldown.
+				[NEWLINE][ICON_BULLET]Courthouses yield {7_Yield}.
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The {5_Resource} cost increases with each former Capital you have.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_NORSE_NORTH_SEA_ENACTED_DESC">
+			<Text>
+				Our dominion stretches far across the seas, and to many ancient thrones do we lay our claim. But to ensure that this is to last, we must consolidate this dominion into an Empire.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as North Sea.
+				[ICON_BULLET]A {1_WLTKD} begins in all former Capitals under your control.
+				[NEWLINE][ICON_BULLET]Courthouses yield {2_Yield}.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_NORSE_NORTH_SEA_ENACTED_DESC_SOVEREIGNTY">
+			<Text>
+				Our dominion stretches far across the seas, and to many ancient thrones do we lay our claim. But to ensure that this is to last, we must consolidate this dominion into an Empire.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as North Sea.
+				[ICON_BULLET]A {1_WLTKD} begins in all former Capitals under your control.
+				[NEWLINE][ICON_BULLET]Passes the [ICON_JFD_REFORM] Empire (State) Reform without incurring Cooldown.
+				[NEWLINE][ICON_BULLET]Courthouses yield {2_Yield}.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ANGLO_NORSE_NORTH_SEA">
+			<Text>{1_LeaderName} of {2_CivName} has consolidated his conquests into the North Sea Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NORTH_SEA_ADJECTIVE">
+			<Text>North Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NORTH_SEA_DESC">
+			<Text>North Sea Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NORTH_SEA_SHORT_DESC">
+			<Text>North Sea</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

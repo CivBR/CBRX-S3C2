@@ -1,0 +1,357 @@
+<GameData>
+	<Language_en_US>
+	<!-- Civilization -->
+		<Row Tag="TXT_KEY_CIV5_JWW_TETOUAN_TITLE">
+			<Text>Tétouan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_TETOUAN_DESC">
+			<Text>Tétouan Corsairs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_TETOUAN_SHORT_DESC">
+			<Text>Tétouan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_TETOUAN_ADJECTIVE">
+			<Text>Tetouani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JWW_TETOUAN_TEXT">
+			<Text>Sayyida al-Hurra, the noble lady who is free and independent; the woman sovereign who bows to no superior authority. A pirate queen, Queen of Tétouan, and controller of the Western Mediterranean Sea. After becoming a refugee at the hands of the Spanish during the Reconquista, you remained strong, receiving the highest of educations. You were one of the few women accepted as a leader in the Muslim community, taking up the honarary title of al-Hurra when you became the Queen of Tétouan. You sought revenge, turning to piracy to avenge your home that was taken away. You allied with the greatest Turkish corsair of all time, with whom you controlled the entire Mediterranean. You were an anomaly and an inspiration for taking up the roles that no other woman in history has taken before.[NEWLINE][NEWLINE]Glorious Corsair, your brethern wish for your command once again. They wish for you to enact the wrath of the muslims taken from the Reconquista. Can you take up your sword and lead your fellow pirates to victory? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+	<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_JWW_PIRATE_QUEEN_OF_THE_WESTERN_SEAS">
+			<Text>Naval Units acquire captives upon capturing cities, defeating adjacent Naval Units, or plundering Trade Routes. Returning captives to an unoccupied city yields a burst of [ICON_PRODUCTION] Production. All naval units start with the Coastal Raider I promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JWW_PIRATE_QUEEN_OF_THE_WESTERN_SEAS_SHORT">
+			<Text>Pirate Queen of the Western Seas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_0">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_1">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_2">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_3">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_4">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_5">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_6">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_7">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_8">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_9">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_10">
+			<Text>Tétouan Captives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_0_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]0[ENDCOLOR] Captives. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_1_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]1[ENDCOLOR] Captive. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives! Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_2_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]2[ENDCOLOR] Captives. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives! Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_3_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]3[ENDCOLOR] Captives. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives! Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_4_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]4[ENDCOLOR] Captives. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives! Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_5_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]5[ENDCOLOR] Captives. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives! Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_6_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]6[ENDCOLOR] Captives. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives! Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_7_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]7[ENDCOLOR] Captives. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives! Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_8_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]8[ENDCOLOR] Captives. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives! Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_9_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]9[ENDCOLOR] Captives. Capture cities, defeat adjacent units, and plunder trade routes to gain more captives! Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_CAPTIVES_10_HELP">
+			<Text>This unit currently has [COLOR_POSITIVE_TEXT]10[ENDCOLOR] Captives. This unit [COLOR_NEGATIVE_TEXT]cannot gain any more captives[ENDCOLOR]. Return to the tile of one of your cities to gain [ICON_PRODUCTION] from your captives, and [ICON_GOLD] if you have a Mazmorra in that city!</Text>
+		</Row>
+	<!-- Leader -->
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA">
+			<Text>Sayyida al-Hurra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_SAYYIDA_AL_HURRA_LIVED">
+			<Text>1485-1561 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_SAYYIDA_AL_HURRA_NAME">
+			<Text>Sayyida al-Hurra ibn Banu Rashid al-Mandri al-Wattasi Hakima Tatwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_SAYYIDA_AL_HURRA_SUBTITLE">
+			<Text>Queen of Tétouan and Morocco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_SAYYIDA_AL_HURRA_TITLES_1">
+			<Text>Last Person to Hold the Title of al-Hurra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_SAYYIDA_AL_HURRA_TITLES_2">
+			<Text>Controller of the West Mediterranean Sea</Text>
+		</Row>
+	<!-- Building -->
+		<Row Tag="TXT_KEY_BUILDING_JWW_MAZMORRA">
+			<Text>Mazmorra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_MAZMORRA_HELP">
+			<Text>Can only Be built by Tétouan. Replaces the Mint, so it increases the [ICON_GOLD] Gold output of [ICON_RES_GOLD] Gold and [ICON_RES_SILVER] Silver resources the city has access to, but Gold and Silver is not required for the Mazmorra. This building also makes it cheaper to build naval units, and grants bonus gold for naval units with captives returned to this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_MAZMORRA_STRATEGY">
+			<Text>Each source of [ICON_RES_GOLD] Gold and [ICON_RES_SILVER] Silver worked by this City produces +2 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Generates Gold equal to [ICON_PRODUCTION] Production provided by captives brought to this City. Naval Units in this city cost 15% less.</Text>
+		</Row>
+	<!-- Unit -->
+		<Row Tag="TXT_KEY_UNIT_JWW_QURSAN">
+			<Text>Qursan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_QURSAN_STRATEGY">
+			<Text>Can only be built by Tétouan. Replaces the Privateer, which is a Naval Unit that attacks as a melee unit that may capture any enemy naval units it defeats as prize ships. It can make nearby enemy units become weaker, and give gold. It also heals in enemy territory if moves are left at the end of a turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_QURSAN">
+			<Text>Replaces the Privateer. Heals in enemy territory if moves are left at the end of the turn. Nearby enemy units become weaker, and give you small amounts of gold per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_QURSAN_WEAKEN">
+			<Text>Qursan, Terror of the Seas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TETOUAN_QURSAN_WEAKEN_HELP">
+			<Text>Nearby enemy units have -20% Combat Strength.</Text>
+		</Row>
+		<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV5_JWW_TETOUAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_TETOUAN_TEXT_1">
+			<Text>The history of Tétouan (or Tetouan) stretches over 2000 years to its origins as a Mauretanian Berber settlement named Tamuda, located at near present-day Tetouan by the south bank of the Martil Valley. The site later became a Phoenician trading post. During the time of Emperor Augustus, Tamuda became part of Roman province Mauritania Tingitana. In 1286, the Marinids built a casbah and mosque there. The first large scale building project took place in 1305 when the settlement was expanded by the Marinid king Abu Thabit Amir. He fortified the place and had it serve as a base for attacks on Ceuta, which had recently come under the rule of a rebellious member of the Marinid dynasty. In 1431, it was burned down and many were enslaved by the Castilians, because pirates used it as a base for their retaliatory attacks. Tetouan would be rebuilt at the end of the 15th century, although there are different versions concerning the specific date. On one hand there is an ancient Arabic manuscript and on the other there is the account of 17th century Moroccan historian, Sidi al Arbi al Fasi. They offer mixed chronological data. According to the first of the aforementioned sources, the foundation had to take place between 1483 and 1484, while the second source sets the event, with extreme accuracy, on the 7th day of the Islamic month of Sha'ban of the Hijri year 898, a date that corresponds to Friday, May 24, 1493; a year after the surrender of Granada. By the end of the 15th century it was rebuilt by refugees from the Reconquista (reconquest of Spain, completed by the fall of Granada in 1492), when the Andalusian Moors first reared the walls and then filled the enclosure with houses. These Andalusians came into conflict with the Jebala Beni Hozmar tribe, after which they asked the Wattasid sultan for protection. In response, he sent 80 soldiers (according to one chronicle, 40 natives of Fez and 40 Rifians). In turn, the Andalusians paid a large amount of mithqal, thus insuring their autonomy. Instantly, the Andalusians, assisted by tribes from the surrounding mountains, started harassing the Spanish possessions on the Moroccan coast. These attacks led to the destruction of the city's harbor by the Spanish in 1565. During this time city was governed by the Andalusian Abu Hassan al-Mandri and the city remained autonomous from the Saadi sultans, with the Saadis constantly trying to assert their power. As early as the 1530s and 1540s, at the time when Spain and the Ottoman Empire were disputing control over the western part of the Mediterranean, piracy was spreading and soon Tetouan became one of the main centers of the piracy in the region. Corsairs considered it as a form of retaliation against the Spanish Reconquista that led to the loss of their homes back in al-Andalus especially that the timing coincided with the first Morisco influx to Tetouan due to the forced conversions they faced in Spain between 1501 and 1526. Their collaborators included English and Dutch renegades who were mostly Protestants although a few had converted to Islam. While the harbor served as a port from where piracy missions were launched, captives were taken to dungeons called Mazmorras. In 1844, Morocco lost its war against the French and in 1856, it signed the "Anglo-Moroccan treaties of Friendship" with the British. The Spaniards saw the Moroccan defeat in 1844 and the 1856 treaties with the British as a sign of weakness. Spurred by a national passion for African conquest, the Spaniards declared war on Morocco in 1859 after a conflict over the borders of the Ceuta. After a few months, Tetouan was taken on 4 February 1860 under the command of General Leopoldo O'Donnell who was a descendant of an old Irish royal family, the O'Donnells of Tyrconnell. He was made hereditary Duque de Tetuán, and later served as Prime Minister of Spain. However, the Spanish evacuated in May 1862. In 1913, it became the capital of the Spanish protectorate of Morocco, which was governed by the Jalifa (Moroccan prince, serving as Viceroy for the Sultan), and the Spanish "Alto Comisario" accredited to him, and it remained its capital until 1956.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_JWW_QURSAN_TEXT">
+			<Text>Qursan is an Arabic term for Pirate. It refers to the corsairs based out of Tétouan who lead raids against the Europeans, mainly Portuguese and Spanish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_SAYYIDA_AL_HURRA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_SAYYIDA_AL_HURRA_TEXT_1">
+			<Text>Sayyida al-Hurra (real name Lalla Aicha bint Ali ibn Rashid al-Alami, Hakimat Titwan) was born around 1485 (Hijri around 890) to a prominent Muslim family of Andalusian nobles who fled to Morocco after the fall of Granada in 1492. She fled with her family to Morocco when Ferdinand and Isabella conquered the Muslim kingdom of Granada in 1492, at the end of the Reconquista and settled in Chefchaouen. During her childhood, she was given a first-class education. She was fluent in several languages which included Castilian Spanish and Portuguese. The famous Moroccan scholar Abdallah al-Ghazwani was one of her many teachers. She was married at age 16 to a man 30 years her senior, a friend of her father and refounder and governor of the city of Tétouan, himself an Andalusian Moorish refugee, Ali al-Mandri, to whom she was promised when she was still a child. Some sources state she was married to al-Mandri's son, al-Mandri II. An intelligent woman, she learned much assisting her husband in his business affairs. She was a de facto vice-governor, with her husband entrusting the reins of power to her each time he made a trip outside the city. In 1515, she became the last person in Islamic history to legitimately hold the title of al Hurra (Queen) following the death of her husband, who ruled Tétouan. After her husband died, the population, who had become accustomed to seeing her exercise power, accepted her as a governor of Tétouan, giving her the title of al-Hurra. Spanish and Portuguese sources describe al-Hurra as "their partner in the diplomatic game". Some historians believe that the unusual "degree of acceptance of al Hurra as a ruler" could be attributed to "Andalusian familiarity with female inheriting power from monarch families in Spain such as Isabella I of Castile. Others believe that al-Hurra succeeded as governor because she was "the undisputed leader of pirates of the western Mediterranean". Sayyida could neither forget nor forgive the humiliation of being forced to flee Granada. In her wish to avenge herself on the "Christian enemy", she turned to piracy. She made contact with the legendary Ottoman admiral Hayrettin Barbarossa of Algiers. Al-Hurra controlled the western Mediterranean Sea while Barbarossa controlled the eastern. Piracy provided a quick income, "booty and ransom for captives", and also helped to keep alive the dream of returning to Andalusia. She was well respected by Christians as a queen who had power over the Mediterranean Sea. She also was the one with whom one had to negotiate the release of Portuguese and Spanish captives. For example, in historical documents of 1540 there are reports of negotiations "between the Spaniards and Sayyida al-Hurra" after a successful pirating operation in Gibraltar in which the pirates took "much booty and many prisoners". In 1541, she accepted a marriage proposal from Ahmed al-Wattasi, a Sultan of the Moroccan Wattasid dynasty, who traveled from Fez to Tétouan to marry her. Her marriage with him was the only recorded instance of a Moroccan king marrying outside of his capital. This occurred because she was not ready to give up her role as queen of Tétouan or even to leave the city for the marriage ceremony, forcing al-Wattasi to come to her. It is believed that Sayyida insisted on this to show everybody that she was not going to give up governing Tétouan despite being married to the Sultan. he concurrently appointed her brother Moulay Ibrahim as vizier to Ahmed al-Wattasi, Sultan of Fez, and this placed the Rashids as major players in the effort to unify Morocco against the fast-growing powers of Spain and Portugal. After she had ruled as queen for 30 years, her son-in-law Muhammad al-Hassan al-Mandri overthrew her in October 1542. According to the Yemen Times, "she was stripped of her property and power". Accepting her fate, she retired to Chefchaouen, where she lived nearly 20 years more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_JWW_MAZMORRA_TEXT">
+			<Text>Mazmorras were underground dungeons/prisons in Tétouan where captives from piracy missions were kept. he captives were faced with being sold to the slavery market if ransoms were not paid. These subterranean installations were rediscovered in the early 20th century. A chapel of a size of 90 square meters and a few altars were also uncovered. The sacred site, named Nuestra Señora de los Dolores (Our Lady of Sorrows), was used by the captives and redeemers like their relatives or Spanish Franciscans and Portuguese Jesuits who used to make frequent visits to negotiate the Christian captives' freedom. Miguel De Cervantes, himself a captive in Algiers, Algeria between 1575–80, refers to Mazmorras in El juez de los divorcios (The Divorce Judge) where the protagonist compares his marriage to "captivity in Tetouan's caves." He also did it in Don Quixote, in addition to talking about Tetouan in El trato de Argel, La gran sultana and La ilustre fregona. It is believed that he had contact with some incarcerated who told him about the hardness of the dungeons of Tetouan. Diplomat and explorer Leo Africanus, while visiting the city, mentions in his book Description of Africa that there were 3.000 captives although some historians dispute that figure. Other accounts came from captives themselves such as Germain Moüette who spoke of horrible conditions lived inside those mazmorras in the late 17th century.</Text>
+		</Row>
+	<!-- Diplomacy Responses -->
+		<!-- First Greeting -->
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_FIRSTGREETING_1">
+			<Text>I am Sayyida al-Hurra, corsair and Queen of Tétouan. You shouldn't venture too far from your side of the sea, sometimes these waters can be... treacherous.</Text>
+		</Row>
+
+		<!-- Defeated -->
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_DEFEATED_1">
+			<Text>My corsair days are numbered. I never accomplished my goal, but perhaps it is time to settle down in some quiet place.</Text>
+		</Row>
+
+		<!-- Diplomacy: Wars, Denunciations, and DoF -->
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_ATTACKED_GENERIC_1">
+			<Text>Very well. The pirates on this side of the sea shall show no mercy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_DEC_FRIENDSHIP_1">
+			<Text>An alliance between us could be singificant in controlling both parts of the sea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_DENOUNCE_1">
+			<Text>You are mad, disregarding people with your malicious intent.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_DOW_GENERIC_1">
+			<Text>My corsairs shall have a blast looting your wealth and people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Threatening the lands of Tétouan after the lands of Andalusia were taken away from us? We cannot look away from this.</Text>
+		</Row>
+
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Your people sell for high prices, you know that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_GREETING_POLITE_HELLO_1">
+			<Text>What is it you wish from the pirate queen?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Have you come to negotiate for some of our captives?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_GREETING_HOSTILE_HELLO_1">
+			<Text>My corsairs have been discussing targeting your nation next. Should be an easy way to gain some loot, no?</Text>
+		</Row>
+
+		<!-- Misc -->
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Whatever force you are wishing to threaten me with, I can assure you, will be outnumbered by the pirates of Barbaria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_LETS_HEAR_IT_1">
+			<Text>We don't cheap out with our neotiations, captives or not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_LOSEWAR_1">
+			<Text>We suffered some losses in this battle, however the captives we took shall help us power through.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_LUXURY_TRADE_1">
+			<Text>My corsairs are begging to get a stab of the wealth of your nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_NO_PEACE_1">
+			<Text>The corsairs are simply able to overpower your navies so easily. I pity you for even suggesting peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_OPEN_BORDERS_EXCHANGE">
+			<Text>To travel through my seas is a great honor. It'd be best you accepted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_REPEAT_NO_1">
+			<Text>No. Don't treat me as less than you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_RESPONSE_REQUEST_1">
+			<Text>The corsairs are in need of help.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I only wish to take as I please. We are pirates, for God's sake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_TOO_SOON_NO_PEACE_1">
+			<Text>The raids shall not cease, the corsairs' thrist cannot be quenched so easily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_WINWAR_1">
+			<Text>The corsairs of Tétouan come home with loot and glory for all!</Text>
+		</Row>
+
+		<!-- Cultural Influence -->
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now becoming corsairs and raiding as they please. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are now becoming corsairs and raiding as they please. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_0">
+			<Text>Tétouan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_1">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_2">
+			<Text>Marrakech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_3">
+			<Text>Salé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_4">
+			<Text>Meknès</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_5">
+			<Text>Rabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_6">
+			<Text>Chefchaouen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_7">
+			<Text>Larache</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_8">
+			<Text>Taza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_9">
+			<Text>Agadir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_10">
+			<Text>Safi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_11">
+			<Text>Tefza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_12">
+			<Text>Guércif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_13">
+			<Text>Gibraltar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_14">
+			<Text>Algiers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_15">
+			<Text>Debdou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_16">
+			<Text>Nador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_17">
+			<Text>Tripoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_18">
+			<Text>Tunis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_19">
+			<Text>Oran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_20">
+			<Text>Tangier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_21">
+			<Text>Oujda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_22">
+			<Text>Kenitra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_23">
+			<Text>Málaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_24">
+			<Text>Lipari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_25">
+			<Text>Gozo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_26">
+			<Text>Ischia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TETOUAN_27">
+			<Text>Tlemcen</Text>
+		</Row>
+	<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_0">
+			<Text>Oruç</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_1">
+			<Text>Hayreddin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_2">
+			<Text>Reis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_3">
+			<Text>Jack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_4">
+			<Text>Kemal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_5">
+			<Text>Uluç</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_6">
+			<Text>Salih</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_7">
+			<Text>Sinan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_8">
+			<Text>Piri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TETOUAN_9">
+			<Text>Turgut</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ef8038cc-4224-41e9-959b-a877e04bbf33" version="1">
+  <Properties>
+    <Name>Grant's Gokturks (Bumin Qaghan)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Gokturk Empire under its founder and head of the Ashina clan, Bumin Qaghan.</Teaser>
+    <Description>Adds the Gokturk Empire under its founder and head of the Ashina clan, Bumin Qaghan.</Description>
+    <Authors>Grant, Lime</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="87B18811D3D3F630B47CD7976EDF54AF" import="1">Art/DDS/Gokturk_Diplo.xml</File>
+    <File md5="92FDA89EFE918F08FE6261C6852CD71C" import="1">Art/DDS/GokturkAlpha128.dds</File>
+    <File md5="E6C557C59059F62CC9AB7DB736D2049C" import="1">Art/DDS/GokturkAlpha24.dds</File>
+    <File md5="A0A7B4F1DDA60AF7E9ACCAE88CA86A49" import="1">Art/DDS/GokturkAlpha32.dds</File>
+    <File md5="B8C472F2E9B60286C1489426FE43E446" import="1">Art/DDS/GokturkAlpha48.dds</File>
+    <File md5="D6025BEE11325E22A3A0C5C0029C6F22" import="1">Art/DDS/GokturkAlpha64.dds</File>
+    <File md5="9DE185DC85D74C21E3500AE8CB123D87" import="1">Art/DDS/GokturkAlpha80.dds</File>
+    <File md5="8704CCDA14E665124EDB0EB4E856DDFC" import="1">Art/DDS/Gokturk_Diplo.dds</File>
+    <File md5="0C6C2E4E7E748A7B93167605A4B80A3C" import="1">Art/DDS/GokturkMap.dds</File>
+    <File md5="2C25150832168E27689A83E796E8F39C" import="1">Art/DDS/Gokturks_Atlas128.dds</File>
+    <File md5="979A4DD9FD3D636220985493E9BE268E" import="1">Art/DDS/Gokturks_Atlas24.dds</File>
+    <File md5="5D2C9C5EFF7A7FAEF2ABA1AB9C101E4F" import="1">Art/DDS/Gokturks_Atlas256.dds</File>
+    <File md5="E960737594B83593E4779568BDED3F1F" import="1">Art/DDS/Gokturks_Atlas32.dds</File>
+    <File md5="E465AF33E79F67BBAB04D029A8301DC3" import="1">Art/DDS/Gokturks_Atlas45.dds</File>
+    <File md5="00784CD7DD52F48FE69441BC9415806B" import="1">Art/DDS/Gokturks_Atlas64.dds</File>
+    <File md5="CE5D87AE6D228B0A53B288AB4BEA72E5" import="1">Art/DDS/Gokturks_Atlas80.dds</File>
+    <File md5="0364F770121942DF0FE43DD4E6875C19" import="1">Art/DDS/Gokturk_DoM.dds</File>
+    <File md5="4FE7A8E2B504A2E5C4F6BCC70684D083" import="1">Art/DDS/sv_Toygunlar.dds</File>
+    <File md5="582CB12BB10F7552E498EB796C52463D" import="1">Art/DDS/uu_Toygunlar_flag.dds</File>
+    <File md5="6AE25ABE24D8F762A394A13293674CA7" import="1">Art/Models/Knight_Russia_Horse_v2.dds</File>
+    <File md5="1BC9D86591AD4488344F0E8D61049F70" import="1">Art/Models/Knight_Russia_Horse_v2_gloss.dds</File>
+    <File md5="529D6F87F4C6FF347FBC1ED3BD3C296B" import="1">Art/Models/Knight_Russia_v2.dds</File>
+    <File md5="DCD3920CFDD6DB6951FAD01C2CAD7019" import="1">Art/Models/Knight_Russia_v2.fxsxml</File>
+    <File md5="0F4F79A01F86DCCD9F99280DA63A8113" import="1">Art/Models/Knight_Russia_v2.gr2</File>
+    <File md5="B8026A90F92CD9A53A9228F1411D6A0F" import="1">Art/Models/Knight_Russia_v2_gloss.dds</File>
+    <File md5="7512D2A80B1A27370A61B2D9507A697D" import="1">Audio/GokturkPeace.mp3</File>
+    <File md5="15B1D1D1A4FA1FDC23195E66733E9C02" import="1">Audio/GokturkWar.mp3</File>
+    <File md5="39D2D35BF8BEDFD209C97560249EEBF8" import="0">Core/Gokturks_Core.sql</File>
+    <File md5="6F29D3A94E2A2AF316EC5200F4F82D04" import="0">Core/Gokturks_Text.xml</File>
+    <File md5="B0DA0B464F8378353EB70F4E2B0EDE28" import="0">Lua/Gokturks_Functions.lua</File>
+    <File md5="26857EE6B9B32AE9266D3ECDE086B4E4" import="0">Lua/Gokturks_Functions.xml</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Lua/MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/MCIS/CityInfoStack.xml</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Gokturks_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Gokturks_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/MCIS/CityInfoStack.xml</UpdateDatabase>
+      <UpdateDatabase>Art/DDS/Gokturk_Diplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Gokturks_Functions.lua">
+      <Name>Gokturk</Name>
+      <Description>Functions</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/MCIS/CityInfoStack.lua">
+      <Name>Gokturk</Name>
+      <Description>MCIS</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

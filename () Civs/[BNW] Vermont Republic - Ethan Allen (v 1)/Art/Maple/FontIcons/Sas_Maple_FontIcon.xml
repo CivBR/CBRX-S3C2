@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/23/2012 3:49:53 AM -->
+<GameData>
+	<!--Special thanks to Stone Town Wonder Mod-->
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_SAS_MAPLE</IconFontTexture>
+			<IconFontTextureFile>Sas_Maple_FontIcon</IconFontTextureFile>
+		</Row>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_SAS_SYRUP</IconFontTexture>
+			<IconFontTextureFile>FontIcon_SasSyrup</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_SAS_MAPLE</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_SAS_MAPLE</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_RES_SAS_SYRUP</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_SAS_SYRUP</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+</GameData>

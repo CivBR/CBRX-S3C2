@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="869b6f69-d382-4d07-9114-bd054f68a064" version="3">
+  <Properties>
+    <Name>[BNW] Sas's Mohave - Irataba</Name>
+    <Stability>Beta</Stability>
+    <Teaser>This mod adds the Mohave people of the American Southwest to the game under the leadership of Irataba!</Teaser>
+    <Description>This mod adds the Mohave people of the American Southwest to the game under the leadership of Irataba!</Description>
+    <Authors>Sasquatch (AKA Kramer), EmeraldRange, Neirai</Authors>
+    <SpecialThanks>DuskJockey, Zharques, JFD, DuskJockey, Grant</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="95B8E438C8CEEB8DF10D153D98E5FD30" import="1">Art/Atlases/Alpha/SasMohaveAlpha_128.dds</File>
+    <File md5="AB97ACB239F5B3E230ED95B1547E0EC5" import="1">Art/Atlases/Alpha/SasMohaveAlpha_16.dds</File>
+    <File md5="9CCC8876B5DA67891ED9E5F6C994B68E" import="1">Art/Atlases/Alpha/SasMohaveAlpha_24.dds</File>
+    <File md5="0A2BC309AE32482D855E062B9F4A7DFE" import="1">Art/Atlases/Alpha/SasMohaveAlpha_32.dds</File>
+    <File md5="62F182A930793184C4074AD309049E81" import="1">Art/Atlases/Alpha/SasMohaveAlpha_45.dds</File>
+    <File md5="CCD45D49345173C57FDF686080C4AFAD" import="1">Art/Atlases/Alpha/SasMohaveAlpha_48.dds</File>
+    <File md5="E96F0A74B70211FC60E3CE245AB136A0" import="1">Art/Atlases/Alpha/SasMohaveAlpha_64.dds</File>
+    <File md5="079130D608C2E3D1B58D3AB91B60F691" import="1">Art/Atlases/Alpha/SasMohaveAlpha_80.dds</File>
+    <File md5="E35CDDE72A5022B617C83279363249E4" import="1">Art/Atlases/SasMohaveIcons128.dds</File>
+    <File md5="1BCA42EDE0DF8DC4B58DDF6E8F928806" import="1">Art/Atlases/SasMohaveIcons256.dds</File>
+    <File md5="2268BC97506781BC7ED663FF3781DEAA" import="1">Art/Atlases/SasMohaveIcons32.dds</File>
+    <File md5="C8DE5B0918E1576992F992546493BAA5" import="1">Art/Atlases/SasMohaveIcons45.dds</File>
+    <File md5="39DF6FA2046DFE05BCAEBC71748DDD08" import="1">Art/Atlases/SasMohaveIcons64.dds</File>
+    <File md5="8DC70EA19CD3148333965BCE075E5136" import="1">Art/Atlases/SasMohaveIcons80.dds</File>
+    <File md5="AC5586AB1A52D902452DB039EA88BE24" import="1">Art/Models/chimu_axeman.dds</File>
+    <File md5="107735FA5B3985F5937414B58BE44A1C" import="1">Art/Models/chimu_axeman.fxsxml</File>
+    <File md5="21D6EC96CAC5B4362A9E9C9BEA4FC2F7" import="1">Art/Models/chimu_axeman.gr2</File>
+    <File md5="A8FE63BE2E7E58AEC19B2153ACCF2F6D" import="1">Art/Models/chimu_axeman_gloss.dds</File>
+    <File md5="D2FF9201FCA6EA9EA859DDC5B72EFAEF" import="1">Art/SasKwanamiFlag.dds</File>
+    <File md5="BA0B83BF86ABB26714608306B19DDD48" import="1">Art/SasMohave412.dds</File>
+    <File md5="0E68867CAC4D2B5286A95B2CA295A7E9" import="1">Art/Sas_Irataba_DOM.dds</File>
+    <File md5="5F917F047C5713FCB09FFBBB0EEC5AEE" import="1">Art/Sas_Irataba_Scene.dds</File>
+    <File md5="FAE9F4EA5FF129C8631CB7B49CE40424" import="1">Art/SV_SasKwanami.dds</File>
+    <File md5="815B1207274389314BDDCEE8E22918D7" import="0">Core/MohaveArtDefines.sql</File>
+    <File md5="C40D4720F1065D6A978BC52DD10CD43D" import="0">Core/MohaveGameDefines.sql</File>
+    <File md5="0985AA47CFB6677A6CEFAC7A90122A93" import="0">Core/MohaveModSupport.sql</File>
+    <File md5="4D87E749B63B832C67516B424BDE8738" import="0">Core/MohaveText.xml</File>
+    <File md5="8AE036E31DFA02D00A08F2AD1ABC31AA" import="1">Core/Sas_Irataba_Scene.xml</File>
+    <File md5="5E0EC7D88695272A995F1A42CCDE7A11" import="0">Lua/MohaveFunctions.lua</File>
+    <File md5="F3CE1EC570F159C02C590D5304805276" import="0">Lua/MohaveUA.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/PlotIterators.lua</File>
+    <File md5="47CC9C3FDB8225BD524FF0D62B13923C" import="1">Sound/Sas_Irataba_Peace.mp3</File>
+    <File md5="2A6DA51C6C0DB3DDF979540C6C207C4E" import="1">Sound/Sas_Irataba_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/MohaveArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MohaveGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sas_Irataba_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/MohaveText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/MohaveModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MohaveFunctions.lua">
+      <Name>MohaveUUUB</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/MohaveUA.lua">
+      <Name>MohaveUASas</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

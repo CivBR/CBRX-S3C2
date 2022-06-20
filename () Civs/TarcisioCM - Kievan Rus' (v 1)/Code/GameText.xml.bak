@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--// KIEV // Kievan Rus' // OLGA-->
+		<Row Tag="TXT_KEY_CIV_TCM_KIEV_DESC">
+			<Text>Kievan Rus' Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_KIEV_SHORT_DESC">
+			<Text>Kyivan Rus'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_KIEV_ADJECTIVE">
+			<Text>Kyivan Rus'</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DOM_TCM_KIEV_TEXT">
+			<Text>Our prayers go to you, Saint Olga, princess of Kiev and regent of the Rus'! As the faithful wife of Igor of Kiev, you unleashed indiscriminated revenge upon the Drevlians who had him murdered, thus securing the future rule of your young son, Sviatoslav, who would extend the influence of the Rus' to all the lands between the Volga and Balkan Bulgarias.[NEWLINE][NEWLINE]Blessed Olga, times of hardship have swept through your beloved Kievan Rus' and forever split your people. Will you restore order among the east Slavs, and once again guide them as the princess of Kiev? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_KIEV_TITLE">
+			<Text>Kyivan Rus' Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_KIEV_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_KIEV_TEXT_1">
+			<Text>Kievan Rus was a loose federation of East Slavic tribes in Europe from the late 9th to the mid-13th century, under the reign of the Rurik dynasty. The modern peoples of Belarus, Ukraine, and Russia all claim Kievan Rus' as their cultural ancestors. At its greatest extent in the mid-11th century, it stretched from the Baltic Sea in the north to the Black Sea in the south and from the headwaters of the Vistula in the west to the Taman Peninsula in the east, uniting the majority of East Slavic tribes. The state declined beginning in the late 11th century and during the 12th century, disintegrating into various rival regional powers. It was further weakened by economic factors such as the collapse of Rus' commercial ties to Byzantium due to the decline of Constantinople and the accompanying diminution of trade routes through its territory. The state finally fell to the Mongol invasion of the 1240s.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_01">
+			<Text>Kyiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_02">
+			<Text>Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_03">
+			<Text>Polotsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_04">
+			<Text>Vitebsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_05">
+			<Text>Lyubech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_06">
+			<Text>Turov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_07">
+			<Text>Chernigov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_08">
+			<Text>Belgorod Kievsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_09">
+			<Text>Pereyaslavl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_10">
+			<Text>Volodimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_11">
+			<Text>Galich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_12">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_13">
+			<Text>Kursk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_14">
+			<Text>Kozelsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_15">
+			<Text>Ryazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_16">
+			<Text>Ladoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_17">
+			<Text>Beloozero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_18">
+			<Text>Murom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_19">
+			<Text>Azov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_20">
+			<Text>Tmutarakan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_21">
+			<Text>Novgorod Seversky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_22">
+			<Text>Berestye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_23">
+			<Text>Yaroslavl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_24">
+			<Text>Izborsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_25">
+			<Text>Toropets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_26">
+			<Text>Oleshye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_27">
+			<Text>Gorodische</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_28">
+			<Text>Peresechen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_29">
+			<Text>Halych</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_KIEV_30">
+			<Text>Pleskov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_0">
+			<Text>Oleg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_1">
+			<Text>Igor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_2">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_3">
+			<Text>Iziaslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_4">
+			<Text>Gleb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_5">
+			<Text>Rogneda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_6">
+			<Text>Allogia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_7">
+			<Text>Malusha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_8">
+			<Text>Predslava</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_KIEV_9">
+			<Text>Rada</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_PEDIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_PEDIA_TEXT_1">
+			<Text>Saint Olga was a ruler of Kievan Rus' as regent for her son, Svyatoslav. She was the wife of Igor of Kiev, who was killed by the Drevlians; at the time of her husband's death, their son Svyatoslav was three years old, making Olga the official ruler of Kievan Rus until he reached adulthood. The Drevlians wanted Olga to marry their Prince Mal, making him the ruler of Kievan Rus, but Olga was determined to remain in power and preserve it for her son. She buried and burned the first Drevlian representatives alive, then deceived the rest on her husband's funeral feast, killing over 5,000 Drevlians, and ultimately sending an army to their lands to attack the survivors. Olga remained regent ruler of Kievan Rus with the support of the army and her people. She changed the system of tribute gathering (poliudie) in the first legal reform recorded in Eastern Europe. She continued to evade proposals of marriage, defended the city during the Siege of Kiev in 968, and saved the power of the throne for her son. Olga was the first ruler of Rus' to convert to Christianity, in either 945 or 957, and for that she was canonized Saint.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_PEDIA_LIVED">
+			<Text>AD c. 890 - 969 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_PEDIA_NAME">
+			<Text>Olga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_PEDIA_SUBTITLE">
+			<Text>Leader of Kievan Rus'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_PEDIA_TITLES_1">
+			<Text>Princess of Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_PEDIA_TITLES_2">
+			<Text>Equal to the Apostles</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA">
+			<Text>Olga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_OLGA_KIEV_SHORT">
+			<Text>Unholy Retribution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_OLGA_KIEV">
+			<Text>Damages enemies per deal broken upon the declaration of war. Your side receives +33% [ICON_GOLD] Gold from diplomatic deals with other civilizations.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_TCM_TORG">
+			<Text>Torg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_TORG_HELP">
+			<Text>Grants 10 XP to newly built units if the Merchant Specialist slot is filled. +2 [ICON_PRODUCTION] Production per Luxury produced in this city being traded in Deals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_TORG_STRATEGY">
+			<Text>The Torg will help you have more experienced armies while generating Great Merchants - specially useful for the Gost Convoy. Not only that, it also generates +2 [ICON_PRODUCTION] Production if a copy of a luxury produced in the city is being traded to another civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_TORG_TEXT">
+			<Text>Renowed merchants, the Rus' used the wealth from their trade to finance many building projects; forts, palaces and temples across their realm, and to equip well armed guards to protect their caravans.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_GOST_CONVOY">
+			<Text>Gost Convoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_GOST_CONVOY">
+			<Text>Pikeman replacement unique to Kievan Rus'. The Gost Convoy gains XP from Luxury Resources exported by you in diplomatic deals. With a Great Merchant nearby, promoting Gost Convoys yields [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_GOST_CONVOY_STRATEGY">
+			<Text>The Gost Convoy is a [ICON_GOLD] Gold oriented unit, generating a lump of it whenever it levels up, as long as there is a Great Merchant within two tiles. Always keep one of them close to your armies to capitalize on this. Furthermore, the Gost Convoy will level up faster by gaining 2 XP whenever you beging trading a Luxury with a new trade partner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_TCM_GOST_CONVOY_TEXT">
+			<Text>Rus' merchants would travel in well armed groups to defend themselves, specially those trading abroad - the Gost; these convoys were well equiped by the wealthy merchant, even when compared to the Druzhinas.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TCM_KIEV_INFLUENTIAL_ON_AI_1">
+			<Text>Our people now have some very serious pyromaniacal tendencies made worse by their constant drinking of vodka. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_FIRSTGREETING_1">
+			<Text>Welcome to Rus', we here mostly seek peaceful trade with outsiders, and little else. Don't mind the screams behind me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_FIRSTGREETING_2">
+			<Text>He... Ah-choo! Hello. The weather is a bit rough today, and that fire isn't helping either. Oh don't worry, they had it coming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You have no idea what you've got yourself into.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>I'll never forget this, and I'll certainly never forgive it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>You hate {1_CivName} too? Good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_DENOUNCE_1">
+			<Text>If there is one thing that I hate more than this weather, that thing is you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_DOW_BETRAYAL_1">
+			<Text>You lost the moment you trusted me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>Filthy worm, I shall set your empire ablaze, and whatever legacy your civilization had will consumed by my vengeance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_OLGA_DEFEATED_1">
+			<Text>It seems I lost. Could be worse.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYSTATE_TCM_MINSK">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TCM_MINSK_ADJ">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TCM_MINSK_PEDIA">
+			<Text>Minsk is the capital and largest city of Belarus, situated on the Svislach and Nyamiha rivers. The earliest historical references to Minsk date to AD 1067, when it was noted as a provincial city within the principality of Polotsk. Since then, the city has often changed hands as part of Lithuania, Poland, the Russian Empire, and the USSR, often serving as the capital of its specific administrative region. During the first half of 1944, Minsk was the centre of German resistance to the Soviet advance and saw heavy fighting. Factories, municipal buildings, power stations, bridges, most roads and 80% of the houses were reduced to rubble. The city leveled, Minsk's population was reduced to a mere 50,000. [NEWLINE][NEWLINE]After World War II, Minsk was rebuilt, but not reconstructed. Throughout the 1990s, after the fall of communism, the city continued to change. As the capital of a newly independent country, Minsk quickly acquired the attributes of a major city and today Minsk stands as the major cultural centre of Belarus. The city represents a melting pot of Eastern European languages and cultures, housing numerous theatres, universities, and museums. It is home to the world famous Belarusian ballet and a symbol of the continued perseverance of the Belarusian people.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_KIEV_REFORM">
+			<Text>Reform the Poliudieat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_KIEV_REFORM_DESC">
+			<Text>
+				The local noblemen are not reliable to collect the taxes for us; we should implement a new tribute-gathering system to stabilize the income from our vassal tribes.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kievan Rus' (Olga)
+				[NEWLINE][ICON_BULLET]Player must have at least three [ICON_PUPPET] Puppets
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]Costs 1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain {2_Gold} [ICON_GOLD] Gold (Increases by how much [ICON_GOLD] Gold you get from other players)
+				[ICON_BULLET][ICON_PUPPET] Puppets produce +25% [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_KIEV_REFORM_ENACTED_DESC">
+			<Text>
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_PUPPET] Puppets produce +25% [ICON_GOLD] Gold
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_KIEV_CALL">
+			<Text>Call to Arms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_KIEV_CALL_DESC">
+			<Text>
+				War looms over Kievan Rus', and we must be properly prepared. Our Varangian brothers from beyond the sea would be eager to come with us and wage war, and we can surely count on our Slav vassals and nomad allies to battle by our side.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kievan Rus' (Olga)
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE][ICON_BULLET]May only be enacted before the Renaissance Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]Costs 1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain a military unit for every Luxury Resource you export
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_KIEV_CALL_ENACTED_DESC">
+			<Text>
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

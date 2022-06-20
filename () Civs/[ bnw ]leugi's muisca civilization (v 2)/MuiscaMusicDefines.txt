@@ -1,0 +1,8 @@
+    <!--NEMEQUENE Music-->
+    <SoundData>
+      <SoundID>SND_LEADER_MUSIC_NEMEQUENE_PEACE</SoundID>
+      <Filename>NemequenePeace</Filename>
+      <bDontCache/>
+      <LoadType>STREAMED</LoadType>
+    </SoundData>
+	<!--NEMEQUENE Music-->

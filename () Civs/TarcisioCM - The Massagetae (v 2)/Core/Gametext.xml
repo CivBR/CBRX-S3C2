@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/22/2015 12:30:02 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Massagetae Basic Info-->
+		<Row Tag="TXT_KEY_CIV_TCM_MASSAGETAE_DESC">
+			<Text>Massagetae Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_MASSAGETAE_SHORT_DESC">
+			<Text>The Massagetae</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_MASSAGETAE_ADJECTIVE">
+			<Text>Massagetae</Text>
+		</Row>
+		<!--Massagetae Dawn of Man Text-->
+		<Row Tag="TXT_KEY_CIV5_DOM_TCM_MASSAGETAE_TEXT">
+			<Text>Oh fearless Tomyris, queen of the confederate Massagetae tribes, protector of your homeland and people. The Massagetae are an ancient people, adept horse riders and gold workers said to inhabit the east of the Caspian Sea for thousand of years, until the time of the great migrations forced your people to find new home in distant lands.[NEWLINE][NEWLINE]Oh fair queen, with your battle worthiness proved in war against the persians, your people look for you to once again guide and protect them. Will you answer their call? Will you build a civilization to stand the test of time?</Text>	
+		</Row>
+		<!--Massagetae Civilopedia-->
+		<Row Tag="TXT_KEY_CIV5_TCM_MASSAGETAE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_MASSAGETAE_TEXT_1">
+			<Text>The Massagetae were an ancient Eastern Iranian nomadic confederation inhabiting the steppes of Central Asia east of the Caspian Sea.</Text>
+		</Row>
+		<!--Massagetae City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_01">
+			<Text>Jaxartes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_02">
+			<Text>Oxus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_03">
+			<Text>Aral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_04">
+			<Text>Chorasmia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_05">
+			<Text>Kara-kum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_06">
+			<Text>Arys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_07">
+			<Text>Sarysu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_08">
+			<Text>Chu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_09">
+			<Text>Bedbaht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_10">
+			<Text>Ryn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_11">
+			<Text>Atyrau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_12">
+			<Text>Tengiz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_13">
+			<Text>Ajaguz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_14">
+			<Text>Lukina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_15">
+			<Text>Nura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_16">
+			<Text>Byan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_17">
+			<Text>Sytasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_18">
+			<Text>Bugun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_19">
+			<Text>Ayat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_MASSAGETAE_20">
+			<Text>Qapal</Text>
+		</Row>
+		<!-- Spy List-->
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_0">
+			<Text>Spargapises</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_1">
+			<Text>Marthax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_2">
+			<Text>Samahe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_3">
+			<Text>Respendial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_4">
+			<Text>Artystone</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_5">
+			<Text>Batraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_6">
+			<Text>Tomiride</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_7">
+			<Text>Srayanka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_8">
+			<Text>Taymuraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_MASSAGETAE_9">
+			<Text>Zarana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Tomyris-->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS">
+			<Text>Tomyris</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_TOMYRIS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_TOMYRIS_TEXT_1">
+			<Text>Tomyris was an ancient Eastern Iranian queen who led her armies to defend her nation against attack by Cyrus the Great of the Achaemenid Empire, and defeated and killed him in 530 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_TOMYRIS_NAME">
+			<Text>Tomyris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_TOMYRIS_SUBTITLE">
+			<Text>Leader of the Massagetae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_TOMYRIS_TITLES_1">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_TOMYRIS_LIVED">
+			<Text>Unknown</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_TCM_TOMYRIS_MASSAGETAE_SHORT">
+			<Text>Unbent Plains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_TOMYRIS_MASSAGETAE">
+			<Text>Transfer some of the experience points from killed Massagetae units to nearby friendly units. Units gain +1 [ICON_MOVES] Movement Point when adjacent to enemies inside friendly territory.</Text>
+		</Row>
+		<!--Battleaxeman-->
+		<Row Tag="TXT_KEY_UNIT_TCM_BATTLEAXEMAN">
+			<Text>Battle-Axeman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_BATTLEAXEMAN">
+			<Text>Unique Swordsman replacement for the Massagetae that is unlocked at Horseback Riding and requires no resource of Iron, but is slightly weaker. Gain extra [ICON_STRENGTH] Combat Strength for every used [ICON_MOVES] Movement Point of adjacent units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_BATTLEAXEMAN_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TCM_BATTLEAXEMAN_TEXT">
+			<Text>When speaking about the Massagetae, Herodotus said: "They fight both on horseback and on foot, neither method is strange to them: they use bows and lances, but their favourite weapon is the battle-axe. Their arms are all either of gold or brass. For their spear-points, and arrow-heads, and for their battle-axes, they make use of brass; for head-gear, belts, and girdles, of gold. So too with the caparison of their horses, they give them breastplates of brass, but employ gold about the reins, the bit, and the cheek-plates. They use neither iron nor silver, having none in their country; but they have brass and gold in abundance."</Text>
+		</Row>
+		<!--Scythian Goldsmith-->
+		<Row Tag="TXT_KEY_BUILDING_TCM_GOLDSMITH">
+			<Text>Scythian Goldsmith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_GOLDSMITH_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production for mounted units. +1 [ICON_PRODUCTION] Production and +1 [ICON_CULTURE] Culture from worked [ICON_RES_HORSE] horses and [ICON_RES_GOLD] gold resources. +1 [ICON_PRODUCTION] Production per source of [ICON_RES_SHEEP] sheep and [ICON_RES_COW] cattle worked by this City. Upon construction, nearby sources of [ICON_RES_IRON] Iron are converted into [ICON_RES_GOLD] Gold. Upon building a Mounted Unit, gain culture based on the number of [ICON_RES_GOLD] Gold resources near this city.</Text>
+		</Row>
+
+		<!-- Decisions and Events-->
+		<Row Tag="TXT_KEY_PROMOTION_TCM_MASSAGETAE">
+			<Text>Proto-Cataphracts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_MASSAGETAE_HELP">
+			<Text>+25% Combat Strength when attacking, defending and protecting against ranged attacks.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_MASSAGETAE_ENCASE_THE_HORSES">
+			<Text>Encase the Horses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_MASSAGETAE_ENCASE_THE_HORSES_DESC">
+			<Text>
+				Horses are part of the daily life of every Massagetae. It's from them that we get our drink, wage war and appease the gods, and although we bred them to be finest beasts, they still aren't safe in the heat of battle. By fully enclosing the horse with the most sturdier armor, we will not only protect their lives but also perform much better charges.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Massagetae
+				[NEWLINE][ICON_BULLET]May not be enacted after the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE][ICON_BULLET]Must have researched Horseback Riding
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Horseman units receive +25% Combat Strength, +25% Combat Strength against ranged attacks and +15 Experience.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_MASSAGETAE_ENCASE_THE_HORSES_ENACTED">
+			<Text>
+				Our horsemen now ride to war in fully enclosed armor, protecting against any damage the enemy can throw at us![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Horseman units receive +25% Combat Strength, +25% Combat Strength against ranged attacks and +15 Experience.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_MASSAGETAE_SACRIFICE_THE_MIGHTIEST">
+			<Text>Sacrifice the Mightiest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_MASSAGETAE_SACRIFICE_THE_MIGHTIEST_DESC">
+			<Text>
+				The greatest Massagetae horse rider of this era lingers to old age. We must sacrifice him to bring us all glory, to appease the gods and to attain his might![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Massagetae
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE][ICON_BULLET]Must have either a mounted unit or a Great General in the Capital
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Unit is killed
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Every unit adjacent to the capital gains extra experience based in the level of the sacrificed unit (Highest possible if Great General).
+				[NEWLINE][ICON_BULLET]Gain {1_Faith} [ICON_PEACE] Faith.
+				[NEWLINE][ICON_BULLET]Gain {2_Culture} [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_MASSAGETAE_SACRIFICE_THE_MIGHTIEST_ENACTED">
+			<Text>
+				The mightiest horse rider of our time has been sacrificed to the gods!
+			</Text>
+		</Row>
+
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_FIRSTGREETING_1">
+			<Text>Be wary of your next moves, foreigner, for under my command lies dormant the wrath of the Massagetae and you are the one who chose to awake it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_FIRSTGREETING_2">
+			<Text>You could not have picked a worse time to stumble upon my lands. What brings you to these pastures?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DEFEATED_1">
+			<Text>You are never defeated till you're dead. There's still one last charge for me.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_REPEAT_TOO_MUCH">
+			<Text>Bugger off already.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_REPEAT_TRADE_1">
+			<Text>I will accept no such insult.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_REPEAT_TRADE_2">
+			<Text>Either propose a better deal or crawl back to where you came from.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_REPEAT_TRADE_3">
+			<Text>This is infuriating! Do you not understand that I will not accept this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_REPEAT_1">
+			<Text>You sure seem to like these lands; it's a beautiful country, isn't it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_REPEAT_2">
+			<Text>You sure do like talking to me don't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_REPEAT_1">
+			<Text>You sure seem to like these lands; it's a beautiful country, isn't it? So bugger off, it isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_REPEAT_2">
+			<Text>Behind me lies the army of the last man who bothered me this much.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_POLITE_HELLO_1">
+			<Text>Welcome. What brings you this far?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_POLITE_HELLO_2">
+			<Text>Greetings, friend. What news do you bring from your homeland?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_POLITE_HELLO_3">
+			<Text>Hail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_POLITE_HELLO_4">
+			<Text>I'm happy to see you again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_NEUTRAL_HELLO_3">
+			<Text>Why have you come?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_NEUTRAL_HELLO_4">
+			<Text>What brings you this far from home?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_NEUTRAL_HELLO_5">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_NEUTRAL_HELLO_6">
+			<Text>Why are you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_HELLO_1">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_HELLO_2">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_HELLO_3">
+			<Text>I advise you to pick your words very carefully.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_HELLO_4">
+			<Text>By the skies, why are you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_HELLO_5">
+			<Text>Oh, get on with it already.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Darkness approaches. Have you come to bring us light?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>I know when I have failed. Do you bring the terms with you, or is this the end of me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>We have spilled much blood already. Is it not enough for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>Too many sons won't see their fathers again. Please, let's end this war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>This has been going on for too long. Please, let us have peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_AT_WAR_HOSTILE_1">
+			<Text>No; I will quench your thirst of blood first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_AT_WAR_HOSTILE_2">
+			<Text>The vultures are still hungry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_AT_WAR_HOSTILE_3">
+			<Text>Peace will never come for your men. The vultures await them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>You dare show your face here after what you have done?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_WORKING_WITH_1">
+			<Text>Hail there, friend of the Massagetae. What brings you here today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_COOP_WAR_1">
+			<Text>It won't be long before we'll have dealt with {1_ThirdPlayerName:textkey}. He won't live to regret his mistakes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_COOP_WAR_2">
+			<Text>I hope you're looking forward to the downfall of {1_ThirdPlayerName:textkey} as much as I am.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_COOP_WAR_3">
+			<Text>Soon we'll have dealt with {1_ThirdPlayerName:textkey} once and for all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>How's your little war going? Spilled much blood already? Killed many sons? What do you want here, warmonger?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HUMAN_AT_WAR_1">
+			<Text>I look forward to hearing the tales of valour of your men. Is there anything that I can help you in this war?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>I see your military forces near my borders. Are you here to foolishly threaten me? Do you not realize that we can just ride away from your army?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Yes, you have quite the army. Move it away now, could you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>The spread of your cities and people is like a plague infecting the land. I look forward to the day I don't have to see it any more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>You expand too much, brother. If this continues, I'm afraid that soon there will not be enough space for all of us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your theft of all the territory in your empire showcases your greed. You know that will catch up with you eventually, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Be careful while purchasing so much land at once, you might end up angering the wrong person.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>I've heard many tales of the bravery of your men. To face them in battle would be truly glorious, but I hope it doesn't come to this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I've heard tales of the wealth of your empire. Truly splendid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>Yes, tiny one? Stumbled upon my lands by accident?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>I'd say that your army is a joke, but it appears that you don't even have one. Truly shameful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>Ah, the bloodthirsty one shows his face. And what business does he have with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_TOO_SOON_FOR_DOF_1">
+			<Text>Are you making fun of me? I barely know you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>Brother, {1_CivName} is truly a disgrace for this world. Will you help me, and the rest of the world, by denouncing him? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOF_NOT_HONORED_1">
+			<Text>This is truly a shame. To think that I once called you friend...[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOF_NOT_HONORED_2">
+			<Text>What a disgrace. Truly shameful.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DENOUNCING_FRIEND_1">
+			<Text>Working with you made me realize what a terrible person you were. I will do a favour to the world and make it very clear who you truly are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DENOUNCING_FRIEND_2">
+			<Text>This was all a mistake. You are no friend of mine, and I don't think that you ever was.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>So?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Honestly?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>Does this even matter?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_RESPONSE_TO_BEING_DENOUNCED_4">
+			<Text>I was right about you, it seems... Well, bugger off then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HUMAN_DOFED_FRIEND_1">
+			<Text>Friends with {1_CivName}? Oh, good. Well then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HUMAN_DOFED_ENEMY_1">
+			<Text>Friends with {1_CivName}? Umhum...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>So you dislike {1_CivName}? Poor judgement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>So you dislike {1_CivName}? Truly wise indeed...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>If you are friends with {1_CivName}, then so am I. May this lead us all into prosperity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly disgraceful indeed. I will aid you in this matter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>If I have to deal with both you and {1_CivName}, then so be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>I've heard that you and {1_CivName} don't get along. They are truly wise, indeed.</Text>
+		</Row>
+		<!-- LEADER_TCM_TOMYRIS Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I see your armies amassed near my empire. Attack or flee, pick one already.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You have amassed quite the army near my borders. I hope you aren't intending on using it against me. That would be most unwise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_KILLED_PROTECTED_CITY_STATE_1">
+			<Text>It seems your word is worth nothing, as your conquest of {@1_MinorCivName} shows. How despicable. The world will know of your crimes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_PROTECTED_CITY_STATE_1">
+			<Text>Your wanton aggression against {@1_MinorCivName} does not go unnoticed. You will face serious consequences should you continue assault.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your expansion efforts are an insult. Turn away or there will be consequences for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_EXPANSION_WARNING_1">
+			<Text>You seem to be expanding into lands which I regard to be mine. Last time someone did this, it did not end well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_EXPANSION_WARNING_2">
+			<Text>Your habit of claiming every bit of land you've spotted has not gone unnoticed. A truly distasteful habit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_EXPANSION_WARNING_3">
+			<Text>You expand near my lands. Very near. You either quite like me or hate me. Either way, here will I stand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_EXPANSION_WARNING_4">
+			<Text>You do not move one step closer! You have claimed to many lands already!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_EXPANSION_BROKEN_PROMISE_1">
+			<Text>Your words might mean nothing, but my axe sure does. You have been warned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>For many years we have lived side by side without dispute. Why are you making trouble now? Stop this plot buying nonsense!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PLOT_BUYING_WARNING_1">
+			<Text>You have brought some good pastures that once belonged to my people. I hope this is enough for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>A liar, and a thief. Disgraceful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PLOT_BUYING_BROKEN_PROMISE_2">
+			<Text>I am very disappointed. You have lied to me, and I do not take this lightly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WORK_WITH_US_1">
+			<Text>You have proven yourself to be a good friend for me. Am I a friend for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DEC_FRIENDSHIP_1">
+			<Text>You have proven yourself to be a good friend for me. Am I a friend for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DENOUNCE_1">
+			<Text>I know you very well, and I don't quite like not even a bit of it.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_COOP_WAR_REQUEST_1">
+			<Text>The blood thirsty {1_PlayerName:textkey} is danger to us all. Will you do what is right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_COOP_WAR_TIME_1">
+			<Text>The time for war has come. {1_PlayerName:textkey} must die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_NOW_UNFORGIVABLE_1">
+			<Text>Your actions are unforgivable. Never will our nations be friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_NOW_ENEMY_1">
+			<Text>I see your true face now. You will always be an enemy for the Massagetae, and I will treat you accordingly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_COMPLIMENT_1">
+			<Text>I want to thank you for being a good friend for so many years; may this never end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_BOOT_KISSING_1">
+			<Text>It is clear to all that you are a wise and mighty ruler. I ask that you might also be compassionate towards those like myself who are weak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_BOOT_KISSING_2">
+			<Text>Oh great one, my hope is that you will long serve as a paragon of strength and virtue for lesser leaders such as myself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WARMONGER_1">
+			<Text>Your blood thirst has not gone unnoticed. Should you keep it up, I might just quench it myself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WARMONGER_2">
+			<Text>It's quite clear now that you're a blood thirsty warmonger. A true shame.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WARMONGER_3">
+			<Text>Your warmongering is a popular topic these days. How many sons have died because of you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WARMONGER_4">
+			<Text>Your thirst for blood is truly insatiable. For your own sake I hope that you don't bring your warmongering sentiments here, or I will finally quench it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_MINOR_CIV_COMPETITION_1">
+			<Text>Getting friends with {1_MinorCivName:textkey}? They are a member of the Massagetae confederacy, and I'd like to keep it that way...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_MINOR_CIV_COMPETITION_2">
+			<Text>I've noticed your friendship with {1_MinorCivName:textkey}. I'm happy that it's not just me that sees potential in them, but I'd like if you let their protection to me.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_REPEAT_NO_1">
+			<Text>We've been over this before. The answer is still no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DONT_SETTLE_YES_1">
+			<Text>Very well. Although I am displeased that you felt the need to ask me this, I understand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DONT_SETTLE_YES_2">
+			<Text>So be it. I will not settle near your lands. I hope you don't intend on settling near mine either..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DONT_SETTLE_NO_1">
+			<Text>These lands are mine, if anything it was you that should have settled away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WORK_WITH_US_YES_1">
+			<Text>Yes, may our friendship bring our empires together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WORK_WITH_US_YES_2">
+			<Text>I am happy to call you a friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WORK_WITH_US_YES_3">
+			<Text>I am happy to accept. May our empires prosper in friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DECLINE_1">
+			<Text>I must decline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DECLINE_2">
+			<Text>Sorry, but no. Perhaps another time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DECLINE_3">
+			<Text>I fear that such an arrangement is not in my best interests, so I must decline.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_LETS_HEAR_IT_1">
+			<Text>Let's hear your offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_LETS_HEAR_IT_2">
+			<Text>What do you propose?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PEACE_OFFER_1">
+			<Text>Is your thirst for blood satisfied. Shall we have peace already?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PEACE_OFFER_2">
+			<Text>There is no point in this conflict continuing any further. Let us return to peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PEACE_OFFER_3">
+			<Text>We must not let war define who we are. The time has come to make peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DEMAND_1">
+			<Text>You have something I want. And so I shall have it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_REQUEST_ITEM_1">
+			<Text>Unfortunately things aren't going terribly well over here. Can you spare something for a friend? I'll try to return the favor when things are going better for me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_REQUEST_ITEM_2">
+			<Text>Although it pains me to do so, I must ask for your assistance this day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_REQUEST_ITEM_3">
+			<Text>Your great strength is a model for all other empires. I ask that you show generosity towards those less fortunate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe it's in our mutual interest to allow free passage between our two great empires.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_OPEN_BORDERS_EXCHANGE_2">
+			<Text>Opening our borders to one another can only serve to solidify our friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_OPEN_BORDERS_OFFER_1">
+			<Text>I would like to negotiate passage through your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>I would like to lay plans for establishing a Research Agreement with your great nation. Doing so would require each of us to spend 150 [ICON_GOLD]. What do you think?[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>I feel that a Research Agreement is a mutually beneficial arrangement that would help serve to cement our Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_RENEW_DEAL_1">
+			<Text>This deal strengthened our nations and our bonds of friendship. Shall we renew this deal and continue our shared prosperity?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WANT_MORE_RENEW_DEAL_1">
+			<Text>This deal has faded in our eyes over the years. To renew this deal, we would need more from your side of the negotiation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_LUXURY_TRADE_1">
+			<Text>You have a resource that we require.</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_HOSTILE_1">
+			<Text>I will personally quench your thirst for blood. Meet me in the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_WEAK_HOSTILE_1">
+			<Text>I might not succeed, but I can try. You must die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_WEAK_HOSTILE_2">
+			<Text>I will summon the forces of all the Massagetae. Death will come, and the vultures are hungry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_WEAK_HOSTILE_3">
+			<Text>I will not fall before you! All the Massagteae will be summoned to fight; you will die!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_WEAK_HOSTILE_4">
+			<Text>So be it. My armies will fight to the death against your wicked forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_WEAK_HOSTILE_5">
+			<Text>You will forever be known as a villain who preys on the weak. But don't you worry, the good always triumphs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_STRONG_HOSTILE_1">
+			<Text>With all our might we will fight. The strength of all my people will descend upon you in one single charge, and once it is done there will be nothing left.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_EXCITED_1">
+			<Text>The fury of the Massagetae will fall upon you. Nothing will remain, and no man will return.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_WEAK_EXCITED_1">
+			<Text>You have given me a chance, and I will take it. Death will come to you; I'll make sure of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_STRONG_EXCITED_1">
+			<Text>The fury of the Massagetae will fall upon you. Nothing will remain, and no man will return.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_SAD_1">
+			<Text>Your actions fill me with sadness, but blood must be spilled. I'll make you pay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_SAD_2">
+			<Text>You would attack us in such a manner? Your hubris knows no limits. I hope that you will one day be judged for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_SAD_3">
+			<Text>Taking advantage of another's weakness is unnecessary in the pursuit of victory. Surely you know there's a better way?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_SAD_4">
+			<Text>How could you do such a thing? Begone, you vile being.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_BETRAYED_1">
+			<Text>To think that one day I called you friend... You fill me with sadness.</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOW_LEADER_TCM_TOMYRIS_1">
+			<Text>I've had enough of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>You have betrayed your word. The world will know of your treachery, but regardless you won't be alive by then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOW_LAND_1">
+			<Text>Our proximity has fated us to be enemies. Let us see which of us is fit to survive in this land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOW_LAND_2">
+			<Text>You are too close for comfort. There's space for only one of us in these lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOW_LAND_3">
+			<Text>Your lands will make a fine addition to my own.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOW_BETRAYAL_1">
+			<Text>Our friendship was true, but alas this must be done. May your passage be swift.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOW_BETRAYAL_2">
+			<Text>Your weakness is my opportunity. It saddens me, but this must be done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOW_BETRAYAL_3">
+			<Text>I'm not happy with this turn of events, but this must be done in the name of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOW_BETRAYAL_4">
+			<Text>I have to admit, I quite liked you, but it's time for you to die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_DOW_WEAK_BETRAYAL_1">
+			<Text>The odds are clearly not with me, but as it must be, it will.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WAR_DEMAND_REFUSED_1">
+			<Text>So be it. My armies will extract it from your lands then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WAR_DEMAND_REFUSED_2">
+			<Text>Then war it is.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>What are the terms?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>What would you suggest?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+			<Text>What is the price of peace?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_NO_PEACE_1">
+			<Text>There can be no peace today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_NO_PEACE_2">
+			<Text>This is not the time for negotiation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_NO_PEACE_3">
+			<Text>We still have business to settle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_TOO_SOON_NO_PEACE_1">
+			<Text>Blood still has to be spilled, I'm afraid.</Text>
+		</Row>
+		<!-- Responses to player -->
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>We'll see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>Right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_WE_BULLIED_MINOR_BAD_1">
+			<Text>My decision was the best for my people and my nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TOMYRIS_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>Thank you for heeding our request. An artifact made by our ancestors belong to us.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

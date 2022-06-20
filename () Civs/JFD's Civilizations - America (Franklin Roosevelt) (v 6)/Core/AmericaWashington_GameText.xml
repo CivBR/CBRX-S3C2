@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--REVOLUTIONARY PRIVATEER-->
+		<Replace Tag="TXT_KEY_UNIT_JFD_SCHOONER">
+			<Text>Schooner</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_UNIT_JFD_SCHOONER_HELP">
+			<Text>Naval Unit that specializes in attacking cities and capturing enemy ships, especially other Privateers. Only America can construct it. Fights best in friendly territory.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_UNIT_JFD_SCHOONER_STRATEGY">
+			<Text>The unique Schooner is the American replacement for the Privateer. In addition to the standard abilities of the Privateer, the Schooner is especially good at attacking other Privateers. It also fights much better in friendly territory. Keep your Schooners near to your coastal borders and launch attacks on enemy fleets that get too close.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_UNIT_JFD_SCHOONER_TEXT">
+			<Text>A schooner is a type of sailing ship, as defined by its rig configuration. During the American Revolutionary War, the Continental Congress, and some state governments (on their own initiative), issued privateering licenses, authorizing "legal piracy", to merchant captains in an effort to take prizes from the British Navy and Tory (Loyalist) privateers. This was done due to the relatively small number of commissioned American naval vessels and the pressing need for prisoner exchange.</Text>
+		</Replace>
+		<!--Revolutionary Fervor-->
+		<Replace Tag="TXT_KEY_PROMOTION_JFD_SCHOONER_1">
+			<Text>Revolutionary Fervor</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_JFD_SCHOONER_1_HELP">
+			<Text>+25% Attack in Friendly Territory</Text>
+		</Replace>
+		<!--Attack Bonus vs Privateers (33)-->
+		<Replace Tag="TXT_KEY_PROMOTION_JFD_SCHOONER_2">
+			<Text>Attack Bonus vs Privateers (33)</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_JFD_SCHOONER_2_HELP">
+			<Text>Attack Bonus vs Privateers (33)</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

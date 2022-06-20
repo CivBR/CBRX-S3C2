@@ -1,0 +1,4 @@
+So yeah, the Muisca come with an alternate color (White Background, Golden Foreground). This is not the main color because it can conflict with many mods' color 
+scheme, specially that of a Kingdom of Jerusalem mod.
+
+In order to use the alternate color, only replace MuiscaCivilization.xml with the another one found in XML\Civilization. Enjoy!

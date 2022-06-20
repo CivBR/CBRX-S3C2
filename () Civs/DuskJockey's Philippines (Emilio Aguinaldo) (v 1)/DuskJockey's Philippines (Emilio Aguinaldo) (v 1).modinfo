@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ebb8a2d3-76ac-4d7c-8a3c-02f94c0a76a5" version="1">
+  <Properties>
+    <Name>DuskJockey's Philippines (Emilio Aguinaldo)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Emilio Aguinaldo's Philippines[ENDCOLOR] to the game. Click [COLOR_CYAN]here[ENDCOLOR] for details.</Teaser>
+    <Description>Unique Ability: [COLOR_POSITIVE_TEXT]Undimmed by Tyrant's Might[ENDCOLOR][NEWLINE]At the outbreak of war with a major civilization, receive [ICON_CULTURE] Culture for each enemy city in excess of yours. Gun Units starting in your borders may force defenders to retreat.[NEWLINE][NEWLINE]Unique Unit: [COLOR_POSITIVE_TEXT]Katipunero[ENDCOLOR][NEWLINE]Strong Industrial Era unit. Regains +1 [ICON_MOVES] Movement and +10 HP upon adopting a Social Policy, doubling if in friendly borders. May only be trained by the Philippines.[NEWLINE][NEWLINE]Unique Building: [COLOR_POSITIVE_TEXT]Aglipayan Church[ENDCOLOR][NEWLINE]Unique Philippine Stadium replacement. Upon training a unit, yields a burst of [ICON_PRODUCTION] Unit Production toward the next one of its kind, based on your total [ICON_CULTURE] Culture and [ICON_PEACE] Faith output.</Description>
+    <Authors>DuskJockey</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="B685D5DE-7CCA-4e75-81B4-2F60754E6330" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="25" maxversion="999" title="Yet (not) Another Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="20" maxversion="999" title="JFD's Cultural Diversity (Utilities)" />
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="4" maxversion="999" title="Additional Achievements" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C490B359D10C3812BFDEA3674F89EA73" import="0">Art/AguinaldoArtDefines.sql</File>
+    <File md5="77B986AD7E47CFE1CA8FCB1FE5F87BF8" import="1">Art/Atlases/AguinaldoAlphaAtlas128.dds</File>
+    <File md5="F4FF045E01F749AFBB8241A829F9503E" import="1">Art/Atlases/AguinaldoAlphaAtlas24.dds</File>
+    <File md5="DE05A3CEA7E2E08C86B19CA043D05314" import="1">Art/Atlases/AguinaldoAlphaAtlas32.dds</File>
+    <File md5="E9A81B9BBF05A9400AAD908196B007C2" import="1">Art/Atlases/AguinaldoAlphaAtlas48.dds</File>
+    <File md5="306685423C33A9FC153C701DAA2FBFA9" import="1">Art/Atlases/AguinaldoAlphaAtlas64.dds</File>
+    <File md5="778566D320FAF25FC203613B854F4757" import="1">Art/Atlases/AguinaldoColorAtlas128.dds</File>
+    <File md5="165EA66F1612D2B4808B6D11278637A5" import="1">Art/Atlases/AguinaldoColorAtlas256.dds</File>
+    <File md5="4C65C230D973C15C589FEBBE7831ABF7" import="1">Art/Atlases/AguinaldoColorAtlas32.dds</File>
+    <File md5="9B06D0A867096D509DDE29BBA75D27FD" import="1">Art/Atlases/AguinaldoColorAtlas45.dds</File>
+    <File md5="0A1FB40DFFAEA84BC2984D964F6D9626" import="1">Art/Atlases/AguinaldoColorAtlas64.dds</File>
+    <File md5="B2E919765086F82BE8B17F03F1378F2E" import="1">Art/Atlases/AguinaldoColorAtlas80.dds</File>
+    <File md5="A140A611C8BAAC46AAF3EAA25DC094DD" import="1">Art/Atlases/KatipuneroAlphaAtlas32.dds</File>
+    <File md5="7402652DB117EF8AE208A0C9E0674AA7" import="1">Art/Atlases/KatipuneroSV.dds</File>
+    <File md5="632807357574C2C8D64639D3225C911C" import="1">Art/Models/u_katipunero.fxsxml</File>
+    <File md5="FB9CD6C35DC01F8B63D5CF161155320A" import="1">Art/Models/u_katipunero.gr2</File>
+    <File md5="763A34E6DF90192BE21979DE3CA13E82" import="1">Art/Models/u_katipunero_d.dds</File>
+    <File md5="7F34A859B8DB1EB407361019B1F869A9" import="1">Art/Models/u_katipunero_s.dds</File>
+    <File md5="C10CE6B1BE5A58CBF98E96E0C0D592B2" import="1">Art/Scenes/AguinaldoDoM.dds</File>
+    <File md5="AC10F8B25C368BE9D8B30CAD11039378" import="1">Art/Scenes/AguinaldoMap.dds</File>
+    <File md5="8331493695E8B9489F23C8C6BC0B1B3A" import="1">Art/Scenes/Aguinaldo_Scene.dds</File>
+    <File md5="7A1A90517A61A4D7356FD182D75EE7A8" import="1">Art/Scenes/Aguinaldo_Scene.xml</File>
+    <File md5="72ED33F4DC026BBFCAE0970F80DB187F" import="1">Audio/DJAguinaldoPeace.mp3</File>
+    <File md5="E83222645D46CE5CF9A6967961F32F03" import="0">Audio/AguinaldoAudioDefines.sql</File>
+    <File md5="B7B30CE21434879AD5343B257639CBAC" import="1">Audio/DJAguinaldoWar.mp3</File>
+    <File md5="348DF46FA86EDCD7439BF4B6BD887E17" import="0">Functions/AguinaldoFunctions.lua</File>
+    <File md5="C1BFB359F052D7AC210343DB96D543EC" import="0">GameDefines/AguinaldoGameDefines.sql</File>
+    <File md5="2754722A7F0D5509BF523A26F63F391C" import="0">GameDefines/AguinaldoModSupport.sql</File>
+    <File md5="F82D941B64F707C1EB3F6046714FB694" import="0">GameDefines/AguinaldoText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>GameDefines/AguinaldoGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>GameDefines/AguinaldoModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>GameDefines/AguinaldoText.xml</UpdateDatabase>
+      <UpdateDatabase>Art/AguinaldoArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/AguinaldoAudioDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Functions/AguinaldoFunctions.lua">
+      <Name>AguinaldoFunctions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

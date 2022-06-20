@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cd851097-f56e-4974-82da-b33d48ead72c" version="3">
+  <Properties>
+    <Name>Helicopters Can Fly Over Water</Name>
+    <Teaser>Removes helicopter embarking in favor of being able to hover over coast and ocean.</Teaser>
+    <Description>Removes helicopter embarking in favor of being able to hover over coast and ocean. Transitioning from water to land or vice versa does not cost any extra movement points, except in certain strange cases. Still allows for much higher helicopter rmaneuverability though.</Description>
+    <Authors>RJ815</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="A0475EB46EC75F215A7423231531A6A6" import="0">CIV5Units.xml</File>
+    <File md5="E92AA506037B58EC1EA6C7CDA3AF2A9E" import="0">CIV5Units_Old.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>CIV5Units.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

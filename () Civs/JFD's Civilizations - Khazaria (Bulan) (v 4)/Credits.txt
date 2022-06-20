@@ -1,0 +1,47 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+Janboruta: 
+----------------
+	Art (Leaderscene; Map; Leader Icon; Civ Icon; Unique Icons)
+	Research (Cities)
+----------------
+Danrell: 
+----------------
+	Graphics (Unit Model)
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Andrea Waldetoft: 
+----------------
+	Music (War)
+	https://www.youtube.com/watch?v=vok0l_1_zTg
+----------------
+David Christensen: 
+----------------
+	Music (Peace)
+----------------
+Britannica.com: 
+----------------
+	Pedias (Civ)
+	https://www.britannica.com/topic/Khazar
+----------------
+Wikipedia.com: 
+----------------
+	Pedias (Uniques)
+	https://en.wikipedia.org/wiki/Khagan_Bek
+	https://en.wikipedia.org/wiki/Shul
+--------------------------------------------------------------
+--------------------------------------------------------------

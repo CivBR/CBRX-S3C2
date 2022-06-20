@@ -1,0 +1,28 @@
+-- US_Ireland_Collins_Credits
+-- Author: Urdnot_scott
+--==========================================================================================================================
+Urdnot_scott:
+	- design
+	- text
+	- art
+DMS:
+	- code
+	- text
+darth:
+	- city list
+	- spy list
+	- map
+lime:
+	- DoM text
+Enigma:
+	- Initial concept
+Chrisy15:
+	- Lua advice
+TranquilSilence:
+	- Ideas for decisions
+War theme:
+	- Foggy Dew (instrumental) by The SteamFolk (link: https://www.youtube.com/watch?time_continue=1&v=xrlTOrTv_KE&ab_channel=theSteamFolk)
+Peace theme:
+	- The foggy dew by Howard Baer (Celtic Mystic album) (link: https://www.youtube.com/watch?v=39ePrOYFfUQ&ab_channel=000peaceofmind000)
+--==========================================================================================================================
+--==========================================================================================================================

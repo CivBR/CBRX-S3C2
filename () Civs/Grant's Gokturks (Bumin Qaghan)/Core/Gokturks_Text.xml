@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/4/2020 12:04:59 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_1">
+			<Text>Ötüken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_2">
+			<Text>Suyab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_3">
+			<Text>Karabalghasun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_4">
+			<Text>Nevkat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_5">
+			<Text>Romitan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_6">
+			<Text>Almalik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_7">
+			<Text>Taraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_8">
+			<Text>Kengü Tarman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_9">
+			<Text>Kashgar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_10">
+			<Text>Gaochang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_11">
+			<Text>Bolchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_12">
+			<Text>Ergenekon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_13">
+			<Text>Gol-Zarriun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_14">
+			<Text>Ongi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_15">
+			<Text>Koshoy Korgon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_16">
+			<Text>Tashkurghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_17">
+			<Text>Kucha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_18">
+			<Text>Elegest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_19">
+			<Text>Isfijab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_20">
+			<Text>Ikhe-Khushotu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_21">
+			<Text>Sute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_22">
+			<Text>Karashahr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_23">
+			<Text>Yueban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_24">
+			<Text>Jolene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_25">
+			<Text>Yarkhoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_26">
+			<Text>Hüyten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_27">
+			<Text>Möngün Tayga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_28">
+			<Text>Ala-at</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_29">
+			<Text>Jetisu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_GOKTURKS_30">
+			<Text>Tolis</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_9">
+			<Text>Keluo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_8">
+			<Text>Chuluohou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_7">
+			<Text>Daluobian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_6">
+			<Text>Tölis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_5">
+			<Text>Ilteber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_4">
+			<Text>Nishoufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_3">
+			<Text>Nizük</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_2">
+			<Text>Yandou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_1">
+			<Text>Tapir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_GOKTURKS_0">
+			<Text>Mòchuò</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_GOKTURKS">
+			<Text>Gokturk Khaganate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_GOKTURKS_SHORT">
+			<Text>The Gokturks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_GOKTURKS_ADJECTIVE">
+			<Text>Turkic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_GT_GOKTURKS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_GT_GOKTURKS_TEXT_1">
+			<Text>The First Turkic Khaganate was a khaganate established by the Ashina clan of the Göktürks in medieval Inner Asia. Under the leadership of Bumin Qaghan (d. 552) and his brother Istämi. The First Turkic Khaganate succeeded Rouran Khaganate as the hegemonic power of the Mongolian Plateau and rapidly expanded their territories in Central Asia. Initially the Khaganate would use Sogdian in official and numismatic functions. Although the Göktürks spoke Old Turkic, the Khaganate's early official texts and coins were written in Sogdian. It was the first Turkic state to use the name Türk politically. Old Turkic script was invented at the first half of the 6th century.[NEWLINE][NEWLINE] The origins of the Turkic Khanate trace back to 546, when Bumin Qaghan made a preemptive strike against the Uyghur and Tiele groups planning a revolt against their overlords, the Rouran Khanate. For this service he expected to be rewarded with a Rouran princess, thus marrying into the royal family. However, the Rouran khagan, Yujiulü Anagui, sent an emissary to Bumin to rebuke him, saying, "You are my blacksmith slave. How dare you utter these words?" As Anagui's "blacksmith slave" comment was recorded in Chinese chronicles, some claim that the Göktürks were indeed blacksmith servants for the Rouran elite, and that "blacksmith slavery" may have indicated a form of vassalage within Rouran society. Having excelled both in battle and diplomacy, Bumin declared himself Illig Khagan of the new khanate at Otukan, but died a year later. His son, Muqan Qaghan, defeated the Hephthalite Empire, Khitan and Kyrgyz. Bumin's brother Istämi (d. 576) bore the title "Yabgu of the West" and collaborated with the Sassanid Empire of Iran to defeat and destroy the Hephthalites, who were allies of the Rouran. This war tightened the Ashina clan's grip on the Silk Road. The Turkic Khanate split in two after the death of the fourth ruler, Taspar Qaghan, c. 584. He had willed the title of khagan to Muqan's son Apa Qaghan, but the high council appointed Ishbara Qaghan instead. Factions formed around both leaders. Before long, four rivals claimed the title. They were successfully played off against each other by Sui and Tang China.[NEWLINE][NEWLINE]The civil war left the empire divided into eastern and western parts. The eastern part, still ruled from Otukan, remained in the orbit of the Sui and retained the name Göktürk. The Shibi Khan (609–619) and Illig Qaghan (620–630) attacked China at its weakest moment during the transition between the Sui and Tang. Shibi Khan's surprise attack against Yanmen Commandery during an imperial tour of the northern frontier almost captured Emperor Yang, but his Chinese wife Princess Yicheng—who had been well treated by Empress Xiao during an earlier visit—sent a warning ahead, allowing the emperor and empress time to flee to the commandery seat at present-day Daixian in Shanxi. This was besieged by the Turkish army on September 11, 615, but Chinese reinforcements and a false report from Princess Yicheng to her husband about a northern attack on the khaganate caused him to lift the siege before its completion.[NEWLINE][NEWLINE]In order to buttress his position, Ishbara of the Eastern Khaganate applied to Emperor Yang of Sui for protection. Tardu attacked Chang'an, the Sui capital, around 600, demanding Emperor Yangdi end his interference in the civil war. In retaliation, Chinese diplomacy successfully incited a revolt of Tardu's Tiele vassals, which led to the end of Tardu's reign in 603. Among the dissident tribes were the Uyghurs and Xueyantuo.</Text>
+		</Row>
+		<!-- Bayan -->
+		<Row Tag="TXT_KEY_LEADER_GT_BUMIN_QAGHAN">
+			<Text>Bumin Qaghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BUMIN_QAGHAN_HEADING_1">
+			<Text>History</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BUMIN_QAGHAN_TEXT_1">
+			<Text>According to History of Northern Dynasties and Zizhi Tongjian, in 545 Tumen's tribe started to rise and frequently invaded the western frontier of Wei. The chancellor of Western Wei, Yuwen Tai, sent An Nuopanto (Nanai-Banda, a Sogdian from Bukhara) as an emissary to the Göktürk chieftain Tumen, in an attempt to establish a commercial relationship. In 546, Tumen paid tribute to the Western Wei state. In that same year, Tumen put down a revolt of the Tiele tribes against the Rouran Khaganate, their overlords. Following this, Tumen felt entitled to request of the Rouran a princess as his wife. The Rouran khagan, Anagui, sent a message refusing this request and adding: "You are my blacksmith slave. How dare you utter these words?" Bumin got angry, killed Anagui's emissary, and severed relations with the Rouran Khaganate. Anagui's "blacksmith" insult was recorded in Chinese chronicles. Some sources state that members of the Tujue did serve blacksmiths for the Rouran elite, and that "blacksmith slavery" may refer to a kind of vassalage that prevailed in Rouran society. Nevertheless, after this incident Bumin emerged as the leader of the revolt against Rouran.[NEWLINE][NEWLINE]In 551, Bumin requested a Western Wei princess in marriage. Yuwen Tai permitted it and sent Princess Changle of Western Wei to Bumin. In the same year when Emperor Wen of Western Wei died, Bumin sent mission and gave two hundred horses.[NEWLINE][NEWLINE]The beginning of formal diplomatic relations with China propped up Bumin's authority among the Turks. He eventually united the local Turkic tribes and threw off the yoke of the Rouran domination. In 552 Bumin's army defeated Anagui's forces at the north of Huaihuang and then Anagui committed suicide. With their defeat Bumin proclaimed himself "Illig Qaghan" and made his wife qaghatun. "Illig" means Ilkhan (i.e. ruler of people) in Old Turkic. According to the Bilge Qaghan's memorial complex and the Kul Tigin's memorial complex, Bumin and Istemi ruled people by Turkic laws and they developed them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BUMIN_QAGHAN_NAME">
+			<Text>Bumin Qaghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BUMIN_QAGHAN_SUBTITLE">
+			<Text>Gokturk Qaghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BUMIN_QAGHAN_TITLES_1">
+			<Text>Yamï Qaghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BUMIN_QAGHAN_TITLES_2">
+			<Text>Ashina Tumen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BUMIN_QAGHAN_LIVED">
+			<Text>515 - 552 A.D.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_GT_GOKTURKS_TEXT">
+			<Text>Once a slave, now the lord of the steppe. The world pays tribute to you, Bumin Qaghan, for your celestial majesty outshines them all. You are part of the proud Ashina clan, an intrepid allaince of families who saw the Rouran for what they were: cowards and fools. For over two centuries, your descendants ruled a Qaghanate from the Volga to the Yellow Sea, returning with strength every time civil war and revolt threatened to cast them out. Your name reveres across every mountains, every canyon and every great plain, for you conquered them all.[NEWLINE][NEWLINE]Mighty Qaghan, the Turks are once again split and divided between petty princes and rulers, each claiming to be the true descendent of your family. In their ignorance lies your strength. You are the only Qaghan who unified the Turks! Can you reclaim the steppe's glory once again? Can you administer an empire from sea to sea? Can you build a civilization that can stand the test of Time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GT_GOKTURKS_SHORT">
+			<Text>Divine Mists of Orkhon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GT_GOKTURKS">
+			<Text>Mounted Units may claim mountains and hills adjacent to them if stacked with a unit bought with [ICON_PEACE] Faith, and gain experience based on distance from the capital. Iron Resources yield [ICON_PEACE] Faith per military building in the nearest city.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_GT_TOYGUNLAR_DESC">
+			<Text>Toygunlar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_TOYGUNLAR_TEXT">
+			<Text>Toy or keneş is a parliament that uses legislative, executive and judicial powers at the same time that state affairs were discussed and discussed in Turkish states before Islam. Those who participated in these assemblies were called Toygunlars, which include 'tuduns', royal officials, statesmen, regional commanders, treasurers, civil administrators, princes and prospective khagans. The Togunlars ensured that the Khagan does not have supreme authority over the Khaganate, but his closest circle does. It has the authority to decide a new khagan, and on matters of trade, diplomacy, finance war and peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_TOYGUNLAR_HELP">
+			<Text>Requires Iron instead of Horses. While stationed in a city, courthouses may be built regardless of occupied status. These courthouses yield Faith and production towards Civilian Units per nearby Great Person.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_TOYGUNLAR_STRATEGY">
+			<Text>These courthouses yield Faith and production towards Civilian Units per nearby Great Person.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_TOYGUNLAR_COURTHOUSE">
+			<Text>Toygunlar's Courthouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_TOYGUNLAR_COURTHOUSE_HELP">
+			<Text>These courthouses yield Faith and production towards Civilian Units per nearby Great Person.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_VASSAL_FORGE">
+			<Text>Vassal Forge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_VASSAL_FORGE_TEXT">
+			<Text>The Gokturks, or the Ashina clan, were vassal tribes of the Rouran khaganate, auxillaries for when the Qaghan was threataned by Gaoche and Yenesei tribes and well as by Chinese dynasties. As part of the terms of vassalage, the Gokturks provided quantiies of iron and steel for the Rouran army, as did several other vassals in the Mongolian plain. While this was crucial for the Rouran's survival, it was also an object of desirison among Rouran elites, as the Gokturks were no more than slaves to help with war preparation. This came to a head in 546 A.D., when Bumin Qaghan, then known as Ashina Tumen, defeated a Tiele revolt and asked the Rouran khagan, Yujiulü Anagui, for a princess in marriage as a reward. Anagui sent an emissary to Bumin to rebuke him, saying, "You are my blacksmith slave. How dare you utter these words?".[NEWLINE][NEWLINE]This sparked an open revolt by Tumen, who with the help of the Western Wei, a Xianbei state south of the Rouran, overthrew the khaganate and estalished the Celestial Turkic Khaganate with himself as Khagan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_VASSAL_FORGE_HELP">
+			<Text>Replaces the Forge. Units trained in a city with a Vassal Forge increase the quantity of the nearest metal resource from claiming tiles. Influence with nearby city-states is increased from improved sources of iron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_VASSAL_FORGE_STRATEGY">
+			<Text>Influence with nearby city-states is increased from improved source of iron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_VASSAL_FORGE_TOOLTIP">
+			<Text>Units trained in a city with a Vassal Forge increase the quantity of the nearest metal resource from claiming tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_DIVINE_MIST">
+			<Text>Divine Mists of Orkhon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_DIVINE_MIST_HELP">
+			<Text>Mounted Units claim mountains adjacent to them if stacked with a unit bought with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_SILVER_SOLDIERS">
+			<Text>Silver Soldiers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_SILVER_SOLDIERS_HELP">
+			<Text>Units trained in a city with a Vassal Forge increase the quantity of the nearest metal resource from claiming tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_GOLD_GUARDIANS">
+			<Text>Golden Guardians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_GOLD_GUARDIANS_HELP">
+			<Text>Units trained in a city with a Vassal Forge increase the quantity of the nearest metal resource from claiming tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_COPPER_CAVALRY">
+			<Text>Copper Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_COPPER_CAVALRY_HELP">
+			<Text>Units trained in a city with a Vassal Forge increase the quantity of the nearest metal resource from claiming tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_IRON_WOLVES">
+			<Text>Iron Wolves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_IRON_WOLVES_HELP">
+			<Text>Units trained in a city with a Vassal Forge increase the quantity of the nearest metal resource from claiming tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_ALUMINIUM_VALYRIES">
+			<Text>Aluminum Valkryies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_ALUMINIUM_VALYRIES_HELP">
+			<Text>Units trained in a city with a Vassal Forge increase the quantity of the nearest metal resource from claiming tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_URANIUM_SENTRIES">
+			<Text>Uranium Sentries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_URANIUM_SENTRIES_HELP">
+			<Text>Units trained in a city with a Vassal Forge increase the quantity of the nearest metal resource from claiming tiles.</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_GT_BUMIN_QAGHAN_FIRSTGREETING_1">
+			<Text>A messenger, then! This isn't the best time to be passing each other letters, I'm afraid. My enemies won't slaughter themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_BUMIN_QAGHAN_DEFEATED_1">
+			<Text>The Turks fade back into submission. Though we may be now just another tribe subject to your authority, we have a knack for keeping empires dependent on us. So watch your step.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_BUMIN_QAGHAN_ATTACKED_HOSTILE_1">
+			<Text>You think you have attacked a small contigent of men. You are mistaken! You have awoken the entire steppe! The steppe thunders towards you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_BUMIN_QAGHAN_DEC_FRIENDSHIP_1">
+			<Text>A pact of mutual friendship between use might come of use in these times. That's if you've got enough gifts to offer, of course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_BUMIN_QAGHAN_DENOUNCE_1">
+			<Text>To call you a sack of horseshit would be an insult to the majestic beasts of the steppe. You are what horseflies shit out.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_BUMIN_QAGHAN_DENOUNCE_FRIEND_1">
+			<Text>I cannot let your thousands of transgressions pass. Betraying me feels worse than if you opposed me from the beginning.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_BUMIN_QAGHAN_DOW_GENERIC_1">
+			<Text>The steppe thunders towards you! Don't think your nice little pastures will be untouched. They'll be the first I'll set alight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_BUMIN_QAGHAN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Very well. I should have known how to tell apart friend and foe long ago. I want to thank you for making your intentions clear, then I can at least deal with you first.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

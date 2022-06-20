@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="094a9540-9c0a-4e42-abbd-aca78efe43ba" version="3">
+  <Properties>
+    <Name>HoopThrower's Chile - Allende</Name>
+    <Teaser>Chile Civilization led by Salvador Allende</Teaser>
+    <Description>Chile Civilization led by Salvador Allende</Description>
+    <Authors>HoopThrower</Authors>
+    <SpecialThanks>LeeS, Chrisy15</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="E&amp;D" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="BD2BFF2CBBDA7B00E44BF95900796634" import="1">Allende/Allende_Leaderscene.dds</File>
+    <File md5="EFE2EE2FFE7C881FDD71F3D2DCB3072C" import="1">Allende/Allende_Peace.mp3</File>
+    <File md5="912D7B42B6E380E47FC73F334F4AA1F7" import="1">Allende/Allende_War.mp3</File>
+    <File md5="AC222C6077A95B81263042084E85B30D" import="0">Allende/Civilization.xml</File>
+    <File md5="E443D8D89C5C0CC73AAFC4D7151B338C" import="1">Allende/Allende_Leaderscene.xml</File>
+    <File md5="51C8C3F8F15EA980CCD2F0F174596CC1" import="0">Allende/Allende_Dialogue.xml</File>
+    <File md5="DA1D359784909BF863CCA1BC3BD1152E" import="0">Allende/Allende_Dialogue_Define.sql</File>
+    <File md5="D18A0847A667805C9F61B68A89A49CFA" import="0">Allende/Leader.xml</File>
+    <File md5="394236561611A12F8B1DDAA26306F4A1" import="0">Allende/Music.xml</File>
+    <File md5="14C21B22901A90E2A1A424FC60933D97" import="0">Allende/Trait.xml</File>
+    <File md5="4532364FB46069C6B95D5AA643EB4075" import="0">Allende/UniqueAbility.lua</File>
+    <File md5="F772C2E199E3341A6FAF55C730F38AAA" import="1">Art/ALLENDEICONS128.dds</File>
+    <File md5="6D0C769BE2E64BE45A29135393A10E18" import="1">Art/ALLENDEICONS16.dds</File>
+    <File md5="EFE661E6E5626220A923E84A47678301" import="1">Art/ALLENDEICONS24.dds</File>
+    <File md5="AD193FE7175C147486225B211D8F5C2E" import="1">Art/ALLENDEICONS256.dds</File>
+    <File md5="CD24E4583B0D5A57461252CEC1361325" import="1">Art/ALLENDEICONS32.dds</File>
+    <File md5="F83C87D0880961C2C86A9470880289AA" import="1">Art/ALLENDEICONS45.dds</File>
+    <File md5="05284E9AA1618C3EC4C45FD4897E5ADD" import="1">Art/ALLENDEICONS48.dds</File>
+    <File md5="AF3BA38930D4F8F64281C1F40E5234A3" import="1">Art/ALLENDEICONS64.dds</File>
+    <File md5="94A49FDBB04DAF0BBD23F46DA097BCF6" import="1">Art/ALLENDEICONS80.dds</File>
+    <File md5="175BF4E90368BD7E5D6754D2CB749978" import="1">Art/Allende_Alpha128.dds</File>
+    <File md5="5DACF4B93D71FE733B03083CFEFC24AB" import="1">Art/Allende_Alpha24.dds</File>
+    <File md5="45082BC80218B9928131C071D758A022" import="1">Art/Allende_Alpha256.dds</File>
+    <File md5="DE3E2093ECDAED3A59E9021FE3D9F203" import="1">Art/Allende_Alpha32.dds</File>
+    <File md5="501F252148BA674D3286A276FC147958" import="1">Art/Allende_Alpha45.dds</File>
+    <File md5="B52179E6962368DF6002D09F8B1DAB5F" import="1">Art/Allende_Alpha48.dds</File>
+    <File md5="0D6C1329C334F90CC76EF20BC9B12CFA" import="1">Art/Allende_Alpha64.dds</File>
+    <File md5="314079CD52A5D0E61D9ED2FFC2BAF722" import="1">Art/Allende_Alpha80.dds</File>
+    <File md5="0CDC7F33587A97C7538388F2652F527F" import="1">Art/Allende_Map.dds</File>
+    <File md5="895FE5BA8D6172EAC6A31CF1994C12D7" import="1">Art/Cantor_flag.dds</File>
+    <File md5="0224E2FDC72019B50464D8924699F60E" import="1">Art/caravan_andes.dds</File>
+    <File md5="7D42547E15CF0616BE98F27E060C1EF7" import="1">Art/caravan_andes.fxsxml</File>
+    <File md5="868C133AC03FB4E9B1145E5D0866A3A5" import="1">Art/caravan_andes.gr2</File>
+    <File md5="480556975EB4C0474772665849DC84C5" import="1">Art/Allende_DoM.dds</File>
+    <File md5="8C184D370CC86CCC027718EEAE76A9F7" import="0">Art/Allende_Art_Defines.sql</File>
+    <File md5="CAC347BE6D5D5E160A45F70667A24D7A" import="0">Art/Allende_Icon_Atlas.xml</File>
+    <File md5="B332FADC420F963CBCD66EBC707063C8" import="1">Art/Zamacueca.dds</File>
+    <File md5="85E8C88F2DA25310972410E550148F9C" import="1">Cantor_Music/Angel_Parra_Great_Work.mp3</File>
+    <File md5="17CFD748F5E1AF973372926AFBD41B40" import="1">Cantor_Music/Barroco_Andino_Great_Work.mp3</File>
+    <File md5="EEE3A3641425442C597D8ECB66EAC86A" import="1">Cantor_Music/Congreso_Great_Work.mp3</File>
+    <File md5="2D44445DF44E8F2BF65424E7ACA1F9A5" import="1">Cantor_Music/Eduardo_Gatti_Great_Work.mp3</File>
+    <File md5="D86F22B7F0C6097814F839D9A9269D4D" import="1">Cantor_Music/illapu_Great_Work.mp3</File>
+    <File md5="C9A0162993D163B23C82DD2A62A597D9" import="1">Cantor_Music/Inti_Illimani_Great_Work.mp3</File>
+    <File md5="9F95D3C760ED99899A102E33876DBF04" import="1">Cantor_Music/Isabel_Parra_Great_Work.mp3</File>
+    <File md5="A0702DF96BCF761A457F7E7613971D47" import="1">Cantor_Music/Los_Jaivas_Great_Work.mp3</File>
+    <File md5="265438CEE76B99137CD40A1D94729EC1" import="1">Cantor_Music/Margot_Loyola_Great_Work.mp3</File>
+    <File md5="E246C4B0A66BC65524E3C43D3938E52A" import="1">Cantor_Music/Patricio_Manns_Great_Work.mp3</File>
+    <File md5="C3BAFA06BD2BE88BB8B6C6533106702B" import="1">Cantor_Music/Quelentaro_Great_Work.mp3</File>
+    <File md5="25741B8EA226B374E5104B7793CB17E1" import="1">Cantor_Music/Quilapayun_Great_Work.mp3</File>
+    <File md5="A50F5FEA073F85C1F2291A03F03190FB" import="1">Cantor_Music/Rolando_Alarcon_Great_Work.mp3</File>
+    <File md5="B848504CC6FBA7BF82125648C0AC9A1E" import="1">Cantor_Music/Sergio_Ortega_Great_Work.mp3</File>
+    <File md5="B807F774AE6153DDD5A7119634C1447B" import="1">Cantor_Music/Silvia_Urbina_Great_Work.mp3</File>
+    <File md5="B094CD8508515D55020678D2EC74120A" import="1">Cantor_Music/Tiemponuevo_Great_Work.mp3</File>
+    <File md5="D2F2DA1640FD39F245A00B27E1D4869B" import="1">Cantor_Music/Tito_Fernandez_Great_Work.mp3</File>
+    <File md5="1EDAD30E7351CDE78C9A7E07C4154509" import="1">Cantor_Music/Trío_Lonqui_Great_Work.mp3</File>
+    <File md5="1FDFEAC82E2BBD2566CBED71C274F6B2" import="1">Cantor_Music/Victor_Jara_Great_Work.mp3</File>
+    <File md5="D45B2F740B11842D0DDEC0FDB13770BC" import="1">Cantor_Music/Violeta_Parra_Great_Work.mp3</File>
+    <File md5="18AD93101F2E5BC2966A710F0A67F5BD" import="0">Cantor_Popular/CantorHappiness.lua</File>
+    <File md5="F1DFF9639D8589FDBB187673401A4566" import="0">Cantor_Popular/CantorHappiness.sql</File>
+    <File md5="D65C59359439F5A8CBC352AA5E207C2B" import="0">Cantor_Popular/CantorPopular.xml</File>
+    <File md5="40F32F499B993AA006903F12CFFC324F" import="0">Cantor_Popular/Custom_Great_Works.xml</File>
+    <File md5="99FD426EEBCEBD5F89C87208B8F48A59" import="0">Cooperative/Cooperative.lua</File>
+    <File md5="CFDE4616E6D8A0F1BDAC61748F6A8879" import="0">Cooperative/Cooperative.xml</File>
+    <File md5="2452FE6CB0B3F337C692E14246B9C345" import="0">Cooperative/Co-op_DTP.sql</File>
+    <File md5="EDE59EF8949FBEB5C6AEE5CDD387B000" import="1">Cooperative/Cooperative_DTP.lua</File>
+    <File md5="85AE857DB84D6EE0FBA3C0D6595BB5F7" import="0">Cooperative/JFD_TopPanelUpdated.lua</File>
+    <File md5="8FE790D63C5F44F5C83240959D07E303" import="1">Mod Support/AllendeDecisions.lua</File>
+    <File md5="3694F8E95EB6D510A13741076539F69E" import="0">Mod Support/DecisionText.xml</File>
+    <File md5="B82C58142C2F464AA146C1D9CE3C12E5" import="0">Mod Support/AllendePolicy.xml</File>
+    <File md5="6E0109845E8B71D58406F038A15CEC42" import="0">Mod Support/ModSupport.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Allende/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Allende/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Allende/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Allende/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Cantor_Popular/CantorPopular.xml</UpdateDatabase>
+      <UpdateDatabase>Cooperative/Cooperative.xml</UpdateDatabase>
+      <UpdateDatabase>Cantor_Popular/Custom_Great_Works.xml</UpdateDatabase>
+      <UpdateDatabase>Cantor_Popular/CantorHappiness.sql</UpdateDatabase>
+      <UpdateDatabase>Allende/Allende_Dialogue.xml</UpdateDatabase>
+      <UpdateDatabase>Allende/Allende_Dialogue_Define.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Allende_Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Allende_Art_Defines.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/AllendePolicy.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/DecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Cooperative/Co-op_DTP.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Allende/UniqueAbility.lua">
+      <Name>UniqueAbilitylua</Name>
+      <Description>LUA to make UA work</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Cantor_Popular/CantorHappiness.lua">
+      <Name>CantorHappiness.lua</Name>
+      <Description>LUA to get Happiness from Great Works</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Cooperative/Cooperative.lua">
+      <Name>Cooperative.lua</Name>
+      <Description>LUA to get Cooperatives Cooperative</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Cooperative/JFD_TopPanelUpdated.lua">
+      <Name>Top Panel Lua</Name>
+      <Description>LUA for top panel thing</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

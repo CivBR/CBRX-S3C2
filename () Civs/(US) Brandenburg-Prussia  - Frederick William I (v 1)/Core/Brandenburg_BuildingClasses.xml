@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_US_KANTONE_EXP_DUMMY</Type>
+			<DefaultBuilding>BUILDING_US_KANTONE_EXP_DUMMY</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_US_KANTONE_LAND_DUMMY</Type>
+			<DefaultBuilding>BUILDING_US_KANTONE_LAND_DUMMY</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_US_POTSDAM_EXP_DUMMY</Type>
+			<DefaultBuilding>BUILDING_US_POTSDAM_EXP_DUMMY</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+</GameData>

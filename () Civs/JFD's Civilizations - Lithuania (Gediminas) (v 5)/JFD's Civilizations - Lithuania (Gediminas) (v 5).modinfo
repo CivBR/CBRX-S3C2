@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="575a3187-ced4-47de-990b-53ce965035a1" version="5">
+  <Properties>
+    <Name>JFD's Civilizations - Lithuania (Gediminas)</Name>
+    <Teaser>Adds [COLOR_CYAN]Lithuania under Gediminas[ENDCOLOR]. Click for details.</Teaser>
+    <Description>LITHUANIA (GEDIMINAS)[NEWLINE][NEWLINE]UNIQUE TRAIT: THE OLD GODS[NEWLINE][ICON_BULLET]Units trained in cities following only your Pantheon have doubled [ICON_MOVES] Movement in Forest Tiles. Melee Units trained in these cities can capture defeated enemies.[NEWLINE][NEWLINE]UNIQUE BUILDING: SACRED GROVE (SHRINE)[NEWLINE][ICON_BULLET]The Sacred Grove is the unique Lithuanian Shrine. Unlike the Shrine, the Sacred Grove can be built immediately. When completed, it claims all Forest tiles within 3 tiles of the city. In addition, it converts your city's population to your pantheon belief each turn, the rate of which increased for each Forest Tile within range of the city. Build Sacred Groves strategically to combat the unwanted spread of foreign Religions and to maintain your own Pantheon in your cities.[NEWLINE][NEWLINE]UNIQUE UNIT: SAMOGITIAN WARRIOR (SWORDSMAN)[NEWLINE][ICON_BULLET]The Samogitian Warrior is the Lithuanian unique unit. It gains a +50% Attack bonus when fighting in Forest and does not require [ICON_RES_IRON] Iron, unlike the Swordsman that it replaces, though it is slightly weaker otherwise. In addition, it heals 5 damage when beginning its turn in a Forest tile. Position your Samogitian Warriors deep in surrounding Forests to get an advantage on your foes.</Description>
+    <Authors>JFD, Janboruta, ww2Commander</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B6B02CA214E8045E90D74ECDDCB9D68F" import="1">Art/Graphics/Samogitian Warrrior/Samogitian_Warrior.dds</File>
+    <File md5="9D82B0E21D9844FCE6383BD1F498B1E8" import="1">Art/Graphics/Samogitian Warrrior/Samogitian_Warrior.fxsxml</File>
+    <File md5="8C62A8451A76CEBA924C9B853C62DB24" import="1">Art/Graphics/Samogitian Warrrior/Samogitian_Warrior.gr2</File>
+    <File md5="01AB3B3011A72B54C6EECDDC2C4ADC7C" import="1">Art/Graphics/Samogitian Warrrior/Samogitian_Warrior_gloss.dds</File>
+    <File md5="AD7C27608759265961446814E0AA8402" import="1">Art/Graphics/Samogitian Warrrior/sv_Samogitian.dds</File>
+    <File md5="11BFEC7CB0C7D925D11F7CDD2B0F5DEC" import="1">Art/Icons/JFD_LithuaniaGediminas_AlphaAtlas_128.dds</File>
+    <File md5="B09E07AEBB8AFB809273F7DB3F5AA123" import="1">Art/Icons/JFD_LithuaniaGediminas_AlphaAtlas_16.dds</File>
+    <File md5="1D28E032367C8A53C85EE7B9557A7342" import="1">Art/Icons/JFD_LithuaniaGediminas_AlphaAtlas_24.dds</File>
+    <File md5="8892012063A4057F44D999A1D6D97F65" import="1">Art/Icons/JFD_LithuaniaGediminas_AlphaAtlas_32.dds</File>
+    <File md5="019EFB994CC1BC2E7B701B0CAC619617" import="1">Art/Icons/JFD_LithuaniaGediminas_AlphaAtlas_45.dds</File>
+    <File md5="4A484649232726A472198E619B3AC716" import="1">Art/Icons/JFD_LithuaniaGediminas_AlphaAtlas_48.dds</File>
+    <File md5="53CDBEDF53C6BDC89338E4F2AC93E418" import="1">Art/Icons/JFD_LithuaniaGediminas_AlphaAtlas_64.dds</File>
+    <File md5="CE9A350256477E4863C4051870C4A7FC" import="1">Art/Icons/JFD_LithuaniaGediminas_AlphaAtlas_80.dds</File>
+    <File md5="392A9AD6F9B0D44891E81A7F1E3E3F8B" import="1">Art/Icons/JFD_LithuaniaGediminas_IconAtlas_128.dds</File>
+    <File md5="751A92CE5D0B31232A6002CF8F5188CF" import="1">Art/Icons/JFD_LithuaniaGediminas_IconAtlas_256.dds</File>
+    <File md5="AC07886B2CE430C458E4789930FCD566" import="1">Art/Icons/JFD_LithuaniaGediminas_IconAtlas_32.dds</File>
+    <File md5="CBA342D6D6CEE1EB8E9E3A3DB46E59B2" import="1">Art/Icons/JFD_LithuaniaGediminas_IconAtlas_45.dds</File>
+    <File md5="E1E473C3D1E57AB5111C8F2A726BFB46" import="1">Art/Icons/JFD_LithuaniaGediminas_IconAtlas_64.dds</File>
+    <File md5="09CD0338B5957F78449529CF0888C4EC" import="1">Art/Icons/JFD_LithuaniaGediminas_IconAtlas_80.dds</File>
+    <File md5="7A42782597B41C6C0AC306E61A9F38D3" import="1">Art/Icons/JFD_LithuaniaGediminas_UnitFlagAtlas_32.dds</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="1">Art/Icons/Tomatekh_PromotionAtlas_256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="1">Art/Icons/Tomatekh_PromotionAtlas_32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="1">Art/Icons/Tomatekh_PromotionAtlas_45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/Icons/Tomatekh_PromotionAtlas_64.dds</File>
+    <File md5="8740632D171F73308AB983157F92DE83" import="1">Art/Leaderscene/JFD_LithuaniaGediminas_Diplo.dds</File>
+    <File md5="4C6847B633C93868718830A36A203AD4" import="1">Art/Leaderscene/JFD_LithuaniaGediminas_Scene.xml</File>
+    <File md5="FE0A2DF763AA903D79C4C697B6B79A33" import="1">Art/Maps/JFD_DOM_LithuaniaGediminas.dds</File>
+    <File md5="D4E5946EF31EC9E58E6CFF9141A32C0B" import="1">Art/Maps/JFD_MapLithuaniaGediminas512.dds</File>
+    <File md5="622957DE99B5485578691E04683EE080" import="1">Audio/Themes/JFD_LithuaniaGediminas_Peace.mp3</File>
+    <File md5="367B2C370E3F8552C7840F41CE52999F" import="1">Audio/Themes/JFD_LithuaniaGediminas_War.mp3</File>
+    <File md5="5753A36420275FA7E892ED8DE3DB405B" import="0">Core/LithuaniaGediminas_ModSupport.sql</File>
+    <File md5="F07297907696877F7A8765CFEF7254E0" import="0">Core/LithuaniaGediminas_ArtDefines.sql</File>
+    <File md5="A0E8FA102C2D5298D4B71255A8F4AEA1" import="0">Core/LithuaniaGediminas_GameDefines.sql</File>
+    <File md5="403E990F02A779797DEC82C28BFEA9C4" import="0">Core/LithuaniaGediminas_GameText.xml</File>
+    <File md5="771C9E46E038FF6858D644E0C1F765A7" import="0">Credits.txt</File>
+    <File md5="F6F05E14B15F455A26E4E17785BED73F" import="0">Lua/JFD_Civs_LithuaniaGedminas_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/LithuaniaGediminas_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/LithuaniaGediminas_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/LithuaniaGediminas_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/LithuaniaGediminas_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_LithuaniaGedminas_Functions.lua">
+      <Name>JFD_Civs_LithuaniaGedminas_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

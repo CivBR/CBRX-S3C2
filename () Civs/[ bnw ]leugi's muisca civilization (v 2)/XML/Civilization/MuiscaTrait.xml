@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 3:41:06 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_DORADO</Type>
+			<Description>TXT_KEY_TRAIT_DORADO</Description>
+			<ShortDescription>TXT_KEY_TRAIT_DORADO_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_ResourceQuantityModifiers>
+		<Row>
+			<TraitType>TRAIT_DORADO</TraitType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<ResourceQuantityModifier>100</ResourceQuantityModifier>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_DORADO</TraitType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<ResourceQuantityModifier>100</ResourceQuantityModifier>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_DORADO</TraitType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<ResourceQuantityModifier>100</ResourceQuantityModifier>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_DORADO</TraitType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<ResourceQuantityModifier>100</ResourceQuantityModifier>
+		</Row>
+
+	</Trait_ResourceQuantityModifiers>
+	<Trait_FreeResourceFirstXCities>
+		<Row>
+		<TraitType>TRAIT_DORADO</TraitType>
+		<ResourceType>RESOURCE_GOLD</ResourceType>
+		<ResourceQuantity>1</ResourceQuantity>
+		<NumCities>1</NumCities>
+		</Row>
+	</Trait_FreeResourceFirstXCities>
+
+</GameData>

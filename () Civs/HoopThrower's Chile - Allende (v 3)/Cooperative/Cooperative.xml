@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_COOPERATIVE</Type>
+			<Description>TXT_KEY_BUILDING_COOPERATIVE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_COOPERATIVE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_COOPERATIVE_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_COOPERATIVE_HELP</Help>
+			<GoldMaintenance>1</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<Cost>360</Cost>
+			<ConquestProb>66</ConquestProb>
+			<XBuiltTriggersIdeologyChoice>2</XBuiltTriggersIdeologyChoice>
+			<BuildingClass>BUILDINGCLASS_FACTORY</BuildingClass>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<PrereqTech>TECH_INDUSTRIALIZATION</PrereqTech>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>
+			<IconAtlas>CIV_COLOR_ATLAS_ALLENDE</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_ALLENDE</Type>
+			<BuildingClass>BUILDINGCLASS_ALLENDE</BuildingClass>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_BUILDING_HT_ALLENDE</Description>
+			<CityConnectionTradeRouteModifier>5</CityConnectionTradeRouteModifier>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_MUSIC</GreatWorkSlotType>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<PrereqTech>NULL</PrereqTech>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_ALLENDE</IconAtlas>
+		</Row>
+	</Buildings>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ALLENDE</Type>
+			<DefaultBuilding>BUILDING_ALLENDE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ALLENDE</Description>
+		</Row>
+	</BuildingClasses>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_COOPERATIVE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_WORKSHOP</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_COOPERATIVE</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COOPERATIVE</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>100</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COOPERATIVE</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_COOPERATIVE</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_COOPERATIVE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_COOPERATIVE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Language_en_US>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_COOPERATIVE</Tag>
+			<Text>Cooperative</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIV5_BUILDINGS_COOPERATIVE_TEXT</Tag>
+			<Text>
+				A Cooperative is an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly owned and democratically-controlled enterprise. Co-operatives are businesses owned and run by and for their members. Whether the members are the customers, employees or residents they have an equal say in what the business does and a share in the profits. Cooperativism in Chile was born as a product of workers and syndicalist movements.
+				Though Cooperatives have existed in Chile since the 19th century, they didn’t really reach any significant prevalence until the creation of CORFO (Corporación Fomento Producción) where cooperativism, particularly in the agricultural sector, was greatly favored.
+				By Allende’s presidency Cooperativism had reached its zenith in Chile, having been developed during the last government with great state support, it was partially due to this that Allende’s government decided to not touch Cooperatives during the process of nationalization of most industries. Though Cooperativism wasn’t particularly favored, they weren’t significantly hurt either. Unlike the period after the Coup, where the reorganization of the Chilean economy towards a neoliberal economy and the targeting of popular movements meant that most Cooperatives through the countries found their end.
+			</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_COOPERATIVE_STRATEGY</Tag>
+			<Text>Unique Chilean Replacement for the Factory. As a normal Factory, it provides +4 Production, +10% Production and 2 Engineer Specialists. Unlike a normal Factory however, it only costs 1 Maintenance per turn and it converts 10% of City Production into culture. Additionally, only 2 are needed to choose an Ideology. Requires 1 Coal.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_COOPERATIVE_HELP</Tag>
+			<Text>Unique Chilean Replacement for the Factory. As a normal Factory, it provides +4 Production, +10% Production and 2 Engineer Specialists. Unlike a normal Factory however, it only costs 1 Maintenance per turn and it converts 10% of City Production into culture. Additionally, only 2 are needed to choose an Ideology. Requires 1 Coal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOOP_CULTURE_FROM_PROD">
+			<Text>+{1_Culture} [ICON_CULTURE] Culture has been added from your [ICON_PRODUCTION] Production output</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_DTP_CULTURE_FACTORIES">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Culture}[ENDCOLOR] produced by Cooperatives.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HT_ALLENDE">
+			<Text>Allende Dummy</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

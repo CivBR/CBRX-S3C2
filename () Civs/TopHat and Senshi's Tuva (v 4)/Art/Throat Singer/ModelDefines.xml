@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <ArtDefine_UnitInfos>
+    <Row>
+      <Type>ART_DEF_UNIT_THP_SEN_THROAT_SINGER</Type>
+      <DamageStates>1</DamageStates>
+      <Formation>EarlyGreatArtist</Formation>
+      <IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
+      <PortraitIndex>7</PortraitIndex>
+    </Row>
+  </ArtDefine_UnitInfos>
+  <ArtDefine_UnitInfoMemberInfos>
+    <Row>
+      <UnitInfoType>ART_DEF_UNIT_THP_SEN_THROAT_SINGER</UnitInfoType>
+      <UnitMemberInfoType>ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN</UnitMemberInfoType>
+      <NumMembers>1</NumMembers>
+    </Row>
+    <Row>
+      <UnitInfoType>ART_DEF_UNIT_THP_SEN_THROAT_SINGER</UnitInfoType>
+      <UnitMemberInfoType>ART_DEF_UNIT_MEMBER_THP_SEN_THROAT_SINGER</UnitMemberInfoType>
+      <NumMembers>2</NumMembers>
+    </Row>
+  </ArtDefine_UnitInfoMemberInfos>
+  <ArtDefine_UnitMemberInfos>
+    <Row>
+      <Type>ART_DEF_UNIT_MEMBER_THP_SEN_THROAT_SINGER</Type>
+      <Scale>0.140000000596046</Scale>
+      <Model>Scout_Mongol.fxsxml</Model>
+      <MaterialTypeTag>CLOTH</MaterialTypeTag>
+      <MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+    </Row>
+  </ArtDefine_UnitMemberInfos>
+  <ArtDefine_UnitMemberCombats>
+    <Row>
+      <UnitMemberType>ART_DEF_UNIT_MEMBER_THP_SEN_THROAT_SINGER</UnitMemberType>
+      <EnableActions>Idle Death BombardDefend Run</EnableActions>
+      <HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+    </Row>
+  </ArtDefine_UnitMemberCombats>
+  <ArtDefine_StrategicView>
+    <Row>
+      <StrategicViewType>ART_DEF_UNIT_THP_SEN_THROAT_SINGER</StrategicViewType>
+      <TileType>Unit</TileType>
+      <Asset>sv_throatsinger.dds</Asset>
+    </Row>
+  </ArtDefine_StrategicView>
+</GameData>

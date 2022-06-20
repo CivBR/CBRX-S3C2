@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_FUNZA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_TENJO" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SUBACHOQUE" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_FACATATIVA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_TABIO" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_COTA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CAJICA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_ZIPAQUIRA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_NEMOCON" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_ENGATIVA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_BOS" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SOACHA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_ZIPACON" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SESQUILE" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_GUASCA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SOPO" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_USAQUEN" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CHOACHI" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIPAQUE" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_USME" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_GUACHETA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_RAMIRIQUI" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_MONIQUIRA" MainType="REGION" SubType="REGION" CultureType="MOD_LEUGI_MUISCA"/>
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_PISBA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CHOACHI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CRUZ_VERDE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_MACIZO_COLOMBIANO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_DE_MONSERRT" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_PERIJA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_YARIGUIES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SAN_LUIS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_LEUGI_MUISCA"/>
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_GUATAVITA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_TOTA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIVOR" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_FUQUENE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SISGA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_TOMINE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_GUAVIO" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_MUNA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_IGUAQUE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_COCUY" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SOCHAGOTA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CHINGAZA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_LEUGI_MUISCA"/>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_CHICAMOCHA_TUNJA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_BACATA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SUMAPAZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_GUATIQUIA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_ARAUCA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CATTUMBO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_TACHIRA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CAGUAN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_TUNJUELO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SOGAMOSO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SARAVITA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_OIRA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SUAZA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_IKUBOKY_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_LEUGI_MUISCA"/>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_NAPO_MOIST_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_JAPURA_MOIST_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_VARZEA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CHOCO_MOIST_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_DARIEN_MOIST_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CAUCA_VALLEY_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_URABA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_CATATUMBO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_LEUGI_MUISCA"/>
+		<Row Name="TXT_KEY_NAME_ML_SINU_VALLEY_DRY_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_LEUGI_MUISCA"/>
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+	</ML_Labels_Dynamic>
+</GameData>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7b019110-719f-4c41-ac22-eb57f441f33e" version="2">
+  <Properties>
+    <Name>[BNW] Sas's Chad - Idriss Deby</Name>
+    <Teaser>This mod adds the nation of Chad, under the leadership of Idriss Deby, to the game!</Teaser>
+    <Description>This mod adds the nation of Chad, under the leadership of Idriss Deby, to the game!</Description>
+    <Authors>Sasquatch (AKA Kramer), TopHatPaladin</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0E5970FCB2E43D2B52345C1EFD15DD65" import="1">Art/Atlases/Alpha/SasChadAlpha_128.dds</File>
+    <File md5="C42D04DAC552800D51F2BEB307CB0BDB" import="1">Art/Atlases/Alpha/SasChadAlpha_16.dds</File>
+    <File md5="E5AFD07E25E939EAA96E82F28D7F20C0" import="1">Art/Atlases/Alpha/SasChadAlpha_24.dds</File>
+    <File md5="67511F8D8742F74293B55618B125B794" import="1">Art/Atlases/Alpha/SasChadAlpha_32.dds</File>
+    <File md5="978C22B4CCB973AD3106A6A730747648" import="1">Art/Atlases/Alpha/SasChadAlpha_45.dds</File>
+    <File md5="33986DB54FE3D74F0FEF69D810612422" import="1">Art/Atlases/Alpha/SasChadAlpha_48.dds</File>
+    <File md5="11B6DC0CC8F7A30B454B4E6F63EFE559" import="1">Art/Atlases/Alpha/SasChadAlpha_64.dds</File>
+    <File md5="2E3F0C29F934008E864BE3254AA8B029" import="1">Art/Atlases/Alpha/SasChadAlpha_80.dds</File>
+    <File md5="F39426C337FA1C7FEEF4F3404C18CF64" import="0">Art/Atlases/ChadTextureAtlases.xml</File>
+    <File md5="893612A80FC68B7F8AD8021E8BED63DA" import="1">Art/Atlases/SasChadAtlas128.dds</File>
+    <File md5="F9C338D22031281C4DD2FCA9C2A2B695" import="1">Art/Atlases/SasChadAtlas256.dds</File>
+    <File md5="2F8381FF163BFEC6D3534DF9D19B5D8B" import="1">Art/Atlases/SasChadAtlas32.dds</File>
+    <File md5="EBE68B94FD088C0786CDF97351E15ED7" import="1">Art/Atlases/SasChadAtlas45.dds</File>
+    <File md5="34BEF3F15E5270C8ADDEE25F9964EF3E" import="1">Art/Atlases/SasChadAtlas64.dds</File>
+    <File md5="A7C61103AF648F0EEB0B3058510C9EBD" import="1">Art/Atlases/SasChadAtlas80.dds</File>
+    <File md5="9309774C33232FFC6E47E09F56BDD3C5" import="1">Art/Models/Animations/edited_aim_attack_city_to_run.dge</File>
+    <File md5="FA9CE373BB700CFCD8F0FA3A955B1E69" import="1">Art/Models/Animations/edited_aim_attack_to_run_graph.dge</File>
+    <File md5="BA4F6AEB27527AB47CC284B27C8288A8" import="1">Art/Models/Animations/edited_aim_bombard_defend_loop_graph.dge</File>
+    <File md5="CD02EC91E73F396297C2B3434A8BA034" import="1">Art/Models/Animations/edited_aim_combat_ready_graph.dge</File>
+    <File md5="6B4338103039DFBD431A44C89DA198D6" import="1">Art/Models/Animations/edited_aim_death_final_graph.dge</File>
+    <File md5="F9F109E1E43FD75DFC765D9B3A43CE48" import="1">Art/Models/Animations/edited_aim_death_graph.dge</File>
+    <File md5="7A5A0ADFBBB05D6E4FB126383988B264" import="1">Art/Models/Animations/edited_aim_enter_combat_ready_graph.dge</File>
+    <File md5="34488A641F9D948D865BBECF8B3878DF" import="1">Art/Models/Animations/edited_aim_enter_fortify.dge</File>
+    <File md5="F245B80AAC985C0011FEE5CBF3FB25DF" import="1">Art/Models/Animations/edited_aim_fidgets_graph.dge</File>
+    <File md5="65FED4E2E20D7512D6B5E92C1CD37EF7" import="1">Art/Models/Animations/edited_aim_fortify_fidget_graph.dge</File>
+    <File md5="F758D65157483D32C6763F817B216937" import="1">Art/Models/Animations/edited_aim_fortify_graph.dge</File>
+    <File md5="C2C8D0ADFA388980A03E814BF2B335F5" import="1">Art/Models/Animations/edited_aim_fortify_leave_graph.dge</File>
+    <File md5="EF6168FF0903555EDCBB9FD626CFB00F" import="1">Art/Models/Animations/edited_aim_idle_graph.dge</File>
+    <File md5="268797759660DA55A0F792A966EB586B" import="1">Art/Models/Animations/edited_aim_idle_offset_continue_true_graph.dge</File>
+    <File md5="C4D8B3EB164B5525B92514645521D0C3" import="1">Art/Models/Animations/edited_aim_leave_bombard_defend_trans_idle_a_graph.dge</File>
+    <File md5="189E34C23C7A19F2C190E1ACB4212C91" import="1">Art/Models/Animations/edited_aim_leave_combat_ready.dge</File>
+    <File md5="225D164523FE1270306005CCD71B075A" import="0">Art/Models/Animations/edited_aim_melee_attacks.dge</File>
+    <File md5="A64E86033B61613B4F39979D5603E65F" import="1">Art/Models/Animations/edited_aim_running_loop.dge</File>
+    <File md5="BCF1F945C0CBE7A1C9F62E5B46F84F99" import="1">Art/Models/Animations/edited_aim_start_running.dge</File>
+    <File md5="7B0232A8BE345EB899FF221FBD7BDCFB" import="1">Art/Models/Animations/edited_aim_stop_running.dge</File>
+    <File md5="2506D6C118D6A9FB915723F731C95FD4" import="1">Art/Models/Animations/edited_aim_transitions_for_idles.dge</File>
+    <File md5="E38F763EEDD8E5CA2320278CC1641F42" import="1">Art/Models/Animations/edited_fx_triggers_antiair_vehicle_1gun.ftsxml</File>
+    <File md5="108FD3B4BAAB4A605BF70CCD44F20E8B" import="1">Art/Models/Animations/edited_fx_triggers_tank.ftsxml</File>
+    <File md5="B233D27FC1FA1DB1127E263DC20D30DB" import="1">Art/Models/Animations/edited_mechanized_aim_state_01.fsmxml</File>
+    <File md5="5B8FBDD532486EB60ECB727286CA7706" import="1">Art/Models/Animations/fx_triggers_modernmarine.ftsxml</File>
+    <File md5="10FBE81A38F4D40FBB262AA7848681E8" import="1">Art/Models/Animations/ModernMarine_Attack.gr2</File>
+    <File md5="82C1973B3CED9ACEFFFE2C2003A603D4" import="1">Art/Models/Animations/ModernMarine_Bombard_Defense.gr2</File>
+    <File md5="4E5C1205401B54CBE76140F440D3200D" import="1">Art/Models/Animations/ModernMarine_DeathA.gr2</File>
+    <File md5="5D434BEDA164FA4674D624BBD5D5D2A1" import="1">Art/Models/Animations/ModernMarine_DeathA_Idle.gr2</File>
+    <File md5="90EEA8E512E8E0B848BD323FE8A99780" import="1">Art/Models/Animations/ModernMarine_DeathB.gr2</File>
+    <File md5="0208C41187615F90A266AB8AF44EFF0A" import="1">Art/Models/Animations/ModernMarine_DeathB_Idle.gr2</File>
+    <File md5="17FA15D5AF19204D2FBDDBDF0BCD6313" import="1">Art/Models/Animations/ModernMarine_Fidget.gr2</File>
+    <File md5="B63A001D59F2A07B413BB02898D2E656" import="1">Art/Models/Animations/ModernMarine_Fortify.gr2</File>
+    <File md5="4DB8C1D2B17255833878519BA8CF4568" import="1">Art/Models/Animations/ModernMarine_Fortify_Idle.gr2</File>
+    <File md5="A6DDF301AB9DFC99838E77EC71416A0C" import="1">Art/Models/Animations/ModernMarine_Idle.gr2</File>
+    <File md5="DCB52786F02DF0FE8C8C64A68733041A" import="1">Art/Models/Animations/ModernMarine_Run.gr2</File>
+    <File md5="8BEB4BFF5F615CE3E532A9A540158602" import="1">Art/Models/Hotchkiss_25mm_AA_Half-Track.dds</File>
+    <File md5="A0C50754DB62A4BDFECC43DB325065D6" import="1">Art/Models/Hotchkiss_25mm_AA_Half-Track.fxsxml</File>
+    <File md5="1B7409A7D79B598CF2B44E71AA205D6B" import="1">Art/Models/Hotchkiss_25mm_AA_Half-Track.gr2</File>
+    <File md5="8D169EE0641467BC594929FA3667C49D" import="1">Art/Models/marine_modern_diff.dds</File>
+    <File md5="B1A588F639A766680D09A0B9E7283482" import="1">Art/Models/marine_modern_sref.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Models/no_gloss.dds</File>
+    <File md5="5EFF6F7913E98ECE924D5C7E782C7EA4" import="1">Art/Models/SasFAP.fxsxml</File>
+    <File md5="2ADACE6ABEBF2BCBC477BFF7540D70AB" import="1">Art/Models/SasFAP.gr2</File>
+    <File md5="238C0E6C2FC9B2B39CEF68EFA52186AE" import="1">Art/Models/SasFAP_diff.dds</File>
+    <File md5="28B7C1A76A8874F659D2B33A460F7328" import="1">Art/Models/SasFAP_sref.dds</File>
+    <File md5="A1334CDE04B7B4E5AF920A7580F6A25B" import="1">Art/SasChad412.dds</File>
+    <File md5="C1EC06930A86CB2EA3540135CD25EB92" import="1">Art/SasFAPFlag.dds</File>
+    <File md5="DA5742066E955213E2F4FDBFDDFC7225" import="1">Art/SasTechnicalFlag.dds</File>
+    <File md5="45139856579B0AD1C4790D5C9D7FCCB8" import="1">Art/Sas_Deby_DOM.dds</File>
+    <File md5="5299D438C9391C8405306531432039AF" import="1">Art/Sas_Deby_Scene.dds</File>
+    <File md5="EBDA0B11815C8386A8CE6D0E02DEF0EE" import="1">Art/SV_SasFAP.dds</File>
+    <File md5="0934D4C6EE848E98B48D89ACF208BAD4" import="1">Art/SV_SasTechnical.dds</File>
+    <File md5="A101E17919682DFC5287AB558FE87779" import="0">Core/ChadModSupport.sql</File>
+    <File md5="29D79FED07CF2D2F57476F7565F2FAF9" import="0">Core/ChadText.xml</File>
+    <File md5="D03DC764CEB178DDE6686B28EA5C51EF" import="0">Core/ChadUniques.sql</File>
+    <File md5="F6698FCA86BD456293075C13E48BA312" import="0">Core/Civilization_Sas_Chad.xml</File>
+    <File md5="DECAA5C9512DCDF46BED364D7B8AC6A8" import="0">Core/Leader_Sas_Deby.xml</File>
+    <File md5="252878FC21DC1469E2CFF7280528BC01" import="0">Core/SasChadUnitArtDefs.sql</File>
+    <File md5="0EF2B31B3460904A7739D5A1FC0E182C" import="1">Core/Sas_Deby_Music.xml</File>
+    <File md5="F36B9D2C6DBF33699DD132EC14262580" import="1">Core/Sas_Deby_Scene.xml</File>
+    <File md5="B1E122B66D1876FB2D963623B3C8B3FF" import="0">Lua/Chad_Lua.lua</File>
+    <File md5="F1A3D243A0D3BA74DE4DA37312238322" import="1">Sound/Sas_Deby_Peace.mp3</File>
+    <File md5="111827B58E4B8E28D8EBA92AA9AE723C" import="1">Sound/Sas_Deby_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlases/ChadTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ChadText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ChadUniques.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization_Sas_Chad.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader_Sas_Deby.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sas_Deby_Music.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sas_Deby_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/SasChadUnitArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ChadModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Chad_Lua.lua">
+      <Name>Chad Lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

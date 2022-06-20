@@ -1,0 +1,27 @@
+     <!--Nemequene Music For Audio Scripts-->
+<Script2DSound>
+	<ScriptID>AS2D_LEADER_MUSIC_NEMEQUENE_PEACE</ScriptID>
+	<SoundID>SND_LEADER_MUSIC_NEMEQUENE_PEACE</SoundID>
+	<SoundType>GAME_MUSIC</SoundType>
+	<iMaxVolume>58</iMaxVolume>
+	<iMinVolume>58</iMinVolume>
+	<bIsMusic>True</bIsMusic>
+</Script2DSound>
+<Script2DSound>
+	<ScriptID>AS2D_LEADER_MUSIC_NEMEQUENE_WAR</ScriptID>
+	<SoundID>SND_AMERICAREGIONS_WAR_2</SoundID>
+	<SoundType>GAME_MUSIC</SoundType>
+	<iMaxVolume>40</iMaxVolume>
+	<iMinVolume>40</iMinVolume>
+	<bIsMusic>True</bIsMusic>
+</Script2DSound>
+<Script2DSound>
+      <ScriptID>AS2D_AMBIENCE_LEADER_NEMEQUENE_AMBIENCE</ScriptID>
+      <SoundID>SND_AMBIENCE_GANDHI_AMBIENCE</SoundID>
+      <SoundType>GAME_SFX</SoundType>
+      <bLooping>True</bLooping>
+      <iMaxVolume>25</iMaxVolume>
+      <iMinVolume>25</iMinVolume>
+    </Script2DSound>
+	
+   <!--Nemequene Music For Audio Scripts-->

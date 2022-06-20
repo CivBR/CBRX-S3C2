@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/19/2017 10:43:11 PM -->
+<GameData>
+	<Language_en_US>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_0">
+		<Text>Manuel</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_1">
+		<Text>Francisco</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_2">
+		<Text>José Ignacio</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_3">
+		<Text>José Maria</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_4">
+		<Text>Bernardo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_5">
+		<Text>Enrique</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_6">
+		<Text>José Matías</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_7">
+		<Text>Domingo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_8">
+		<Text>El Gaucho</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PG_RIODELAPLATA_SPY_NAME_9">
+		<Text>Juan José</Text>
+	</Row>
+	<!--City List: PG_RIODELAPLATA-->
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_1">
+		<Text>Buenos Aires</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_2">
+		<Text>Tucuman</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_3">
+		<Text>Catamarca</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_4">
+		<Text>Tupiza</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_5">
+		<Text>La Plata</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_6">
+		<Text>Jujuy</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_7">
+		<Text>La Rioja</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_8">
+		<Text>Mendoza</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_9">
+		<Text>Mizque</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_10">
+		<Text>Salta</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_11">
+		<Text>San Juan</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_12">
+		<Text>Tarija</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_13">
+		<Text>San Luis</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_14">
+		<Text>Santiago del Estero</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_15">
+		<Text>Cordoba</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_16">
+		<Text>Sucre</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_17">
+		<Text>Santa Fe</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_18">
+		<Text>Rosario</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_19">
+		<Text>Potosi</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_20">
+		<Text>Cochabamba</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_21">
+		<Text>Parana</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_PG_RIODELAPLATA_22">
+		<Text>Carmen de Patagones</Text>
+	</Row>
+		</Language_en_US>
+</GameData>

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Rio de la Plata-->
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_DESC">
+			<Text>Provincias Unidas del Rio dela Plata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_SHORT_DESC">
+			<Text>Rio dela Plata</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_ADJECTIVE">
+			<Text>Rioplatense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_TEXT_1">
+			<Text>The United Provinces of Río de la Plata was the original name of the state that emerged from the May Revolution and the early developments of the Argentine War of Independence. It comprised most of the former Viceroyalty of the Río de la Plata dependencies with Buenos Aires as its capital and was the precursor state to modern Argentina.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_TEXT_2">
+			<Text>The Río de la Plata Basin is one of the largest river basins on Earth and covers a hydrographical area of roughly 4.1 million square kilometers. The river itself behaves as an estuary in which freshwater and seawater mix. The climate of the Pampas region is generally temperate. Frequent wildfires ensure that only small plants such as grasses flourish, and trees are rare. The dominant vegetation types are grassy prairie and grass steppe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_HEADING_3">
+			<Text>Viceroyalty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_TEXT_3">
+			<Text>Usually considered one of the late Bourbon Reforms, the Viceroyalty of Río de la Plata was established due to a desire by the Spanish Crown to decentralize the rule of the Spanish-American Empire and of recognition that the area south of Brazil required greater military defenses in view of Portuguese encroachments.
+				[NEWLINE][NEWLINE]In 1776 the first viceroy of Río de la Plata, Pedro de Cevallos, arrived in Montevideo with a large force of men and ships. Cevallos pushed the Portuguese back and organized a new government in Buenos Aires before being supplanted by another viceroy just a few months after taking office. The viceroys following Cevallos administered the region well, as did four others who served briefly between 1795 and 1804. During these years the viceroyalty in general and the city of Buenos Aires in particular became a flourishing outpost of the Spanish empire. Silver from the Potosí mines, previously exported via Peru, was sent through Buenos Aires. An enormous demand grew for salted meat - especially in Cuba and Brazil and other areas where slaves were fed cheaply - spurring an era of unprecedented prosperity for the cattle industry of the Pampas. Hides and other cattle products also brought wealth to Buenos Aires.
+				[NEWLINE][NEWLINE]In 1804 Rafael, marqués de Sobremonte, assumed the viceregal post. Twice during his term the British invaded, and twice he fled. The creole (Argentine born Europeans) population of Buenos Aires successfully fought off the invaders on both occasions, in the process gaining confidence in their ability to govern and defend themselves. In 1810 the creoles created a provisional junta and exiled the viceroy to the Canary Islands, thereby ending the Viceroyalty of the Río de la Plata and launching the independence movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_HEADING_4">
+			<Text>Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_TEXT_4">
+			<Text>The Argentine independence movement began in 1806-07, when British attacks on Buenos Aires were repelled in the two battles known as the Reconquista and the Defensa. Also important there, as elsewhere in Spanish America, were the ramifications of Napoleon I's intervention in Spain, beginning in 1808, which plunged that country into a civil war between two rival governments - one set up by Napoleon, who placed his own brother Joseph Bonaparte on the throne, and the other created by patriotic juntas in Spain in the name of the exiled Ferdinand VII and aided by the British. In most of Spanish America there was general sympathy with the regency, but both claims were rejected, mainly on the ground that an interregnum existed and thus, under ancient principles of Spanish law, the king's dominions in America had the right to govern themselves pending the restoration of a lawful king.
+				[NEWLINE][NEWLINE]This view was sustained in Argentina by the creoles rather than by the peninsular Spaniards, and it was put into effect by the Buenos Aires cabildo, or municipal council. This ancient Spanish institution had existed in all the colonies since the 16th century. Its powers were very limited, but it was the only organ that had given the colonists experience in self-government. In emergencies it was converted into an open cabildo, a kind of town meeting, which included prominent members of the community. On May 25, 1810, such an open cabildo in Buenos Aires established an autonomous government to administer the Viceroyalty of the Río de la Plata in the name of Ferdinand VII, pending his restoration.
+				[NEWLINE][NEWLINE]When Ferdinand was restored in 1814, however, he was virtually powerless in Spain, which remained under the shadow of France. An assembly representing most of the viceroyalty met at San Miguel de Tucumán and on July 9, 1816, declared the country independent under the name of the United Provinces of the Río de la Plata. Several years of hard fighting followed before the Spanish royalists were defeated in northern Argentina. But they remained a threat from their base in Peru until it was liberated by José de San Martín and Simón Bolívar in 1820-24.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_HEADING_5">
+			<Text>The United Provinces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_TEXT_5">
+			<Text>Regionalism had long marked the relationship between the numerous provinces of what is today Argentina, and the wars of independence did not result in national unity. The establishment of the Liga Federal ("League of the Free Peoples") by the Eastern Bank of the Uruguay River and four neighboring provinces in 1814 marked the first formal rupture in the United Provinces of Río de la Plata that had been created by the 1810 May Revolution.
+				[NEWLINE][NEWLINE]The Buenos Aires government tried to maintain the integrity of the old viceroyalty, but the outlying portions, never effectively controlled, soon seceded: Paraguay in 1814 and Bolivia in 1825. The Battle of Cepeda thwarted the goal of Buenos Aires leaders to govern the country under the Argentine Constitution of 1819, and following a series of disorders and a short-lived Constitutional Republic led by Buenos Aires centralist Bernardino Rivadavia in 1826 and 1827, the United Provinces established in 1810 again became divided, and the Province of Buenos Aires would emerge as the most powerful among the numerous semi-independent states. Uruguay would eventually secede in 1828.
+				[NEWLINE][NEWLINE]The remaining territory (what now constitutes modern Argentina) was frequently disunited until 1860. The root cause of the trouble, the power struggle between Buenos Aires and the rest of the country, was not settled until 1880, and even after that it continued to cause dissatisfaction.
+			</Text>
+		</Row>
+
+		
+		<!--José de San Martín-->
+		<Row Tag="TXT_KEY_LEADER_PG_SANMARTIN">
+			<Text>José de San Martín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_TEXT_1">
+			<Text>José de San Martín was an Argentine general and statesman who helped lead the revolutions against Spanish rule in Argentina, Chile, and Peru. San Martín is regarded as a national hero of Argentina and Peru, and, together with Bolívar, one of the Liberators of Spanish South America
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_TEXT_2">
+			<Text>San Martín's father, Juan de San Martín, a professional soldier, was administrator of Yapeyú, formerly a Jesuit mission station in Guaraní Indian territory, on the northern frontier of Argentina. His mother, Gregoria Matorras, was also Spanish. The family returned to Spain when José was six. From 1785 to 1789 he was educated at the Seminary of Nobles in Madrid, leaving there to begin his military career as a cadet in the Murcia infantry regiment. For the next 20 years he was a loyal officer of the Spanish monarch, fighting against the Moors in Oran; against the British, who held him captive for more than a year; and against the Portuguese in the War of the Oranges. He was made captain in 1804.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_HEADING_3">
+			<Text>Leaving Spain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_TEXT_3">
+			<Text>The turning point in San Martín's career came in 1808, following Napoleon's occupation of Spain and the subsequent patriotic uprising against the French there. For two years he served the Sevilla junta that was conducting the war on behalf of the imprisoned Spanish king Ferdinand VII. He was promoted to the rank of lieutenant colonel for his conduct in the Battle of Bailén and was elevated to command of the Sagunto Dragoons after the Battle of Albuera. Instead of taking up his new post, he sought permission to go to Lima, the capital of the viceroyalty of Peru, but traveled by way of London to Buenos Aires, which had become the principal centre of resistance in South America to the Sevilla junta and its successor, the Cádiz-based Council of Regency. There, in the year 1812, San Martín was given the task of organizing a corps of grenadiers against the Spanish royalists centred in Peru who threatened the revolutionary government in Argentina.
+				[NEWLINE][NEWLINE]In later years, San Martín averred that he had sacrificed his career in Spain because he had responded to the call of his native land, and this is the view taken by Argentinian historians. Undoubtedly, peninsular Spanish prejudice against anyone born in the Indies must have rankled throughout his career in Spain and caused him to identify himself with the creole revolutionaries.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_HEADING_4">
+			<Text>Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_TEXT_4">
+			<Text>In the service of the Buenos Aires government, San Martín distinguished himself as a trainer and leader of soldiers. San Martín recognized that the Río de la Plata provinces would never be secure so long as the royalists held Lima, but he perceived the military impossibility of reaching the centre of viceregal power by way of the conventional overland route through Upper Peru. He therefore quietly prepared the masterstroke that was his supreme contribution to the liberation of southern South America. First, he disciplined and trained the army around Tucumán so that, with the assistance of gaucho guerrilleros, they would be capable of a holding operation. Then, on the pretense of ill health, he got himself appointed governor intendant of the province of Cuyo, the capital of which was Mendoza, the key to the routes across the Andes. There, he set about creating an army that would link up overland with the soldiers of the patriotic government in Chile and then proceed by sea to attack Peru.
+				[NEWLINE][NEWLINE]To his disappointment, when the first stage of this plan was nearing completion, loyalist forces recaptured Chile. This made it necessary for San Martín to fight his way westward across the formidable barrier of the Andes. On February 12 he surprised and defeated the royalists at Casas de Chacabuco and took Santiago, where he refused the offer of the governorship of Chile in favour of Bernardo O’Higgins. The next stage of San Martín’s plan involved the creation of the Chilean navy and the accumulation of troop ships. This was accomplished, despite a shortage of funds, by August 1820, when the rather shoddy fleet, consisting mainly of armed merchant ships, under the command of Thomas Cochrane, left Valparaíso for the Peruvian coast. Cochrane had failed the year before to take the chief port, Callao, which was well-defended. The port was therefore blockaded, and the troops were landed to the south near Pisco; from this point they could threaten Lima from the landward side. San Martín resisted the temptation to assault the capital, which was defended by a superior force, and waited for almost a year, until the royalists, despairing of assistance from Ferdinand VII, withdrew to the mountains. San Martín and his army then entered Lima, the independence of Peru was proclaimed on July 28, 1821, and the victorious revolutionary commander was made protector.
+				[NEWLINE][NEWLINE]San Martín’s position was nevertheless insecure. He had broken with his supporters in Buenos Aires when, against their wishes, he insisted on pressing on to Lima; he was unsure of the loyalty of the Peruvian people and of the backing of some of his officers, many of whom suspected him of dictatorial or monarchical ambitions; and he lacked the forces to subdue the royalist remnants in the interior. Moreover, Simón Bolívar, who had liberated the northern provinces of South America, had annexed Guayaquil, a port and province that San Martín had hoped would opt for incorporation in Peru. He therefore decided to confront Bolívar.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_HEADING_5">
+			<Text>Meeting with Bolivar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_TEXT_5">
+			<Text>The two victorious generals met on July 26, 1822, in Guayaquil, where Bolívar had already taken control. What passed between them in their secret discussions is unknown, but what is clear is that San Martín hurried back to Lima, a disappointed man. There, seriously ill, faced by recriminations and overt disaffection, he resigned his protectorship on September 20. In a message to the Peruvian Congress he left a farsighted warning: "The presence of a successful soldier (no matter how disinterested) is dangerous to the States that have just been constituted." The rest of his life was spent in exile with his daughter, in Brussels, Paris, and Boulogne-sur-Mer, wisely avoiding any further involvement in the anarchic situations that marred the early history of the newly independent nations. He died in Boulogne-sur-Mer in 1850.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_HEADING_6">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_TEXT_6">
+			<Text>San Martín's contribution to the cause of independence was his military skill. The boldness of his plan to attack the viceroyalty of Lima by crossing the Andes to Chile and going on by sea, as well as the patience and determination with which he executed it, was undoubtedly the decisive factor in the defeat of Spanish power in southern South America. Whether at Guayaquil he consciously made a great renunciation of personal ambition so that Bolívar, and with him the cause of independence, might triumph, or whether he went into voluntary exile because Bolívar made it clear that he was not prepared to help Peru so long as San Martín remained in control, remains an unresolved historical problem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_NAME">
+			<Text>José Francisco de San Martín y Matorras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_SUBTITLE">
+			<Text>General en Jefe del Ejército de los Andes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_TITLES_1">
+			<Text>Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_TITLES_2">
+			<Text>Protector del Perú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_TITLES_3">
+			<Text>Gobernador de Cuyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PG_SANMARTIN_LIVED">
+			<Text>1778 - 1850 AC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_PG_SANMARTIN_TEXT">
+			<Text>Welcome, José de San Martín, Libertador and hero of the Argentine people! Together with Simón Bolívar, you helped lead South America's struggle for independence from the Spanish Empire. By offering your services to the fledgling United Provinces of Río de la Plata you led a daring march across the Andes to help protect the embattled nation from royalist forces in the north. Your leadership and military acumen proved instrumental in liberating Chile and ultimately securing the Spanish stronghold of Lima. Though the envisioned unity of Río de la Plata would be short lived, the emerging nations of Chile, Argentina, and Peru will forever regard you as their protector and hero.
+				[NEWLINE][NEWLINE]Thanks to your efforts, the people of South America are finally free to pursue their own destiny. Yet, they need a strong leader to help them fulfill their promise. San Martín, will you return to guide them and continue the fight against foreign oppression? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>		
+		<!--Docta Latinoamericana-->
+		<Row Tag="TXT_KEY_TRAIT_PG_RIODELAPLATA_SHORT">
+			<Text>Docta Latinoamericana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PG_RIODELAPLATA">
+			<Text>Whenever a Citizen is born you receive an amount of [ICON_RESEARCH]Science, [ICON_CULTURE]Culture, [ICON_PRODUCTION]Production or [ICON_GOLD]Gold depending on the City Focus. Mounted Units grant points towards [ICON_GOLDEN_AGE]Golden Ages when defeating an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PG_RIODELAPLATA_ALERT">
+			<Text>A [ICON_CITIZEN]Citizen has been born on {1_Cityname} and has generated {2_Yieldbonus}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PG_SANMARTIN_TRAIT">
+			<Text>Ejército de los Andes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PG_SANMARTIN_TRAIT_HELP">
+			<Text>This unit grants Golden Age points when defeating an enemy unit.</Text>
+		</Row>
+
+		<!--Granaderos a Caballo-->
+		<Row Tag="TXT_KEY_UNIT_PG_GRANADEROS">
+			<Text>Granaderos a Caballo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PG_GRANADEROS_HELP">
+			<Text>Replacement for Cavalry which takes longer to produce but has increased damage has an additional weaker 1 Range attack. Granaderos also receive the “Code of Honour” promotion, which heals half of their health points when starting a turn with less than 10 HP, the effect can only be applied once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PG_GRANADEROS_HELP_EE">
+			<Text>Replacement for Cuirassier which takes longer to produce but has increased damage has an additional weaker 1 Range attack. Granaderos also receive the “Code of Honour” promotion, which heals half of their health points when starting a turn with less than 10 HP, the effect can only be applied once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PG_GRANADEROS_STRATEGY">
+			<Text>Granaderos a Caballo are a strong middle to late game unit, that can attack aggressively without much fear of repercutions thanks to their healing promotion and their safe ranged attack. Make sure to plan your attacks so the healing bonus applies on the right moment and you will be victorious.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PG_GRANADEROS_TEXT">
+			<Text>The Granaderos a Caballo ("Mounted Grenadiers") is a regiment of the Argentine army first commanded by José de San Martin in 1812. The strict training regimen and rules of conduct established by Jose de San Martin for the Granaderos a Caballo became a model for the Argentine army. Rigorous military discipline, especially in maneuvers, training and parade drills were a defining characteristic of the regiment. The Granaderos a Caballo fought in the Argentine War of Independence and the Cisplatine War, subsequently becoming the Presidential Honor Guard in 1825. Refusing to replenish its membership with soldiers who had not fought in the Argentine War of Independence, the regiment was forced to disband in 1826. However, the regiment was later reinstated in 1903 and fought bravely in the Falklands War of 1982.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PG_GRANADEROS_ON">
+			<Text>Code of Honour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PG_GRANADEROS_ON_HELP">
+			<Text>This unit is automatically Healed when starting a turn with less than 10 HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PG_GRANADEROS_OFF">
+			<Text>[COLOR_DARK_GREY]Code of Honour (Used)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PG_GRANADEROS_OFF_HELP">
+			<Text>The effect of this unit's promotion has already been used.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PG_GRANADEROS_ACTIVATION">
+			<Text>Your {1_Unitname} has been fully healed thanks to its promotion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PG_GRANADEROS">
+			<Text>
+				Based on the concept of "leading by example", in private life as well as military life, the Regiment's Code of Honor included discipline, courage, and a commitment to training. The Code incorporated fourteen specific points, which stated that it was unbecoming of an officer in the regiment:
+				[NEWLINE][ICON_BULLET]To show cowardice in battle. Even lowering one's head will be considered as such.
+				[NEWLINE][ICON_BULLET]To not accept a challenge, whether it is just or unjust.
+				[NEWLINE][ICON_BULLET]To not demand satisfaction when he has been insulted.
+				[NEWLINE][ICON_BULLET]To not defend, at all costs, the honor of his unit when it has been defamed in his presence or elsewhere.
+				[NEWLINE][ICON_BULLET]To cheat like a tradesman.
+				[NEWLINE][ICON_BULLET]To lack integrity in the management of his unit's interests; such as not paying his troops the money that has been provided for them.
+				[NEWLINE][ICON_BULLET]To speak ill of his comrades to soldiers or officers from other military units.
+				[NEWLINE][ICON_BULLET]To publicize the discussions held by the officers in their secret meetings.
+				[NEWLINE][ICON_BULLET]To fraternize with sergeants, corporals and troopers.
+				[NEWLINE][ICON_BULLET]To lay hands on a woman, even if she has insulted him.
+				[NEWLINE][ICON_BULLET]To not come to the relief of a comrade who is in danger, when he is able.
+				[NEWLINE][ICON_BULLET]To be seen in public with women who are known prostitutes.
+				[NEWLINE][ICON_BULLET]To gamble with low and bawdy people outside of the officer corps.
+				[NEWLINE][ICON_BULLET]To drink immoderately, in a way that would be prejudicial to the honor of his unit.
+			</Text>
+		</Row>
+		<!--Patricios-->
+		<Row Tag="TXT_KEY_UNIT_PG_SANMARTIN_PATRICIOS">
+			<Text>Patricios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PG_SANMARTIN_PATRICIOS_HELP">
+			<Text>Special unit granted to José de San Martín upong agreeing the help of the Patricios. They are weaker Riflemen that can be expended to start a [ICON_GOLDEN] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PG_SANMARTIN_PATRICIOS_STRATEGY">
+			<Text>Patricios can either be used to further increase your military power or to start a Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PG_SANMARTIN_PATRICIOS_TEXT">
+			<Text>The Regimiento de Patricios ("Patricians' Regimen") is the oldest and one of the most prestigious regiments of the Argentine Army. The regiment was formed as the Legión Patricia from inhabitants of Buenos Aires in 1806 to fight against the British invasions of the Rio de la Plata. It has also fought in the May Revolution, the Cisplatine War, the Platine War, the Paraguayan War, the Dirty War, and the Falklands War. The Regimiento de Patricios has existed since before Argentine independence and, through the May 29 Decree, formed the first units of the Argentine army. Since the 1990s the regiment has been designated as air assault infantry, while also serving as the welcoming party for visiting foreign dignitaries to Argentina and the escort and honor guard battalion for the City Government of Buenos Aires.</Text>
+		</Row>
+		
+		
+		<!--Yerbamate Plantations-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_PG_YERBAMATE_PLANTATION">
+			<Text>Yerbamate Plantation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PG_YERBAMATE_PLANTATION_HELP">
+			<Text>Unique Improvement for Rio dela Plata that may not be built next to each other. May only be built on flatlands next to rivers after the discovery of Horseback Riding. Grants a free source of [ICON_RES_MATE]Yerba Mate, yielding a total of +1 [ICON_FOOD]Food and +2 [ICON_CULTURE]Culture aside from the plot yields, producing +1 more [ICON_FOOD] Food during Golden Ages.
+			[NEWLINE][COLOR_WATER_TEXT][ICON_RES_MATE]Yerbamate is a Bonus Resource that receives bonuses with Granaries and heals owned units that start on their plot.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PG_YERBAMATE_PLANTATION_TEXT">
+			<Text>Before the arrival of the Spanish, the Guarani people were known to have consumed yerba mate at least for medicinal purposes. Mate consumption spread in the 17th century to the Platine region, quickly turning into Paraguay's main commodity (above other wares like tobacco) with Indian labour used to harvest wild stands. In the mid-17th century, Jesuits managed to domesticate the plant and establish plantations in their Indian reductions in Misiones, Argentina, sparking severe competition with the Paraguayan harvesters of wild stands. After the expulsion of the Jesuits in the 1770s their plantations fell into decay as did their domestication secrets. The industry continued to be of prime importance for the Paraguayan economy until the Paraguayan War. Afterwards, Brazil became the prime producer until the 1930s when Brazilian entrepreneurs turned their attention to coffee. Argentina, who had long been the prime consumer, took over as the largest producer and resurrected Misiones Province.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PG_YERBAMATE_PLANTATION">
+			<Text>Build a Yerbamate Plantation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PG_YERBAMATE">
+			<Text>Yerbamate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PG_YERBAMATE_TEXT">
+			<Text>Before the arrival of the Spanish, the Guarani people were known to have consumed yerba mate at least for medicinal purposes. Mate consumption spread in the 17th century to the Platine region, quickly turning into Paraguay's main commodity (above other wares like tobacco) with Indian labour used to harvest wild stands. In the mid-17th century, Jesuits managed to domesticate the plant and establish plantations in their Indian reductions in Misiones, Argentina, sparking severe competition with the Paraguayan harvesters of wild stands. After the expulsion of the Jesuits in the 1770s their plantations fell into decay as did their domestication secrets. The industry continued to be of prime importance for the Paraguayan economy until the Paraguayan War. Afterwards, Brazil became the prime producer until the 1930s when Brazilian entrepreneurs turned their attention to coffee. Argentina, who had long been the prime consumer, took over as the largest producer and resurrected Misiones Province.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PG_YERBAMATE_HELP">
+			<Text>[NEWLINE][COLOR_WATER_TEXT]Yerbamate is a Bonus Resource that receives bonuses with Granaries and heals owned units that start on their plot.[ENDCOLOR]</Text>
+		</Row>
+		
+		
+		<Update>
+			<Set Text="Each source of [ICON_RES_WHEAT] Wheat [ICON_RES_BANANA] Bananas [ICON_RES_DEER] Deer and [ICON_RES_MATE] Yerbamate worked by this City produce +1 [ICON_FOOD] Food."/>
+			<Where Tag="TXT_KEY_BUILDING_GRANARY_HELP"/>
+		</Update>
+
+	</Language_en_US>
+</GameData>

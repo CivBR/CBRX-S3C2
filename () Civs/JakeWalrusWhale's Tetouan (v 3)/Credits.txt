@@ -1,0 +1,44 @@
+===========================================================================
+== Credits
+===========================================================================
+-- JakeWalrusWhale
+----------------
+Art (UU Icon; UB Icon; Leader Icon; Civ Icon; Promotion Icon; Unit Model Reskin)
+Code
+Design
+Text
+
+----------------
+-- Lime
+----------------
+Art (Leaderscene; Map)
+
+----------------
+achilleszero
+----------------
+Art (Unit Model)
+
+----------------
+Typhlomence
+----------------
+Art (Unit Model Conversion)
+
+----------------
+-- TarcisioCM
+----------------
+Code pillaged from
+
+----------------
+-- Wikipedia
+----------------
+Pedia Information
+
+----------------
+-- "La Leyenda" by Swashbuckle
+----------------
+Music (Peace Theme)
+
+----------------
+-- "Extemporized Ophthalmic Release" by Melechesh
+----------------
+Music (War Theme)

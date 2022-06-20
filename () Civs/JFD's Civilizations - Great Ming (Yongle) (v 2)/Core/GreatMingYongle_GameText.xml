@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_MING_YONGLE_ADJECTIVE">
+			<Text>Ming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_MING_YONGLE_DESC">
+			<Text>Empire of Great Ming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_MING_YONGLE_SHORT_DESC">
+			<Text>Great Ming</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_JFD_TAL_CHINA">
+			<Text>China</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_MING_YONGLE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_MING_YONGLE_TEXT_1">
+			<Text>The Ming dynasty, which succeeded the Yuan (Mongol) dynasty (1206–1368), was founded by Zhu Yuanzhang. Zhu, who was of humble origins, later assumed the reign title of Hongwu. The Ming became one of the most stable but also one of the most autocratic of all Chinese dynasties.[NEWLINE][NEWLINE]The basic governmental structure established by the Ming was continued by the subsequent Qing (Manchu) dynasty and lasted until the imperial institution was abolished in 1911/12. The civil service system was perfected during the Ming and then became stratified; almost all the top Ming officials entered the bureaucracy by passing a government examination. The Censorate (Yushitai), an office designed to investigate official misconduct and corruption, was made a separate organ of the government. Affairs in each province were handled by three agencies, each reporting to separate bureaus in the central government. The position of prime minister was abolished. Instead, the emperor took over personal control of the government, ruling with the assistance of the especially appointed Neige, or Grand Secretariat.[NEWLINE][NEWLINE]Basically, the Ming incorporated the Song dynasty’s policy of relying on the literati in managing state affairs. However, from the Yongle emperor onward, the emperors relied increasingly on trusted eunuchs to contain the literati. Also introduced at that time was a system of punishment by flogging with a stick in court, which was designed to humiliate civil officials—while also making use of them to realize the emperor’s aim of maintaining practical control of the state in his own hands. By decree of the emperor, a vast spying service was organized under three special agencies.[NEWLINE][NEWLINE]Struggles with peoples of various nationalities continued throughout the Ming period. Clashes with Mongols were nearly incessant. During the first decades of the dynasty, the Mongols were driven north to Outer Mongolia (present-day Mongolia), but the Ming could not claim a decisive victory. From then onward the Ming were generally able to maintain their northern border, though by the later stages of the dynasty it in effect only reached the line of the Great Wall. On the northeast, the Juchen (Chinese: Nüzhen, or Ruzhen), who rose in the northeast around the end of the 16th century, pressed the Ming army to withdraw successively southward, and eventually the Ming made the east end of the Great Wall their last line of defense. The Ming devoted considerable resources toward maintaining and strengthening the wall, especially near Beijing, the dynasty’s capital.[NEWLINE][NEWLINE]In early Ming times, China’s domain extended considerably in the south as a result of its successful invasion of northern Vietnam. But the brief occupation of Vietnam was met with determined local guerrilla resistance, and the Ming government quickly decided to restore the boundary to its original line. It never again attempted to push southward. During the 15th century the government had organized large tribute-collecting flotillas commanded by Zheng He to extend China’s influence. Also during the Ming, Japan became more aggressive. In the 15th century Japanese raiders teamed up with Chinese pirates to make coastal raids in Chinese waters, which were of a relatively small scale but were still highly disruptive to Chinese coastal cities. The Ming government eventually tried to stop Japan’s attempt to control Korea, which became a long and costly campaign.[NEWLINE][NEWLINE]The Ming government was gradually weakened by factionalism between civil officials, interference by palace eunuchs, the burdens of a growing population, and a succession of weak and inattentive emperors. In 1644 a rebel leader, Li Zicheng, captured Beijing, and the local Ming military commander requested aid from the Manchu tribal peoples who had been encroaching on China’s northern borders. The Manchu drove out Li Zicheng and then remained, establishing the Qing dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_MING_YONGLE_HEADING_2">
+			<Text>Cultural Achievements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_MING_YONGLE_TEXT_2">
+			<Text>Despite the many foreign contacts made during the Ming period, cultural developments were characterized by a generally conservative and inward-looking attitude. Ming architecture is largely undistinguished with the Forbidden City, a palace complex built in Beijing in the 15th century by the Yongle emperor (and subsequently enlarged and rebuilt), its main representative. The best Ming sculpture is found not in large statues but in small ornamental carvings of jade, ivory, wood, and porcelain. Although a high level of workmanship is manifest in Ming decorative arts such as cloisonné, enamelware, bronze, lacquerwork, and furniture, the major achievements in art were in painting and pottery.[NEWLINE][NEWLINE]While there were two main traditions in painting in the Ming period, that of “literati painting” (wenrenhua) of the Wu school and that of the “professional academics” (huayuanpai) associated with the Zhe school, artists generally stressed independent creation, impressing their work with strong marks of their personal styles.[NEWLINE][NEWLINE]There were many new developments in ceramics, along with the continuation of established traditions. Three major types of decoration emerged: monochromatic glazes, including celadon, red, green, and yellow; underglaze copper red and cobalt blue; and overglaze, or enamel painting, sometimes combined with underglaze blue. The latter, often called “blue and white,” was imitated in Vietnam, Japan, and, from the 17th century, in Europe. Much of this porcelain was produced in the huge factory at Jingdezhen in present-day Jiangsu province. One of the period’s most-influential wares was the stoneware of Yixing in Jiangsu province, which was exported in the 17th century to the West, where it was known as boccaro ware and imitated by such factories as Meissen.[NEWLINE][NEWLINE]The Ming regime restored the former literary examinations for public office, which pleased the literary world, dominated by Southerners. In their own writing the Ming sought a return to classical prose and poetry styles and, as a result, produced writings that were imitative and generally of little consequence. Writers of vernacular literature, however, made real contributions, especially in novels and drama. Chinese traditional drama originating in the Song dynasty had been banned by the Mongols but survived underground in the South, and in the Ming era it was restored. This was chuanqi, a form of musical theatre with numerous scenes and contemporary plots. What emerged was kunqu style, less bombastic in song and accompaniment than other popular theatre. Under the Ming it enjoyed great popularity, indeed outlasting the dynasty by a century or more. It was adapted into a full-length opera form, which, although still performed today, was gradually replaced in popularity by jingxi (Peking opera) during the Qing dynasty.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_1">
+			<Text>Nanjing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_2">
+			<Text>Shuntian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_3">
+			<Text>Fuzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_4">
+			<Text>Guangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_5">
+			<Text>Guilin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_6">
+			<Text>Guiyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_7">
+			<Text>Kaifeng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_8">
+			<Text>Wuchang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_9">
+			<Text>Nanchang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_10">
+			<Text>Xi'an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_11">
+			<Text>Jinan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_12">
+			<Text>Taiyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_13">
+			<Text>Chengdu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_14">
+			<Text>Yunnan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_15">
+			<Text>Hangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_16">
+			<Text>Fengyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_17">
+			<Text>Baoding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_18">
+			<Text>Yanzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_19">
+			<Text>Pingyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_20">
+			<Text>Luoyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_21">
+			<Text>Fengxiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_22">
+			<Text>Baoning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_23">
+			<Text>Ruizhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_24">
+			<Text>Hanyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_25">
+			<Text>Jiande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_26">
+			<Text>Xinghua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_27">
+			<Text>Zhaoqing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_28">
+			<Text>Pingle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_29">
+			<Text>Nanning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MING_YONGLE_30">
+			<Text>Anshun</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_0">
+			<Text>Wang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_1">
+			<Text>Zhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_2">
+			<Text>Tian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_3">
+			<Text>Wu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_4">
+			<Text>Nguyen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_5">
+			<Text>Gang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_6">
+			<Text>Feng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_7">
+			<Text>Wei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_8">
+			<Text>Liu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MING_YONGLE_9">
+			<Text>Wang</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE">
+			<Text>Yongle</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_NAME">
+			<Text>Yongle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_TEXT_1">
+			<Text>Yongle was the third emperor of China’s Ming dynasty, which he raised to its greatest power. He moved the capital from Nanjing to Beijing, which was rebuilt with the Forbidden City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_HEADING_2">
+			<Text>Youth and Early Career</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_TEXT_2">
+			<Text>Zhu Di’s father, the Hongwu emperor, had rapidly risen from a poor orphan of peasant origin through stages as a mendicant Buddhist monk and then a subaltern in a popular rebellion against the Mongol rulers of the Yuan dynasty to become a virtually independent satrap in part of the rich eastern Yangtze River (Chang Jiang) valley, with his headquarters at Yingtian (Nanjing). There Zhu Di was born fourth in a brood that ultimately numbered 26 princes. Modern scholarship has suggested that Zhu Di was probably borne by a secondary consort of Korean origin, although in traditional Chinese fashion he always treated his father’s principal consort, the revered and influential empress Ma, as his “legal” mother.[NEWLINE][NEWLINE]In 1360 Hongwu was struggling with other contenders for supremacy in the Yangtze valley, while the Yuan government at Dadu (Beijing) was all but immobilized by court factionalism. In the next seven years the Hongwu emperor’s armies swept central and eastern China clear of opposition, and in 1368 he inaugurated the new Ming dynasty, with its capital at Nanjing. He drove the last Mongol emperor out of Beijing and then beyond the Great Wall and the Gobi.[NEWLINE][NEWLINE]At the age of 10, in 1370, Zhu Di was designated prince of Yan (an ancient name for the Beijing region). As he grew to manhood during the next decade, the new Ming empire was stabilized, an elaborate governmental apparatus was erected, and a new socioeconomic order characterized by authoritarian reconstruction in many fields was instituted. The boy grew up in the mold of his remarkable father—robust, vigorous, and temperamental—and he became his father’s favourite. His natural leadership qualities clearly outshone those of his many brothers.[NEWLINE][NEWLINE]In 1380, at the age of 20, the prince of Yan took up residence at Beijing. The early Ming governmental system provided that the imperial princes other than the eldest son, who remained at Nanjing as heir apparent, be enfeoffed in strategic areas as regional viceroys. Through the 1380s the prince of Yan gained experience in patrolling and skirmishing along the northern frontier under the tutelage of the greatest generals of the age. In 1390 he and his older half brother the prince of Jin (enfeoffed in adjacent Shanxi province to the west) were given joint command of a patrolling expedition beyond the Great Wall, and in 1393 they assumed full supervisory control over defense forces of the whole central sector of the northern frontier. Thereafter, the prince of Yan campaigned almost annually to keep the fragmented and disorganized Mongols off balance and on the defensive.[NEWLINE][NEWLINE]Meanwhile, in 1392, the heir apparent died. Some historians believe that the aging Hongwu emperor seriously considered naming the prince of Yan his new heir, in violation of tradition and the household rules he had himself promulgated. The emperor did hesitate for almost half a year before designating his successor, but then he complied with tradition by investing the dead crown prince’s son Zhu Yunwen, then only 15 years old. From this time forward, and especially after the deaths of his two remaining seniors in 1395 and in 1398, respectively, the prince of Yan became increasingly arrogant and imperious; when the old emperor died in the summer of 1398 the prince of Yan, in full vigour at the age of 38, considered himself the de facto head of the imperial clan and expected to be treated deferentially by his nephew.[NEWLINE][NEWLINE]The young new emperor Zhu Yunwen (the Jianwen emperor) had other intentions. Influenced by Confucian scholar-officials, he instituted a series of reforms unsettling to the newly stabilized government. One of his major goals was to take regional power away from the princes, and in 1398–99 one prince after another was imprisoned, exiled, or driven to suicide. Thus the prince of Yan found himself steadily more isolated and endangered, and in August 1399 he rose in rebellion, declaring it his avuncular duty to rescue the inexperienced emperor from his malicious advisers.[NEWLINE][NEWLINE]The rebellion lasted from 1399 into 1402 and devastated much of western Shandong province and the northern part of the Huai River basin. The central government at Nanjing seems to have underestimated the prince of Yan’s strength and failed to muster its manpower and matériel effectively; the war was a long stalemate. In early 1402 the prince of Yan’s forces broke through the imperial armies in the north, sped almost unopposed southward along the Grand Canal, accepted surrender of the imperial fleet on the Yangtze River, and were admitted into the walled capital by court defectors in July 1402. Four days after the fall of Nanjing, the prince of Yan took the throne himself, although he did not formally begin his rule until 1403; he took the reign name Yongle (“Perpetual Happiness”). The Jianwen emperor had disappeared. Whether he died in a palace fire (as was officially announced) or escaped in disguise to live many more years as a recluse is a puzzle that troubled Zhu Di until his own death and has been a subject of conjecture by Chinese historians ever since.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_HEADING_3">
+			<Text>Accession to the Throne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_TEXT_3">
+			<Text>The accession brought terrible retribution to those who had most closely advised Jianwen. They and all their relatives were put to death. Before the purge ended, thousands had perished. The new emperor also revoked the institutional and policy changes of his nephew-predecessor and even ordered history rewritten so that the founding emperor’s era name was extended through 1402, as if the Jianwen emperor had never reigned at all. The one reform policy that remained in effect was that princely powers must be curtailed. Hence, the surviving frontier princes were successively transferred from their strategically located fiefs into central and south China and were deprived of all governmental authority. From the Yongle period on, imperial princes were no more than salaried idlers who socially and ceremonially adorned the cities to which they were assigned and in which they were effectively confined. No subsequent Ming emperor was seriously threatened by a princely uprising.[NEWLINE][NEWLINE]As the Yongle emperor, Zhu Di was domineering, jealous of his authority, and inclined toward self-aggrandizement. He staffed the central government with young men dependent on himself and relied to an unprecedented extent on eunuchs for service outside their traditionally prescribed palace spheres—as foreign envoys, as supervisors of special projects such as the requisitioning of construction supplies, and as regional overseers of military garrisons. In 1420 he established a special eunuch agency called the Eastern Depot (Dongchang) charged with ferreting out treasonable activities. Although it did not become notorious in his own reign, it came to be a hated and feared secret police in collaboration with the imperial bodyguard in later decades and centuries.[NEWLINE][NEWLINE]The Yongle emperor also relied heavily on a secretarial group of young scholar-officials assigned to palace duty from the traditional compiling and editing agency, the Hanlin Academy, and by the end of his reign they became a Grand Secretariat, a powerful buffer between the emperor and the administrative agencies of government. Although the emperor, like his father, was quick to anger and sometimes abused officials cruelly, he built a strong and effective administration, and during his reign China settled into the generally stable political and socioeconomic patterns that were to characterize the remainder of the dynasty.[NEWLINE][NEWLINE]Like his father, Yongle had little personal respect for the higher forms of Chinese culture. In the fashion of the Mongol khans, he summoned to China and highly honoured a Tibetan lama, and the strongest intellectual influence on him may have been that of a monk named Daoyan, a long-favoured personal adviser. Along more orthodox lines, his government sponsored the compilation and publication of Confucian and Neo-Confucian Classics, and it most notably sponsored the preparation in manuscript form of a monumental compendium of literature called Yongle dadian (“The Great Canon of the Yongle Era”) in more than 11,000 volumes, which preserved many works that would otherwise have been lost. But the emperor himself must have considered such activities a kind of busywork for litterateurs who enjoyed public esteem but not his personal trust. A military man of action, the Yongle emperor had little enough patience with unavoidable administrative business, much less with intellectual exercises.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_HEADING_4">
+			<Text>Foreign policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_TEXT_4">
+			<Text>In the early years of his reign, he seems to have been fascinated by the regions beyond China’s southern borders, perhaps in part because of rumours that the Jianwen emperor had escaped overseas. In 1403 the Yongle emperor sent out three fleets under eunuch commanders to proclaim his accession throughout Southeast Asia as far as Java and southern India. More vigorously than any other ruler in Chinese history, he sought recognition from faraway potentates in these regions. Throughout his reign “tributary” missions regularly traveled to China from overseas, including local kings of Malacca and Brunei. Most renowned of the Yongle emperor’s many ocean admirals was the Muslim eunuch Zheng He, who led grand armadas on seven great voyages between 1405 and 1433. Zheng He visited no fewer than 37 countries, some as far away as the Persian Gulf, the Red Sea, and the east coast of Africa almost as far south as Zanzibar, and from all the states that he visited Zheng He brought home envoys bearing tribute to acknowledge the Yongle emperor’s overlordship.[NEWLINE][NEWLINE]The emperor similarly sent a eunuch emissary on repeated tribute-seeking missions to Tibet and Nepal and a civil servant across Central Asia to Afghanistan and Russian Turkistan. The Yongle emperor became the only ruler in Chinese history to be acknowledged suzerain by the Japanese, under the Ashikaga shogun Yoshimitsu. For a short time the Japanese were so docile as to send their own subjects to the Chinese court for punishment as piratical plunderers of the Korean and Chinese coasts. But the succession of a new shogun brought about a less submissive attitude in Japan; from 1411 on, no tribute missions arrived from Japan despite the Yongle emperor’s inquiries, and Japanese raiders became active again on China’s coast. The emperor then threatened to send a punitive expedition against Japan if it would not reform. But in 1419, when the shogunate brusquely denied responsibility for any piratical activities and refused to resume the former tributary relationship, the Yongle emperor was too preoccupied with other matters to do more than grumble.[NEWLINE][NEWLINE]The Yongle emperor’s expansionist inclinations led China into an ultimately disastrous military adventure against China’s southern neighbour, Dai Viet (Vietnam, called Annam by the Chinese). In 1400 the young Tran dynasty, heir to the Dai Viet throne, had been deposed and a new dynasty proclaimed. From the beginning of Yongle’s reign Tran loyalist refugees urged him to intervene and restore legitimate rule, and, when his own envoys to Annam were murdered, in 1406, the emperor authorized a punitive campaign. Chinese forces rapidly occupied and pacified Annam. Because no Tran heir seemed available, the Yongle emperor in 1407 transformed Dai Viet from a tributary state into the new Chinese province of Annam. Local resistance broke out almost immediately and continued irrepressibly. Especially after 1418, guerrilla warfare against the Ming authorities made the Chinese position in Annam increasingly precarious. By that time the emperor had lost most of his early interest in the southern regions, and the situation was allowed to deteriorate until his grandson, the Xuande emperor, realistically, albeit with some humiliation, abandoned direct Ming rule of Annam in 1428.[NEWLINE][NEWLINE]During the early years of the Yongle emperor’s reign, the northern frontier, traditionally the zone of greatest danger to any Chinese regime, was relatively quiescent. At the outset of his Beijing-based insurrection in 1402, the Yongle emperor had sought and won the support of the Mongol tribes directly to his rear, in northeastern China. In later payment for this support, he in effect gave these Urianghad Mongols virtual autonomy by withdrawing China’s command posts south of the Great Wall, and he regularly sent the Urianghad chiefs substantial gifts. Other tribes beyond the northern frontier—the Eastern Mongols, or Tatars, and the Western Mongols, or Oyrats—were too disorganized to do more than struggle among themselves. In the far west, the Turko-Mongol empire builder Timur (Tamerlane) had already invaded and pillaged both India and Syria when the Yongle emperor came to the Chinese throne, and in 1404 Timur prepared to launch an expedition against China. Vaguely aware of this, the Yongle emperor alerted his commanders in the west to prepare for trouble; but Timur died in 1405, and the expedition was canceled. Thereafter, the emperor maintained amicable relations with Timur’s heirs at Samarkand and Herat, keeping the Central Asian trade routes open.[NEWLINE][NEWLINE]After his early years on the throne, the Yongle emperor’s attention was diverted from the south back to the northern frontier by the emergence of an effective new Tatar leader named Aruqtai. In 1410 the Yongle emperor resumed the aggressive extramural patrolling in the north that had preoccupied him as a prince in the 1380s and ’90s. Between 1410 and 1424 the emperor five times personally led grand armies northward into the Gobi, primarily against Aruqtai but occasionally against Oyrats or restless Urianghad groups. The campaigns culminated in only a few battles, in which the Chinese forces won indecisive victories, but they had the effect of forestalling the development of a new large-scale Mongol confederation that might have seriously threatened China. Astute diplomacy was also relied on during these years to keep the Mongols fragmented and to establish at least nominal Chinese authority over the Juchen (Chinese: Nüzchen, or Ruzhen) peoples in the far northeast, as distant as the Amur River (Chinese: Heilong Jiang).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_HEADING_5">
+			<Text>Transfer of the capital to Beijing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_TEXT_5">
+			<Text>The most notable domestic event of the Yongle emperor’s reign was the transfer of the national capital and the central government from Nanjing to Beijing. This reflected and symbolized the emperor’s and the country’s shift of attention from the southern oceans to the northern land frontiers. Beijing was perhaps not the ideal site for the national capital: it historically had been associated primarily with “barbarian” dynasties such as the Yuan, it was far removed from China’s economic and cultural heartland, and it was dangerously close and exposed to the northern frontier. But it was the Yongle emperor’s personal power base, and it was a site from which the northern defenses could be kept under effective surveillance. In 1407 the emperor authorized transfer of the capital there, and from 1409 on he spent most of his time in the north. In 1417 large-scale work began on the reconstruction of Beijing, and thereafter the Yongle emperor never returned to Nanjing. The new Beijing palace was completed in 1420, and on New Year’s Day of 1421 Beijing formally became the national capital.[NEWLINE][NEWLINE]Before this transfer of the capital could be accomplished and before the northern defenses could be made satisfactorily secure, the Yongle emperor had to provide for the reliable transport of grain supplies from the affluent Yangtze valley to the north. Since the old Grand Canal linking the Yangtze and Huang He (Yellow River) valleys had been neglected for centuries and was largely unusable, coastal transport service around the Shandong peninsula was reorganized, and it proved spectacularly successful in the early years of the Yongle emperor’s reign under the naval commander Chen Xuan. Rehabilitation and extension of old waterways in the north proceeded simultaneously, so that in 1411 sea transport vessels could enter the Huang He mouth south of Shandong and thus avoid the most perilous part of the coastal route; then Chen Xuan by 1415 successfully rehabilitated the southern segments of the Grand Canal, and sea transport was abandoned. With Chen Xuan serving as supreme commander of the Grand Canal system until his death in 1433, the new army-operated waterways complex, extending from Hangzhou in the south to outside Beijing, was able to deliver grain supplies in quantities adequate for the northern needs. In 1421, when Beijing became the national capital, deliveries began to exceed 3,000,000 piculs (200,000 tons) annually.[NEWLINE][NEWLINE]The Yongle emperor’s overseas expeditions, the ill-fated occupation of Annam, the northern campaigns, the rebuilding of Beijing, and the rehabilitation of the Grand Canal all required enormous expenditures of supplies and human effort. That China was able to undertake such projects during his reign gives evidence of the Yongle emperor’s strong leadership, but they seem to have left the country exhausted and ready for an era of recovery under his successors.[NEWLINE][NEWLINE]The emperor fell ill while returning from his campaign of 1424 into Mongolia and died at the age of 64 in August, when the army was still en route to Beijing. He was succeeded by his eldest son, Zhu Gaozhi, who had served ably as regent during his father’s frequent long absences from the capital; he is known to history by the posthumous designation Renzong (“Benevolent Forebear”). The Yongle emperor fathered three other sons and five daughters. His principal consort was the empress Xu, daughter of the great early Ming marshal Xu Da; she died early in his reign, in 1407.[NEWLINE][NEWLINE]The Yongle emperor was originally given the posthumous temple designation Taizong (“Grand Forebear”), a designation traditionally given to the second emperor of a dynasty. In 1538, long after that designation had come to be considered an unjustifiable insult to the memory of the Jianwen emperor, it was changed to the equally flattering Chengzu (“Completing Ancestor”), in acknowledgement that it was indeed Zhu Di who consolidated the new dynasty.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_LIVED">
+			<Text>1360 - 1424 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_SUBTITLE">
+			<Text>Leader of Great Ming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MING_YONGLE_TITLES_1">
+			<Text>Emperor</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_GREAT_MING_YONGLE_TEXT">
+			<Text>Eternal happiness to you, Yongle, great Emperor of the Ming. Overcoming the treachery of your nephew, the Jianwen Emperor, you launched a campaign to seize China and restore it to greatness. Guided by your loyal and ever-watchful Scholar-Eunuchs, your imperial rule oversaw immeasurable splendour: the construction of great wonders, the advancement of deep knowledge, and the projection of China's power through the legendary Seven Voyages of Zhu Di. At no other time before would China be so prosperous.[NEWLINE][NEWLINE]Heavenly emperor, the legends of China's great accomplishments threaten to fade into memory. Can you be a patron to scholars and explorers alike? Can you show the world that China is both powerful and wise? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_FIRSTGREETING_1">
+			<Text>Greetings, foreign leader. I am Yongle, ruler of the Great Ming. Have you come to witness the might and wealth of China for yourself?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_DEFEATED_1">
+			<Text>I have lost the mandate over China. It now passes to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_ATTACKED_HOSTILE_1">
+			<Text>China has disposed of enemies far greater.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_DEC_FRIENDSHIP_1">
+			<Text>China is generous to her friends. Can I count you among them with a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_DENOUNCE_1">
+			<Text>You have tested the patience of China for too long.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_DENOUNCE_FRIEND_1">
+			<Text>You are no better friend than one my conspiring eunuchs.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_DOW_GENERIC_1">
+			<Text>Now you will know the might of China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>There will be consequences should you not cease your aggressive expansion into the lands of China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_GREETING_HOSTILE_HELLO_1">
+			<Text>Have you come to kiss at my feet?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_GREETING_NEUTRAL_HELLO_1">
+			<Text>Greetings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_GREETING_POLITE_HELLO_1">
+			<Text>Welcome to the imperial court of China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your armies stand on the verge of destruction. You will face certain defeat if you do not turn back now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_LUXURY_TRADE_1">
+			<Text>China desires the great luxuries that you possess.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_OPEN_BORDERS_EXCHANGE_1">
+			<Text>China would like to offer her borders to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>You cannot hope to match China's great wealth. Cease your land purchases at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_REQUEST_1">
+			<Text>China comes to you now in this time of great need.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Enemies of China are not around for very long.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_TOO_SOON_FOR_DOF_1">
+			<Text>You have yet to prove yourself worthy to China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MING_YONGLE_TOO_SOON_NO_PEACE_1">
+			<Text>I have only just begun to exact my prestige from your pathetic civilization.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MING_YONGLE_SHORT">
+			<Text>Imperial Eunuchs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MING_YONGLE">
+			<Text>Specialists generate +2 [ICON_GREAT_PEOPLE] Great People Points in cities with a [ICON_SPY] Spy. Receive a [ICON_SPY] Spy when you meet 50% and then 100% of all City-States.</Text>
+		</Row>
+		<!--Alerts-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MING_YONGLE_MESSAGE_1">
+			<Text>Your meeting with [COLOR_POSITIVE_TEXT]{1_Desc}[ENDCOLOR] has increased the number of City-States in the world that you have made diplomatic contact with ([COLOR_POSITIVE_TEXT]{2_Num}%[ENDCOLOR])!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MING_YONGLE_MESSAGE_2">
+			<Text>Your meeting with [COLOR_POSITIVE_TEXT]{1_Desc}[ENDCOLOR] has increased the number of City-States in the world that you have made diplomatic contact with ([COLOR_POSITIVE_TEXT]{2_Num}%[ENDCOLOR]), earning you an extra [COLOR_POSITIVE_TEXT][ICON_SPY] Spy[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MING_YONGLE_MESSAGE_3">
+			<Text>Your meeting with [COLOR_POSITIVE_TEXT]{1_Desc}[ENDCOLOR] means that you have now established diplomatic contact with all City-States in the world, earning you an extra [COLOR_POSITIVE_TEXT][ICON_SPY] Spy[ENDCOLOR]!</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_GREAT_MING_YONGLE_1">
+			<Text>Dummy: Great Ming (Yongle)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_GREAT_MING_YONGLE_1_HELP">
+			<Text>+1 [ICON_SPY] Spy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_GREAT_MING_YONGLE_2">
+			<Text>Dummy: Great Ming (Yongle)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_GREAT_MING_YONGLE_2_HELP">
+			<Text>+1 [ICON_SPY] Spy.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_JFD_SHENJI_MUSKETEER">
+			<Text>Shenji Musketeer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SHENJI_MUSKETEER_HELP">
+			<Text>Elite Ming Musketman replacement that unlocks earlier, at Physics. Has different bonuses depending upon where its trained.[NEWLINE][ICON_BULLET]Capital: Bonus near the Capital.[NEWLINE][ICON_BULLET]Colonies: Bonus Sight and Movement.[NEWLINE][ICON_BULLET]Captured Cities: Bonus when Flanking.[NEWLINE][ICON_BULLET]Other Cities: Bonus vs. Gun Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SHENJI_MUSKETEER_STRATEGY">
+			<Text>The unique Shenji Musketeer is the Musketman replacement for the Great Ming, unlocking earlier, at Physics. It receives a different bonus depending upon the kind of city it is trained in. When trained in the Capital, the Shenji Musketeer receives a strong bonus fighting near the Capital. When trained in a Colony, it receives bonus Sight and Movement. When trained in an captured city, it receives bonus Flanking. Otherwise, it receives a bonus vs. other Gun Units. Train Shenji Musketeer in different cities as the need demands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SHENJI_MUSKETEER_TEXT">
+			<Text>The Shenjiying was one of three elite military divisions stationed around Beijing during the Ming dynasty. Its name has been variously rendered as Firearms Division, Artillery Camp, Shen-chi Camp, Firearm Brigade, and Divine Engine Division. Established during the reign of the Yongle Emperor (1360–1424), the Divine Engine Division was specifically created to specialize in firearm warfare. Later on the division provided half of Qi Jiguang's army with firearms and one cannon to every twelve soldiers.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHENJI_MUSKETEER_1">
+			<Text>Divine Engine Division</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHENJI_MUSKETEER_1_HELP">
+			<Text>30% stronger while fighting near the [ICON_CAPITAL] Capital; bonus falls off as the unit gets further away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHENJI_MUSKETEER_2">
+			<Text>Three Thousand Division</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHENJI_MUSKETEER_2_HELP">
+			<Text>+1 Sight and +1 [ICON_MOVES] Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHENJI_MUSKETEER_3">
+			<Text>Five Barracks Division</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHENJI_MUSKETEER_3_HELP">
+			<Text>+20% Bonus when Flanking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHENJI_MUSKETEER_4">
+			<Text>Firearms Division</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHENJI_MUSKETEER_4_HELP">
+			<Text>+15% Bonus vs. Gun Units.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_TREASURE_FLEET">
+			<Text>Treasure Fleet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TREASURE_FLEET_HELP">
+			<Text>Unique Great Ming replacement for the Great Admiral that can purchase City-States outright, bringing them under Ming control. Each [ICON_GREAT_PEOPLE] Great Person expended generates a lump sum of points toward the creation of a Treasure Fleet. Has +1 Sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TREASURE_FLEET_STRATEGY">
+			<Text>The unique Treasure Fleet is a Great Admiral replacement for Great Ming. In addition to the regular abilities of the Great Admiral, the Treasure Fleet can be sent to the borders of a coastal City-State and purchase it outright. As well as through naval combat, this unit is generated by expending Great People of any kind, the amount increasing with Global Population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TREASURE_FLEET_TEXT">
+			<Text>A Chinese treasure ship was a type of large wooden ship in the fleet of admiral Zheng He, who led seven voyages during the early 15th-century Ming dynasty. The size and dimensions of the treasures are heavily debated. According to British scientist, historian and sinologist Joseph Needham, the purported dimensions of the largest of these ships were 137 m (450 ft) by 55 m (180 ft), which would make them at least twice as long as the largest European ships at the end of the sixteenth century.</Text>
+		</Row>
+		<!--Missions-->
+		<Replace Tag="TXT_KEY_MISSION_BUY_CITY_STATE_HELP">
+			<Text>This unit will use his considerable wealth to purchase a City State and put it under your control. You gain control of all of the minor civilization's existing units.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_VENETIAN_MERCHANT_BOUGHT_CITY_STATE">
+			<Text>You bought a city-state!</Text>
+		</Replace>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TREASURE_FLEET">
+			<Text>Bonus Sight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TREASURE_FLEET_HELP">
+			<Text>+1 Sight.</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_1">
+			<Text>Zheng He</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_2">
+			<Text>Ma Huan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_3">
+			<Text>Gong Zhen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_4">
+			<Text>Fei Xin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_5">
+			<Text>Wang Jinghong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_6">
+			<Text>Chen Lin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_8">
+			<Text>Deng Zilong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_9">
+			<Text>Shi Lang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_10">
+			<Text>Yishiha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_11">
+			<Text>Yu Zigao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_12">
+			<Text>Zhou Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_13">
+			<Text>Fu Youde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_14">
+			<Text>Hu Zongxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_TREASURE_FLEET_15">
+			<Text>Hong Chengchou</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_GREAT_MING_YONGLE_DESCRIPTION">
+			<Text>GREAT MING (YONGLE)[NEWLINE][NEWLINE]UNIQUE TRAIT: IMPERIAL EUNUCHS[NEWLINE]Specialists generate +2 [ICON_GREAT_PEOPLE] Great People Points in cities with a [ICON_SPY] Spy. Receive a [ICON_SPY] Spy when you meet 50% and then 100% of all City-States.[NEWLINE][NEWLINE]UNIQUE UNIT: SHENJI MUSKETEER (MUSKETMAN)[NEWLINE]The unique Shenji Musketeer is the Musketman replacement for the Great Ming, unlocking earlier, at Physics. It receives a different bonus depending upon the kind of city it is trained in. When trained in the Capital, the Shenji Musketeer receives a strong bonus fighting near the Capital. When trained in a Colony, it receives bonus Sight and Movement. When trained in an captured city, it receives bonus Flanking. Otherwise, it receives a bonus vs. other Gun Units. Train Shenji Musketeer in different cities as the need demands.[NEWLINE][NEWLINE]UNIQUE UNIT: TREASURE FLEET (GREAT ADMIRAL)[NEWLINE]The unique Treasure Fleet is a Great Admiral replacement for Great Ming. In addition to the regular abilities of the Great Admiral, the Treasure Fleet can be sent to the borders of a coastal City-State and purchase it outright. As well as through naval combat, this unit is generated by expending Great People of any kind, the amount increasing with Global Population.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

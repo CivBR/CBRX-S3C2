@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e55801b4-a79d-4e4c-8a2f-ab29dba9b376" version="4">
+  <Properties>
+    <Name>JakeWalrusWhale's Timor-Leste</Name>
+    <Teaser>Adds the Democratic Republic of [COLOR_SELECTED_TEXT]Timor-Leste[ENDCOLOR], under Xanana Gusmão.</Teaser>
+    <Description>Timor-Leste, led by Xanana Gusmão
+[NEWLINE][NEWLINE]
+UA: Balibohong Declaration: 
+Religious Units give a major combat bonus to adjacent units. For each land combat unit built in a city, you receive faith depending on what era you’re in.
+[NEWLINE][NEWLINE]
+UU: FALINTIL: 
+Replaces the Marine. Gains a combat bonus when at war with a civilization with a different majority religion or ideology. Upon death it will give the enemy empire +2% temporary unhappiness (Max +20%).
+[NEWLINE][NEWLINE]
+UB: Igreja Costeira:
+Replaces the Constabulary. For each civ in which you have a common enemy, you will get an extra +5 culture and faith per turn. If your empire's majority religion controls at least 75% of citizens in this city, then each unit trained get an extra +15 experience.</Description>
+    <Authors>JakeWalrusWhale</Authors>
+    <SpecialThanks>DarthKyofu, Chrisy15, TopHatPaladin, JFD, Thanus</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Rise to Power" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's CulDiv" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's Mercenaries" />
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D2B7DFE1637C59809E370B8CA16B6C81" import="1">Art/Atlas/FalintilAlpha32.dds</File>
+    <File md5="FD9D7882E05E0D9BAD2D6A47F73F7F0A" import="1">Art/Atlas/Falintil_sv.dds</File>
+    <File md5="EAA0A793D5544B5B1529FCF0D8C6ED5F" import="1">Art/Atlas/TimorLesteIconAtlas128.dds</File>
+    <File md5="8D3FA808FABCE2B7BC783A763CA045F9" import="1">Art/Atlas/TimorLesteIconAtlas24.dds</File>
+    <File md5="C2C3C19C421B9D1EA599BCACD6F67534" import="1">Art/Atlas/TimorLesteIconAtlas256.dds</File>
+    <File md5="659DF2F1A95E25B024C213688C746015" import="1">Art/Atlas/TimorLesteIconAtlas32.dds</File>
+    <File md5="EA3358D325CE7A1BCD320193C279DFB0" import="1">Art/Atlas/TimorLesteIconAtlas45.dds</File>
+    <File md5="D57D5A0B3825C3E9E916A451803CDE55" import="1">Art/Atlas/TimorLesteIconAtlas48.dds</File>
+    <File md5="A888D1E4D2F30080CCB29706AB8524E5" import="1">Art/Atlas/TimorLesteIconAtlas64.dds</File>
+    <File md5="83E099B530E54CD09F769276317C9BDE" import="1">Art/Atlas/TimorLesteIconAtlas80.dds</File>
+    <File md5="0399A219AF805BABAA1822EF72C3EC76" import="1">Art/GusmaoDoM.dds</File>
+    <File md5="5A8021E52B72E1BAACFA639B9865F57E" import="1">Art/GusmaoScene.dds</File>
+    <File md5="B60B89F806E2EFC47A8FA76EEFBDC02C" import="1">Art/JWWTimorLesteMap.dds</File>
+    <File md5="AC477D233E73B69BFD9385A315D423B3" import="0">Code/Database/TimorLesteText.xml</File>
+    <File md5="077D1536F0F7B014EEE7B830AD1DFFD1" import="1">Code/Database/GusmaoScene.xml</File>
+    <File md5="2D32AE619951019A8EAA748F7B2710B5" import="0">Code/Database/TimorLesteArtDefines.sql</File>
+    <File md5="D598C8A8AECE5C39D04796668D8449F7" import="0">Code/Database/TimorLesteGameDefines.sql</File>
+    <File md5="3B7AEA40EF024842943B91FEABE068CF" import="0">Code/Lua/TimorLesteFunctions.lua</File>
+    <File md5="B9C1637ECE03A93F7D8EE082B6B62EE1" import="0">Credits.txt</File>
+    <File md5="5B204276619D2B35C98002E79B442FBB" import="1">Mod Support/AdditionalAchievementsUtility.lua</File>
+    <File md5="BEE3C7889048E1B29885DE0FDD86E02D" import="0">Mod Support/TimorLesteModSupport.sql</File>
+    <File md5="578EDD1E6B1D696D0EA363F8FA12DCD5" import="0">Mod Support/TimorLesteModSupportText.xml</File>
+    <File md5="D7145437EC96766F049D3B29924A9A68" import="0">Mod Support/TimorLeste_Achievements.lua</File>
+    <File md5="1EFB0833EFE687C16495415E371E8802" import="1">Mod Support/TimorLeste_Decisions.lua</File>
+    <File md5="8585AA06BEF2294A619DD55C4E9E88E4" import="1">Music/TimorLeste_Peace.mp3</File>
+    <File md5="BF1605A23A324D64224012FA4C38DCB4" import="1">Music/TimorLeste_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Database/GusmaoScene.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Database/TimorLesteArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/TimorLesteGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/TimorLesteText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/TimorLesteModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/TimorLesteModSupportText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/TimorLesteFunctions.lua">
+      <Name>TL Functions</Name>
+      <Description>Look mom I did it</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Mod Support/TimorLeste_Achievements.lua">
+      <Name>AA</Name>
+      <Description>AA</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

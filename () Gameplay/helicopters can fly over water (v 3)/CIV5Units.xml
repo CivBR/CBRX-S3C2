@@ -1,0 +1,33 @@
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_MOVE_ALL_TERRAIN</Type>
+			<Description>TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN</Description>
+			<Help>TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PortraitIndex>58</PortraitIndex>
+			<PediaEntry>TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN</PediaEntry>
+			<CanMoveAllTerrain>true</CanMoveAllTerrain>
+			<LostWithUpgrade>1</LostWithUpgrade>
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions_UnitCombats>
+		<Delete UnitCombatType="UNITCOMBAT_HELICOPTER" PromotionType="PROMOTION_EMBARKATION"/>
+		<Delete UnitCombatType="UNITCOMBAT_HELICOPTER" PromotionType="PROMOTION_DEFENSIVE_EMBARKATION"/>
+		<Delete UnitCombatType="UNITCOMBAT_HELICOPTER" PromotionType="PROMOTION_ALLWATER_EMBARKATION"/>
+	</UnitPromotions_UnitCombats>
+
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_HELICOPTER_GUNSHIP</UnitType>
+			<PromotionType>PROMOTION_MOVE_ALL_TERRAIN</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HELICOPTER_GUNSHIP</UnitType>
+			<PromotionType>PROMOTION_OCEAN_IMPASSABLE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+</GameData>

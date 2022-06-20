@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e851ee35-1a03-4c91-bd9d-5e9b57deb885" version="1">
+  <Properties>
+    <Name>Yemen - Arwa Al Sulayhi</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Yemen to the game under its greatest Queen, Arwa al Sulayhi</Teaser>
+    <Description>UA: Compete - Never Envy [NEWLINE]
+Acquiring a new Luxury provides a free trade unit and a burst of food in all cities adjacent to mountains. Trade routes grant additional food to their origin city when passing over desert tiles. 
+[NEWLINE][NEWLINE]UB: Mud Brick Syscraper (Granary)[NEWLINE]The Cheaper than the granary, and costs no maintenance. Provides only +5% food, but may construct additional floors to increase this bonus. Also provides a source of fresh water and +2 local happiness when 5 floors are built.[NEWLINE][NEWLINE]UU: Bakil Highlander (Swordsman) [NEWLINE]
+May claim adjacent desert or mountain tiles while fortified. Tiles acquired this way yield +1 food. Not slowed by hills.</Description>
+    <Authors>Urdnot, Relic, Darth</Authors>
+    <SpecialThanks>Pouakai, for whom this civ is dedicated</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's CulDiv" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="BE6E5CE1460FBA135F307EC90FEAC676" import="1">Art/Arwa.dds</File>
+    <File md5="A1DF769B9736BCCE9B3FD50533493AE3" import="1">Art/ArwaFallback.xml</File>
+    <File md5="39E578666D85E84E748D0FE96AEB483C" import="1">Art/Bakir32.dds</File>
+    <File md5="588BB6F5A165F6F88B63A9908993CB91" import="1">Art/MapYemen.dds</File>
+    <File md5="A25CF7C40D4D73D78E783AB2DD7B349D" import="1">Art/YemenAtlas128.dds</File>
+    <File md5="620FEEC6AED1E5E8251162E5CF3026BE" import="1">Art/YemenAtlas256.dds</File>
+    <File md5="5014A47FEE7C677B7CFF634C78DA9A36" import="1">Art/YemenAtlas32.dds</File>
+    <File md5="208C620E1E1CFC1677684AE8486EB74E" import="1">Art/YemenAtlas45.dds</File>
+    <File md5="53EDDEEFAA9DF359CC9939180A2B08B2" import="1">Art/YemenAtlas64.dds</File>
+    <File md5="9B413E79C0B7A2DABE5359208A26C88F" import="1">Art/YemenAtlas80.dds</File>
+    <File md5="B07CC8610E2F1B31A8682315415C56FC" import="1">Art/Yemen_Alpha24.dds</File>
+    <File md5="339AF239645881E0BF92FC0A9CAD13E0" import="1">Art/Yemen_Alpha32.dds</File>
+    <File md5="8219943F7BDAEBAD18BD3A500FCDC435" import="1">Art/Yemen_Alpha48.dds</File>
+    <File md5="80E312E8F0756F7D2D712BFDFCFE9F63" import="1">Art/Yemen_Alpha64.dds</File>
+    <File md5="792A44FE552CFCE8E11DA86DCEB484CD" import="1">Art/Yemen_DoM.dds</File>
+    <File md5="0C12A1FE30D7739DD75979F8ACA42D85" import="0">Core/YemenArtDefs.sql</File>
+    <File md5="9CAC558C26D2FF4416798778AF81C0FF" import="0">Core/YemenDefines.sql</File>
+    <File md5="D41D8CD98F00B204E9800998ECF8427E" import="0">Core/YemenModSupport.sql</File>
+    <File md5="A262C622E7842319958D04099306E6D8" import="0">Core/YemenText.xml</File>
+    <File md5="530C0915BC50AF2CD0A61117533374F0" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="2B30D4F97712FD0EF38395B6C319B794" import="0">Lua/YemenFunctions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/YemenArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/YemenDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/YemenModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/YemenText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/PlotIterators.lua">
+      <Name>PlotIterators</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/YemenFunctions.lua">
+      <Name>Func</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

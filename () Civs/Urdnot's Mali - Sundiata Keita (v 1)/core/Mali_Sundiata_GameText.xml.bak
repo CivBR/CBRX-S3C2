@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_US_MALI_SUNDIATA_ADJECTIVE">
+			<Text>Manden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_US_MALI_SUNDIATA_DESC">
+			<Text>Mali Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_US_MALI_SUNDIATA_SHORT_DESC">
+			<Text>Mali</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_TEXT_1">
+			<Text>The Mali Empire, or Manden, was an empire in West Africa from circa 1235 to 1670. The empire was founded by Sundiata Keita, and became renowned for the wealth of its rulers, especially Mansa Musa. The Manding languages were spoken in the empire. At its peak, Mali was the largest empire in West Africa. The empire began a small Mandinka kingdom at the upper reaches of the Niger River, centered around the Manding. During the 11th and 12th centuries, it began to develop as an empire following the decline of the Ghana Empire, or Wagadu, to the north. However, from 1507 onwards neighboring states such as Diara, Great Fulo and the Songhay Empire chipped away at the outer borders of Mali. After unsuccessful attempts by Mansa Mama Maghan to conquer Bamana, in 1670 the Bamana sacked and burned the capital, and the Mali Empire rapidly disintegrated and ceased to exist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_HEADING_2">
+			<Text>Pre-Imperial Mali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_TEXT_2">
+			<Text>Modern oral traditions also related that the Mandinka kingdoms of Mali or Manden had already existed several centuries before Sundiata's unification as a small state just to the south of the SoninkÃ© empire of Wagadou, better known as the Ghana Empire. This area was composed of mountains, savannah and forest providing ideal protection and resources for the population of hunters. Those not living in the mountains formed small city-states such as Toron, Ka-Ba and Niani. Through the oral tradition of griots, the Keita dynasty, from which nearly every Mali emperor came, claims to trace its lineage back to Lawalo, one of the sons of Bilal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_HEADING_3">
+			<Text>The Lion King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_TEXT_3">
+			<Text>After many years in exile, first at the court of Wagadou and then at Mema, Sundiata was sought out by a Niani delegation and begged to combat the Sosso and free the kingdoms of Manden forever. Returning with the combined armies of Mema, Wagadou and all the rebellious Mandinka city-states, Maghan Sundiata led a revolt against the Kaniaga Kingdom around 1234. The combined forces of northern and southern Manden defeated the Sosso army at the Battle of Kirina. This victory resulted in the fall of the Kaniaga kingdom and the rise of the Mali Empire. Sundiata Keita saw the conquest of several key locals in the Mali Empire. His generals continued to expand the frontier, especially in the west where they reached the Gambia River and the marches of Tekrur. This enabled him to rule over a realm larger than even the Ghana Empire in its apex. After unifying Manden, he added the Wangara goldfields, making them the southern border.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_HEADING_4">
+			<Text>Transfer of Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_TEXT_4">
+			<Text>Different oral traditions conflict with each other, as well as Ibn Khaldun, about the transfer of power following Sunjata's death. There was evidently a power struggle of some kind involving the gbara or great council and donson ton or hunter guilds. Some oral traditions agree with Ibn Khaldun in indicating that a son of Sunjata, named Yerelinkon in oral tradition and Wali in Arabic, took power as Sunjata's successor. Wali was succeeded by his brother Wati, about whom nothing is known.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_HEADING_5">
+			<Text>The Richest Man of All Time</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_TEXT_5">
+			<Text>Mansa Musa probably took power in approximately 1312, although an earlier date is possible. His reign is considered the golden age of Mali. He was one of the first truly devout Muslims to lead the Mali Empire. He attempted to make Islam the faith of the nobility, but kept to the imperial tradition of not forcing it on the populace. He could read and write Arabic and took an interest in the scholarly city of Timbuktu, which he peaceably annexed in 1324. Mansa Musa Keita's crowning achievement was his famous pilgrimage to Mecca, which started in 1324 and concluded with his return in 1326. Accounts of how many people and how much gold he spent vary. All of them agree that he took a very large group of people, and he gave out so many alms and bought so many things that the value of gold in Egypt and Arabia depreciated for twelve years. Musa's hajj, and especially his gold, caught the attention of both the Islamic and Christian worlds. Consequently, the name of Mali and Timbuktu appeared on 14th century world maps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_HEADING_6">
+			<Text>A Dissapointing Heir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_TEXT_6">
+			<Text>While on the hajj, he met the Andalusian poet and architect es-Saheli. Mansa Musa brought the architect back to Mali to beautify some of the cities. But more reasoned analysis suggests that his role, if any, was quite limited. Mosques were built in Gao and Timbuktu along with impressive palaces also built in Timbuktu. By the time of his death in 1337, Mali had control over Taghazza, a salt-producing area in the north, which further strengthened its treasury. Mansa Musa Keita was succeeded by his son, Maghan Keita I, in 1337. Mansa Maghan Keita I spent wastefully and was the first lacklustre emperor since Khalifa Keita. But the Mali Empire built by his predecessors was too strong for even his misrule and it passed intact to Musa's brother, Souleyman Keita in 1341. He took steep measures to put Mali back into financial shape, thereby developing a reputation for miserliness. However, he proved to be a good and strong ruler despite numerous challenges.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_HEADING_7">
+			<Text>Ibn Battuta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_TEXT_7">
+			<Text>It was in Cairo, Egypt, that the traveller Ibn Battuta first heard of the great ruler of Mali- Mansa Musa. A few years prior to Battuta's visit, Mansa Musa had passed through Cairo as well on his own pilgrimage to Mecca. He had brought with him a large entourage of slaves, soldiers and wives, along with over a thousand pounds of gold. At first his impressions were not good- as a meal he was offered a bowl of millet with honey and yogurt. Seeing this as offensive, he wished to leave as soon as possible. From the King, he was gifted three loaves of bread, a gourd full of yogurt, and a piece of beef fried in shea butter. He was insulted by this as well, feeling that the gift was inadequate for him. He was also taken aback by the local customs regarding the sexes. In his mind, man and woman should be separate in an Islamic society. Here the sexes were friends, spent time with one another and were agreeable. Upon his disapproval he was told that their relations were a part of good manners, and that there would be no suspicion attached to it.[NEWLINE][NEWLINE]While he had his grievances, there were parts of Mali that Ibn Battuta found to be exceptional. For one, the safety in the streets of Mali went unmatched. The city was very secure with many guards and it was said that no man walked afraid in the streets of Mali. The people also held justice to a very high standard and that was notable for Ibn. Most importantly, he was impressed with the peoples devotion to Islam. There were mosques there that people visited regularly, and they always prayed on Friday, the holy prayer day established by Mansa Musa for Muslims. Upon his departure, Ibn left with 100 mithqals of gold and diverse feelings towards the kingdom of Mali.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_HEADING_8">
+			<Text>Fall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_US_MALI_SUNDIATA_TEXT_8">
+			<Text>Mali was then subject to a number of inconsequential, obscure and ruinous leaders. The reign of Mari Djata Keita II was ruinous and left the empire in bad financial shape, but the empire itself passed intact to the dead emperor's brother. The Songhai settlement effectively shook off Mali's authority in 1375. Still, by the time of Mansa Musa Keita II's death in 1387, Mali was financially solvent and in control of all of its previous conquests short of Gao and Dyolof. From 1389 onwards Mali gained a host of mansas of obscure origins. This is the least known period in Mali's imperial history. What is evident is that there is no steady lineage governing the empire. The other characteristic of this era is the gradual loss of its northern and eastern possessions to the rising Songhai Empire and the movement of the Mali's economic focus from the trans-Saharan trade routes to the burgeoning commerce along the coast.[NEWLINE][NEWLINE]It would be the Mandinka themselves that would cause the final destruction of the empire. Around 1610, Mahmud Keita IV died. Oral tradition states that he had three sons who fought over Manden's remains. No single Keita ever ruled Manden after Mahmud Keita IV's death, resulting in the end of the Mali Empire. The old core of the empire was divided into three spheres of influence. The Bamana sacked and burned Niani in 1670. Following this disastrous set of events, Mansa Mama Maghan abandoned the capital of Niani.</Text>
+		</Row>
+		
+
+
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_1">
+			<Text>Niani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_2">
+			<Text>Wagadou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_3">
+			<Text>Mema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_4">
+			<Text>Krina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_5">
+			<Text>Kangaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_6">
+			<Text>Kita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_7">
+			<Text>Macina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_8">
+			<Text>Jenne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_9">
+			<Text>Tegdaoust</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_10">
+			<Text>Kankan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_11">
+			<Text>Bure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_12">
+			<Text>Bambouk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_13">
+			<Text>Kangare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_14">
+			<Text>Bamako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_15">
+			<Text>Bankoumana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_16">
+			<Text>Fanzan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_17">
+			<Text>Sibi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_18">
+			<Text>Gouala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_19">
+			<Text>Mana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_20">
+			<Text>Kassaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_21">
+			<Text>Doko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_22">
+			<Text>Yanfolila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_MALI_SUNDIATA_23">
+			<Text>N'Tentou</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_0">
+			<Text>Sogolon</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_1">
+			<Text>Khalifa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_2">
+			<Text>Wati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_3">
+			<Text>Uli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_4">
+			<Text>Maghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_5">
+			<Text>Tiramakhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_6">
+			<Text>Nounfari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_7">
+			<Text>Nana </Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_8">
+			<Text>Balla</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_MALI_SUNDIATA_9">
+			<Text>Gao</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA">
+			<Text>Sundiata Keita</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_NAME">
+			<Text>Sundiata Keita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_TEXT_1">
+			<Text>Sundiata Keita, also known as Manding Diara, Lion of Mali, Sogolon Djata, son of Sogolon, Nare Maghan and Sogo Sogo Simbon Salaba, was the founder of the Mali Empire. The semi-historical but legendary Epic of Sundiata is a story of his life. The epic poem is primarily known through oral tradition, transmitted by generations of Maninka griots. The Manden Charter issued during his reign is listed by UNESCO as one of intangible cultural heritage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_TEXT_2">
+			<Text>
+				Sundiata was the son of Naré Maghann Konaté and Sogolon Condé, the daughter of the buffalo woman, so-called because of her ugliness and hunchback. Sundiata was crippled from childhood and his mother was the subject of ridicule among her co-wives. She was constantly teased and ridiculed openly for her son's disability. Sundiata was therefore determined to do everything he possibly could in order to walk like his peers. Through this determination, he one day miraculously got up and walked. Among his peers, he became a leader. His paternal half-brother, Dankaran Touman, and Dankaran's mother, Sassouma Bereté, were cruel and resentful of Sundiata and his mother.[NEWLINE][NEWLINE]The cruelty of Dankaran Touman and his mother escalated after the death of Naré Maghann, the king and Sundiata’s father. To escape persecution and threats on her son's life, Sogolon took her children, Sundiata, and his sisters, into exile. This exile lasted for many years and took them to different countries within the Ghana Empire and eventually to Mema where the king of Mema granted them asylum. Sundiata was admired by the King of Mema for his courage and tenacity. As such, he was given a senior position within the kingdom.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_HEADING_3">
+			<Text>The Battle of Kirina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_TEXT_3">
+			<Text>
+				When King Soumaoro Kanté of Sosso conquered the Mandinka people, messengers were sent to go and look for Sogolon and her children, as Sundiata was destined to be a great leader according to prophecy. Upon finding him in Mema, they persuaded him to come back in order to liberate the Mandinkas and their homeland. On his return, he was accompanied by an army given to him by the King of Mema. Making a pact with other warlords of Mali on the plain of Siby, they vowed to liberate their country and people from the powerful Sosso king. At The Battle of Kirina, Sundiata and his allies defeated the Sosso king, and he became the first Emperor of the Mali Empire. He was the first of the Mandinka line of kings to adopt the royal title Mansa.[NEWLINE][NEWLINE]After his victory at Kirina, Sundiata established his capital at Niani, near the present-day Malian border with Guinea. Assisted by his generals, Tiramakhan being one of the most prominent, he went on to conquer other states. The lands of the old Ghana Empire were conquered. The king of Jolof was defeated by Tiramakhan and his kingdom reduced to a vassal state. After defeating the former ally of Soumaoro, Tiramakhan ventured deep into present-day Senegal, the Gambia and Guinea Bissau and conquered them. In Kaabu, he defeated the last great Bainuk king, Kikikor, and annexed his state. Sundiata was responsible for the conquest of Diafunu and Kita.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_HEADING_4">
+			<Text>Forging an Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_TEXT_4">
+			<Text>
+				A strong army was a major contributor to the success of Imperial Mali during the reign of Mansa Sundiata Keita. Tiramakhan Traore stood out as one of the elite generals and warlords of Sundiata's Imperial Mali. It was during his reign that Mali first began to become an economic power, a trend continued by his successors an improved on thanks to the ground work set by Sundiata, who controlled the region's trade routes and gold fields. The social and political constitution of Mali were first being codified during the reign of Mansa Sundiata Keita. Known as the Gbara and the Kouroukan Fouga, although not written, they were part of the social and political norms of Mali. Sundiata also developed Mali's mechanisms for agriculture and is reported to have introduced cotton and weaving in Mali.[NEWLINE][NEWLINE]Although the conquered states were answerable to the Mansa of Mali, Sundiata was not an absolute monarch despite what the title implies. Though he probably wielded popular authority, the Mali Empire was reportedly run like a federation with each tribe having a chief representative at the court. The first tribes were Mandinka clans of Traore, Kamara, Koroma, Konde and Keita. The Great Gbara Assembly was in charge of checking the Mansa's power, enforcing his edicts among their people, and selecting the successor. The generally accepted death year of Mansa Sundiata Keita is circa 1255. However, there is very little information regarding his cause of death. Not only are there different versions, mainly modern, but Mandinka tradition forbids disclosing the burial ground of their great kings.
+			</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_LIVED">
+			<Text>1217-1255</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_SUBTITLE">
+			<Text>Maghan of the Keita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_MALI_SUNDIATA_TITLES_1">
+			<Text>Mansa of the Mali Empire</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_US_MALI_SUNDIATA_TEXT">
+			<Text>
+				Hail, Mansa Sundiata Keita, Lion King of Sogolon, founder of the Mali Empire. The Mandinkan epics tell of your exploits, starting with your crippling deformities as a child and the determination to overcome them, to the great battles waged by you and your generals to establish an empire. Escaping persecution, you spent much of your childhood in exile until great kings saw your potential as a leader. You thus rose to become a great general, and at the Mandinka you established the Mali Empire. You and your generals continued to conquer new territories, forming a social and political constitution, developed new mechanisms for agriculture and set Mali on a course to become an economic power, not just in the region, but in the world. It was only through your ability to command the loyalties of your generals and army that you were able to control the former states which you had absorbed.[NEWLINE][NEWLINE]Oh great Sundiata, your people are no longer the power they once were. To have a leader such as yourself would truly be a blessing. Can you bring your scattered people the riches of the world once more? Can you live a life to worthy of being sung by the Griots forever after? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_FIRSTGREETING_1">
+			<Text>Welcome to the lands of the Manden my friend - did you come to bring me gold? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_DEFEATED_1">
+			<Text>Ha! My people cannot be beaten - know that for as long as you live we will lurk in the shadows, our lives dedicated to one, final hunt. You shall never again be safe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_ATTACKED_HOSTILE_1">
+			<Text>Sorceror! Your vile ways bring shame upon your people!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_DEC_FRIENDSHIP_1">
+			<Text>My friend, the Griots sing of your generosity for leagues around.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_DENOUNCE_1">
+			<Text>The Griots sing of your treachery, and I am inclined to listen.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_DENOUNCE_FRIEND_1">
+			<Text>My people do not need friends when we have gold. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_DOW_GENERIC_1">
+			<Text>The quiver-masters gave been summoned! A storm of arrows beckons, prepare yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your poisonous magic can be felt creeping into my lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_GREETING_HOSTILE_HELLO_1">
+			<Text>Make it quick, warlock.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_GREETING_POLITE_HELLO_1">
+			<Text>Welcome, welcome - it is good to see you again friend. We must hunt together soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your men lurk on the edges of our hunting grounds - wouldn't it be a shame if one were to accidentally be mistaken for a gazelle?.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_LUXURY_TRADE_1">
+			<Text>My people need gold - I promise, its not just for me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Open your borders to me and watch your lands be flooded with riches beyond imagination.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_REQUEST_1">
+			<Text>The Manden clamour for assistance, who are you to deny them?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_TOO_SOON_NO_PEACE_1">
+			<Text>Ha! The hunt is just getting started my friend - I'd rather not skip to the end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_MALI_SUNDIATA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>The lion does not concern himself with the opinions of sheep.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_US_MALI_SUNDIATA_SHORT">
+			<Text>Lion Lord of the Hunter Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_US_MALI_SUNDIATA">
+			<Text>Making [ICON_GOLD] purchases rushes the [ICON_PRODUCTION] production of units or military buildings in that city, and heals your units during a [ICON_GOLDEN_AGE] Golden Age. [ICON_INTERNATIONAL_TRADE] Trade buildings pacify conquered cities and yield +2 [ICON_HAPPY] happiness.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_US_TON_TIGI">
+			<Text>Ton Tigi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_US_TON_TIGI_HELP">
+			<Text>While weaker than the Knight, the Ton Tigi may make ranged attacks, and has the indirect fire promotion, but must set up to fire. Lacks the Knight's penalty versus cities, and receives the siege promotion if [ICON_GOLD] bought rather than trained. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_US_TON_TIGI_STRATEGY">
+			<Text>The Ton-tigi is clunkier than the Knightm, requiring set up before it can be fired. However, its high combat and ranged strengths make it exceptionally powerful both on defense and offense. If the Ton Tigi is bought, it also receives the siege promotion, turning this mounted unit into one of the strongest pre-industrial siege units. By properly managing your Ton-Tigi's, despite the extra care required, they can become city-destroying powerhouses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_US_TON_TIGI_TEXT">
+			<Text>Ton-tigi, meaning literally quiver-master, were cavalry commanders of the Empire of Mali. The Ton-tigi, were organised by Sundiata by arranging the army into 16 clans whose leaders were to protect the new state. These clans were known as the ton-ta-jon-ta-ni-woro, meaning the sixteen slaves that carry the bow. The use of slaves was metaphorical, as they were usually high nobles dedicated to serve Mali by bringing the bow or quiver to bear against the emperor's enemies. For all intents and purposes, the ton-tigi were feudal lords and the only men in the early empire that could afford horses. They commanded the Mandekalu cavalry, which were equipped by the ton-tigi or the mansa with their mount.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_US_DONSON_TON">
+			<Text>Donson Ton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_US_DONSON_TON_HELP">
+			<Text>The Donson Ton is much more expensive than the barracks and costs +1 maintenance but may be both purchased and constructed, allowing for two in the same city. +1 happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_US_DONSON_TON_STRATEGY">
+			<Text>The Donson Ton's cost may seem prohibitive, but for an empire with its finances in good shape, it can provide a major edge on your opponents, particularly in the early game, by allowing you to start your units with twice as much experience as usual. By taking advantage of the civs UA, the initial costs can also be reduced somewhat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_US_DONSON_TON_TEXT">
+			<Text>Donson Ton are Manden hunter societies. Hunters of Manden society are characterised as incredible thirst for adventure, impressive physical skills, and an aspiration to become heroes. The hunter societies offered r the camaraderie of like minds and the unity of individual of practitioners from a number of communities into a formal structure of support. Donson Ton branches held meetings, gathered for the funerals of their members and sometimes staged group hunts. It is believed that some of these Donson Ton formed the corps of shock troops in the armies that helped build Sundiata’s Empire and other Mande states. Sundiata was a regarded as a great hunter and magician.</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_US_MALI_SUNDIATA_DESCRIPTION">
+			<Text>MALI (SUNDIATA KEITA)[NEWLINE][NEWLINE]UNIQUE TRAIT: KING OF HUNTERS, HUNTER OF KINGS[NEWLINE]Making [ICON_GOLD] purchases rushes the [ICON_PRODUCTION] production of units or military buildings in that city, and heals your units during a [ICON_GOLDEN_AGE] Golden Age. [ICON_INTERNATIONAL_TRADE] Trade buildings pacify conquered cities and yield +2 [ICON_HAPPY] happiness.[NEWLINE][NEWLINE]UNIQUE BUILDING: DONSON TON (BARRACKS)[NEWLINE]The Donson Ton is much more expensive than the barracks and costs +1 maintenance but may be both purchased and constructed, allowing for two in the same city. +1 happiness.[NEWLINE][NEWLINE]UNIQUE UNIT: TON TIGI (KNIGHT)[NEWLINE]Is a ranged unit unlike the Knight it replaces, and has the indirect fire promotion, but must set up to fire. Lacks the Knight's penalty versus cities, and receives the siege promotion if [ICON_GOLD] bought rather than trained.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUNDIATA_BUTTON_TEXT_ENABLED">
+			<Text>Patronise Hunters Guild</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUNDIATA_BUTTON_TOOLTIP_ENABLED">
+			<Text>Purchases a Donson-Ton, which will stack with any you have already constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUNDIATA_BUTTON_TEXT_DISABLED">
+			<Text>Patronise Hunters Guild (Disabled)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUNDIATA_BUTTON_TOOLTIP_DISABLED">
+			<Text>Purchases a Donson-Ton, which will stack with any you have already constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_C15_PURCHASE_SKOREA">
+			<Text>Confirm Purchase?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

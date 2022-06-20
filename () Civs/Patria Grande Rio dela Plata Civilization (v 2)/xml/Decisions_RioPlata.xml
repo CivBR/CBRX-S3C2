@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--SUKRITACT DECISIONS-->
+		<!--Cruce de los Andes-->
+		<Row Tag="TXT_KEY_DECISIONS_PG_RIODELAPLATA_CRUCEANDES">
+			<Text>Cruce de los Andes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PG_RIODELAPLATA_CRUCEANDES_DESC">
+			<Text>
+				The revolution of May succeeded. Our Army of the Andes is ready to deal a blow against the Colonial forces securing our Independence. A big march with our troops throughout the Andes will help push our independence war to the next level!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be José de San Martín.
+				[NEWLINE][ICON_BULLET]Player must be at war.
+				[NEWLINE][ICON_BULLET]May only be enacted during the Industrial Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_CNum} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_MNum} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Receive {3_GNum} Granaderos a Caballo
+				[NEWLINE][ICON_BULLET]Receive {4_GGNum} Great General
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PG_RIODELAPLATA_CRUCEANDES_DESC_EE">
+			<Text>
+				The revolution of May succeeded. Our Army of the Andes is ready to deal a blow against the Colonial forces securing our Independence. A big march with our troops throughout the Andes will help push our independence war to the next level!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be José de San Martín.
+				[NEWLINE][ICON_BULLET]Player must be at war.
+				[NEWLINE][ICON_BULLET]May only be enacted during the Enlightenment or the Industrial Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_CNum} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_MNum} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Receive {3_GNum} Granaderos a Caballo
+				[NEWLINE][ICON_BULLET]Receive {4_GGNum} Great General
+			</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_DECISIONS_PG_RIODELAPLATA_CRUCEANDES_ENACTED_DESC">
+			<Text>The revolution of May succeeded. Our Army of the Andes is ready to deal a blow against the Colonial forces securing our Independence. A big march with our troops throughout the Andes will help push our independence war to the next level!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Received some Granaderos a Caballo
+				[NEWLINE][ICON_BULLET]Received a Great General
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_PG_RIODELAPLATA_CRUCEANDES">
+			<Text>{1_LeaderName} of {2_CivName} has started the Cruce de los Andes.</Text>
+		</Row>
+		<!--Congreso de Tucumán-->
+		<Row Tag="TXT_KEY_DECISIONS_PG_RIODELAPLATA_CONGRESOTUCUMAN">
+			<Text>Congreso de Tucumán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PG_RIODELAPLATA_CONGRESOTUCUMAN_DESC">
+			<Text>
+				Although our independence started brightly, defining our nation’s laws has been a struggle. The United Provinces of Rio de la Plata are not well organized despite our initial laws, and internal problems have arisen. A real constitution is needed for a real independence. Our patriots are ready to gather themselves near Tucuman at Francisca Bazán de Laguna’s house
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be José de San Martín.
+				[NEWLINE][ICON_BULLET]Must have researched Civil Service.
+				[NEWLINE][ICON_BULLET]Must own at least {1_NumCities} Cities.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{2_CNum} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{3_MNum} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]The Empire is now known as {4_NewName}.
+				[NEWLINE][ICON_BULLET]+25% Building Wonder Production empire-wide
+				[NEWLINE][ICON_BULLET]+25% Great People generation empire-wide
+				[NEWLINE][ICON_BULLET]+10% Building Production empire-wide
+				[NEWLINE][ICON_BULLET]Start a Golden Age
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PG_RIODELAPLATA_CONGRESOTUCUMAN_ENACTED_DESC">
+			<Text>
+				Although our independence started brightly, defining our nation’s laws has been a struggle. The United Provinces of Rio de la Plata are not well organized despite our initial laws, and internal problems have arisen. A real constitution is needed for a real independence. Our patriots are ready to gather themselves near Tucuman at Francisca Bazán de Laguna’s house
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]The Empire is now known as "Argentina".
+				[NEWLINE][ICON_BULLET]+25% Building Wonder Production empire-wide
+				[NEWLINE][ICON_BULLET]+25% Great People generation empire-wide
+				[NEWLINE][ICON_BULLET]+10% Building Production empire-wide
+				[NEWLINE][ICON_BULLET]Start a Golden Age
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_PG_RIODELAPLATA_CONGRESOTUCUMAN">
+			<Text>{1_LeaderName} has summoned a congress in Tucumán and his lands are now known as {2_Newcivname}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_DESC_ENACTED">
+			<Text>Confederación Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_SHORT_DESC_ENACTED">
+			<Text>Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PG_RIODELAPLATA_ADJECTIVE_ENACTED">
+			<Text>Argentine</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

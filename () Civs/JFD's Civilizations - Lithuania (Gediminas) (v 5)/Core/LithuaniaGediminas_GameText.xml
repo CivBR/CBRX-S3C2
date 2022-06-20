@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_LITHUANIA_GEDIMINAS_DESCRIPTION">
+			<Text>LITHUANIA (GEDIMINAS)[NEWLINE][NEWLINE]UNIQUE TRAIT: THE OLD GODS[NEWLINE][ICON_BULLET]Units trained in cities following only your Pantheon have doubled [ICON_MOVES] Movement in Forest Tiles. Melee Units trained in these cities can capture defeated enemies.[NEWLINE][NEWLINE]UNIQUE BUILDING: SACRED GROVE (SHRINE)[NEWLINE][ICON_BULLET]The Sacred Grove is the unique Lithuanian Shrine. Unlike the Shrine, the Sacred Grove can be built immediately. When completed, it claims all Forest tiles within 3 tiles of the city. In addition, it converts your city's population to your pantheon belief each turn, the rate of which increased for each Forest Tile within range of the city. Build Sacred Groves strategically to combat the unwanted spread of foreign Religions and to maintain your own Pantheon in your cities.[NEWLINE][NEWLINE]UNIQUE UNIT: SAMOGITIAN WARRIOR (SWORDSMAN)[NEWLINE][ICON_BULLET]The Samogitian Warrior is the Lithuanian unique unit. It gains a +50% Attack bonus when fighting in Forest and does not require [ICON_RES_IRON] Iron, unlike the Swordsman that it replaces, though it is slightly weaker otherwise. In addition, it heals 5 damage when beginning its turn in a Forest tile. Position your Samogitian Warriors deep in surrounding Forests to get an advantage on your foes.</Text>
+		</Row>
+		<!--LITHUANIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_GEDIMINAS_ADJECTIVE">
+			<Text>Lithuanian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_GEDIMINAS_DESC">
+			<Text>Lithuanian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_GEDIMINAS_SHORT_DESC">
+			<Text>Lithuania</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_CIV_TAL_JFD_LITHUANIA_DESC">
+			<Text>Lithuania</Text>
+		</Replace>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_GEDIMINAS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_GEDIMINAS_TEXT_1">
+			<Text>The Grand Duchy of Lithuania was a European state from the 12th century until 1795. It was founded by the Lithuanians, one of the polytheistic Baltic tribes from Aukštaitija. The duchy later expanded to include large portions of the former Kievan Rus' and other Slavic lands, covering the territory of present-day Belarus, Latvia, Lithuania and parts of Estonia, Moldova, Poland, Russia and Ukraine. At its greatest extent in the 15th century, it was the largest state in Europe. It was a multi-ethnic and multi-confessional state with great diversity in languages, religion, and cultural heritage.[NEWLINE][NEWLINE]Consolidation of the Lithuanian lands began in the late 12th century. Mindaugas, the first ruler of the Grand Duchy, was crowned as Catholic King of Lithuania in 1253. The pagan state was targeted in the religious crusade by the Teutonic Knights and the Livonian Order. The multi-ethnic and multi-confessional state emerged only at the late reign of Gediminas and continued to expand under his son Algirdas. Algirdas's successor Jogaila signed the Union of Krewo in 1386, bringing two major changes in the history of the Grand Duchy of Lithuania: conversion into Catholicism and establishment of a dynastic union between the Grand Duchy of Lithuania and the Crown of the Kingdom of Poland.[NEWLINE][NEWLINE]The reign of Vytautas the Great marked both the greatest territorial expansion of the Grand Duchy and the defeat of the Teutonic Knights in the Battle of Grunwald in 1410. It also marked the rise of the Lithuanian nobility. After Vytautas's death, Lithuania's relationship with the Kingdom of Poland greatly deteriorated. Lithuanian noblemen, including the Radvila family (Radziwiłłs), attempted to break the personal union with Poland. However, the unsuccessful Muscovite–Lithuanian Wars with the Grand Duchy of Moscow forced the union to remain intact.[NEWLINE][NEWLINE]Eventually, the Union of Lublin of 1569 created a new state, the Polish–Lithuanian Commonwealth. In this federation, the Grand Duchy of Lithuania maintained its political distinctiveness and had a separate government, laws, army, and treasury. This federation was terminated by the passing of the Constitution of May 3, 1791, and since then there was supposed to be but a single country — Respublica Poloniae — under one monarch and one parliament. Shortly after, the unitary character of the state was confirmed by adopting Reciprocal Guarantee of Two Nations. The newly reformed Commonwealth was invaded by Russia in 1792, and partitioned between the neighbours, with a truncated state (principal cities being Kraków, Warsaw and Vilnius) remaining only nominally independent; and after the Kościuszko Uprising, partitioned among the Russian Empire, the Kingdom of Prussia and Austria in 1795.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_GEDIMINAS_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_GEDIMINAS_TEXT_2">
+			<Text>Lithuania is located in Northern Europe. It covers an area of 65,200 km2. The country lies between latitudes 53° and 57° N, and mostly between longitudes 21° and 27° E (part of the Curonian Spit lies west of 21°). It has around 99 kilometres (61.5 mi) of sandy coastline, of which only about 38 kilometres (24 mi) face the open Baltic Sea and which is the shortest among the Baltic Sea countries; the rest of the coast is sheltered by the Curonian sand peninsula. Lithuania's major warm-water port, Klaipėda, lies at the narrow mouth of the Curonian Lagoon, a shallow lagoon extending south to Kaliningrad. The main and largest river, the Nemunas River, and some of its tributaries carry international shipping.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_GEDIMINAS_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_GEDIMINAS_FACTOID_TEXT">
+			<Text>Until the early fifteenth century, Lithuania was the largest and, in later centuries, sole state which professed a pagan religion. Because of this, it was known as a Grand Duchy, for the Holy See never bestowed upon it a crown for it to become a Kingdom.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_01">
+			<Text>Vilnius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_02">
+			<Text>Kaunas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_03">
+			<Text>Gardinas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_04">
+			<Text>Trakai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_05">
+			<Text>Siauliai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_06">
+			<Text>Klaipeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_07">
+			<Text>Kernave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_08">
+			<Text>Palanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_09">
+			<Text>Raseiniai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_10">
+			<Text>Svencionys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_11">
+			<Text>Seinai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_12">
+			<Text>Lyda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_13">
+			<Text>Varniai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_14">
+			<Text>Telsiai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_15">
+			<Text>Upyte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_16">
+			<Text>Anyksciai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_17">
+			<Text>Rokiskis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_18">
+			<Text>Nesvyzius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_19">
+			<Text>Birzai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_20">
+			<Text>Krevas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_21">
+			<Text>Panevezys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_22">
+			<Text>Utena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_23">
+			<Text>Svieriai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_24">
+			<Text>Jurbarkas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_25">
+			<Text>Ukmerge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_26">
+			<Text>Merkine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_27">
+			<Text>Akmene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_28">
+			<Text>Smurgainys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_33">
+			<Text>Zietela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_34">
+			<Text>Kedainai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_35">
+			<Text>Taurage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_36">
+			<Text>Alytus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_29">
+			<Text>Radviliskis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_30">
+			<Text>Mazeikiai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_31">
+			<Text>Druskininkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LITHUANIA_GEDIMINAS_32">
+			<Text>Panemune</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_0">
+			<Text>Ruta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_1">
+			<Text>Shvarn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_2">
+			<Text>Birute</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_3">
+			<Text>Aldona</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_4">
+			<Text>Butvydas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_5">
+			<Text>Traidenis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_6">
+			<Text>Vytautas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_7">
+			<Text>Algirdas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_8">
+			<Text>Kestutis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_GEDIMINAS_9">
+			<Text>Svidrigaila</Text>
+		</Row>
+		<!--GEDIMINAS-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LITHUANIA_GEDIMINAS">
+			<Text>Gediminas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_TEXT_1">
+			<Text>Gediminas (c. 1275 – 1341) was the monarch of medieval Grand Duchy of Lithuania with the title of Grand Duke, but more correctly High King, according to the contemporary perception. He was the ruler of the Grand Duchy of Lithuania 1316–1341, which chiefly meant monarch of Lithuanians and much of Rus'. He was the true founder of the Grand Duchy of Lithuania as an empire. He has a reputation of inveterate pagan who fiercely resisted all attempts to Christianize his country, though the case is actually somewhat more complex. Gediminas established Lithuania as an empire, controlling trade, military service, and diplomatic efforts within the duchy. Relics, such as the statue and tower both located in Vilnius Lithuania and a reconstructed castle situated in Lida, stand in remembrance and honor of the past ruler and his many important historic contributions to the area as a whole.[NEWLINE][NEWLINE]Gediminas (c. 1275 – 1341) was the monarch of medieval Grand Duchy of Lithuania with the title of Grand Duke, but more correctly High King, according to the contemporary perception. He was the ruler of the Grand Duchy of Lithuania 1316–1341, which chiefly meant monarch of Lithuanians and much of Rus'. He was the true founder of the Grand Duchy of Lithuania as an empire. He has a reputation of inveterate pagan who fiercely resisted all attempts to Christianize his country, though the case is actually somewhat more complex. Gediminas established Lithuania as an empire, controlling trade, military service, and diplomatic efforts within the duchy. Relics, such as the statue and tower both located in Vilnius Lithuania and a reconstructed castle situated in Lida, stand in remembrance and honor of the past ruler and his many important historic contributions to the area as a whole.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_HEADING_2">
+			<Text>Origin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_TEXT_2">
+			<Text>He was supposed by the earlier chroniclers to have been the ostler of Vytenis, Grand Duke of Lithuania, but more probably he was Vytenis' younger brother and the son of Butvydas (Pukuwer), another Lithuanian grand duke. In any case, his purported Rurikid origin was a later fake. According to the latest research, even his grandfather cannot be named with certainty. Gediminas became Grand Duke of Lithuania in 1316 at the age of 40 and ruled for 25 years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_HEADING_3">
+			<Text>Choice of Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_TEXT_3">
+			<Text>He inherited a vast domain, comprising Lithuania proper, Samogitia, Navahradak, Podlachia, Polotsk]] and Minsk; but these possessions were environed by powerful and greedy foes, the most dangerous of them being theTeutonic Knights and the Livonian Order. The systematic raiding of Lithuania by the knights under the pretext of converting it had long since united all the Lithuanian tribes against the common enemy; but Gediminas aimed at establishing a dynasty which should make Lithuania not merely secure but mighty, and for this purpose he entered into direct diplomatic negotiations with the Holy See. At the end of 1322, he sent letters to Pope John XXII soliciting his protection against the persecution of the knights, informing him of the privileges already granted to the Dominicans and the Franciscans in Lithuania for the preaching of God's Word, and desiring that legates should be sent to receive him also into the bosom of the church.[NEWLINE][NEWLINE]On receiving a favorable reply from the Holy See, Gediminas issued circular letters, dated January 25, 1325, to the principal Hansa towns, offering a free access into his domains to men of every order and profession from nobles and knights to tillers of the soil. The immigrants were to choose their own settlements and be governed by their own laws. Priests and monks were also invited to come and build churches at Vilnius and Navahradak. In October 1323, representatives of the archbishop of Riga, the bishop of Dorpat, the king of Denmark, the Dominican and Franciscan orders, and the Grand Master of the Teutonic Order assembled at Vilnius, when Gediminas confirmed his promises and undertook to be baptized as soon as the papal legates arrived. A compact was then signed at Vilnius, in the name of the whole Christian World, between Gediminas and the delegates, confirming the promised privileges.[NEWLINE][NEWLINE]But the Christianizing of Lithuania was by no means to the liking of the Teutonic Knights, and they used every effort to nullify Gediminas far-reaching design. This, unfortunately, was too easy to do. Gediminas chief object was to save Lithuania from destruction at the hands of the Germans. But he was still a pagan reigning over semi-pagan lands; he was equally bound to his pagan kinsmen in Samogitia, to his Orthodox subjects in Belarus, and to his Catholic allies in Masovia. His policy, therefore, was necessarily tentative and ambiguous and might very readily be misinterpreted.[NEWLINE][NEWLINE]Thus, his raid upon Dobrzyń, the latest acquisition of the knights on Polish soil, speedily gave them a ready weapon against him. The Prussian bishops, who were devoted to the knights, at a synod at Elbing questioned the authority of Gediminas letters and denounced him as an enemy of the faith; his Orthodox subjects reproached him with leaning towards the Latin heresy; while the pagan Lithuanians accused him of abandoning the ancient gods. Gediminas disentangled himself from his difficulties by repudiating his former promises; by refusing to receive the papal legates who arrived at Riga in September 1323; and by dismissing the Franciscans from his territories. These apparently retrogressive measures simply amounted to a statesmanlike recognition of the fact that the pagan element was still the strongest force in Lithuania, and could not yet be dispensed with in the coming struggle for nationality.[NEWLINE][NEWLINE]At the same time, Gediminas, through his ambassadors, privately informed the papal legates at Riga that his difficult position compelled him for a time to postpone his steadfast resolve of being baptized, and the legates showed their confidence in him by forbidding the neighboring states to war against Lithuania for the next four years, besides ratifying the treaty made between Gediminas and the archbishop of Riga. Nevertheless, in 1325, the Order, disregarding the censures of the church, resumed the war with Gediminas, who had in the meantime improved his position by an alliance with Wladislaus Lokietek, king of Poland, whose son Casimir III now married Gediminas' daughter Aldona.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_HEADING_4">
+			<Text>Incorporation of Slavic Lands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_TEXT_4">
+			<Text>While on his guard against his northern foes, Gediminas, from 1316 to 1340, was aggrandizing himself at the expense of the numerous Slavonic principalities in the south and east, whose incessant conflicts with each other wrought the ruin of them all. Here Gediminas triumphal progress was irresistible; but the various stages of it are impossible to follow, the sources of its history being few and conflicting, and the date of every salient event exceedingly doubtful. One of his most important territorial accretions, the principality of Halych-Volynia; was obtained by the marriage of his son Lubart with the daughter of the Galician prince; the other, Kiev, apparently by conquest.[NEWLINE][NEWLINE]While exploiting Slavic weakness in the wake of the Mongol invasion, Gediminas wisely avoided war with the Golden Horde, a great regional power at the time, while expanding Lithuania's border towards the Black Sea. He also secured an alliance with the nascent grand duchy of Muscovy by marrying his daughter, Anastasia, to the grand duke Simeon. But he was strong enough to counterpoise the influence of Muscovy in northern Russia, and assisted the republic of Pskov, which acknowledged his overlordship, to break away from Great Novgorod.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_HEADING_5">
+			<Text>Domestic Affairs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_TEXT_5">
+			<Text>His internal administration bears all the marks of a wise ruler. During his reign he built an army from his people, collected taxes to bolster his domain, and formed treaties with outside forces. He protected the Catholic as well as the Orthodox clergy, encouraging them both to civilize his subjects; he raised the Lithuanian army to the highest state of efficiency then attainable; defended his borders with a chain of strong fortresses; and built numerous castles in towns including Vilnius, the capital to be. At first he moved the capital to the newly built town of Trakai, but in 1323, re-established a permanent capital in Vilnius. Gediminas bolstered trade and agriculture within the reaches of his empire and also expanded his influence though militaristic and diplomatic efforts, as well as with the establishment of ties created with foreign nations through the arranged marriages of several of his children.[NEWLINE][NEWLINE]Gediminas died in the last week of 1341 (presumably he was killed in time of coup d'état). He was married three times, and left seven sons and six daughters. Two of his sons perished in battle. Jaunutis initially ruled Vilnius after the death of his father and was formally Grand Duke of Lithuania until his elder brothers Algirdas and Kęstutis returned from military campaigns in Ruthenia and forced him to abdicate his throne in their favor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_HEADING_6">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_TEXT_6">
+			<Text>Gediminas had a strong impact on the creation of a distinct Lithuanian nation. His efforts to effectively rule and operate the social and political mechanisms of the area were very important during the years in which they were instituted, and they would also have an impact well into the future. During his reign, Gediminas initiated Lithuania's encroachment into the Slavic lands that bordered the country to the east. He was also fundamentally involved in establishing the capital city of Vilinus while in power. His wise decision to side with neither the Catholic nor Orthodox church would prevent him from developing tensions with nations allied on either side of the religious spectrum. Gediminas ran an efficient empire, effectively levying taxes and building an army comprised of his subjects, which would make the empire strong and help it to run more smoothly overall. The Gediminaicai dynasty was created from the bloodline of Gediminas, as forthcoming great European monarchies would come to be presided over by the kinfolk of this important ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_LIVED">
+			<Text>1275 - 1341</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_NAME">
+			<Text>Gediminas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_SUBTITLE">
+			<Text>Leader of Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LITHUANIA_GEDIMINAS_TITLES_1">
+			<Text>Grand Duke of Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_GEDIMINAS_TEXT">
+			<Text>O' noble Gediminas, Lord of the Old Ways and Grand Duke of Lithuania, we sing praises unto your name. A skilled diplomat and shrewd negotiator, you ensured the ancient beliefs of your people against the unyielding force of Catholic Europe. As Grand Duke, you established a noble dynasty; one that would go on to conquer a vast and formidable empire. In your name, Lithuania would rise to cover the breadth of Eastern Europe, and so the identity of its people would be safeguarded for centuries to come.[NEWLINE][NEWLINE]O' revered lord, your people forget not their old Gods and you that beheld them. Can you uphold their devotion and expel the irreverences that border your lands? Can you take up sword and faith and lead Lithuania once more to empire? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LITHUANIA_GEDIMINAS_FIRSTGREETING_1">
+			<Text>Halt! You enter the lands of Lithuania. We do not want your company. Leave us be, and we shall have no use for spilling your blood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LITHUANIA_GEDIMINAS_DEFEATED_1">
+			<Text>May Auštaras take me, and Vėjas defile you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LITHUANIA_GEDIMINAS_ATTACKED_HOSTILE_1">
+			<Text>You are a fool. Laima guides my blade, and soon I will have it at your throat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LITHUANIA_GEDIMINAS_DEC_FRIENDSHIP_1">
+			<Text>I will slaughter a thousand priests and a hundred bishops if you would do me the honour of a Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LITHUANIA_GEDIMINAS_DENOUNCE_1">
+			<Text>Your honour is wanting.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LITHUANIA_GEDIMINAS_DENOUNCE_FRIEND_1">
+			<Text>I was a fool to call you a friend.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LITHUANIA_GEDIMINAS_DOW_GENERIC_1">
+			<Text>The Gods will lead me to victory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LITHUANIA_GEDIMINAS_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You words are empty without action.</Text>
+		</Row>
+		<!--THE OLD GODS-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA_GEDIMINAS_SHORT">
+			<Text>The Old Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA_GEDIMINAS">
+			<Text>Units trained in cities following only your Pantheon have doubled [ICON_MOVES] Movement in Forest Tiles. Melee Units trained in these cities can capture defeated enemies.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE" />
+			<Set Text="[COLOR_CYAN]Capture Chance if Defeated: {1_Percent}%[ENDCOLOR]" />
+		</Update>
+		<!--Dievas' Blessing-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA_GEDIMINAS">
+			<Text>Dievas' Blessing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA_GEDIMINAS_HELP">
+			<Text>Melee Units may capture defeated enemies from combat. Double [ICON_MOVES] Movement in Forest.</Text>
+		</Row>
+		<!--SAMOGITIAN WARRIOR-->
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR">
+			<Text>Samogitian Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_HELP">
+			<Text>Unique Swordsman replacement for Lithuania. Fights well in Forests and can be built without Iron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_STRATEGY">
+			<Text>The Samogitian Warrior is the Lithuanian unique unit. It gains a +50% Attack bonus when fighting in Forest and does not require [ICON_RES_IRON] Iron, unlike the Swordsman that it replaces, though it is slightly weaker otherwise. In addition, it heals 5 damage when beginning its turn in a Forest tile. Position your Samogitian Warriors deep in surrounding Forests to get an advantage on your foes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_TEXT">
+			<Text>Samogitians lived in western Lithuania and were closely related to Semigallians and Curonians. In 1413, they became the last group of Europeans to convert to Christianity. In 1857, there were 418,824 people of Samogitian roots and 444,921 persons declared the Samogitian dialect as their mother tongue in 1897 in Kovno Governorate. Currently Lithuania does not allow for declaration of Samogitian nationality in passports as it is not an ethnicity. In list of ethnic groups of Russia there is one person who declared himself with "Zhemaijty".</Text>
+		</Row>
+		<!--Perkunas' Blessing-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SAMOGITIAN_WARRIOR">
+			<Text>Perkunas' Blessing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SAMOGITIAN_WARRIOR_HELP">
+			<Text>+50% Attack in Forest. When beginning its turn in Forest, [COLOR_POSITIVE_TEXT]HEALS[ENDCOLOR] an extra +5 damage.</Text>
+		</Row>
+		<!--SACRED GROVE-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE">
+			<Text>Sacred Grove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HELP">
+			<Text>Claims all Forest tiles within range of the city. Forests within your borders convert the city population to your pantheon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_STRATEGY">
+			<Text>The Sacred Grove is the unique Lithuanian Shrine. Unlike the Shrine, the Sacred Grove can be built immediately. When completed, it claims all Forest tiles within 3 tiles of the city. In addition, it converts your city's population to your pantheon belief each turn, the rate of which increased for each Forest Tile within range of the city. Build Sacred Groves strategically to combat the unwanted spread of foreign Religions and to maintain your own Pantheon in your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_TEXT">
+			<Text>A sacred grove, or sacred forest, is any grove of trees of special religious importance. Sacred groves were most prominent in the Ancient Near East and prehistoric Europe, but feature in various cultures throughout the world. They were important features of the mythological landscape and cult practice of Celtic, Baltic, Germanic, ancient Greek, Near Eastern, Roman, and Slavic polytheism, and were also used in India, Japan, and West Africa.</Text>
+		</Row>
+		<!--MINOR CIVS-->
+		<!--Dorpat-->
+		<Replace Tag="TXT_KEY_CITYSTATE_VILNIUS">
+			<Text>Dorpat</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITYSTATE_VILNIUS_ADJ">
+			<Text>Dorpat</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_VILNIUS_TEXT">
+			<Text>Dorpat or Tartu is a city in Estonia. A small Jewish community was founded there by demobilized soldiers from the army of *Nicholas i in the 1860s. A synagogue was erected in 1876. The community numbered 1,774 (4% of the total population) in 1897, 1,115 in 1922, and 920 in 1934. There were both Jewish elementary and secondary schools in the city. Jews studied at the University of Tartu from the 1840s; there were 235 Jewish students in 1886 (14.8% of the total number of students). With the Russification of the university and the introduction of a *numerus clausus, the number of Jewish students was reduced, and a further reduction occurred after the establishment of independent Estonia following World War i; from 188 Jewish university students in 1926 their number decreased to 96 in 1934. In 1934 a seminary for Jewish studies was opened at the university under the guidance of the scholar L. Gulkowitsch. He was succeeded by the scholar and educator M.J. Nadel (1893–1936) and by the Hebrew author H.J. Port (1892–1940). The Association for the Study of Jewish History and Literature, founded in 1884, held an important place in the life of the Jewish students. Among the association's first members were Jacob *Bernstein-Kogan (Cohan) and A. Broide; it became a center particularly for the national minded and Zionist students. When Estonia was incorporated in the Soviet Union in 1940, Jewish communal life in Tartu was brought to an end. After the German occupation in 1941 the Jews who did not succeed in escaping from Tartu were murdered.</Text>
+		</Replace>
+		<Update>
+			<Where Tag="TXT_KEY_JFD_TITLE_STATE_MINOR_CIV_VILNIUS"/>
+			<Set>
+				<Text>Republic</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_JFD_TITLE_LEADER_MINOR_CIV_VILNIUS"/>
+			<Set>
+				<Text>President</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_JFD_TITLE_LEADER_MINOR_CIV_VILNIUS_FEMALE"/>
+			<Set>
+				<Text>President</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+</GameData>

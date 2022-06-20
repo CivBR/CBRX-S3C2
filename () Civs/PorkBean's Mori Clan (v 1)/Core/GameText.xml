@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/7/2020 8:36:35 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIV_PB_MORI_DESC">
+			<Text>Mori Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_MORI_SHORT_DESC">
+			<Text>Mori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_MORI_ADJECTIVE">
+			<Text>Mori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_MORI_HEADING_1">
+			<Text>Mori Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_MORI_TEXT_1">
+			<Text>The Mori clan was a Japanese samurai clan descended from Oe no Hiromoto. The family's most illustrious member, Mori Motonari, greatly expanded the clan's power in Aki Province. During the Edo period his descendants became daimyo of the Choshu Domain under the Tokugawa shogunate. After the Meiji Restoration with the abolition of the han system and daimyo, the Mori clan became part of the new nobility.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_MORI_HEADING_2">
+			<Text>Origin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_MORI_TEXT_2">
+			<Text>The founder of the clan, Mori Suemitsu, was the fourth son of Oe no Hiromoto. He founded the clan when he took the name from his shoen named "Mori" in Aiko District, Sagami Province. After the Jokyu War, Suemitsu was appointed to the jito office of a shoen in Aki Province. He was defeated by Hojo Tokiyori in 1247 and committed suicide at Minamoto no Yoritomo's shrine along with his Miura clan allies. The genealogy of the Mori clan is well verified because it matches up from several different sources such as the Mori Family Tree, Sonpi Bunmyaku and Oe Family Tree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_MORI_HEADING_3">
+			<Text>Kamakura Period</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_MORI_TEXT_3">
+			<Text>During the Kamakura shogunate the Mori were a gokenin family due to the fame of their ancestor Oe no Hiromoto. Mori Suemitsu, the fourth son of Oe no Hiromoto inherited Mori-shoen from his father and that is why he began to use the name. It is reasonable to say he is the first head of the Mori clan but in the Mori family tradition he is the 39th head of the family according to him being the 39th linear descendant of Amenohohi-no-mikoto, an ancient god of Japan. After the third head of the clan, Mori Tokichika, his son Mori Sadachika was supposed to succeed him but he and his son were both killed by the Hojo clan and the great-grandson of Tsunemitsu became the next head of the clan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_MORI_HEADING_4">
+			<Text>Sengoku Period</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_MORI_TEXT_4">
+			<Text>In the Sengoku period, Mori Motonari expanded their power to the whole of Aki province and then to other neighboring provinces. In his generation, Mori became the daimyo from a local jizamurai.[NEWLINE][NEWLINE]During the war with the Oda clan and the Ikko-ikki, the Mori helped the Ikko-ikki clans by establishing a naval trade route between each other's provincial docks and harbours, the Oda eventually nullified this by laying siege to the trade ships between the two clans and went to further disrupt trade by attempting to destroy the Mori fleet, failing on their first attempt in 1571. The second battle took place in 1579 with the Oda sending eight Atakebune warships to finally destroy the Mori naval threat. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_PB_MORI_TEXT">
+			<Text>Blessings of the divine be upon you, Lord Mori Motonari, great Daimyo and head of the ancient Mori Clan! The Mori descended from Oe no Hiromoto of the Kamakura period, but it was under your stewardship that the clan truly came to prominence. When you came to power, Aki Province was threatened on all sides by the neigboring Ouchi, Amago and Takeda clans. Through your careful strategy and cunning diplomacy, you were able to turn the tables on each of your enemies in turn, culminating in your legendary battle against the Ouchi on the sacred isle of Miyajima. Your glorious victory set the stage for the rise of your family, with the Mori becoming one of the most important clans in Western Japan.[NEWLINE][NEWLINE]Lord Mori, your people yearn to know your next ambition! Will you carve out an empire by land and by sea? Will you raise the Mori name from obscurity into the annals of history? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI">
+			<Text>Mori Motonari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_NAME">
+			<Text>Mori Motonari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_SUBTITLE">
+			<Text>Lord of Aki Province</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_TITLES_1">
+			<Text>Daimyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_LIVED">
+			<Text>1497 - 1571</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_TEXT_1">
+			<Text>Mori Motonari was born on April 16, 1497, under the childhood name Shojumaru in a small domain of Aki Province. He was the second son of his father, Mori Hiromoto. His mother was a daughter of Fukubara Hirotoshi, but her name is unknown. His birthplace is said to be Suzuo Castle, the base of the Fukubara clan and his mother's home. Today, there are stone monuments at the ruins of Suzuo Castle to commemorate the birthplace of Motonari at the castle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_HEADING_2">
+			<Text>Battle of Miyajima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_TEXT_2">
+			<Text>In the early summer of 1555, Sue was again threatening, and Motonari was hard-pressed. Sue Harukata was by no means a poor fighter, and the danger of Motonari's retainers and allies deserting the Mori led him to adopt a bold and unorthodox scheme. His plan involved Miyajima, home to the Itsukushima Shrine and a place combatants had traditionally avoided on religious grounds.[NEWLINE][NEWLINE]Mori put his strategy into effect. Within a week he retook Sakurao Castle and played his trump card – the Murakami pirates. Gathering the pirates' naval strength, he set out to surprise Sue on Miyajima, and picked a perfect night on which to do so. On October 1, after dark and in a driving thunderstorm, Motonari and his sons put to sea. So the Battle of Miyajima began. As a diversion, Kobayakawa Takakage sailed straight past the Sue positions on To-no-oka while Motonari, Mori Takamoto, and Kikkawa Motoharu landed just to the east and out of sight. Takakage doubled back and landed at dawn, attacking the Sue forces practically in the shadow of Miyajima's great torii gate. Motonari then assaulted the confused Sue troops from behind, and the result was a rout for Sue Harukata, who committed suicide at Oenoura, a small island inlet. Many of his troops followed suit, and for Motonari, the battle was utterly decisive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_HEADING_3">
+			<Text>Later Life and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MORI_MOTONARI_PEDIA_TEXT_3">
+			<Text>Motonari had been suffering from illness during the first half of the 1560s so the shogun, Ashikaga Yoshiteru, sent him his doctor, Manase Dosan, to treat him. It seems that his physical condition improved temporarily and in 1567 his last son, Kadokikumaru was born, later known as Kobayakawa Hidekane. Mori Motonari died on June 14, 1571, at Yoshida-Koriyama Castle at the age of 74. The cause of death is said to be both esophageal cancer and old age.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_PB_MIYAJIMA">
+			<Text>Kills along a coastline yield [ICON_PEACE] Faith and damage adjacent enemy Units. Embarked Great Prophets may construct Holy Sites on Coast tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PB_MIYAJIMA_SHORT">
+			<Text>The Three Arrows</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_1">
+			<Text>Yoshida-Koriyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_2">
+			<Text>Suzuo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_3">
+			<Text>Tajihi-Sarugake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_4">
+			<Text>Miyao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_5">
+			<Text>Sakurao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_6">
+			<Text>Hinoyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_7">
+			<Text>Niitakayama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_8">
+			<Text>Miiri-Takamatsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_9">
+			<Text>Hagi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_10">
+			<Text>Kagamiyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_11">
+			<Text>Goryu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_12">
+			<Text>Hiroshima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_13">
+			<Text>Katsura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_14">
+			<Text>Biwako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_15">
+			<Text>Mibu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_16">
+			<Text>Kimura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_17">
+			<Text>Funayama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_18">
+			<Text>Yagi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_19">
+			<Text>Nagamiyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_20">
+			<Text>Koi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_21">
+			<Text>Tokonoyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_22">
+			<Text>Mihara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_23">
+			<Text>Sato-Kanayama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_24">
+			<Text>Kusatsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_25">
+			<Text>Hatagaeshiyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_26">
+			<Text>Kannabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_27">
+			<Text>Takayama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_28">
+			<Text>Kashirazaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_29">
+			<Text>Kagi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_30">
+			<Text>Konomine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_31">
+			<Text>Shikano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_32">
+			<Text>Odaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_33">
+			<Text>Noshima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_34">
+			<Text>Yamabuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_35">
+			<Text>Shiraga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_36">
+			<Text>Gassantoda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_37">
+			<Text>Nukuyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_38">
+			<Text>Mitoya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_39">
+			<Text>Akana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_MORI_40">
+			<Text>Tsuwano</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_1">
+			<Text>Mori Takamoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_2">
+			<Text>Kikkawa Motoharu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_3">
+			<Text>Kobayakawa Takakage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_4">
+			<Text>Murakami Takeyoshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_5">
+			<Text>Watanabe Hajime</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_6">
+			<Text>Kunishi Motosuke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_7">
+			<Text>Murakami Motoyoshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_8">
+			<Text>Ankokuji Ekei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_9">
+			<Text>Kodama Naritada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_MORI_10">
+			<Text>Mori Terumoto</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_PB_MURAKAMI_KOBAYA">
+			<Text>Murakami Kobaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_MURAKAMI_KOBAYA_HELP">
+			<Text>Mori Unique Unit. Heals HP if beginning a turn on a Tile Improvement or Trade Route. +10% [ICON_STRENGTH] Combat Strength for each adjacent land tile at the start of the turn. Slower than the Caravel it replaces, but moves faster in Coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_MURAKAMI_KOBAYA_STRATEGY">
+			<Text>The Murakami Kobaya is the Mori Unique Unit, replacing the Caravel. Unlike the Caravel, the Murakami Kobaya is poorly suited to deep Ocean exploration, but is a powerful and agile combatant on Coast and inland seas. At the start of each turn it will gain +10% [ICON_STRENGTH] Combat Strength for each adjacent land tile. It will also heal 10 HP if it is stationed on a Trade Route, or 20 HP if on a Tile Improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_MURAKAMI_KOBAYA_TEXT">
+			<Text>The Kobaya was a kind of fast, light boarding ship and the smallest of the three most common forms of Sengoku-period naval vessels. Kobaya would sail in large numbers towards a larger enemy ship in a formation resembling a school of fish, hoping to quickly disable and board the fleet to defeat the crew in close combat.[NEWLINE][NEWLINE]The Murakami Clan of western Japan were well-known as pirates of the Seto Inland Sea, who generated income by collecting tolls and various fees on shipping. They were composed of three branches, each with their own base of operations. By 1550, two of these branches were allied to the Môri. They provided the bulk of the Môri's naval power and thus were key in establishing the Môri's domination of the Inland Sea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PB_MORI_HOLYSITE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Construct a Holy Site[ENDCOLOR][NEWLINE][NEWLINE]Unit will be consumed.[NEWLINE][NEWLINE]Great Tile Improvements will connect Strategic Resources on this tile to the trade network.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]+6[ENDCOLOR] [ICON_PEACE] Faith</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_BASE">
+			<Text>Murakami Suigun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_BASE_HELP">
+			<Text>Heals 10 HP on Trade Routes and 20 HP on Tile Improvements. Gains [ICON_STRENGTH] Combat Strength from adjacent land tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_1">
+			<Text>Seto Inland Sea I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_1_HELP">
+			<Text>+10% [ICON_STRENGTH] Combat Strength from adjacent Land Tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_2">
+			<Text>Seto Inland Sea II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_2_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength from adjacent Land Tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_3">
+			<Text>Seto Inland Sea III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_3_HELP">
+			<Text>+30% [ICON_STRENGTH] Combat Strength from adjacent Land Tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_4">
+			<Text>Seto Inland Sea IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_4_HELP">
+			<Text>+40% [ICON_STRENGTH] Combat Strength from adjacent Land Tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_5">
+			<Text>Seto Inland Sea V</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_5_HELP">
+			<Text>+50% [ICON_STRENGTH] Combat Strength from adjacent Land Tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_6">
+			<Text>Seto Inland Sea VI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_MURAKAMI_6_HELP">
+			<Text>+60% [ICON_STRENGTH] Combat Strength from adjacent Land Tiles</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Tag="TXT_KEY_BUILDING_PB_HAGIYAKI">
+			<Text>Hagiyaki Workshop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_HAGIYAKI_HELP">
+			<Text>+1 [ICON_CULTURE] Culture per incoming International Trade Route. Provides a free [ICON_RES_PORCELAIN] Porcelain Luxury Resource in the City where it was built. Requires a Shrine as well as a Monument. Only Mori may build it, and replaces the Amphitheater.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_HAGIYAKI_STRATEGY">
+			<Text>The Hagiyaki Workshop is the Mori Unique Building, replacing the Amphitheater. In addition to normal effects, the Hagiyaki Workshop provides extra [ICON_CULTURE] Culture per incoming International Trade Route. When this building is completed, the tile on which the City is built will gain a free [ICON_RES_PORCELAIN] Porcelain Luxury Resource. The City must have completed both a Shrine and a Monument in order to build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_HAGIYAKI_TEXT">
+			<Text>Hagiyaki is a type of Japanese pottery traditionally originated from the town of Hagi in Nagato Province. The origins of Hagiyaki can be traced back to the arrival of Korean potters to Hagi following Japan’s military invasion of the Korean peninsula in the late 16th century. As a result, a large number of Korean craftsmen were abducted and transported to Japan, where they played a crucial role in establishing new pottery types such as Satsuma, Arita, and Hagiyaki. The local feudal lord of the Hagi area at the time, Terumoto Mori, had appointed potters in a castle town of Matsumoto in order to create Hagi wares for his personal tea ceremonies and as gifts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_MORI_CULTURE_DUMMY">
+			<Text>Mori Culture Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_MORI_CULTURE_DUMMY_HELP">
+			<Text>Hagiyaki Workshop generating [ICON_CULTURE]</Text>
+		</Row>
+		</Language_en_US>
+</GameData>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d5a0617c-0b60-437a-8c29-1eeba24f98df" version="1">
+  <Properties>
+    <Name>(US) Brandenburg-Prussia  - Frederick William I</Name>
+    <Teaser>Adds the Margraviate of Brandenburg under the 'Soldier-King' Friedrich Wilhelm I to the game.</Teaser>
+    <Description>Adds Brandenburg, a small north German state which grew to dominate Europe through its impressive soldiers, competent leaders and incredible focus on discipline. From humble origins as a march organised to christianise the Wends, Brandenburg became an electorate under the Luxembourg dynasty, then inherited the kingdom of Prussia in the 17th century. 
+
+From this position, Brandenburg-Prussia embarked on a series of wars under three remarkeable kings - the Great Elector, Frederick, his son Frederick-William the Soldier King, and finally Frederick II, the Great. 
+
+Ingame, Brandenburg is a fusion of lawmaking and military dominance. If your soldiers are drilled hard enough, massive internal dominance will soon follow. And if you can control your laws and people, a swift and devestating army will be yours to control! Brandenburgs Potsdam Giants can be supercharged into ultra-Generals, able to boost nearby units, if you can level them up enough. Meanwhile, her Kantone UB will make sure that your units have as much experience as possible.</Description>
+    <Authors>Urdnot_Scott</Authors>
+    <SpecialThanks>TarcisioCM, DarthKyofu and as usual, all teh mans who shutdown on this mod tbh</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="CiD" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="RtP" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="CulDiv" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="E&amp;D" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="20B22FDFFA9315545D79C95D74C4BCD7" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="D6ECB3B631F504579961DFCCDB8B2E99" import="1">Art/Atlas/Borg_Atlas_128.dds</File>
+    <File md5="AF2155354EB8EB031E063D4A81305A40" import="1">Art/Atlas/Borg_Atlas_256.dds</File>
+    <File md5="8494A2ED8E63C9844D7B7DE62ACA3CCE" import="1">Art/Atlas/Borg_Atlas_32.dds</File>
+    <File md5="7471CDC0DB30B60C448912B20821DB93" import="1">Art/Atlas/Borg_Atlas_45.dds</File>
+    <File md5="9F0312302ECA508A9C14C7ECFC4671B3" import="1">Art/Atlas/Borg_Atlas_64.dds</File>
+    <File md5="5A8D0AA8B4DE09DE12A64577F5BFDE59" import="1">Art/Atlas/Borg_Atlas_80.dds</File>
+    <File md5="4B2F32B3056D8EAD831D862E1B813EC4" import="1">Art/Atlas/Borg_Atlas_Alpha_128.dds</File>
+    <File md5="0E5C591C5B34EE525C94BCBB6CC71E6B" import="1">Art/Atlas/Borg_Atlas_Alpha_16.dds</File>
+    <File md5="083A62692F3120F3544DD391C3F416CA" import="1">Art/Atlas/Borg_Atlas_Alpha_22.dds</File>
+    <File md5="876091779288431B19D9A64794086308" import="1">Art/Atlas/Borg_Atlas_Alpha_24.dds</File>
+    <File md5="54B2170656087D50A386702000D01A32" import="1">Art/Atlas/Borg_Atlas_Alpha_256.dds</File>
+    <File md5="BD3ACC25EDA4E7FE19C6EC86F43D2ACC" import="1">Art/Atlas/Borg_Atlas_Alpha_32.dds</File>
+    <File md5="A011DA737C66F7BD47DEDD853497EB18" import="1">Art/Atlas/Borg_Atlas_Alpha_45.dds</File>
+    <File md5="D681010EC8F90BC6BDC51C4AFDC896E2" import="1">Art/Atlas/Borg_Atlas_Alpha_48.dds</File>
+    <File md5="1751856CF963E595AF42C334D8C79580" import="1">Art/Atlas/Borg_Atlas_Alpha_64.dds</File>
+    <File md5="5E168CABF1A058101356F40B915A8BBD" import="1">Art/Atlas/Borg_Atlas_Alpha_80.dds</File>
+    <File md5="6A79236A36A9179C264FE4969F3BBFBA" import="1">Art/Atlas/Giant_Atlas.dds</File>
+    <File md5="104CD7546DAF45913B2B09172DFCCFB1" import="0">Art/Audio/US_Wales_audio.sql</File>
+    <File md5="CF91E2D674B54C6B78DD9144CC108B20" import="1">Art/Audio/Wales_Peace.mp3</File>
+    <File md5="1E0CF11E3885245787C291DF10F7E627" import="1">Art/Audio/Wales_War.mp3</File>
+    <File md5="FB78A4A911837A85606C1F4F21CE0378" import="1">Art/BBurg_DoM.dds</File>
+    <File md5="80EC11BFAF93DB26DBD7E55366782EFC" import="1">Art/Brandenburg_Diplo.dds</File>
+    <File md5="DDB99E2E4F40925170585CF62BAF5736" import="1">Art/Unit/ausmm2.dds</File>
+    <File md5="5A7BA1CECA897A255D11FACE3C1079E5" import="1">Art/Unit/ausmm2_sref.dds</File>
+    <File md5="B6103B25E64ACD63FC6792DC7FBCE1B3" import="1">Art/Unit/civ5_ausmm2.gr2</File>
+    <File md5="0AA54873DED40721F7C4815F8F587932" import="0">Art/Unit/GiantDefinex.sql</File>
+    <File md5="7DD28671AA86A89A72163C4B3673BE73" import="1">Art/Unit/Grenadier.fxsxml</File>
+    <File md5="6A2A795A57D0852E04B6AFF2C9019A05" import="1">Art/Urdnot_Brandenburg_Map.dds</File>
+    <File md5="9157DB9DAC078C1DBBA7052CBFB7D82A" import="1">Art/BBurg_diplo.xml</File>
+    <File md5="2657B5461A303DBAA7A5CFD019686A43" import="0">Core/Bborg_ModSupport.sql</File>
+    <File md5="046410DCD8E2F5E0688BDC742331FDB0" import="0">Core/Diplomacy.sql</File>
+    <File md5="C970B325DED318667515EAD5A65C687A" import="0">Core/Diplomacy_Text.xml</File>
+    <File md5="20C43C34BCF8F691CD2C1D7A6338272B" import="0">Core/Brandenburg_Trait.xml</File>
+    <File md5="8E2960D613A82377DF491EA3065559AD" import="0">Core/Brandenburg_BuildingClasses.xml</File>
+    <File md5="1F31A341E68870478EC506CC5DB146D3" import="0">Core/Brandenburg_Buildings.xml</File>
+    <File md5="F20F5383AE37BAA2F4069C1DD0CED6E8" import="0">Core/Brandenburg_Civilizations.xml</File>
+    <File md5="8C1F7FB0D7B8D5B174700E66AC74238D" import="0">Core/Brandenburg_Leader.xml</File>
+    <File md5="5AC6E129318356195ADB2EF4DA333FB0" import="0">Core/Brandenburg_Text.xml</File>
+    <File md5="ACBA3E281F77933463CB0BB06D35D652" import="0">Core/Brandenburg_Units.xml</File>
+    <File md5="26698D444E2289E9C08A8EE705D14550" import="1">LUA/Brandenburg_Decisions.lua</File>
+    <File md5="A4F18A0B06520C6E6872D1E8CB2BB810" import="0">LUA/Brandoborgo.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">LUA/Plotiterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">LUA/SaveUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Audio/US_Wales_audio.sql</UpdateDatabase>
+      <UpdateDatabase>Art/BBurg_diplo.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Brandenburg_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Brandenburg_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Brandenburg_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Brandenburg_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Brandenburg_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Brandenburg_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Brandenburg_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Unit/GiantDefinex.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bborg_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/SaveUtils.lua">
+      <Name>dr my utils need saving</Name>
+      <Description>do something</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/Brandoborgo.lua">
+      <Name>Brandenburgo the Great</Name>
+      <Description>he does things and stuff yay</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

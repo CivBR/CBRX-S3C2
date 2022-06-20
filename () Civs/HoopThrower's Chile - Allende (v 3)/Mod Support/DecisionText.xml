@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2016 1:09:25 AM -->
+<GameData>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_ALLENDE_SYNCO">
+			<Text>Project Cybersyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ALLENDE_SYNCO_DESC">
+			<Text>
+				A new era is ahead of us Compañero Presidente. We have the opportunity to enter this new Information Era at the forefront of the world through the innovative ideas of our scientists, technicians and politicians.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Allende's Chile
+				[NEWLINE][ICON_BULLET]Must be at Atomic Era or Later
+				[NEWLINE][ICON_BULLET]Must have a Great Scientist or a Great Engineer in the [ICON_CAPITAL] Capital.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]1 Great Scientist or Great Engineer
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Internet Instantly Researched. +15% [ICON_GOLD] Gold from City Connections.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ALLENDE_SYNCO_ENACTED_DESC">
+			<Text>
+				A new era is ahead of us Compañero Presidente. We have the opportunity to enter this new Information Era at the forefront of the world through the innovative ideas of our scientists, technicians and politicians.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]You have +15% [ICON_GOLD] Gold from City Connections. Internet has been researched.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ALLENDE_AGRARIAN_REFORM">
+			<Text>Agrarian Reform</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ALLENDE_AGRARIAN_REFORM_DESC">
+			<Text>
+				We're long overdue on the matter of the archaic system our farming lands are administrated and owned, for the wellbeing of our nation and the true triumph of our working class, we should enact extensive reforms through expropiation and redistribution of our lands.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Allende's Chile
+				[NEWLINE][ICON_BULLET]Must have researched Fertilizers
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_FOOD] from Farms and Plantations.
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture from Plantations.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ALLENDE_AGRARIAN_REFORM_ENACTED_DESC">
+			<Text>
+				We're long overdue on the matter of the archaic system our farming lands are administrated and owned, for the wellbeing of our nation and the true triumph of our working class, we should enact extensive reforms through expropiation and redistribution of our lands.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_FOOD] from Farms and Plantations.
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture from Plantations.
+			</Text>
+		</Row>
+
+
+	</Language_en_US>
+  
+</GameData>

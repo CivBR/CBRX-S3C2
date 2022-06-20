@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8f19dbfd-51e1-4faf-b197-edac9c75c313" version="1">
+  <Properties>
+    <Name>(US) Ireland - Michael Collins</Name>
+    <Teaser>Adds Ireland to Civilization V under Michael Collins!</Teaser>
+    <Description>see more on civfanatics.com</Description>
+    <Authors>Urdnot_Scott, DMS, TranquilSilence, darth, enigma</Authors>
+    <SpecialThanks>chrisy15</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units/RED" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's CulDiv" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Rise to Power (JFDLC)" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Gedemon's YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="DADADAC29C6AB56E25A997989E53A11C" import="1">Art/Diplomacy/MichaelCollins_Diplo.xml</File>
+    <File md5="F972E61EA1594017ACC9ECEF51E20C04" import="1">Art/Diplomacy/MichaelCollins_Diplo.dds</File>
+    <File md5="E8B22CD84703B1BB0B4FD7E334DDF7C4" import="1">Art/Graphics/sv_u_ireland_fenian.dds</File>
+    <File md5="A6D38079DA8B35B8F5D74922FF4679FD" import="1">Art/IconAtlas/US_IrelandAlphaAtlas_128.dds</File>
+    <File md5="9961BFD6B1F1A7CE39C5D398C4221841" import="1">Art/IconAtlas/US_IrelandAlphaAtlas_16.dds</File>
+    <File md5="5E8AAC27F127BD91BC38A6C79CCFA472" import="1">Art/IconAtlas/US_IrelandAlphaAtlas_24.dds</File>
+    <File md5="01811912256789D0C82629D08E8B09FA" import="1">Art/IconAtlas/US_IrelandAlphaAtlas_32.dds</File>
+    <File md5="97722CAF8398FE8DB9D3D19BA169AB8E" import="1">Art/IconAtlas/US_IrelandAlphaAtlas_45.dds</File>
+    <File md5="9F957EE74C2A81064EFB1B134642BF38" import="1">Art/IconAtlas/US_IrelandAlphaAtlas_48.dds</File>
+    <File md5="9C0E30A056276F06972021515563E81C" import="1">Art/IconAtlas/US_IrelandAlphaAtlas_64.dds</File>
+    <File md5="AD8A662863E92F79CDB3252C3EEF6EFC" import="1">Art/IconAtlas/US_IrelandAlphaAtlas_80.dds</File>
+    <File md5="7F4830FB0CA8EA052425EEB0F38B1F0D" import="1">Art/IconAtlas/US_IrelandAtlas_128.dds</File>
+    <File md5="5398DABFC9D93CF7FD292BBD2CCC379E" import="1">Art/IconAtlas/US_IrelandAtlas_256.dds</File>
+    <File md5="C33ED452774C8798EFA43C39654512AB" import="1">Art/IconAtlas/US_IrelandAtlas_32.dds</File>
+    <File md5="7DF30940676E476A3E33A80A5380E69E" import="1">Art/IconAtlas/US_IrelandAtlas_45.dds</File>
+    <File md5="509088033A45CF3CA82AC65D0E7CDB66" import="1">Art/IconAtlas/US_IrelandAtlas_64.dds</File>
+    <File md5="586D4D529DFF959B41CB33507169F441" import="1">Art/IconAtlas/US_IrelandAtlas_80.dds</File>
+    <File md5="8C68E81D6994AD33E2606CA51BD37687" import="1">Art/IconAtlas/UnitFlag_Fenian_32.dds</File>
+    <File md5="7FBD7FD5D3C36ECBB198FA79270B8DDC" import="1">Art/Map/MichaelCollins_DOM.dds</File>
+    <File md5="6C90AB98CAA14B90259C8D792F802A60" import="1">Art/Map/Ireland_Collins_Map512.dds</File>
+    <File md5="A4DBC1508BC2080AF699A885F14AAC1E" import="1">Audio/MichaelCollins_Peace.mp3</File>
+    <File md5="4854A425E6087003F46E5BA355EC2E62" import="1">Audio/MichaelCollins_War.mp3</File>
+    <File md5="C906597D60F8A732434A81352732CCBB" import="0">Core/US_Ireland_Collins_ArtDefines.sql</File>
+    <File md5="A631A0BA405F21B7D3B0582E5025F2A8" import="0">Core/US_Ireland_Collins_GameDefines.sql</File>
+    <File md5="367A123DB8550518F23538CCC9D09982" import="0">Core/US_Ireland_Collins_GameDefines_Diplomacy.sql</File>
+    <File md5="EEEDE6BCFE55A318CD04DCD86D0728B2" import="0">Core/US_Ireland_Collins_GameDefines_ModSupport.sql</File>
+    <File md5="120610D9EE79F03F683D290785B0ADF3" import="0">Core/US_Ireland_Collins_GameText.xml</File>
+    <File md5="13D117127CC46B35281322518FD43DA4" import="0">Core/US_Ireland_Collins_GameText_Diplomacy.xml</File>
+    <File md5="EDF7FA18D8FD0D0354111A44A3BBF64A" import="0">Core/US_Ireland_Collins_GameText_ModSupport.xml</File>
+    <File md5="E82EACB3BC7FFE04B33ACC6E4C107AC3" import="0">US_Ireland_Collins_credits.txt</File>
+    <File md5="87C47F3F35CF149430F757311359C318" import="1">Lua/DMS_Ireland_Collins_Decisions.lua</File>
+    <File md5="2087B72A1C57426FE346C5F8F7B1EA9E" import="0">US_Ireland_Collins_UserSettings.sql</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/UI/Overrides/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/Overrides/CultureOverview.xml</File>
+    <File md5="8362268DF7256A690135DF1872391485" import="0">Lua/DMS_Ireland_Collins_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/US_Ireland_Collins_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/US_Ireland_Collins_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/US_Ireland_Collins_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/US_Ireland_Collins_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/US_Ireland_Collins_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/US_Ireland_Collins_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/US_Ireland_Collins_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>US_Ireland_Collins_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_Ireland_Collins_Functions.lua">
+      <Name>DMS_Ireland_Collins_Functions.lua</Name>
+      <Description>DMS_Ireland_Collins_Functions.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

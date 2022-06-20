@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4d9c1d29-280e-4dc1-8e5a-9f8730c21702" version="3">
+  <Properties>
+    <Name>[BNW] Senshi's Cambodia (Norodom Sihanouk)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Kingdom of Cambodia into the game, under the 'Father Prince' Sihanouk!</Teaser>
+    <Description>Adds the Kingdom of Cambodia into the game, under the 'Father Prince' Sihanouk!
+
+Credits:
+Senshi: Design, Code, Art (Map)
+DuskJockey: Lua, Pedias
+Uighur_Caesar: Lua
+GPuzzle: Lua
+DarthKyofu: Art (Civ Icon, Leaderscene), Pedias
+RawSasquatch: Art (UU and UB Icons)
+danrell: FUNK Model</Description>
+    <Authors>Senshi</Authors>
+    <SpecialThanks>DuskJockey, Uighur_Caesar, GPuzzle</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3432BDF3C899A263671A610C4307512A" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="BF1C45FE84F2F762F8CEA18C8CE4B440" import="1">Art/Atlas/CambodiaAlpha128.dds</File>
+    <File md5="EB44F45571657B76C9FD5B3914E10270" import="1">Art/Atlas/CambodiaAlpha16.dds</File>
+    <File md5="EA48E07EE5EBDC25B2AFBE106BE9E4B4" import="1">Art/Atlas/CambodiaAlpha24.dds</File>
+    <File md5="6CB04F959A6D000D67D1FDB0EDD844E6" import="1">Art/Atlas/CambodiaAlpha256.dds</File>
+    <File md5="CA15A788EA8BA2DAD5557F3DBB679BE8" import="1">Art/Atlas/CambodiaAlpha32.dds</File>
+    <File md5="92C59C659AE691C6DC9F67EDD64385F5" import="1">Art/Atlas/CambodiaAlpha48.dds</File>
+    <File md5="F19D8E2B03CF102D82E1222701C05C39" import="1">Art/Atlas/CambodiaAlpha64.dds</File>
+    <File md5="2FC51A7BDE9B038D0A04BCE7AACA4F76" import="1">Art/Atlas/CambodiaAlpha80.dds</File>
+    <File md5="466B81C7F2EE8AB2E768F0771320E39F" import="1">Art/Atlas/CambodiaAtlas128.dds</File>
+    <File md5="5E7524D5930252A5E4162E3D127EC22B" import="1">Art/Atlas/CambodiaAtlas256.dds</File>
+    <File md5="D0BBF579B431E86A542B776474908582" import="1">Art/Atlas/CambodiaAtlas32.dds</File>
+    <File md5="E4794288F5A5DCC3E7580EF38D26410D" import="1">Art/Atlas/CambodiaAtlas45.dds</File>
+    <File md5="D40A3E67F63F5C7C46CBE1476356CC88" import="1">Art/Atlas/CambodiaAtlas48.dds</File>
+    <File md5="FC16A87C9756E98B7D2F11A1EBB6B0C0" import="1">Art/Atlas/CambodiaAtlas64.dds</File>
+    <File md5="47DE2800E5CF417CBFF4403B2C24CD43" import="1">Art/Atlas/CambodiaAtlas80.dds</File>
+    <File md5="4ADC0738625A889B64D0EA7D16BCD0D2" import="1">Art/Atlas/FUNKFlag32.dds</File>
+    <File md5="EF12295D492D8B3D2A32CFE70ECB3EC7" import="1">Art/CambodiaMap412.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/FUNK/no_gloss.dds</File>
+    <File md5="3A1BE5908BD4FC9D0C732DBE4BC99A59" import="0">Art/FUNK/ModelRig.xml</File>
+    <File md5="9299277A199539FF78437226F7197DD0" import="1">Art/FUNK/Paratrooper_China.dds</File>
+    <File md5="2EA23A4FFB78D02BAFF03D2F98D2FBDB" import="1">Art/FUNK/Paratrooper_China_MG.blend</File>
+    <File md5="2502E67CA6588CEF7912C8228E3B10B3" import="1">Art/FUNK/Paratrooper_China_MG.fxsxml</File>
+    <File md5="D7B84178D97CD77A91863CF9FA3C74A7" import="1">Art/FUNK/Paratrooper_China_MG.gr2</File>
+    <File md5="3BE4FD4635E9813921FA87B48D891671" import="1">Art/FUNK/sv_FUNK.dds</File>
+    <File md5="291E34F1FE502EAF5750D99EBB6403E6" import="1">Art/SihanoukDoM.dds</File>
+    <File md5="B14B50A201B5D59B2259DE12B445B323" import="1">Art/SihanoukLS.dds</File>
+    <File md5="54CD2E6BA9CC3FFF6D25F8C3FD82C3E1" import="1">Art/Sound/CambodiaPeace.mp3</File>
+    <File md5="5DAD2236B4699506CA21DC7C5871451F" import="1">Art/Sound/CambodiaWar.mp3</File>
+    <File md5="05888FB572627D093D7A2678863895F1" import="0">Art/Sound/SoundRig.xml</File>
+    <File md5="93B3A4F90725E069755B57A0C8DF522C" import="0">Core/Buildings.sql</File>
+    <File md5="8D0D13F20415D093DE0B4122CE26F614" import="0">Core/Civilizations.sql</File>
+    <File md5="1A1715ADBDCF6592E7E1338C3C38860F" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="04BF9D344E551413203405F21B7196A0" import="0">Core/GameText.xml</File>
+    <File md5="B0921BEEA8BF9AE62D1A0D0EA9DE6D1E" import="0">Core/Leaderhead.sql</File>
+    <File md5="4B8D159873A84B06DFF93F00DF7D4EBF" import="0">Core/ModSupport.sql</File>
+    <File md5="CD78EB5228F1C4DC2D01B99D5B9FE3DA" import="0">Core/PlayerColours.sql</File>
+    <File md5="E539594F6977B00D898061CF27F251B9" import="1">Core/PlotIterators.lua</File>
+    <File md5="1568A8A63A9AE47CFF573BD43BBDD3B4" import="1">Core/Senshi_Sihanouk_Scene.xml</File>
+    <File md5="959894FC12F1CB32BE1540352A00E056" import="0">Core/SihanoukFunctions.lua</File>
+    <File md5="D59EF6116F49E1BFFDAC6C240A3388E4" import="0">Core/Traits.sql</File>
+    <File md5="8A52C5A261194AD6BECB09B126A80ADA" import="0">Core/Units.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/FUNK/ModelRig.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Sound/SoundRig.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/SihanoukFunctions.lua">
+      <Name>SihanoukFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

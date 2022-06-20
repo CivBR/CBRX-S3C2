@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Indonesia (Suharto): Happiness-->
+		<Row Tag="TXT_KEY_BUILDING_SENSH_INDONESIA_SUHARTO_HAPPINESS">
+			<Text>Indonesia (Suharto): Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSH_INDONESIA_SUHARTO_HAPPINESS_HELP">
+			<Text></Text>
+		</Row>
+		<!--Yum Yum Golden Age-->
+		<Row Tag="TXT_KEY_PROMOTION_SENSH_INDONESIA_SUHARTO">
+			<Text>Defense of Pancasila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSH_INDONESIA_SUHARTO_HELP">
+			<Text>During a Golden Age, Unit heals at twice the usual rate.</Text>
+		</Row>
+		<!--Bonus Paradrop Range-->
+		<Row Tag="TXT_KEY_PROMOTION_SENSH_KOPASSUS_PARADROP_RANGE">
+			<Text>Bonus Paradrop Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSH_KOPASSUS_PARADROP_RANGE_HELP">
+			<Text>+1 Paradrop Range per completed Social Policy Branch and Level 3 Tenet.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

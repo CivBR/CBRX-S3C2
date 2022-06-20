@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/31/2015 3:12:07 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_US_BRANDENBURG</Type>
+			<Description>TXT_KEY_TRAIT_US_BRANDENBURG</Description>
+			<ShortDescription>TXT_KEY_TRAIT_US_BRANDENBURG_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

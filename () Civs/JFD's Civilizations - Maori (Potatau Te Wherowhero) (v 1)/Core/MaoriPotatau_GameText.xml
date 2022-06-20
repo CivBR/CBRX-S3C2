@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_MAORI_POTATAU_ADJECTIVE">
+			<Text>Maori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_MAORI_POTATAU_DESC">
+			<Text>Maori Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_MAORI_POTATAU_SHORT_DESC">
+			<Text>The Maori</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_CIV_TAL_JFD_MAORI_DESC">
+			<Text>The Maori</Text>
+			<Plurality>2</Plurality>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_TEXT_1">
+			<Text>The Maori are the group of indigenous Polynesian people of New Zealand (which they called Aotearoa, or the Land of the Long White Cloud). The Maori have settled on New Zealand for nearly three quarters of a millenium, in their isolation they created their own culture and society. The early Maoris formed tribes - influenced from their earlier Polynesian societies, horticulture began to thrive from the importation of flora, and the infamous warrior culture rose into prominence. The arrival of the British in the 17th century set about great change in every aspect of Maori life, initially the Maori adopted and accepted European culture and the two coexisted peacefully. Tensions over the sale of land however led to conflict by the 1860s; social upheaval, battles and foreign epidemics struck the Maori population and caused their numbers to dindle before a recovery in the 20th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_TEXT_2">
+			<Text>New Zealand sits southeast of Australia in the South Pacific Ocean. Formed from tectonic movement, much of New Zealand and its surrounding islands are mountainous and volcanic. The landmasses were formed when the continent of Zealandia - formed roughly 83 million years ago - had sank into the ocean 20 million years ago, leaving the highlands above sea level. The North Island is smaller and less mountainous than the South Island, yet it is more marked by active volcanoes; Mount Ruapehu, the island’s tallest peak is itself an active cone volcano, and Lake Taupo, New Zealand’s largest lake is a caldera, a feature formed from a collapse of the land due to a volcanic eruption.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_HEADING_3">
+			<Text>Land of the Long White Cloud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_TEXT_3">
+			<Text>Little is known about the Polynesian voyage to New Zealand - the current evidence suggests the ancient Maori first landed and settled on New Zealand at around 1280, and that the heavy presence of female Maori at the time suggests the landing on New Zealand was deliberate.[NEWLINE][NEWLINE]The Archaic period of the Maori describes the first years of settlement, where the tribes - known to the Maori as ‘iwi’ - settled by the woodlands where several species of moa birds once lived. The Maori hunted the moa to such an extent that the moa became extinct in New Zealand during this time, the Archaic period is also known as the ‘Moahunter’ period for this reason. The Otago iwi became the center of Maori cultural development with most of their settlements established within 6 miles of the coast. Intriguingly the period saw a complete lack of weaponry, instead the Archaic period is known for the creation of “reel necklaces” and the hunting of the local birdlife. Apart from birds the Maori diet was rich in seafood, and despite the low life expectancy of the Maori - around 31-32 years - and the hard life of the frontiersmen, the iwi was capable of supporting their injured and infirm.[NEWLINE][NEWLINE]By the start of the 16th century the climate had cooled, and around this time a series of large earthquakes struck the South Island. Combined with the extinction of the moa bird, among other food sources, sweeping changes in Maori life developed into the more recognisable customs that defines the Classic period. The Maori created pounamu weapons made from indigenous nephrite jade or bowenite stone in this period. Curved canoes were developed by the Maori, and the fierce warrior culture sprang into action; building hillforts across the islands - the pa, engaging in frequent cannibalism, and controlled some of the largest canoes in history. It was in this moment that contact was first made with Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_HEADING_4">
+			<Text>Last Human Community Untouched</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_TEXT_4">
+			<Text>Abel Tasman and Captain James Cook are two of the first explorers to discover and land on New Zealand; Tasman in 1642 and Cook in 1769. Initial contact was problematic and in some cases fatal. In the 1780s the Maori meet whaling crews from Europe and America, some of these crews already held Maori. Some South Island crews were nearly entirely Maori. A trickle of convicts escaping Australia, deserters from passing ships, and Christian missionaries added to the European influence over the Maori. In the Boyd Massacre of 1809 the Maori took hostage and killed 66 people in an act of revenge, the cannibalism of these people caused shipping and whaling companies to be wary and to steer clear from New Zealand in following years.[NEWLINE][NEWLINE]By 1830 as many as 2000 Europeans were living with the Maori. The Europeans had positions in all parts of Maori society, from slaves serving their masters to high-ranking advisor roles for the iwi chiefs. Some Europeans were prisoners in their new home, others expatriated from their homeland and identified themselves as Maori, they were known to the Maori as Pakeha Maori - literally meaning ‘European Maori’. They were valued as an asset to many iwis as European knowledge and technologies were handed down from Pakeha Maori, most notably firearms. The Maori language was first notated by Thomas Kendall in 1815, five years later Professor Samuel Lee compiled the Maori grammar and vocabulary. The Maori quickly adopted literacy from missionaries. The established colonial government handed free gazettes to the Maori in 1843 called Ko Te Karere O Nui Tireni; it outlined information about colonial law, crimes, explanations and remarks on European customs.[NEWLINE][NEWLINE]Between 1805 and 1840 however, the purchase of muskets by iwis with European contact upset the balance of power, leading to a period of violent inter-tribal warfare known as the Musket Wars. The powerful iwi destroyed their weaker foes and drove the rest out of their homelands. From 100,000 in 1800 the Maori population is said to have dropped between 20% and 50% by 1843; a census in 1856-7 reveals the population then to be 56,049, this is during a time of relative stability in Maori life. However the Musket Wars were not the only contributing factor to the mortality of Maori then, European diseases such as influenza and measles killed an unknown number of Maori, contributed largely by new European settlers who had not performed recent health checks. Pakeha Maori Te Rangi Hiroa documented a respiratory epidemic the Maori called ‘rewharewha’. He recorded that “almost everything, except plague and sleeping sickness have taken their toll on Maori dead.”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_HEADING_5">
+			<Text>British Treaty with Aotearoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_TEXT_5">
+			<Text>As the colonies spread further in the 1830s and missionaries became more active, and a growing lawlessness in the colonies themselves, the British Crown accepted requests from missions and chiefs to intervene. However some escaped convicts, seamen, gunrunners and Americans sought to actively work against the British, spreading rumours to the Maori of mistreatment and oppression. Chief Tamati Waka Nene was angry at the colonial government’s disinclination to stop gunrunners from selling weapons to rebels. The French had also begin to take interest in acquiring New Zealand for themselves, they sent French missionaries to spread anti-British sentiment. Despite this Queen Victoria sent Captain William Hobson to negotiate terms for a treaty between Britain and New Zealand. Arriving on February 1840 Hobson set about establishing a treaty with the chiefs of the North Island - the Treaty of Waitangi. Ultimately 500 chiefs and a small collection of Europeans signed the document, only a few chiefs refused to do so, affected by France’s interests these few were Catholic chiefs. The treaty gave the Maori the rights of British subjects as well as a guarantee in tribal autonomy in exchange for British sovereignty.[NEWLINE][NEWLINE]Even today dispute over the exact terms of the treaty remains, due largely to the Maori translation of the document, translated by Henry and William Williams. Their imperfect Maori and a lack of exactly similar words in the Maori lexicon handicapped them to create an imperfect representation of the terms. Despite this though relations between Britain and the Maori were largely peaceful; the Maori set up shops and businesses, selling and exporting foods and product domestically and internationally. This would not last though, tensions rose as disputes over land purchases and an attempt by the Maori to create what some saw as a rival to the British royalty system led to the New Zealand wars in the 1860s. The wars began when rebel Maori attacked isolated settlers in Taranaki, the major conflicts though were against British forces - including levied troops from Australia and few allied Maori - against numerous Maori iwis opposed to the land sales. While the wars in fact resulted in few deaths on either side of the conflict, the colonies confiscated land as punishment from what were seen as rebellions, in some cases from iwis which took no part in any of the conflicts, though they were almost instantly returned again.[NEWLINE][NEWLINE]The Native Lands Acts of 1862 and 1865 established the Native Land Court, a specialized court that dealt with the ownership of Maori land. This also allowed Maori to sell their lands to both colonial government and private settlers. Subsequent transactions saw nearly all Maori lands sold by 1890, although over time some of these lands were returned to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_HEADING_6">
+			<Text>Population Decline and Revival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_TEXT_6">
+			<Text>During the late 19th century, the Maori population started to considerably decline as European colonists settled in New Zealand. In 1840, the population of New Zealand was estimated between 50,000 and 70,000 Maori and 2,000 Europeans, but by 1950 the European population exploded tenfold. In the 1896 census, the Maori numbered 42,113 and paled in comparison to the now more than 700,000 European colonists present on New Zealand. At the same time, it was observed by Professor Ian Poole that female Maori children had a very high chance of death before the age of one. Despite this and the fears that Maori would simply be absorbed into the European populace, the population decline would come to an end in the following decades into the 20th century. By the late 1930s the Maori population was well over 80,000. Many Maori who intermarried with Europeans, and their children, would continue to identify as Maori and keep their culture alive for generations to come. The Maori would also give rise to several successful politicians and a political party, the Young Maori Party, whose goal was to improve the lives of the Maori by blending with European culture while still keeping traditional practices and art alive.[NEWLINE][NEWLINE]Maori troops took part in both world wars. A pioneer battalion of nearly 3,000 Maori and Pacific islanders were deployed in Egypt and later the Gallipoli peninsula during World War I. Upon their return to New Zealand after the war, the country was struck by a devastating influenza outbreak that killed 4.5 times more Maori than those of European descent. When World War II began, Maori were exempt from being conscripted into the military, but many still enlisted voluntarily. The 28th Maori Battalion consisted of about 3,600 men over the course of the entire war fighting in North Africa, Italy, Crete, and Greece, proving to be formidable soldiers that earned the respect of both Allied and Axis commanders. Over 12,000 other Maori soldiers served among the New Zealand forces outside of the 28th Battalion during the war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_HEADING_7">
+			<Text>Maori Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_TEXT_7">
+			<Text>Since the beginning of the new millennium, the position of Maori within wider New Zealand society has continued to be a contentious topic, and one which contains both tales of triumph and adversity. Disputes which arose as a result of the differing interpretations of the Treaty of Waitangi continue to be a prominent issue both in New Zealand politics and in the judicial system, with a dedicated permanent commission of inquiry established to resolve disputes between Iwi and the New Zealand Government. Multiple political parties have been established around the premise of Maori rights, which alongside dedicated Maori seats in Parliament seek to ensure that Maori have involvement in the government. [NEWLINE][NEWLINE]Outside politics, Maori culture has also seen a revival in recent years. Many Maori words have been adopted into New Zealand English, with words such as Pakeha (meaning a New Zealander of European ancestry) and Ka Pai (used to express approval of something) are as widely known as any English word amongst the New Zealand population, and are used in everyday English to create a form of the language unique to the island nation (although English words still vastly outnumber Maori ones.) Te Reo Maori is taught in many primary and secondary schools, often alongside Maori cultural activities known as Kapa Haka (which involve learning Maori waiata, or songs, as well as traditional Maori performance activities such as poi or Haka.) Some aspects of Maori culture have been adopted by wider New Zealand society as a representation of the whole country, with often cited examples being Te Rauparaha's Haka, Ka Mate, frequently performed by the All Blacks (New Zealand's Rugby Union team) and the Maori waiata Pokarekare Ana, written during or shortly after World War One by a Maori soldier. Maori is one of three official languages of New Zealand, alongside English and New Zealand Sign Language, one of the core reasons for its prevalence in schools. Many place names also have Maori names alongside their English ones, such as New Zealand's highest mountain Aoraki / Mt. Cook, or the popular tourist destination of Piopiotahi / Milford Sound. Similarly, both main islands of New Zealand have official Maori names alongside their English ones, Te Ika a Maui and Te Wai Pounamu for the North and South Islands respectively. [NEWLINE][NEWLINE] However, the Maori population remains to an extent marginalised in New Zealand society, and is often over-represented in crime statistics and under-represented in school achievement rates. While only 14% of New Zealand's population identify as Maori, saome 50% of the prison population is Maori. Maori also have higher levels of substance abuse and addiction than Pakeha, and on average have a life expectancy roughly 7 years shorter than that of Pakeha. These are but a few of the issues faced by the modern day Maori population, and which they continue to face on an everyday basis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_FACTOID_HEADING">
+			<Text>Maori Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_MAORI_POTATAU_FACTOID_TEXT">
+			<Text>The Maori were not the first humans to settle in New Zealand. Previous Polynesian explorers had arrived and settled, known as the Moriori, and had formed a peaceful society. They were later driven from the mainland by Maori settlers, and were exiled to the Chatham Islands until Maori raiding parties came to their last stronghold and eliminated them. </Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_01">
+			<Text>Ngaruawahia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_02">
+			<Text>Pukawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_03">
+			<Text>Pukekura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_04">
+			<Text>Te Tokanagnui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_05">
+			<Text>Pirongia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_06">
+			<Text>Whatiwhatihoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_07">
+			<Text>Pukearuhe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_08">
+			<Text>Maraekowhai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_09">
+			<Text>Taumaranui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_10">
+			<Text>Tokaanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_11">
+			<Text>Kahakaharoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_12">
+			<Text>Waitomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_13">
+			<Text>Horahora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_14">
+			<Text>Kākahoroa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_15">
+			<Text>Maipu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_16">
+			<Text>Oruanui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_17">
+			<Text>Kihikihi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_18">
+			<Text>Te Kopua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_19">
+			<Text>Ramaramapo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_20">
+			<Text>Oakau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_21">
+			<Text>Te Kumi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_22">
+			<Text>Arapae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_23">
+			<Text>Napinapi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_24">
+			<Text>Totoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_25">
+			<Text>Whangamatā</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_26">
+			<Text>Atiamuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_27">
+			<Text>Waotu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_28">
+			<Text>Pipiriki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAORI_POTATAU_29">
+			<Text>Tapuaeharuru</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_0">
+			<Text>Anika</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_1">
+			<Text>Hinewai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_2">
+			<Text>Aroha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_3">
+			<Text>Kora</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_4">
+			<Text>Tame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_5">
+			<Text>Wiremu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_6">
+			<Text>Tamati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_7">
+			<Text>Hone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_8">
+			<Text>Apirana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MAORI_POTATAU_9">
+			<Text>Tane</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU">
+			<Text>Potatau Te Wherowhero</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MAORI_POTATAU_NAME">
+			<Text>Potatau Te Wherowhero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MAORI_POTATAU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MAORI_POTATAU_TEXT_1">
+			<Text>Te Wherowhero was born in Waikato towards the end of the eighteenth century. He was the eldest son of a Waikato warrior chief, Te Rauangaanga, and Parengaope of Ngati Koura. He belonged to the senior chiefly line of Ngati Mahuta, and was descended from the captains of the Tainui and Te Arawa canoes. Te Wherowhero had four wives, Whakaawi, Raharaha, Waiata and Ngawaero. His children were Matutaera (later known as Tawhiao), Makareta Te Otaota and Tiria.[NEWLINE][NEWLINE]Te Wherowhero grew up in the period of peace that followed the great victory of Waikato over Ngati Toa in the battle called Hingakaka, at Te Mangeo, near Lake Ngaroto. He was taught traditional lore by his father and later learned sacred knowledge at Te Papa-o-Rotu, the Waikato whare wananga at Whatawhata. He also trained as a warrior, and when his relative Te Uira was killed by Ngati Toa, he took part in warfare against them. He is said to have instigated the killing of Marore, a wife of Te Rauparaha, while she was visiting relatives in Waikato about 1820. After revenge killings by Ngati Toa, an army of Waikato and Ngati Maniapoto warriors invaded Kawhia in 1820, and defeated Ngati Toa at Te Kakara, near Lake Taharoa, and Waikawau, south of Tirua Point. Te Rauparaha was then besieged at Te Arawi, near Kawhia Harbour, and after negotiations it was agreed that Ngati Toa should cede their lands to Waikato and depart for the south. They were allowed to leave and at first went to Te Kaweka, in northern Taranaki.[NEWLINE][NEWLINE]Te Wherowhero then led a large army in pursuit. He was also going south to the aid of Peehi Tukorehu, a Ngati Maniapoto leader, whose war party was besieged at Pukerangiora, on the Waitara River, by Taranaki tribes. In late 1821 or early 1822 the Waikato army suffered a military disaster at Motunui; against Te Wherowhero's orders it charged a feigned retreat of Ngati Toa and its allies. Te Wherowhero refused to join the retreat that followed and remained by the body of a slain Waikato chief, where Ngati Toa and their Ngati Mutunga allies found him. A man of Ngati Mutunga would have shot him, but was stopped by Te Rauparaha. Te Wherowhero then fought a number of chiefs in single combat, armed only with a digging implement. Waikato forces returned to join him and both armies retired. It is said that at night Te Wherowhero approached the Ngati Toa camp and asked Te Rauparaha for his advice. Te Rauparaha directed him south to Pukerangiora, to avoid a Taranaki army to the north. Te Rauparaha's assistance to Te Wherowhero was probably due to their common descent from the people of the Tainui canoe. Te Wherowhero went to Pukerangiora and raised the siege of the Waikato warriors there before returning to Waikato. He returned in time to lead Waikato against an invasion by the musket-armed Ngapuhi of Hongi Hika.[NEWLINE][NEWLINE]Hongi Hika was seeking revenge for the deaths of several relatives at the hands of Waikato allies in Tamaki and Hauraki. He led 3,000 warriors to the Waitemata Harbour; they dragged their canoes to the Manukau Harbour, and went from there to the Waikato River by way of the Awaroa Stream. Waikato delayed the invaders by felling trees into the stream. They concentrated their defence at Matakitaki pa, where 10,000 people gathered under Te Wherowhero's command in May 1822. When Ngapuhi attacked, a panic seized the defenders, many of whom had not experienced musket warfare before. There was a rush to escape the pa and many people were trampled to death. Te Wherowhero led a defensive fight, at one point single-handedly.[NEWLINE][NEWLINE]After the fall of the pa, Ngapuhi split into small groups to hunt for fugitives. At Orahiri, near Otorohanga, a large group of Ngati Mahuta women were captured. Te Wherowhero had retreated towards the Rangitoto Range and was cautiously moving back down the Waipa River when he met an old woman who had escaped. He sent her back to tell the women that they would be rescued as soon as the morning star rose. At this hour the enemy warriors were asleep, except for one who was drinking from the river. He was quietly drowned and the rest of that group of Ngapuhi were killed. Waikato settled further south for several years, for fear of further Ngapuhi attacks. Te Wherowhero lived at Orongokoekoea on the upper Mokau River. His wife, Whakaawi, gave birth there to their son Matutaera. When peace was made with Ngapuhi in 1823, Waikato gradually returned to their homes. The peace was cemented by the marriage of Te Wherowhero's close relative, Kati, to Matire Toha of Ngapuhi. Their daughter was Te Paea.[NEWLINE][NEWLINE]Hongi Hika came to Waikato again in 1825 in pursuit of Ngati Whatua fugitives, but he did not attack Waikato. However, in 1826 Pomare I led Ngapuhi to invade Waikato while Te Wherowhero was at Taupo. Te Wherowhero wished to go and meet Pomare, but was dissuaded by Te Kanawa, who feared treachery. Pomare and his army went up the Waipa River and were defeated, and Pomare killed, at Te Rore. In 1827 Waikato forces went to Tamaki to assist Ngati Paoa against a Ngapuhi attack, and Te Wherowhero then led a canoe fleet to attack Ngapuhi at Whangarei. Waikato won a battle at Oparakau, after which peace was arranged and Waikato returned home. On this expedition Te Wherowhero wore a cloak of red kaka feathers, from whose colour his name is sometimes said to be derived.[NEWLINE][NEWLINE]Warfare with Ngati Haua about 1830 forced Ngati Maru north towards Hauraki, and by this time Ngati Raukawa had migrated south to Manawatu. This left Waikato free to seek revenge for their defeat at Motunui by Taranaki tribes. In 1831 Te Wherowhero led an expedition into Taranaki and attacked Te Ati Awa. They took refuge at Pukerangiora, but did not have time to gather food for a long siege. After three months the pa fell when its inhabitants attempted to escape in daylight. They were massacred, and many were eaten. It is said that Te Wherowhero killed 150 prisoners with his mere, Whakarewa. His army, however, failed to take the pa at Ngamotu, near present day New Plymouth, and returned home.[NEWLINE][NEWLINE]Ngapuhi raided Waikato again in 1832 but were driven off by 3,000 Waikato warriors, most of them armed with muskets. The firearms had been obtained from the trader J. R. Kent, who had settled at Kawhia and married Tiria, the daughter of Te Wherowhero. The name Potatau may have been taken by Te Wherowhero at the time of this marriage.[NEWLINE][NEWLINE]Te Wherowhero continued his attacks on Taranaki tribes between 1833 and 1836. He had been provoked by a raid on the Mokau River by Te Ati Awa. He besieged several pa, with varying degrees of success. Mikotahi pa, on an island near Ngamotu, was supplied by sea and proved impregnable. At Te Namu, near Opunake, Ngati Ruanui drove off five assaults by Waikato, but Te Ruaki pa, near Hawera, was forced to surrender after a siege of three months. After an unsuccessful attack on Waimate pa, at the mouth of the Kapuni Stream in 1836, Te Wherowhero made peace with the Taranaki people and withdrew, saying that he would not return.[NEWLINE][NEWLINE]Missionaries arrived in Waikato in the mid 1830s. Their growing influence was demonstrated by the release in 1840 of slaves taken during the Taranaki wars. Although he attended church services, Te Wherowhero was never baptised. In March 1840 Captain W. C. Symonds brought a copy of the Treaty of Waitangi to Manukau, where Te Wherowhero was living at Awhitu. He refused to sign the treaty but was kindly disposed towards the European government. In May 1844 he provided a huge banquet for a great intertribal gathering at Remuera. His influence at the meeting impressed on Governor Robert FitzRoy the fact that Auckland's security depended on Waikato friendship. In the 1840s Te Wherowhero's cottage at Pukekawa, in the Auckland Domain, was the scene of much discussion of issues arising from the signing of the Treaty of Waitangi. He was one of the chiefs who sold land to the government in the Manukau area. However, he protested to Queen Victoria over the 1846 instruction from Earl Grey, secretary of state for the colonies, that all land not actually occupied or cultivated by Maori was to be regarded as Crown property, in contravention of the guarantees of the Treaty of Waitangi. In 1848 Te Wherowhero was one of those who accompanied Te Rauparaha's return to his people at Otaki, on his release from government custody. At Governor George Grey's request Te Wherowhero and some of his followers moved to Mangere and in 1849 he signed an agreement to provide military protection for the city of Auckland.[NEWLINE][NEWLINE]A movement arose in the 1850s to establish a Maori king to protect Maori land from alienation and to make laws to end internal strife. Matene Te Whiwhi travelled throughout New Zealand seeking a chief of high standing who was willing to be king. Iwikau Te Heuheu Tukino III, of Ngati Tuwharetoa, suggested that Te Wherowhero should be approached, and his choice was supported by Wiremu Tamihana, of Ngati Haua. Te Wherowhero was reluctant to take on the role of peacemaker while the death of one of his relatives, Rangianewa, at the hands of Ngati Haua in 1825, was unavenged. Peace was made, however, and after lengthy negotiations Te Wherowhero accepted the kingship, and was installed at Ngaruawahia in 1858. In his speech of acceptance he stressed the spirit of unity symbolised by the kingship, likening his position to the 'eye of the needle through which the white, black and red threads must pass.' He enjoined his people to 'hold fast to love, to the law, and to faith in God.'[NEWLINE][NEWLINE]Te Wherowhero never regarded the kingship as being in opposition to the sovereignty of Queen Victoria, and wanted to work co-operatively with the government. Some of his associates, however, sought to prevent or hinder government activities in areas which supported the King. Te Wherowhero opposed their levying of port dues on ships at Kawhia Harbour, and threatened to leave Waikato and return to Mangere if tribute continued to be demanded from government mail canoes using the Waipa River.[NEWLINE][NEWLINE]Te Wherowhero had been much consulted by governors George Grey and Thomas Gore Browne on matters concerning Maori. However, after his acceptance of the kingship he was increasingly estranged from the governor's confidence. As land disputes increased in number and severity Te Wherowhero was in many cases forced into a position of opposition to government policy.[NEWLINE][NEWLINE]Potatau Te Wherowhero died at Ngaruawahia on 25 June 1860. Many tribes gathered to pay their last tributes to him. He was succeeded as King by his son Tawhiao.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MAORI_POTATAU_LIVED">
+			<Text>1770/1800 - 1860</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MAORI_POTATAU_SUBTITLE">
+			<Text>Leader of The Maori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MAORI_POTATAU_TITLES_1">
+			<Text>King</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_MAORI_POTATAU_TEXT">
+			<Text>Long life and strong spirit to you, Potatau Te Wherowhero, first king of the Maori people. Born to the chiefly line of Ngati Mahuta in Waikato, you would come to prove yourself as both a capable warrior and leader. As disputes over lands with the New Zealand government became increasingly protracted, the need for a strong and united Maori leadership became paramount. It was here that you rose to the cause of the Kingiitanga movement, accepting kingship in the name of the sovereignty of the Maori people and establishing the Te Wherowhero Dynasty that continues to work for the cause of the Maori people to this day.[NEWLINE][NEWLINE]O' descendent of chiefs great and honourable, he who is both fearsome and wise, your people once again look to you for leadership; to counterbalance those who would call themselves sovereign. Can you take up the Maori kingship once more and hold in trust the protection of Maori lands? Can you repel the would-be colonizers from dispossessing Maori culture? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_FIRSTGREETING_1">
+			<Text>Kia ora, traveller. I am Potatau Te Wherowhero, King of the Maori people. May you share in the peace we have made for ourselves. If not, then yours will be a short life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_DEFEATED_1">
+			<Text>Whiro-te-tipua take you to the darkest pits of Taiwhetuki.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_ATTACKED_HOSTILE_1">
+			<Text>My people will fight for this land of their ancestors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_DEC_FRIENDSHIP_1">
+			<Text>My friend, will you treat with me as an equal and accept a public declaration of friendship with my people?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_DENOUNCE_1">
+			<Text>Kikokiko have taken hold of your senses.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_DENOUNCE_FRIEND_1">
+			<Text>Your words mean nothing, it seems.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_DOW_GENERIC_1">
+			<Text>My people will not be forced from these lands. May the greatest warriors win.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Begone from these lands. They do not belong to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_GREETING_HOSTILE_HELLO_1">
+			<Text>Speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_GREETING_NEUTRAL_HELLO_1">
+			<Text>Go ahead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_GREETING_POLITE_HELLO_1">
+			<Text>Tena koe e hoa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Have you come to treat with an early death? Your warriors do not belong here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_LUXURY_TRADE_1">
+			<Text>My people have need of this luxury. Will you agree to an exchange?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Come, treat with me as an equal. Share your borders with my people as I will share mine with yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>I will not sit idly as you buy up the ancient lands of my peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_REQUEST_1">
+			<Text>My friend. Will you consider helping me with this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_TOO_SOON_NO_PEACE_1">
+			<Text>Come back to me when you want to be serious.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_TOO_SOON_FOR_DOF_1">
+			<Text>What makes you think I would want this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MAORI_POTATAU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You will not provoke me into unnecessary bloodshed.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_MAORI_POTATAU_SHORT">
+			<Text>Kiingitanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_MAORI_POTATAU">
+			<Text>Free Settler on meeting a foreign Civilization for the first time and receive Settler [ICON_PRODUCTION] Production in the Capital on subsequent new meetings. Newly founded cities start with any of the Capital's [ICON_CULTURE] Culture-yielding Buildings.</Text>
+		</Row>
+		<!--Alerts-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_MAORI_POTATAU_MESSAGE_1">
+			<Text>Your meeting with the {1_Desc} has granted a free [COLOR_POSITIVE_TEXT]Settler[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_MAORI_POTATAU_MESSAGE_2">
+			<Text>Your meeting with the {1_Desc} grants [ICON_PRODUCTION] Production toward your next [COLOR_POSITIVE_TEXT]Settler[ENDCOLOR] in the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_MARAE">
+			<Text>Marae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MARAE_HELP">
+			<Text>Carries over the city's [ICON_CULTURE] Culture as [ICON_FOOD] Food after growth.[NEWLINE][NEWLINE]+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]City must have a Shrine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MARAE_STRATEGY">
+			<Text>The Marae is the unique Garden replacement for the Maori under Potatau. It increases the amount of [ICON_FOOD] Food a city stores after growth. Unlike the Garden, the Marae does not require a nearby river, and is unlocked at Civil Service, although it does require that the city first have a Shrine. It also costs no maintenance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MARAE_TEXT">
+			<Text>A marae is a communal or sacred place that serves religious and social purposes in Polynesian societies. Marae generally consist of an area of cleared land roughly rectangular (the marae itself), bordered with stones or wooden posts. In some modern Polynesian societies, notably that of the Maori of Aotearoa New Zealand, the marae is still a vital part of everyday life. In tropical Polynesia, most marae were destroyed or abandoned with the arrival of Christianity in the 19th century, and some have become an attraction for tourists or archaeologists. Nevertheless, the place where these marae were built are still considered tapu (sacred) in most of these cultures. </Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_TOA">
+			<Text>Toa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TOA_HELP">
+			<Text>Mid-game Melee Unit that earns bonus experience from combat. Ignores terrain movement penalties and enemy Zone of Control when foreign Settlers are nearby. Only the Maori under Potatau can train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TOA_STRATEGY">
+			<Text>The Toa replaces the Longswordsman for the Maori under Potatau. Unlike the Longswordsman, the Toa is slightly weaker in combat. It is also unlocked at Chivalry instead of Steel and does not require [ICON_RES_IRON] Iron to be trained. The Toa earns 20% more XP from combat, making it especially effective at generating Great Generals. In addition, if a Toa begins its turn within 2 tiles of a foreign Settler Unit, it ignores terrain movement penalties and enemy Zone of Control for that turn. This ability can be carried forward with upgrades. This makes Toa adept at counteracting enemy settlements before they can be established.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TOA_TEXT">
+			<Text>The Maori word Toa translates simply as “warrior” when used as a noun, and “to win” when used as a verb. In Maori culture, the concept of utu implies that behaviors should be balance, with positive behaviors and gifts rewarded, and wrongs punished to a proportional extent. The Maori culture possessed gradations for these responses, from raiding to full violence. Failure by a leader to respond appropriately could bring about a loss of their mana. European observers were particularly impressed (one might even say terrified) by the great strength and energy of the toa they encountered.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TOA_1">
+			<Text>Utu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TOA_1_HELP">
+			<Text>+20% XP from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TOA_2">
+			<Text>Settlement Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TOA_2_HELP">
+			<Text>Ignores terrain movement penalties and enemy ZoC for this turn whilst a [COLOR_POSITIVE_TEXT]foreign Settle[ENDCOLOR] is within two tiles.</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_MAORI_POTATAU_DESCRIPTION">
+			<Text>MAORI (POTATAU)[NEWLINE][NEWLINE]UNIQUE TRAIT: KIINGITANGA[NEWLINE]Free Settler on meeting a foreign Civilization for the first time and receive Settler [ICON_PRODUCTION] Production in the Capital on subsequent new meetings. Newly founded cities start with any of the Capital's [ICON_CULTURE] Culture-yielding Buildings.[NEWLINE][NEWLINE]UNIQUE BUILDING: MARAE (GARDEN)[NEWLINE]The Marae is the unique Garden replacement for the Maori under Potatau. It increases the amount of [ICON_FOOD] Food a city stores after growth. Unlike the Garden, the Marae does not require a nearby river, and is unlocked at Civil Service, although it does require that the city first have a Shrine. It also costs no maintenance.[NEWLINE][NEWLINE]UNIQUE UNIT: TOA (LONGSWORDSMAN)[NEWLINE]The Toa replaces the Longswordsman for the Maori under Potatau. Unlike the Longswordsman, the Toa is slightly weaker in combat. It is also unlocked at Chivalry instead of Steel and does not require [ICON_RES_IRON] Iron to be trained. The Toa earns 20% more XP from combat, making it especially effective at generating Great Generals. In addition, if a Toa begins its turn within 2 tiles of a foreign Settler Unit, it ignores terrain movement penalties and enemy Zone of Control for that turn. This ability can be carried forward with upgrades. This makes Toa adept at counteracting enemy settlements before they can be established.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

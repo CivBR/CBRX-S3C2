@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="20d1e1a3-f3d0-4995-ad46-79960a766e0e" version="1">
+  <Properties>
+    <Name>Vanadius's Anglo-Dutch Union</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>The Anglo-Dutch Union under William III</Teaser>
+    <Description>The Anglo-Dutch Union under William III</Description>
+    <Authors>Vanadius</Authors>
+    <SpecialThanks>Tranq, Neirai, Senshi</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="15D3DDD7B9FC8137FBD84D1288A0C3F8" import="1">Art/Atlas/Vanadius_Splatday_AlphaAtlas_128.dds</File>
+    <File md5="B9455F0E3582802F9C8FB0B0213E185C" import="1">Art/Atlas/Vanadius_Splatday_AlphaAtlas_16.dds</File>
+    <File md5="E26CF29D0E01CC135AF18B5AD4B01974" import="1">Art/Atlas/Vanadius_Splatday_AlphaAtlas_24.dds</File>
+    <File md5="4DB61C5711D4278E0E50D6264CBDC0B3" import="1">Art/Atlas/Vanadius_Splatday_AlphaAtlas_256.dds</File>
+    <File md5="9CAB3C966833F4DCFED09E92E0434BE1" import="1">Art/Atlas/Vanadius_Splatday_AlphaAtlas_32.dds</File>
+    <File md5="56CAC2516969E59E4545F1A94801808A" import="1">Art/Atlas/Vanadius_Splatday_AlphaAtlas_45.dds</File>
+    <File md5="00C89AFD99916E78C3B419C29ECD5B4D" import="1">Art/Atlas/Vanadius_Splatday_AlphaAtlas_48.dds</File>
+    <File md5="CB0A4A905825E7BAEE18F98B1E92AE9B" import="1">Art/Atlas/Vanadius_Splatday_AlphaAtlas_64.dds</File>
+    <File md5="84A55EEA93998670DE61DCB59D01154C" import="1">Art/Atlas/Vanadius_Splatday_AlphaAtlas_80.dds</File>
+    <File md5="25E009EA8440C80E538AA65A5FED5C5D" import="1">Art/Atlas/Vanadius_Splatday_IconAtlas_128.dds</File>
+    <File md5="A8851133A320D46192DD27275EBDAEC7" import="1">Art/Atlas/Vanadius_Splatday_IconAtlas_24.dds</File>
+    <File md5="ED41713CA1C4684F1346E835CA235837" import="1">Art/Atlas/Vanadius_Splatday_IconAtlas_256.dds</File>
+    <File md5="C7BF0741A39A746CD5CECDC9F3A1CC2C" import="1">Art/Atlas/Vanadius_Splatday_IconAtlas_32.dds</File>
+    <File md5="7852158881BC999AC1981A32D9829B11" import="1">Art/Atlas/Vanadius_Splatday_IconAtlas_45.dds</File>
+    <File md5="D6A189831F4F02336F2EB212D63FA45B" import="1">Art/Atlas/Vanadius_Splatday_IconAtlas_64.dds</File>
+    <File md5="347E8992BA6A38C821D1E76EA17DE6FA" import="1">Art/Atlas/Vanadius_Splatday_IconAtlas_80.dds</File>
+    <File md5="F8350233B7D0AD898E22968BC579FA0E" import="1">Art/KingBilly_Scene.xml</File>
+    <File md5="998137DB40839F09C3912EAAEB119473" import="1">Art/GloriousRevMap.dds</File>
+    <File md5="54E17BD957B2E165061763339316AD55" import="1">Art/KingBilly.dds</File>
+    <File md5="39C2E652DD99F2185E7B1BC339BE18EB" import="1">Art/KingBillyDOM.dds</File>
+    <File md5="A643527B78BEC94A47B05C7A022C7070" import="1">Art/Units/sv_BlueGuard.dds</File>
+    <File md5="BE71B18E72722796AB6648404129C169" import="1">Art/Units/sv_ManOfWar.dds</File>
+    <File md5="B0B304514E2513102365BE1AD911212E" import="1">Art/Units/vana_blue_guard.fxsxml</File>
+    <File md5="78F31F538F5BEFB10BE7A8D590C14537" import="1">Art/Units/vana_blue_guard.gr2</File>
+    <File md5="5087F451C0FA02FAF2FDB71400390254" import="1">Art/Units/vana_blue_guard_diff.dds</File>
+    <File md5="FD639732A2D2E03549C41C4F0D1AB45F" import="1">Audio/WilliamIII_Peace.mp3</File>
+    <File md5="A041EEF08D6024DB5A86451D2EB722CB" import="1">Audio/WilliamIII_War.mp3</File>
+    <File md5="E523FD64F0EC7C97C1B35CBC38980C94" import="0">Core/Promotions.xml</File>
+    <File md5="C34405A0773B428D1D4F621AA15329CB" import="0">Core/WilliamIII_ArtDefines.sql</File>
+    <File md5="450AF08B3DDC8B35AEA7D544B6947ADA" import="0">Core/WilliamIII_GameDefines.sql</File>
+    <File md5="58759AE2F56CD8A5FD4E8398EBF1BF64" import="0">Core/WilliamIII_GameText.xml</File>
+    <File md5="CA1DA7D086AB6222A7D3D2422D2E58A5" import="0">Core/William_Talks.sql</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="BB22457F20D51F582FD9BF78B672B4D3" import="0">Lua/WilliamIII.lua</File>
+    <File md5="3ACAF439E9401D0903E493CB5B8DA77D" import="0">ModSupport.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/William_Talks.sql</UpdateDatabase>
+      <UpdateDatabase>Core/WilliamIII_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/WilliamIII_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/WilliamIII_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/WilliamIII.lua">
+      <Name>WilliamIII.lua</Name>
+      <Description>WilliamIIIFunctions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

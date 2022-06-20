@@ -1,0 +1,48 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+Janboruta: 
+----------------
+	Art (Leaderscene; Civ Icon)
+----------------
+Regalman: 
+----------------
+	Art (Map)
+----------------
+Sukritact: 
+----------------
+	Art (Unique Unit Icon)
+----------------
+Civitar and embryodead: 
+----------------
+	Graphics (Unit Model)
+	https://forums.civfanatics.com/resources/afghanistani-camel-gunners.22906/
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Duane Decker: 
+----------------
+	Music (Peace; War)
+	https://youtu.be/IAB5vJL7-I0
+	https://youtu.be/tth1md-pw2o?list=PLtStx0VRuZq3YvnvCzotr0adxOF7_tNlf
+----------------
+Wikipedia.com: 
+----------------
+	Pedias (Uniques)
+	https://en.wikipedia.org/wiki/Ahmad_Shah_Durrani
+	https://en.wikipedia.org/wiki/Divan
+	https://en.wikipedia.org/wiki/Jezail?wprov=srpw1_0
+--------------------------------------------------------------
+--------------------------------------------------------------

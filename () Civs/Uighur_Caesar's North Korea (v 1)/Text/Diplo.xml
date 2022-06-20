@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 01/11/17 5:41:06 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- DIPLOMACY: VANILLA Vanilla -->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_FIRSTGREETING_1">
+			<Text>Greetings comrade. I am Kim il-Sung, president of the Korean people. I am a firm believer in men's control over his destiny. I wonder if ours will cross...</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_DEFEATED_1">
+			<Text>The Korean people's revolution must go on without me...</Text>
+		</Row>
+		<!--First Greeting from leaders that don't have their own file yet-->
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_GREETING_POLITE_HELLO_1">
+			<Text>Salutations comrade. Encouraging revolution I hope?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_GREETING_HOSTILE_HELLO_1">
+			<Text>Imperialists are not welcome in Korea. Speak quickly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_DOW_LEADER_UC_KIM_1">
+			<Text>Your illegal occupation will finally cease! Korea will recover these lands that were unjustly stolen!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_DOW_WORLD_CONQUEST_1">
+			<Text>World revolution is the destiny of humanity. You fail to encourage it, therefore we will enforce it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Ha! What a misguided fool you are to not appreciate what I'm doing here for the Korean people. Perhaps we'll have to spread our revolution to your lands...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_DENOUNCE_1">
+			<Text>You engage in idiotic imperial ambitions rather than promoting the revolution of your downtrodden people. We will end your oppressive rule by any means necessary.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_DEC_FRIENDSHIP_1">
+			<Text>For the revolution to occur, the people need a Great Leader. I believe you have potential as one. Will you join my revolutionary efforts?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_KIM_NO_PEACE_1">
+			<Text>The Korean people will not surrender until the revolution succeeds!</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

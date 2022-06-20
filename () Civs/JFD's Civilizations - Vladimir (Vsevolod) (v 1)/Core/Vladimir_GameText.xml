@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_VLADIMIR_DESCRIPTION">
+			<Text>VLADIMIR (VSEVOLOD)[NEWLINE][NEWLINE]UNIQUE TRAIT: TALE OF IGOR'S CAMPAIGN[NEWLINE][ICON_BULLET]Generate [ICON_GREAT_PEOPLE] Great Writer Points from combat in owned or City-State borders.[NEWLINE][ICON_BULLET]Combat Units gain bonus Attacking Strength, [ICON_MOVES] Movement, and pillage for free on the turn that a Great Writer is born.[NEWLINE][NEWLINE]UNIQUE BUILDING: WHITE CATHEDRAL[NEWLINE][ICON_BULLET]Replaces Garden.[NEWLINE][ICON_BULLET]+2 [ICON_PEACE] Faith.[NEWLINE][ICON_BULLET]1 Great Work of Writing Slot.[NEWLINE][ICON_BULLET]Great Writers expended in or adjacent to this city grant a free Missionary.[NEWLINE][ICON_BULLET]No Fresh Water requirement.[NEWLINE][NEWLINE]UNIQUE UNIT: PRINCE'S RETINUE[NEWLINE][ICON_BULLET]Replaces Longswordsman.[NEWLINE][ICON_BULLET]Requires no [ICON_RES_IRON] Iron.[NEWLINE][ICON_BULLET]Unlocked at Civil Service.[NEWLINE][ICON_BULLET]Slightly weaker.[NEWLINE][ICON_BULLET]Begins with bonus XP for each Great Work of Writing in the city.</Text>
+		</Row>
+		<!--VLADIMIR-->
+		<Row Tag="TXT_KEY_CIV_JFD_VLADIMIR_ADJECTIVE">
+			<Text>Vladimirian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_VLADIMIR_DESC">
+			<Text>Vladimirian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_VLADIMIR_SHORT_DESC">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_TEXT_1">
+			<Text>Vladimir-Suzdal was one of the major principalities that succeeded Kievan Rus' in the late 12th century, centered in Vladimir-on-Klyazma. With time the principality grew into a grand duchy divided into several smaller principalities. After being conquered by the Mongol Empire, the principality became a self-governed state headed by its own nobility. A governorship of principality, however, was prescribed by a Khan declaration (jarlig) issued from the Golden Horde to a noble family of any of smaller principalities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_HEADING_2">
+			<Text>Rostov Principality</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_TEXT_2">
+			<Text>The first notable administrators in the Rostov region presumably were the sons of Vladimir the Great, Boris and Gleb, and later Yaroslav the Wise. The principality occupied a vast territory in the northeast of Kievan Rus', approximately bounded by the Volga, Oka, and Northern Dvina rivers. Until the decline of Kievan Rus' in the 12th-13th centuries the territory was also commonly called Zalesie, literally depicting a region beyond woodland. Scarce historical information exists for the area during that time. The foundation of the city of Rostov has been lost in the span of time. According to the archeologist Andrei Leontiev, who specializes in the history of the region, the Rostov land until the 10th century was already under the control of Rostov city, while Sarskoye Gorodishche was a tribal center of the native Merya people.[NEWLINE][NEWLINE]In the 10th century an eparchy was established in Rostov. One of the first known princes was Yaroslav the Wise and later Boris Vladimirovich. At that time Rostov was the major center of the Eastern Orthodox Christianity in the region dominated mostly by shamanism. Until the 11th century Rostov was often associated with the Great Novgorod. Evidently the spread of Eastern Orthodox Christianity to the lands of the Great Perm was successfully conducted from Rostov. Rostov was the regional capital, including other important towns included Suzdal, Yaroslavl, and Belozersk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_HEADING_3">
+			<Text>Rostov-Suzdal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_TEXT_3">
+			<Text>Vladimir Monomakh, son of the Grand Prince of Vsevolod I, inherited the rights to the principality in 1093. As the Grand Prince of Kiev he appointed his son George I to rule the northeastern lands and in 1125 moved its capital from Rostov to Suzdal, after which the Principality was referred to as Rostov-Suzdal. During the 11th and 12th centuries when southern parts of Rus' were systematically raided by Turkic nomads, their inhabitants began to migrate northward. In the formerly wooded areas, known as Zalesye, many new settlements were established. The foundations of Pereslavl, Kostroma, Dmitrov, Moscow, Yuriev-Polsky, Uglich, Tver, Dubna, and many others were assigned (either by chronicle or popular legend) to George I, whose sobriquet ("the Long-Armed") alludes to his dexterity in manipulating the politics of far-away Kiev. Sometime in 1108 Monomakh strengthened and rebuilt the town of Vladimir on the Klyazma River, 31 km south of Suzdal. During the rule of George I the principality gained military strength, and in the Suzdal-Ryazan war of 1146 it conquered the Ryazan Principality. Later in the 1150s Yuri occupied Kiev a couple of times as well. From that time the lands of the northeastern Rus' played an important role in the politics of Kievan Rus'. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_HEADING_4">
+			<Text>Rise of Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_TEXT_4">
+			<Text>George's son Andrew the Pious significantly increased Vladimir's power at the expense of the nearby princely states, which he treated with contempt. After burning down Kiev, then the metropolitan seat of Rus', in 1169, he enthroned his younger brother. For Andrew, his capital of Vladimir was a far greater concern, as he embellished it with white stone churches and monasteries. Prince Andrew was murdered by boyars in his suburban residence at Bogolyubovo in 1174.[NEWLINE][NEWLINE]After a brief interregnum, Andrew's brother Vsevolod III secured the throne. He continued most of his brother's policies and once again subjugated Kiev in 1203. Vsevolod's chief enemies, however, were the Southern Ryazan Principality, which appeared to stir discord in the princely family, and the mighty Turkic state of Volga Bulgaria, which bordered Vladimir-Suzdal to the east. After several military campaigns, Ryazan was burnt to the ground, and the Bulgars were forced to pay tribute.[NEWLINE][NEWLINE]Vsevolod's death in 1212 precipitated a serious dynastic conflict. His eldest son Konstantin gained the support of powerful Rostovan boyars and Mstislav the Bold of Kiev and expelled the lawful heir, his brother George, from Vladimir to Rostov. George managed to return to the capital six years later, upon Konstantin's death. George proved to be a shrewd ruler who decisively defeated Volga Bulgaria and installed his brother Yaroslav in Novgorod. His reign, however, ended when the Mongol hordes under Batu Khan took and burnt Vladimir in 1238. Thereupon they proceeded to devastate other major cities of Vladimir-Suzdal during the Mongol invasion of Kievan Rus'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_HEADING_5">
+			<Text>Mongol yoke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_TEXT_5">
+			<Text>None of the cities of the principality managed to regain the power of the Great Kievan Rus' after the Mongol invasion. Vladimir became a vassal of the Mongol Empire, later succeeded by the Golden Horde, with the Grand Prince appointed by the Great Khan. Even the popular Alexander Nevsky of Pereslavl had to go to the Khan's capital in Karakorum in order to be installed as the Grand Prince in Vladimir. As many factions strove for power, the principality rapidly disintegrated into eleven tiny states: Moscow, Tver, Pereslavl, Rostov, Yaroslavl, Uglich, Belozersk, Kostroma, Nizhny Novgorod, Starodub-upon-Klyazma, and Yuriev-Polsky. All of them nominally acknowledged the suzerainty of the Grand Prince of Vladimir, but his effective authority became progressively weaker.[NEWLINE][NEWLINE]By the end of the century, only three cities — Moscow, Tver, and Nizhny Novgorod — still contended for the title of Grand Prince of Vladimir. Once installed, however, they chose to remain in their own cities rather than moving to Vladimir. The Grand Duchy of Moscow gradually came to eclipse its rivals. When the metropolitan of Kievan Rus' moved his chair from Vladimir to Moscow in 1325, it became clear that Moscow had effectively succeeded Vladimir as the chief centre of power in the north-east remnant of Kievan Rus'.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_01">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_02">
+			<Text>Suzdal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_03">
+			<Text>T'ver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_04">
+			<Text>Rostov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_05">
+			<Text>Yaroslavl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_06">
+			<Text>Ryazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_07">
+			<Text>Murom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_08">
+			<Text>Moscow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_09">
+			<Text>Veliky Ustyug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_10">
+			<Text>Kostroma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_11">
+			<Text>Belo Ozero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_12">
+			<Text>Uglich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_13">
+			<Text>Kolomna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_14">
+			<Text>Yuryev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_15">
+			<Text>Galich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_16">
+			<Text>Torzhok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_17">
+			<Text>Starodub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_18">
+			<Text>Nizhny Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_19">
+			<Text>Pronsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_20">
+			<Text>Odoyev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_21">
+			<Text>Rzhev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_22">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_23">
+			<Text>Vitebsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VLADIMIR_24">
+			<Text>Bryansk</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_0">
+			<Text>Yuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_1">
+			<Text>George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_2">
+			<Text>Andrew</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_3">
+			<Text>Konstantin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_4">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_5">
+			<Text>Alexander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_6">
+			<Text>Andrey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_7">
+			<Text>Volga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_8">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_9">
+			<Text>Rotislav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_10">
+			<Text>Gleb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_VLADIMIR_11">
+			<Text>Mstislav</Text>
+		</Row>
+		<!--VSEVOLOD-->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLADIMIR">
+			<Text>Vsevolod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLADIMIR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLADIMIR_TEXT_1">
+			<Text>Vsevolod was the tenth or eleventh son of Yuri Dolgoruky, who founded the town Dmitrov to commemorate the site of Vsevolod's birth. Nikolai Karamzin (1766 – 1826) initiated the speculation identifying Vsevolod's mother Helene as a Greek princess, because after her husband's death she took Vsevolod with her to Constantinople.[NEWLINE][NEWLINE]Vsevolod spent his youth at the chivalric court of the Komnenoi. On his return from the Byzantine Empire to Rus' in 1170, Vsevolod supposedly visited Tbilisi, as a local chronicle records that that year the Georgian king entertained his nephew from Constantinople and married him to his relative, an Ossetian princess.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLADIMIR_HEADING_2">
+			<Text>Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLADIMIR_TEXT_2">
+			<Text>In 1173 two Smolensk princes captured Kiev, captured Vsevolod and briefly installed him on the throne. Ransomed a year later, Vsevolod took his brother Mikhalko's side in his struggle against the powerful boyars of Rostov and Suzdal. Upon Mikhalko's death in 1176, Vsevolod succeeded him in Vladimir. He promptly subjugated the boyars and systematically raided the Volga peoples, notably Volga Bulgaria. He installed puppet rulers on the throne of Novgorod and married his daughters to princes of Chernigov and Kiev.[NEWLINE][NEWLINE]Vsevolod showed little mercy to those who disobeyed his commands. In 1180 and 1187 he punished the princes of Ryazan by ousting them from their lands. In 1207 he burnt to the ground both Ryazan and Belgorod. His military fame spread quickly. The Tale of Igor's Campaign, thought to be written during Vsevolod's reign, addresses him thus: "Great prince Vsevolod! Don't you think of flying here from afar to safeguard the paternal golden throne of Kiev? For you can with your oars scatter in drops the Volga, and with your helmets scoop dry the Don."[NEWLINE][NEWLINE]But Kievan matters concerned Vsevolod little in the latter part of his reign. He concentrated on building up his own capital, Vladimir. His Ossetian wife, Maria Shvarnovna, who devoted herself to works of piety and founded several convents, was glorified by the Russian church as a saint. By her Vsevolod had no fewer than fourteen children, thus earning for himself the sobriquet Big Nest. Four of them, Konstantin, George, Yaroslav and Sviatoslav, succeeded him as Grand Dukes of Vladimir. He died on 12 April 1212 and was buried at the Assumption Cathedral in Vladimir.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLADIMIR_NAME">
+			<Text>Vsevolod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLADIMIR_SUBTITLE">
+			<Text>Leader of Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLADIMIR_TITLES_1">
+			<Text>Prince of Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLADIMIR_LIVED">
+			<Text>1154 - 1212</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_VLADIMIR_TEXT">
+			<Text>Your storied deeds have travelled far, great warrior Vsevolod. When you came to inherit the throne of Vladimir, the ancient noble houses of Kievan Rus' were without control. But so fearsome was your military might and so ruthless was your command that you quickly brought them all to heel. And before long, yours was a name known and feared throughout the Rus': Vsevolod, the insurmountable prince of Vladimir.[NEWLINE][NEWLINE]The bannermen of Vladimir are yours, merciless prince. Can you subjugate your enemies and let word of your might spread far and wide? Can you pave the way for a great princedom to take command in these ruthless lands? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLADIMIR_FIRSTGREETING_1">
+			<Text>Hail. I am Vsevolod of Vladimir. No doubt you have already heard tale of my military deeds. They're only the half of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLADIMIR_DEFEATED_1">
+			<Text>I accept my defeat. Slay me and be done with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLADIMIR_ATTACKED_HOSTILE_1">
+			<Text>When we are done, your lands will be nothing but smoke and ruin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLADIMIR_DEC_FRIENDSHIP_1">
+			<Text>You are a brave and noble soul. Come, join me in a public Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLADIMIR_DENOUNCE_1">
+			<Text>You are just a child. I will not deal in talks with a child.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLADIMIR_DENOUNCE_FRIEND_1">
+			<Text>You have betrayed my trust. You are no friend to me.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLADIMIR_DOW_GENERIC_1">
+			<Text>My bannermen will pillage your countryside until the grass will not grow there for a thousand years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLADIMIR_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Let it be on your head.</Text>
+		</Row>
+		<!--TALE OF IGOR'S CAMPAIGN-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_VLADIMIR_SHORT">
+			<Text>The Tale of Igor's Campaign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_VLADIMIR">
+			<Text>Generate [ICON_GREAT_PEOPLE] Great Writer Points from combat in owned or City-State borders. Combat Units gain bonus Attacking Strength, [ICON_MOVES] Movement, and pillage for free on the turn that a Great Writer is born.</Text>
+		</Row>
+		<!--Tale of Igor's Campaign-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_VLADIMIR">
+			<Text>Tale of Igor's Campaign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_VLADIMIR_HELP">
+			<Text>+50% Attacking Strength and can pillage at no cost to [ICON_MOVES] Movement for this turn.</Text>
+		</Row>
+		<!--Tale of Igor's Campaign-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_VLADIMIR_WRITER">
+			<Text>Tale of Igor's Campaign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_VLADIMIR_WRITER_HELP">
+			<Text>Combat Units received bonus Attack Strength when this unit was born.</Text>
+		</Row>
+		<!--WHITE CATHEDRAL-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_WHITE_CATHEDRAL">
+			<Text>White Cathedral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WHITE_CATHEDRAL_HELP">
+			<Text>Great Writers expended in or adjacent to this city grant a free Missionary. +25% [ICON_GREAT_PEOPLE] Great People generation in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WHITE_CATHEDRAL_STRATEGY">
+			<Text>The unique White Cathedral is the Vladimirian replacement for the Garden. This building increases the generation of Great People in the city, but does not require a nearby source of Fresh Water to be constructed like the Garden. Whenever a Great Writer is expended in or near to a city with a White Cathedral, a free Missionary is spawned. The White Cathedral also possesses a slot for one Great Work of Writing and increases the city's [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WHITE_CATHEDRAL_TEXT">
+			<Text>For several decades, the buildings of Vladimir and Suzdal were the object of considerable efforts to develop cultural tourism, with consequent restoration works to them, carried out with proper respect for traditional techniques and materials. The monastery monuments maintain the ancient Russian traditions and authentic architectural decoration techniques. All restoration works carried out on the monuments in various periods were intended to conserve the authentic structures, through the use of the old construction methods, techniques and construction materials such as white stone, white lime, oversized bricks, wood and metal. The monasteries conserved their historic plans and ensured the replacement of traditional planting.</Text>
+		</Row>
+		<!--PRINCE'S RETINUE-->
+		<Row Tag="TXT_KEY_UNIT_JFD_PRINCES_RETINUE">
+			<Text>Prince's Retinue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PRINCES_RETINUE_HELP">
+			<Text>Unique Longswordsman replacement for Vladimir-Suzdal that unlocks earlier and begins with bonus XP in cities with Great Works of Writing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PRINCES_RETINUE_STRATEGY">
+			<Text>The unique Prince's Retinue replaces the Longswordsman for Vladimir-Suzdal. Unlike the Longswordsman, the Prince's Retinue does not require [ICON_RES_IRON] Iron to be trained, and unlocks at Civil Service instead of Steel. The Prince's Retinue begins with bonus +5XP for each filled Writing slot in the city in which it is trained. It is slightly weaker to begin with, however.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PRINCES_RETINUE_TEXT">
+			<Text>The Druzhina was a group of men in early Rus who helped the prince administer his principality. The individual member of druzhina was known as druzhinniki and the first members of druzhina were actually Norse warriors. They were eventually joined by members of the local Slavic aristocracy and adventurers from various nationalities. The senior members of the druzhina were known as boyars and acted as the prince's closest advisers. After the 13th century, the term druzhina fell out of use.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

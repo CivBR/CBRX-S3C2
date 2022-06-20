@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/13/2020 2:08:31 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_VANA_BLUE_GUARD_BONUS</Type>
+			<Description>TXT_KEY_PROMOTION_VANA_BLUE_GUARD_BONUS</Description>
+			<Help>TXT_KEY_PROMOTION_VANA_BLUE_GUARD_BONUS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<CombatPercent>15</CombatPercent>
+			<IgnoreTerrainCost>false</IgnoreTerrainCost>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VANA_BLUE_GUARD_BONUS</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_VANA_MAN_OF_WAR_BONUS</Type>
+			<Description>TXT_KEY_PROMOTION_VANA_MAN_OF_WAR_BONUS</Description>
+			<Help>TXT_KEY_PROMOTION_VANA_MAN_OF_WAR_BONUS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<CombatPercent>15</CombatPercent>
+			<IgnoreTerrainCost>false</IgnoreTerrainCost>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VANA_MAN_OF_WAR_BONUS</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

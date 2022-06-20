@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/29/2018 9:22:30 PM -->
+<GameData>
+ <Language_en_US>
+  <!--Civilization-->
+	<Row Tag="TXT_KEY_CIV_GT_QOCHO_ADJECTIVE">
+		<Text>Idiqut</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CIV_GT_QOCHO_DESC">
+		<Text>Qocho Khaganate</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV_GT_QOCHO_SHORT_DESC">
+		<Text>Qocho</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_GT_QOCHO_HEADING_1">
+		<Text>History</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_GT_QOCHO_TEXT_1">
+		<Text>After the collapse of the Uyghur Khanate at the hands of bickering rivals and the Yensisei Kyrgyz, the Uyghur population fled to the south seeking refuge. Many took to the south-east and formed the Ganzou-Uyghur state, where they would remain a close relationship with the states of China and Xi Xia, known as the Guiyi Circuit.[NEWLINE][NEWLINE]Qocho, however, was formed by a group of uyghurs led by the Khagan Pangtele, establishing themselves in Kucha and Karashar, prominent trading settlements. Over the next 50 years they slowly adopted a sedentary lifestyle, far from the nomadic life they once had, farming along fertile rivers and constructing water systems to irrigate the desert. As they grew they drew the attention of the rising Tang dynasty and the Song dynasty, who managed to subjugate the khaganate and recieve tribute from it. Regardless, the people of Qocho continued to thrive, practicing not only Buddhism but religions found far to the west in Sogdiana, such as Manichaeism and Nestorianism. The state began to adopt foreign customs such as the Chinese writing system and Sogdian currency system, turning them into a melting pot of different cultures and traditions.[NEWLINE][NEWLINE]The Qocho state lost its sovereignity in 1130, when it became a vassal of the Qara Khitai, only for it to become a Mongol Empire half a century later. It was not until the conversion of the tarim basin and the ruling Chatagai Khanate to Islam that the state was destroyed, where many of the temples and statues were destroyed, in an attempt to rid the land of religious icons. The Qocho Ughyurs, now largely Islamic, were subjugated under various Mongol and Chinese dynasties, losing all independence. Despite this, many of the works and innoviations of Qocho have survived to this day, such as the ingenious Turpan irrigation system and the Thousand Buddhsa Caves, still a site of pilgramage for many. </Text>
+	</Row>
+	 <!--Leader-->
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG">
+		 <Text>Süngülüg Khagan</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_SUNGULUG_HEADING_1">
+		 <Text>History</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_SUNGULUG_TEXT_1">
+		 <Text>Little is known about Süngülüg Khagan, the fifth Khagan of Idiqut. However, he was khagan at the peak of Qocho's power and influence, being host to the visits of Song dynasty ambassadors who spoke very highly of the state, describing its people living a life of luxury and devotion to religion. It was even said that many, especially the nobility lived to beyond a hundred years, and that the state gave public aid to those who needed it. Sungulung had inherited a tradition of khagans, which, unlike the warlike Uyghur khagans, practice a more sedentary lifestyle, only attacking to gain advantage in trade and cultural influence. He ascended to the throne in 981 AD known as  Arslan Bilgä Tengri ilig, 3 years later taking the title of Süngülüg Khagan, perhaps a more prestigous name. </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_SUNGULUG_NAME">
+		 <Text>Süngülüg Khagan</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_SUNGULUG_SUBTITLE">
+		 <Text>Leader of Qocho</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_SUNGULUG_TITLES_1">
+		 <Text>Khagan of Idiqut</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_SUNGULUG_LIVED">
+		 <Text>??? - 996</Text>
+	 </Row>
+     <Row Tag="TXT_KEY_CIV5_DAWN_GT_QOCHO_TEXT">
+		 <Text>Praise to you, Sungulug Khagan, Emperor of the noble state of Idiqut! From the shadow of the Uyghurs to the north, your people rebuilt their lives around the fertile rivers of the Tarim Basin, creating an irrigation system to tame the harsh desert to their liking. Influences by stronger nations to the east and west only emboldened your people, adopting the languages of trade and writing. At its height under your venerable reign Qocho was by far the master of the Silk Road, keeper of the keys to China and beyond. Even the swords of the Mongol Khans did little to sway your people, continuing to live their lives as they had done for centuries. It was the infiltration of an upstart religion that brought the end of the state, leaving the great monuments in ruin.[NEWLINE][NEWLINE]Oh great Khagan, your people are subjugated and forgotten by foreign powers who seek to rid you of your identity and culture. Their thirst for power has diminished your once great legacy. They look to you, as emperor, to restore the greatness of Idiqut. Can you once again become master of the Foreign Way?  Can you build a civilization that can stand the test of time?</Text>
+	 </Row>
+   <!--Trait-->
+	 <Row Tag="TXT_KEY_TRAIT_GT_QOCHO_SHORT">
+		 <Text>Parawanliq</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_TRAIT_GT_QOCHO">
+		 <Text>Faith Buildings provide [ICON_GOLDEN_AGE] Golden Age Points per religious Follower when constructed. Trade routes adjacent to Mountain tiles in your territory provide [ICON_GREAT_ARTIST] Great Artist points.</Text>
+	 </Row>
+   <!--Cities-->
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_01">
+		<Text>Qarakhoja</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_02">
+		<Text>Beshbaliq</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_03">
+		<Text>Kucha</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_04">
+		<Text>Kumul</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_05">
+		<Text>Karashar</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_06">
+		<Text>Yidu</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_07">
+		<Text>Bugur</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_08">
+		<Text>Changbaliq</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_09">
+		<Text>Bay</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_10">
+		<Text>Solmi</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_11">
+		<Text>Ush</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_12">
+		<Text>Yarkhoto</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_13">
+		<Text>Illiq</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_14">
+		<Text>Luntai</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_15">
+		<Text>Idikutschari</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_16">
+		<Text>Agni</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_17">
+		<Text>Jushi</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_18">
+		<Text>Araturuk</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_19">
+		<Text>Kumtara</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_20">
+		<Text>Qurutqa</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_21">
+		<Text>Toqsun</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_22">
+		<Text>Bulayiq</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_23">
+		<Text>Tuyuk</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_24">
+		<Text>Shayar</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_25">
+		<Text>Kuytun</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_26">
+		<Text>Manas</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_27">
+		<Text>Guqung</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_28">
+		<Text>Yar</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_29">
+		<Text>Qutubi</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_30">
+		<Text>Hoshut</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_31">
+		<Text>Qagan Qehe</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_32">
+		<Text>Baluntai</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_33">
+		<Text>Borhoi</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_34">
+		<Text>Baghrash</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_35">
+		<Text>Shuymogu</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_36">
+		<Text>Qamil</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_37">
+		<Text>Piqan</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_38">
+		<Text>Tokkuztara</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_39">
+		<Text>Benbutu</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_40">
+		<Text>Tashidian</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_41">
+		<Text>Lemjin</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_42">
+		<Text>Chiqtim</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_43">
+		<Text>Dakheyan</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_44">
+		<Text>Aydingkol</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_45">
+		<Text>Todog</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_46">
+		<Text>Saybagh</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_47">
+		<Text>Astana</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_48">
+		<Text>Orqu</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_49">
+		<Text>Wujyaqu</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_50">
+		<Text>Xungul</Text>
+	</Row>
+	<!--Spies-->
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_0">
+		 <Text>Pangtele</Text>
+     </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_1">
+		 <Text>Elbilge</Text>
+		 <Gender>Feminine</Gender>
+	 </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_2">
+		 <Text>Mamuraq</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_3">
+		 <Text>Qosqar</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_4">
+		 <Text>Negüril</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_5">
+		 <Text>Senggi</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_6">
+		 <Text>Barchuq</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_7">
+		 <Text>Öge</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_8">
+		 <Text>Göher</Text>
+		 <Gender>feminine</Gender>
+	 </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_9">
+		 <Text>Patigul</Text>
+		 <Gender>feminine</Gender>
+	 </Row>
+	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_10">
+		 <Text>Reyhangul</Text>
+		 <Gender>feminine</Gender>
+	 </Row>
+	 <!--Unit-->
+	 <Row Tag="TXT_KEY_UNIT_GT_CHAKAR">
+		 <Text>Chakar</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_UNIT_GT_CHAKAR_HELP">
+		 <Text>Weaker than the Horseman it replaces, it begins with additional experience if trained in a city during a WLTKD. Cheaper to produce during a Golden Age.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_UNIT_GT_CHAKAR_STRATEGY">
+		 <Text>
+			 Unique Attributes:
+			 [NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Begins with extra XP during a WLTKD in the Capital.[ENDCOLOR]
+			 [ICON_BULLET][COLOR_YIELD_GOLD]Cheaper to produce during Golden Ages.[ENDCOLOR]
+			 [NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]-1 Combat Strength[ENDCOLOR]
+		 </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_CIV5_GT_CHAKAR_TEXT">
+		 <Text>Chakar were traditionally made up of the bravest and most loyal soldiers, and were often close to the king, acting as protectors in times of war. Many had had experience in combat in events such as the An Lushan Rebellion.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_BUILDING_GT_KARIZ">
+		 <Text>Kariz</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_BUILDING_GT_KARIZ_HELP">
+		 <Text>Replaces the Aqueduct. -20% [ICON_FOOD] Food storage. When built, unimproved and featureless tiles adjacent to the city are converted to farmland. Foreign caravans entering the city provide extra [ICON_GOLD] Gold, scaling with population. </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_BUILDING_GT_KARIZ_STRATEGY">
+		 <Text>
+			 Unique Attributes:
+			 [NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]When built, unimproved featureless tiles adjacent to the city are converted to farmland. [ENDCOLOR]
+			 [ICON_BULLET][COLOR_YIELD_GOLD]Foreign caravans entering the city provide extra gold, scaling with city population. [ENDCOLOR]
+			 [NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Must be built next to a river.[ENDCOLOR] 
+		 </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_BUILDING_GT_KARIZ_TEXT">
+		 <Text>Ample water was crucial to Qarakhoja, so that the oasis city could service the many caravans on the Silk Route resting there near a route skirting the Taklamakan Desert. The caravans included merchant traders and missionaries with their armed escorts, animals including camels, sometimes numbering into the thousands, along with camel drivers, agents and other personnel, all of whom might stay for a week or more. The caravans needed pastures for their animals, resting facilities, trading bazaars for conducting business, and replenishment of food and water.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_GT_DECISIONS_IMPERIAL_WRITINGS">
+		 <Text>Tower of Imperial Writings</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_GT_DECISIONS_IMPERIAL_WRITINGS_HELP">
+		 <Text>+1 Defence for every great work of writing in the capital.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_GT_DECISIONS_IMPERIAL_WRITINGS_CIVILOPEDIA" >
+		 <Text>Qocho was one of the wealthy tributaries of the Tang and Song Dynasties during 800-1000 A.D. Commissioned by ambassadors to the Tang Emperor Taizong, the Tower of Imperial Writings stored the Emperor's edicts, serving as both a reminder of Tang subjugation and Qocho's status as an important partner in the silk road. It served as an important imperial landmark through the Song Dynasties, imperial envoys often visiting Qocho.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_PROMOTION_GT_CHAKAR">
+		 <Text>Chakar (Qocho)</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_PROMOTION_GT_CHAKAR_HELP">
+		 <Text>Ignores ZOC.</Text>
+	 </Row>
+	 <!--Abilities-->
+	 <Row Tag="TXT_KEY_BUILDING_GT_KARIZ_TRADE">
+		 <Text>Kariz Trade</Text>
+	 </Row>	
+	 <Row Tag="TXT_KEY_BUILDING_GT_CHAKAR_CHEAPER">
+		 <Text>Cheaper Chakar</Text>
+	 </Row>	 
+	 <!--Responses-->
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_FIRSTGREETING_1">
+		 <Text>Idiqut welcomes you, stranger! I am the khagan of this grand state. Do you seek to engage in diplomatic matters, or will I have to bring by guards to escort you out?</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_DEFEATED_1">
+		 <Text>I accept that our might is no match for yours. I can only wish that you face a greater foe in wars to come.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_ATTACKED_GENERIC_1">
+		 <Text>You have betrayed the very fabric of my people. I shall ready the army for your execution.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_DEC_FRIENDSHIP_1">
+		 <Text>Friendship would only benift us to become great trading powers. Unity is needed in these chaotic times </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_DENOUNCE_1">
+		 <Text>You are a madman, worth only to be thrown to barbarians.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_DOW_GENERIC_1">
+		 <Text>The Uyghur empire has been attacked enough! My army has been mobilised towards your destruction.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_EXPANSION_SERIOUS_WARNING_1">
+		 <Text>I will not stand for this aggressive expansion into my lands. Do not trouble me again.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_GREETING_AT_WAR_HOSTILE_1">
+		 <Text>Do you come to beg for peace?</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_GREETING_POLITE_HELLO_1">
+		 <Text>Greetings. What brings you to my court?</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_GREETING_NEUTRAL_HELLO_1">
+		 <Text>Greetings. </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_GREETING_HOSTILE_HELLO_1">
+		 <Text>What do you want?</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+		 <Text>Turn back your army or I will mobilize in turn.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_INFLUENTIAL_ON_AI_1">
+		 <Text>Our people are now playing your silver flutes and adopting religious laws! We're worried the rest of the world will also succumb to the influence of your culture.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_INFLUENTIAL_ON_HUMAN_1">
+		 <Text>I'm glad to see that our silver flutes and religious laws have spread far and wide. The amazing works of our civilization are truly inspiring!</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_LETS_HEAR_IT_1">
+		 <Text>Say what you will.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_LOSEWAR_1">
+		 <Text>Do not let this be an invitation to lead the Uyghur people to slaughter. The backbone of the world lies in our state.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_LUXURY_TRADE_1">
+		 <Text>You treasuries are overflowing with precious luxuries that you have no need of. Give some to me.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_NO_PEACE_1">
+		 <Text>No peace!</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_OPEN_BORDERS_EXCHANGE">
+		 <Text>I propose that we open our borders to one another.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_REPEAT_NO_1">
+		 <Text>Do you need a guard to help you on your way? I would be more than happy to send one.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_RESPONSE_REQUEST_1">
+		 <Text>My people suffer as the rivers of prosperity wither. We will offer all we can to get you to help us.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_RESPONSE_TO_BEING_DENOUNCED_1">
+		 <Text>Weak insults and names do not bother me. It only indicates that you are hiding the lack of an army.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_TOO_SOON_NO_PEACE_1">
+		 <Text>You cannot get away when your men continue to slaughter our poeple. Begone.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_LEADER_GT_SUNGULUG_WINWAR_1">
+		 <Text>Your mighty empire is crumbling under our victory. Never set foot in these lands again.</Text>
+	 </Row>
+	 <!--Map Labels-->
+	 <!--Lakes-->
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_LAKE_1">
+		 <Text>Karakoshun</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_LAKE_2">
+		 <Text>Aydingköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_LAKE_3">
+		 <Text>Baghrashköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_LAKE_4">
+		 <Text>Manasköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_LAKE_5">
+		 <Text>Qanasköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_LAKE_6">
+		 <Text>Qaraköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_LAKE_7">
+		 <Text>Ulungur</Text>
+	 </Row>
+	 <!--Oceans-->
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_OCEAN_1">
+		 <Text>Karakoshun</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_OCEAN_2">
+		 <Text>Aydingköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_OCEAN_3">
+		 <Text>Baghrashköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_OCEAN_4">
+		 <Text>Manasköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_OCEAN_5">
+		 <Text>Qanasköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_OCEAN_6">
+		 <Text>Qaraköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_OCEAN_7">
+		 <Text>Ulungur</Text>
+	 </Row>
+	 <!--Mountains-->
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_MOUNTAIN_1">
+		 <Text>Qiziltagh</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_MOUNTAIN_2">
+		 <Text>Kongurtagh</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_MOUNTAIN_3">
+		 <Text>Muztagata</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_MOUNTAIN_4">
+		 <Text>Argutagh</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_MOUNTAIN_5">
+		 <Text>Mazartagh</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_MOUNTAIN_6">
+		 <Text>Tengritagh</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_MOUNTAIN_7">
+		 <Text>Xantengri</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_MOUNTAIN_8">
+		 <Text>Kotaklik</Text>
+	 </Row>
+	 <!--Regions-->
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_1">
+		 <Text>Kurukdaryā</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_2">
+		 <Text>Bayanbulak</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_3">
+		 <Text>Chongköl</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_4">
+		 <Text>Tārīmbulak</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_5">
+		 <Text>Kizilakin</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_6">
+		 <Text>Hōshurmat</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_7">
+		 <Text>Aratārīm</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_8">
+		 <Text>Akyārsüka</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_9">
+		 <Text>Tuturdaryā</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_REGION_10">
+		 <Text>Olpantura</Text>
+	 </Row>
+	 <!--Deserts-->
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_DESERT_1">
+		 <Text>Taklimakan</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_DESERT_2">
+		 <Text>Lop</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_DESERT_3">
+		 <Text>Kumtag</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_DESERT_4">
+		 <Text>Xoshut</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_DESERT_5">
+		 <Text>Cherchen</Text>
+	 </Row>
+	 <!--Forests-->
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_FOREST_1">
+		 <Text>Künas</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_FOREST_2">
+		 <Text>Mori</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_FOREST_3">
+		 <Text>Qöqäk</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_FOREST_4">
+		 <Text>Tëkes</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_FOREST_5">
+		 <Text>Qolakterak</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_FOREST_6">
+		 <Text>Aktübek</Text>
+	 </Row>
+	 <!--Islands-->
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_ISLAND_1">
+		 <Text>Dungulduma</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_ISLAND_2">
+		 <Text>Buyuluk</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_ISLAND_3">
+		 <Text>Shakhur</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_ISLAND_4">
+		 <Text>Örmak</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_ISLAND_5">
+		 <Text>Manja</Text>
+	 </Row>
+	 <!--Rivers-->
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_RIVER_1">
+		 <Text>Tarim</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_RIVER_2">
+		 <Text>Karakax</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_RIVER_3">
+		 <Text>Molcha</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_RIVER_4">
+		 <Text>Aqsu</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_RIVER_5">
+		 <Text>Karatash</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_NAME_UYGHUR_RIVER_6">
+		 <Text>Kaidu</Text>
+	 </Row>
+	 <!--Sukritact's Decisions-->
+	 <!--Decisions-->
+	 <!--Construct the Tower of Imperial Writings-->
+	 <Row Tag="TXT_KEY_DECISIONS_GT_QOCHO_IMPERIAL_WRITINGS">
+		 <Text>Construct the Tower of Imperial Writings</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_DECISIONS_GT_QOCHO_IMPERIAL_WRITINGS_DESC">
+		 <Text>
+			 The great Tang Emperor Taizong has decided to include us in his glorious Mandate. If we desire to remain part of this Mandate, it is neccessary to return the favor and construct a Tower to store his Edicts, safe from the Elements and Barbarian invaders.
+			 [NEWLINE]-------------------------
+			 [NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+			 [NEWLINE]-------------------------
+			 [NEWLINE]{1_Icon}Must have at least 1 DoF partner who has more Score than you.
+			 [NEWLINE]{2_Icon}Must be in the Medieval era or later.
+			 [NEWLINE][ICON_UNCHECKBOX]May only be enacted once per era.
+			 [NEWLINE]-------------------------
+			 [NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+			 [NEWLINE]-------------------------
+			 [NEWLINE][ICON_BULLET]{3_Num}[ICON_GOLD] Gold.
+			 [NEWLINE][ICON_BULLET]2[ICON_RES_MAGISTRATES] Magistrates.
+			 [NEWLINE]-------------------------
+			 [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+			 [NEWLINE]-------------------------
+			 [NEWLINE][ICON_BULLET]The Tower of Imperial Writings is constructed in the Capital, which provides +1 Defense from each Great Work of Writing created by civilizations with more score than you.
+		 </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_DECISIONS_GT_QOCHO_IMPERIAL_WRITINGS_ENACTED_DESC">
+		 <Text>
+			 The Mandate shall long treat us as an unwavering and respected partner in trade. We also get some troops, which is a plus.
+			 [NEWLINE]-------------------------
+			 [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+			 [NEWLINE]-------------------------
+			 [NEWLINE][ICON_BULLET]The Tower of Imperial Writings is constructed in the Capital, which provides +1 Defense from each Great Work of Writing created by civilizations with more score than you.
+		 </Text>
+	 </Row>
+	 <!--Adopt a Writing System-->
+	 <Row Tag="TXT_KEY_DECISIONS_GT_QOCHO_ADOPT_WRITING_SYSTEM">
+		 <Text>Adopt a Foreign Writing System</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_DECISIONS_GT_QOCHO_ADOPT_WRITING_SYSTEM_DESC">
+		 <Text>
+			 We are but a small state in a world of Great Powers. If we desire to gain influence on the World stage and master the trade to the East, a universal Writing System from which we can standardise the language of Trade would surely be a step in the right direction.
+			 [NEWLINE]-------------------------
+			 [NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+			 [NEWLINE]-------------------------
+			 [NEWLINE]{1_Icon}Must be in the Medieval era or later.
+			 [NEWLINE][ICON_UNCHECKBOX]May only be enacted once per era.
+			 [NEWLINE]-------------------------
+			 [NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+			 [NEWLINE]-------------------------
+			 [NEWLINE][ICON_BULLET]{2_Num}[ICON_GOLD] Gold.
+			 [NEWLINE][ICON_BULLET]1[ICON_RES_MAGISTRATE] Magistrate.
+			 [NEWLINE]-------------------------
+			 [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+			 [NEWLINE]-------------------------
+			 [NEWLINE][ICON_BULLET]A writer's guild is constructed in the [ICON_CAPITAL] Capital if not constructed already. Recieve a caravan in the capital, and more if you have a trade route adding religious pressure.
+		 </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_DECISIONS_GT_QOCHO_ADOPT_WRITING_SYSTEM_ENACTED_DESC">
+		 <Text>
+			 With our newfound understanding of the language of foreign trade, we can surely become the power of the Silk Road.
+			 [NEWLINE]-------------------------
+			 [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+			 [NEWLINE]-------------------------
+			 [NEWLINE][ICON_BULLET]A writer's guild is constructed in the [ICON_CAPITAL] Capital if not constructed already. Recieve a caravan in the capital, and more if you have a trade route adding religious pressure.
+		 </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_DECISIONS_POLICY_GT_DECISIONS_IMPERIAL_WRITINGS">
+		 <Text>Construct the Tower of Imperial Writings</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_DECISIONS_POLICY_GT_DECISIONS_WRITING_SYSTEM">
+		 <Text>Adopt a Foreign Writing System</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_BUILDING_GT_DECISIONS_DEFENSE" >
+		 <Text>Extra Defense</Text>
+	 </Row>
+	 <!--Events-->
+	 <Row Tag="TXT_KEY_EVENT_GT_QOCHO_STATUES_RUINED">
+		 <Text>Religious Statues Vandalised</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_EVENT_GT_QOCHO_STATUES_RUINED_DESC">
+		 <Text>Iconoclastic beliefs have spread amongst our people, who view religious iconography as unholy sacrelige. A a result many have taken it upon themselves to break apart the great Buddhas of Bezelkik, even using fragments of them as fertillizer! </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_EVENT_GT_QOCHO_STATUES_RUINED_OUTCOME_1">
+		 <Text>We have no need for the heathen monuments of the past. The people can do what they please.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_EVENT_GT_QOCHO_STATUES_RUINED_OUTCOME_1_RESULT_1">
+		 <Text>Any wonders representing religious icons (Christo Redentor, statue of Zeus, Halicarnassus, Colossus, Sistine Chapel) are destroyed for +1 [ICON_FOOD] Food each. Cities with a shrine yield +1 faith and +2 Golden Age Points</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_EVENT_GT_QOCHO_STATUES_RUINED_OUTCOME_1_RESULT_1_NOTIFICATION">
+		 <Text>They will have better use in our fields than poisoning our minds. </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_EVENT_GT_QOCHO_STATUES_RUINED_OUTCOME_2">
+		 <Text>Protect them! Religion aside, they are a testament to the power of the Uyghur State.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_EVENT_GT_QOCHO_STATUES_RUINED_OUTCOME_2_RESULT_2">
+		 <Text>+1 Culture, +2 Happiness from Artist specialists in cities, doubled the city has a religious icon wonder. </Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_EVENT_GT_QOCHO_STATUES_RUINED_OUTCOME_2_RESULT_2_NOTIFICATION">
+		 <Text>By protecting the Statues, we have maintained the integrity of Idiqut.</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_BUILDING_GT_STATUES_RUINED_SPECIALIST_ARTIST">
+		 <Text>Qocho: Artist Bonus</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_DECISIONS_POLICY_GT_EVENTS_STATUES_RUINED">
+		 <Text>Statues Ruined</Text>
+	 </Row>
+	 <!--Additional Achievements-->
+	 <!--Achievopedia_Tabs-->
+	 <Replace Tag="TXT_KEY_TAB_AA_GT_HEADER">
+		 <Text>Grant</Text>
+	 </Replace>
+	 <Replace Tag="TXT_KEY_TAB_AA_GT_DESC">
+		 <Text>Achievements added by Grant's Civilizations</Text>
+	 </Replace>
+	 <!--AdditionalAchievements_Mods-->
+	 <Row Tag="TXT_KEY_MOD_GT_QOCHO_NAME">
+		 <Text>GT's Civilizations - Qocho (Sungulug Khagan)</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_MOD_GT_QOCHO_MODID">
+		 <Text>90a39392-0429-4018-b100-9723a3e9c3bd</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_MOD_GT_QOCHO_AUTHORS">
+		 <Text>grant</Text>
+	 </Row>
+	 <!--AdditionalAchievements-->
+	 <Row Tag="TXT_KEY_AA_GT_QOCHO_SPECIAL_HEADER">
+		 <Text>Xwastwānēft to the Tipitaka</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_AA_GT_QOCHO_SPECIAL_TEXT">
+		 <Text>As Qocho, have your [ICON_CAPITAL] Capital change majority religion three times</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_AA_GT_QOCHO_VICTORY_HEADER">
+		 <Text>Hökümranliq</Text>
+	 </Row>
+	 <Row Tag="TXT_KEY_AA_GT_QOCHO_VICTORY_TEXT">
+		 <Text>Win as Qocho</Text>
+	 </Row>
+	 <!--MCIS-->
+	 <Row Tag="TXT_KEY_BUILDING_GT_KARIZ_TOOLTIP">
+		 <Text>Foreign Caravans Entering the city gain extra [ICON_GOLD] Gold per turn, based on half the city's population.</Text>
+	 </Row>	 	 
+	</Language_en_US>
+</GameData>

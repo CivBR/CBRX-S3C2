@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_1">
+			<Text>Pelym</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_2">
+			<Text>Cherdyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_3">
+			<Text>Pyras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_4">
+			<Text>Vilyada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_5">
+			<Text>Idnakar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_6">
+			<Text>Iskor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_7">
+			<Text>Uros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_8">
+			<Text>Izyur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_9">
+			<Text>Emdin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_10">
+			<Text>Ekspera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_11">
+			<Text>Ižkar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_12">
+			<Text>Izhma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_13">
+			<Text>Biarmia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_14">
+			<Text>Anyushkar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_15">
+			<Text>Kuva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_16">
+			<Text>Zuvs'rt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_17">
+			<Text>Zui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_18">
+			<Text>Redicor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_19">
+			<Text>Pokča</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_20">
+			<Text>Usolye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_21">
+			<Text>Kudymkör</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_22">
+			<Text>Rozhdest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_23">
+			<Text>Gurya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_24">
+			<Text>Vesyakar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_25">
+			<Text>Prikazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_26">
+			<Text>Mezen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_27">
+			<Text>Kalmez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_28">
+			<Text>Cheganda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_29">
+			<Text>Pyany Bor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_30">
+			<Text>Belogorye </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_31">
+			<Text>Vina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_32">
+			<Text>Ebga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_33">
+			<Text>Vasya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_34">
+			<Text>Vich Okhgt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_35">
+			<Text>Glyadeno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_PERM_36">
+			<Text>Dondykar</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_9">
+			<Text>Ozhmeg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_8">
+			<Text>Dokja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_7">
+			<Text>Dondy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_6">
+			<Text>Kyldyśin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_5">
+			<Text>Ethger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_4">
+			<Text>Kuaź</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_3">
+			<Text>Ljufvina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_2">
+			<Text>Hamund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_1">
+			<Text>Fedunova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_PERM_0">
+			<Text>Khrap</Text>
+		</Row>
+		<!-- Galicia -->
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_PERM">
+			<Text>The Permians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_PERM_SHORT">
+			<Text>The Permians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_PERM_ADJECTIVE">
+			<Text>Komi-Zyrian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_GT_PERM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_GT_PERM_TEXT_1">
+			<Text>The Permians are a branch of the Finno-Ugric peoples and include Komis and Udmurts, speakers of Permic languages. Formerly the name Bjarmians was also used to describe these peoples. The recent research on the Finno-Ugric substrate in northern Russian dialects, however, suggests that in Bjarmaland there also lived several other Finno-Ugric groups besides the Permians. The ancestors of the Permians originally inhabited the land called Permia covering the middle and upper Kama River. Permians split into two groups, probably during the 9th century.[NEWLINE][NEWLINE]The Komis came under the rule of the Novgorod Republic in the 13th century and were converted to Orthodox Christianity in the 1360-1370s. In 1471-1478, their lands were conquered by the Grand Duchy of Moscow that later became the Tsardom of Russia. In the 18th century the Russian authorities opened the southern parts of the land to colonization and the northern parts became a place to which criminal and political prisoners were exiled.The Udmurts came under the rule of the Tatars, the Golden Horde and the Khanate of Kazan until their land was ceded to Russia, and the people were Christianized at the beginning of the 18th century.[NEWLINE][NEWLINE]The Principality of Great Perm emerged as a separate Komi-Permyak feudal entity in the 14th-15th centuries owing to the easing of the Novgorod Republic. The principality retained a degree of autonomy under the Muscovite rule, but was eventually absorbed into it in 1505.  While the city of Perm is a modern foundation named for Permia, the town of Cherdyn was reportedly itself known as "Great Perm" in the past. Cherdyn acted as a central market town, and it is sometimes suggested that perm was simply a term for "merchants" or "market" in a local language, but there have been other suggestions. The same name is likely reflected in the toponym Bjarmaland in Norse sagas. The general region of Great Perm was known as wisu in medieval Arab ethnography, so referred to in the works of Ahmad ibn Fadlan, Al-Gharnati, Zakariya al-Qazwini and Yaqut al-Hamawi (in his Dictionary of Countries). The term is perhaps derived from the name of the Ves' people who settled around Lake Ladoga and the upper Sukhona River.[NEWLINE][NEWLINE]The principality was located in the Upper Kama area and maintained close connections with nearby Perm of Vychegda (alternatively known as Perm the Minor). Both Perm states had paid tribute to the Novgorod Republic since the 9th or 10th centuries. Perm of Vychegda was Christianised by Stephen of Perm in the fourteenth century and subsequently subdued by Muscovy. In 1451 a House of Princes of Perm gained control of both territories as vassals of Moscow, with the titles of princes Vymsky, and princes Velikopermsky. In fact even though having been Christianised soon after Perm of Vychegda, Great Perm enjoyed greater independence, positioned between three powers: Moscow, the Novgorod, and Kazan. Finally in 1472 an army of vassals of Moscow with the princes Vymsky among them conquered Great Perm and captured their brother Prince Mikhail Velikopermsky. Nevertheless, the latter soon came back again from Moscow as governor and ruled his domain for life. His son Matthew Velikopermsky was finally deposed by the Grand Prince of Moscow in 1505.</Text>
+		</Row>
+		<!-- Azykay  -->
+		<Row Tag="TXT_KEY_LEADER_GT_AZYKAY">
+			<Text>Azykay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_AZYKAY_HEADING_1">
+			<Text>History</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_AZYKAY_TEXT_1">
+			<Text>Azykay was the Grand Duke of the Voguls, a Muscotive term referring to the Mansi and pagan Komi-Zyrians. In the 15th century Russia had christianized and annexed Great Perm. This created an oppurtunity to expand eastwards. But between them and Siberia was a land called Yugra, filled with many Khanty-Mansi princedoms which had no intention of giving in. The strongest of these princedoms was Pelym, occupying the Pelym river and the neighbouring vassal states Konda, Tabary and Sosva. In the 15th century it was ruled by Grand Prince Azykay, a particularly cunning and ruthless leader, who would never admit to defeat.[NEWLINE][NEWLINE]To lessen the influence of Christianity in Yugra, he was set on killing the bishop of Perm Pitirim. In 1455 Asyka joined forces with Udmurts from Vyatka and set out into enemy territory. Asyka's men travelled on boats along the Vychegda river. They loaded the boats with spruce trunks and branches to disguise the fleet as floating trees and sneaked unnoticed into Ust-Vym, where Pitirim and other holymen were holding a prayer.[NEWLINE][NEWLINE]Suddenly Asyka's men jumped out of their boats and killed Pitirim and the rest of the priesthood, raiding Ust-Vym and the neighbouring lands. They returned to Pelym with much loot and fame, proving to both the Yugran warlords and Russia what kind of a man Asyka really was.[NEWLINE][NEWLINE]However, Asyka's victory did not last forever. In 1467 a Russian general Vasilii Skryabin attacked Pelym, captured Asyka and brought him to Vyatka, forcing him to give an oath of allegiance to Moscow by the ritual of both sides eating bread together with a knife. Yet Asyka, cunning as he was, broke his oath and managed to escape and return to Pelym, continuing his war against Russia. In 1481 he launched a campaign against Perm, destroying the royal capital Pokcha and killing the prince of Perm Mikhail Velikopermsky and his son Matvei.[NEWLINE][NEWLINE]By 1483 Moscow was out of patience. An army of riflemen lead by prince Fyodor Kurbsky laid siege to the capital of Pelym where Asyka and his retinue were stationed. Sensing his impending doom Asyka led his men out of the fort for a great last stand. Asyka's army was obliterated by the gunmen, he himself on the verge of death. Asyka's son and heir Jumshan was captured and brought to Moscow where instead of being executed was made the prince of Pelym as Moscow's vassal by czar Ivan III (though he rebelled a year later).[NEWLINE][NEWLINE]Asyka himself, despite having mortal wounds, almost as a nod to his past managed to again escape from the Russian army. What happened to him is not known.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_AZYKAY_NAME">
+			<Text>Azykay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_AZYKAY_SUBTITLE">
+			<Text>Kynaz of the Voguls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_AZYKAY_TITLES_1">
+			<Text>Grand Prince of Pelym</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_AZYKAY_LIVED">
+			<Text>1430 - 1490</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_GT_PERM_TEXT">
+			<Text>Azykay, how you served the pagan gods! You were the wilds of the forest, you commanded the beasts that challenged those who dared to call the great expanse theirs. You united Komi and Yugran, Zyrian and Vogul in an unholy alliance to great success, evading capture three times and landing heavy blows on the foolish Christians in Cherdyn and Ust-Zym. You wanted to reclaim Perm for the Permians - and you almost succeeded, were it not for the armies of the Muscovites, a power much greater than you ever imagined. The Muscovites amassed a great navy, and slaughtered your forces on the banks of frozen rivers. You fled to Pelym, and with that the pagans of Perm were left forever defenseless. Your Yugran brothers, however, survived for two more centuries, in a constant battle for survival.[NEWLINE][NEWLINE]Grand Duke of the Voguls, only you can unite what has been split apart and erased from history by the Christians. Only you can restore the noble ancestors to their rightful place in the stars. Can you slaughter the slaughterers? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- Confluence of the Idols -->
+		<Row Tag="TXT_KEY_TRAIT_GT_PERM_SHORT">
+			<Text>Confluence of the Idols</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GT_PERM">
+			<Text>Capturing [ICON_RELIGION] Religious Units, raiding Caravans and pillaging Trading Posts induces resistance in the nearest city. Great Generals will summon units as they move through enemy Tundra and Forest, depending on the enemy's [ICON_HAPPINESS_3] unhappiness and local resistance.</Text>
+		</Row>
+		<!--Kainulainen-->
+		<Row Tag="TXT_KEY_UNIT_GT_KREZH_MAGI">
+			<Text>Krezh Magi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GT_KREZH_MAGI_TEXT">
+			<Text>The Krezh is an instrument originating in the cultural traditions of the Umdurt and Komi peoples, with similiar instruments found in a range of Finno-Ugric folk traditions. Initially, the Krezh was only played in important ceremonial and holy days of the year, the most important being the Bulda vösh, a ceremony taking place once every three years in the spring. The Bulda was a large sacrifical grove near a prayer house (byddzym kuala), where the Krezh was played. The Bulda and Krezh performance would be attended by seven bölyaks, or families, from neighbouring villages. In the modern period, the krezh was played to honour a whole host of ceremonies, including the akashka, or the coming of spring, and the jybyrtton, a sacrifical ceremony to welcome the coming of foals. Most of these ceremonies have origins in Komi-Zyrian, Mordvin, Mari, Tatar and Volga Bulgar traditions.[NEWLINE][NEWLINE]The Finnish kantele is a distant relative of the krezh, as is the Mordvin kresle, the Mari karsh, the Tatar gusli and the Lithuanian kankle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_KREZH_MAGI_HELP">
+			<Text>Replaces the Great Musician. Provides experience towards the birth of Great Generals upon creating a Great Work, dependent on the Happiness and growth rate of the city. Yields Golden Age Points if performing on a Holy Site.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_KREZH_MAGI_STRATEGY">
+			<Text>Yields Golden Age Points if performing on a Holy Site.</Text>
+		</Row>
+		<!-- Komi Folk Music -->
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_1">
+			<Text>Zil-Zol</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_2">
+			<Text>Uram küj</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_3">
+			<Text>Komi dzoridz</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_4">
+			<Text>Tödsa</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_5">
+			<Text>Katšasinjas</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_6">
+			<Text>Jugyd yvlaöj</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_7">
+			<Text>Nol' Von</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_8">
+			<Text>Bana kyz sítana</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_9">
+			<Text>Ust´-Kulom</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_WORK_KOMI_FOLK_10">
+			<Text>Čužan sikt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_1">
+			<Text>Sergeem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_2">
+			<Text>Tomlun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_3">
+			<Text>Trailina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_4">
+			<Text>Alfina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_5">
+			<Text>Alena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_6">
+			<Text>Parma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_7">
+			<Text>Ruslan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_8">
+			<Text>Gögrös</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_9">
+			<Text>Iyul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_KREZH_MAGI_10">
+			<Text>Lidiya</Text>
+		</Row>
+		<!-- Batyr -->
+		<Row Tag="TXT_KEY_UNIT_GT_BATYR">
+			<Text>Batyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_BATYR_TEXT">
+			<Text>A Batyr is the Udmurt and Komi word for hero or valiant warrior, closely connected to the old Turkic baghatur and the old Mongol baatar. The most well known Batyr in Udmurt folklore is Dondy, a legendary Udmurt chief who founded with his brother three cities in the early medieval period, and successfully resisted an invasion by the Zerpals, thought to be either the Bashkirs or Komi-Zyrians. Batyrs are emblematized as being one with nature, part-animal, part human, and after their death, being absorbed into the wild landscape to reappear to travellers. This tradition of part-human part-animal deification dates back much further than the name batyr, to the early Scytho-Sarmatian cultures that populated the area circa 300-400 A.D., after the Huns and Goths pushed most Sarmatians out of the Pontic steppe. A number of bronze-cast zoomorphic figurines, depicting heroic half-humans, were produced in that period. Some scholars link them to the Mansi tradition of 'tonx', that is, a burial object to represent the true nature of a human's soul. If a heroic figure was bear-like and fierce, then he would be depicted as such.[NEWLINE][NEWLINE]The Udmurt Permian batyrs, who would have lived around the 8-10th centuies C.E. in the Pomolsk culture, are preserved in name today in several place-names, such as Chibinkar, which resembles Chibin, Dondy's grandson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_BATYR_HELP">
+			<Text>Replaces the Knight. Produces a Settler if killed during a Golden Age. Capturing religious units allows it to attack twice the next turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_BATYR_STRATEGY">
+			<Text>Has a combat bonus against units trained with technologies not unlocked by the Permians.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_GT_CAPTURED_RELIGIOUS">
+			<Text>Missionary Ensnared</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_CAPTURED_RELIGIOUS_HELP">
+			<Text>Capturing Religious Units, raiding Caravans and pillaging Trading Posts induces resistance in the nearest city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_BATYR">
+			<Text>Guardian of the Tundra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_BATYR_HELP">
+			<Text>Capturing religious units allows it to attack twice the next turn.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_GT_PERM">
+			<Text>Perm: Guardians of the Tundra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_PERM_HELP">
+			<Text>Tracks captured Religious Units.</Text>
+		</Row>		
+		<!--UI-->
+		<Row Tag="TXT_KEY_GT_PERM_PILLAGE_HELP">
+			<Text>Pillage this enemy Trading Post.</Text>
+		</Row>			
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_GT_AZYKAY_FIRSTGREETING_1">
+			<Text>Someone shows their face! I am Duke Azykay, lord of the great forests and mountains beyond. If you're here to spread lies, I'll give you a choice; three days on the open tundra, or twenty minutes under a frozen river?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_AZYKAY_DEFEATED_1">
+			<Text>The gateway to Siberia and its peoples lies before you. May the trees strangle you in your sleep.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_AZYKAY_ATTACKED_HOSTILE_1">
+			<Text>And here I was preparing an attack myself! I needed a good excuse, and here you are with your little army! This should be fun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_AZYKAY_DEC_FRIENDSHIP_1">
+			<Text>It seems that you and I have a common great ancestor, for nations rarely warm to each other like this. Let's cherish this happening, and make it official!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_AZYKAY_DENOUNCE_1">
+			<Text>Among all the vile creatures that call themselves leaders, you are without a doubt the ugliest. My people will make short work of you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_AZYKAY_DENOUNCE_FRIEND_1">
+			<Text>Every man is half a wild beast, and half a disciplined tribesman. It looks like you are just a wild beast. I'll send the hunters after you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_AZYKAY_DOW_GENERIC_1">
+			<Text>Since the day I learned to hold a sword, I have swung it against enemies. The fate of you and your little nation will be a simple matter of chopping a few heads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_AZYKAY_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Go on, rage away with your pretty little words. The pen is no match for the freezing tundra.</Text>
+		</Row>
+ 		<!--Achievements-->
+		<Replace Tag="TXT_KEY_TAB_AA_GT_HEADER">
+			<Text>Grant's Achievements</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TAB_AA_GT_DESC">
+			<Text>All Achievements related to or added by Grant mods.</Text>
+		</Replace>
+		<!--The Kingdom of Pontus [BNW][GT]-->
+		<Row Tag="TXT_KEY_MOD_GT_PERM_NAME">
+			<Text>Grant's Permians (Azykay)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_GT_PERM_MODID">
+			<Text>6143b75d-270e-46ce-883b-8408bb0c9c2d</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_GT_PERM_AUTHORS">
+			<Text>Grant</Text>
+		</Row>
+		<!--Mithraic Supremacy-->
+		<Row Tag="TXT_KEY_AA_GT_PERM_VICTORY_HEADER">
+			<Text>Overlord of the North Wind</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_GT_PERM_VICTORY_TEXT">
+			<Text>Beat the game on any difficulty setting as Azykay of the Permians</Text>
+		</Row>
+		<!--The Good Father-->
+		<Row Tag="TXT_KEY_AA_GT_PERM_SPECIAL_HEADER">
+			<Text>Cast into the River of Pitch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_GT_PERM_SPECIAL_TEXT">
+			<Text>As Azykay, capture ten or more religious units.</Text>
+		</Row>	
+	</Language_en_US>
+</GameData>

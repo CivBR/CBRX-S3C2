@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_en_US>
+		<!--New abilities -->
+		<Row Tag="TXT_KEY_CHYQUY_01">
+			<Text>Meicuchuca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_02">
+			<Text>Saguamanchica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_03">
+			<Text>Tisquesusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_04">
+			<Text>Sagipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_05">
+			<Text>Michuá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_06">
+			<Text>Quemuenchatocha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_07">
+			<Text>Aquiminzaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_08">
+			<Text>Ciasua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_09">
+			<Text>Chasquechusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_10">
+			<Text>Chicha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_11">
+			<Text>Chichituba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_12">
+			<Text>Chiguatyba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_13">
+			<Text>Sacaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_14">
+			<Text>Tubaytuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_15">
+			<Text>Tiuqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_16">
+			<Text>Ubaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_17">
+			<Text>Xaguara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_18">
+			<Text>Tibaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_19">
+			<Text>Piracoca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_20">
+			<Text>Aijaco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_21">
+			<Text>Quemba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_22">
+			<Text>Yanquén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_23">
+			<Text>Tibtá</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_IMPROVEMENT_OFFERING">
+			<Text>Holy Offerings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OFFERING_TEXT">
+			<Text>Holy Offerings gathered by Muisca Chyquy units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OFFERING_HELP">
+			<Text>Gather Holy Offerings from this tile, removing the resource. The Chyquy may go to a city to deliver the offerings yielding an amount of [ICON_GOLD] Gold and [ICON_PEACE] Faith. Delivering the offering consumes the Chyquy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OFFERING">
+			<Text>Gather Holy Offerings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CITYSTATE_OFFERING_HELP">
+			<Text>Gather Holy Offerings from a friendly or allied City-State to deliver them to a city you own, the amount of [ICON_GOLD] Gold and [ICON_PEACE] Faith increases depending on how strong your religion is on this city (up to 700 [ICON_GOLD] gold and 90 [ICON_PEACE] Faith if the city completely follows your religion). Delivering the offering consumes the Chyquy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OFFERING_REC">
+		<Text>You should gather Holy Offerings from this tile!</Text>
+	</Row>
+
+		<Row Tag="TXT_KEY_CHYQUY_OFFERING_ALERT">
+			<Text>Your Chyquy has delivered {1_goldbonus} [ICON_GOLD] Gold and {2_faithbonus} [ICON_PEACE] Faith from their Holy Offerings!</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_1">
+			<Text>Holy Offerings [COLOR_YIELD_GOLD](Level 1)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_1_HELP">
+			<Text>This unit is carrying holy offerings, if brought to a city's tile it may grant [COLOR_YIELD_GOLD]100 Gold and 50 Faith[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_2">
+			<Text>Holy Offerings [COLOR_YIELD_GOLD](Level 2)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_2_HELP">
+			<Text>This unit is carrying holy offerings, if brought to a city's tile it may grant [COLOR_YIELD_GOLD]200 Gold and 70 Faith[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_3">
+			<Text>Holy Offerings [COLOR_YIELD_GOLD](Level 3)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_3_HELP">
+			<Text>This unit is carrying holy offerings, if brought to a city's tile it may grant [COLOR_YIELD_GOLD]450 Gold and 80 Faith[ENDCOLOR]</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_4">
+			<Text>Holy Offerings [COLOR_YIELD_GOLD](Level 4)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_4_HELP">
+			<Text>This unit is carrying holy offerings, if brought to a city's tile it may grant [COLOR_YIELD_GOLD]700 Gold and 90 Faith[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_GOLD">
+			<Text>Holy Offerings [COLOR_YIELD_GOLD](taken from a Resource)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_GOLD_HELP">
+			<Text>This unit is carrying holy offerings, if brought to a city's tile it may grant [COLOR_YIELD_GOLD]400 Gold and 200 Faith[ENDCOLOR]</Text>
+		</Row>
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_FIRSTGREETING_1">
+			<Text>Our priests told me of your arrival, welcome to our sacred lake Guatavita. I'm Nemequene, Zipa of the Muisca Confederation..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_FIRSTGREETING_2">
+			<Text>Greetings stranger.  I'm Nemequene. Welcome to the rich lands of the Muisca Confederation, join us while we offer our gold to our Gods..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_FIRSTGREETING_3">
+			<Text>Stranger, you are approaching the sacred Guatavita, I hope you come with an offering. I'm Nemequene, Zipa of the Muisca People.</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_DEFEATED_1">
+			<Text>Our riches stolen, our cities lie destroyed, our traditions will soon banish to the winds... But you'll never find El Dorado!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_DEFEATED_2">
+			<Text>Our riches stolen, our cities lie destroyed, our traditions will soon banish to the winds... But you'll never find El Dorado!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_DEFEATED_3">
+			<Text>Our riches stolen, our cities lie destroyed, our traditions will soon banish to the winds... But you'll never find El Dorado!</Text>
+		</Row>
+
+
+			<Row Tag="TXT_KEY_CITY_MUISCA_01">
+				<Text>Hunza</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_02">
+				<Text>Bacata</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_03">
+				<Text>Iraca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_04">
+				<Text>Tundama</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_05">
+				<Text>Guatavita</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_06">
+				<Text>Ubate</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_07">
+				<Text>Fusagasuga</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_08">
+				<Text>Sugamuxi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_09">
+				<Text>Funza</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_10">
+				<Text>Duitama</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_11">
+				<Text>Saboya</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_12">
+				<Text>Charala</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_13">
+				<Text>Chipata</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_MUISCA_14">
+				<Text>Saquencipa</Text>
+			</Row>
+
+			<Row Tag="TXT_KEY_CIV_MUISCA_ADJECTIVE">
+				<Text>Muisca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_MUISCA_DESC">
+				<Text>Muisca Confederation</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_MUISCA_SHORT_DESC">
+				<Text>The Muisca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_MUISCA_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_MUISCA_TEXT_1">
+				<Text>
+					Greetings, oh great Zipa of Bacata, Nemequene of the Muisca people.
+					[NEWLINE][NEWLINE]You managed to create a code of laws for the Confederation that would be important to improve the unification of the Zipa and the Zaque lands, into a powerful Confederation.
+					[NEWLINE][NEWLINE]The Muisca Confederation had its center at the city of Hunza, now Tunja, capital of Boyaca. At first united thanks to bonds of heritage, the confederation started expanding with the commands of the Zipas of Bacata, and its beliefs united them in both religion and trade.
+					[NEWLINE][NEWLINE]Rich in mineral products, gems and gold were an important part of the Muisca Confederation. Gold became a main material of production for clothing, masonry and pottery. It also became an important part of the rituals at Guatavita lake, which led many to believe the legend of El Dorado.
+					[NEWLINE][NEWLINE]That myth led the Spanish Empire to be more interested in conquering the Muisca lands, however, and that meant the end of the Confederation.
+					[NEWLINE][NEWLINE]Great Zipa, your people still remember their old glory, and the rich offerings they offered to their gods. Will you rebuild the greatness of the Muisca Confederation? Will you build a civilization that shall stand the test of time?
+				</Text>
+			</Row>
+		<Row Tag="TXT_KEY_CIV5_MUISCA_DOM_TEXT_1">
+			<Text>
+				Greetings, oh great Zipa of Bacata, Nemequene of the Muisca people.
+				[NEWLINE][NEWLINE]You managed to create a code of laws for the Confederation that would be important to improve the unification of the Zipa and the Zaque lands, into a powerful Confederation.
+				[NEWLINE][NEWLINE]The Muisca Confederation had its center at the city of Hunza, now Tunja, capital of Boyaca. At first united thanks to bonds of heritage, the confederation started expanding with the commands of the Zipas of Bacata, and its beliefs united them in both religion and trade.
+				[NEWLINE][NEWLINE]Rich in mineral products, gems and gold were an important part of the Muisca Confederation. Gold became a main material of production for clothing, masonry and pottery. It also became an important part of the rituals at Guatavita lake, which led many to believe the legend of El Dorado.
+				[NEWLINE][NEWLINE]That myth led the Spanish Empire to be more interested in conquering the Muisca lands, however, and that meant the end of the Confederation.
+				[NEWLINE][NEWLINE]Great Zipa, your people still remember their old glory, and the rich offerings they offered to their gods. Will you rebuild the greatness of the Muisca Confederation? Will you build a civilization that shall stand the test of time?
+			</Text>
+		</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_TEXT_1">
+				<Text>
+					Nemequene was the third Zipa of Bacatá, from 1490 to 1514. Nephew to Saguamanchica, ascended to the throne after his death.
+					[NEWLINE][NEWLINE]During his reign, he had to encounter many rebelions from different tribes inside and outside the Muisca Confederation. The main one was the rebellion of the Panches and Sutagaos, at Uzhaques. The zipa managed to confront them, and the king of the Sutagaos, Fusagasugá, left battle before it even end. Nemequene had to face many battles afterwards, and didn't stop fighting until five days before his death.
+					[NEWLINE][NEWLINE]He's considered the Legislator of the Muisca Confederation, as he created the Code of Nemequene, remembered orally by the people of the Confederation. Sentences were usually death penalty or repudiation and social exclusion. The acts of incest, sodomy, adultery, robbery, warriors' cowardice and drunkennes were among the penalized crimes. In addition, the code established the rules of inheritance, behaviour, protocol, obedience, submission and tribute.
+
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_LIVED">
+				<Text>Dead in 1514.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_NAME">
+				<Text>Nemequene</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_SUBTITLE">
+				<Text>Muisca's Legislator and Zipa of Bacatá</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_NEMEQUENE">
+				<Text>Nemequene</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_TITLES_1">
+				<Text>Zipa of Bacatá</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_DORADO">
+				<Text>
+					Get +1[ICON_PEACE]Faith for every unused 125[ICON_GOLD]Gold until reaching Renassaince. Every source of Gold, Copper, Gems and Silver is doubled, and the capital provides two free Gold resources.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_DORADO_SHORT">
+				<Text>Bochica's Teachings</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_0">
+				<Text>Meicuchuca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_1">
+				<Text>Saguamanchica</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_2">
+				<Text>Tisquesusa</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_3">
+				<Text>Sagipa</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_4">
+				<Text>Michua</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_5">
+				<Text>Quemuenchatocha</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_6">
+				<Text>Aquiminzaque</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_7">
+				<Text>Menchaque</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_8">
+				<Text>Zichuca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MUISCA_9">
+				<Text>Chaquetoa</Text>
+			</Row>
+
+
+			<Row Tag="TXT_KEY_PROMOTION_ELITE">
+				<Text>Golden Elite</Text>
+			</Row>
+			<Row Tag="TXT_KEY_PROMOTION_ELITE_HELP">
+				<Text>Start with free 15 experience. Earn experience 15% faster</Text>
+			</Row>
+		
+
+			<Row Tag="TXT_KEY_BUILDING_MUISCA">
+				<Text>Muisca City</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_MUISCA_DESC">
+				<Text>This city generates points towards production of Chyquys.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_MUISCA_STRATEGY">
+				<Text>This city generates points towards production of Chyquys.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_MUISCA_HELP">
+				<Text>This city generates points towards production of Chyquys.</Text>
+			</Row>
+
+		
+		<Row Tag="TXT_KEY_UNIT_GUECHA">
+			<Text>Güecha Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GUECHA">
+			<Text>Muisca Replacement for the Longswordsman. Doesn't require Iron, but has increased manteinance cost. Starts with enough experience for a promotion and earns experience faster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GUECHA_STRATEGY">
+			<Text>Güecha Warriors are an elite troop that starts with enough experience for a free promotion, this and the fact they don't require Iron make them a very useful unit to keep until upgraded to Musketmen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_GUECHA_TEXT">
+			<Text>
+				The "güechas' / 'gueches' warrior-Chibcha Muisca were warriors Chibchas / Muiscas that, at the borders of the territory, had the mission to defend the nation Muisca of the raids Panche and Pijaos to those who qualified the Indies Writers angry warriors and warlike cannibals. From the descriptions that have been, the "güechas" seem to have been a breed, in the sense that it was a group of people who formed a special class for their physical characteristics, personality, work they performed as guardians Muisca territory, stimuli and rewards they received.
+				[NEWLINE][NEWLINE]As to the meaning of guecha, Fray Pedro Simon, Spanish Franciscan chronicler, tells us that on-Chibcha Muisca language means 'brave', the translation of the first element of the word presents some difficulties because the umlaut was a sign not written consistently; güe-(umlaut) is 'people' and then güecha is 'man of the people', meaning that would fit perfectly with the status or rank of the warrior.
+				[NEWLINE][NEWLINE]The guechas fearsome fighters were a elite troop of the Muiscan soldiers. Selected among the strongest and bravest men of the domains of Zipa, Mr. North Chibcha Empire. The selection considerations did not enter nobility of lineage, so any Chibcha would be enrolled and excel to become a Guechá, If One stood out for its value they could become appointed cacicas and therefore enter the local nobility. Thus Guechá stands for valor, courage and overcoming a rigidly organized society. style absolutist monarchical systems of the east.
+				[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_XUEPRIEST">
+			<Text>Chyquy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_XUEPRIEST">
+			<Text>Muisca Great Person replacement for the Great Prophet. Chyquys may gather Holy Offerings from friendly or allied City-States when stationed on an unimproved tile owned by their city. It may also get higher offerings by removing a Gold, Copper, Silver or Gems resource from any owned or neutral tile. Holy Offerings disable the possibility of spreading religion and viceversa, and must be delivered to an owned city's tiles consuming the Chyquy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XUEPRIEST_STRATEGY">
+			<Text>Chyquys are a powerful way of generating both a strong religion and to improve the economy. Given the relation between both for the Muisca, the Chyquys manage to increase the ammount of faith nicely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XUEPRIEST_HELP">
+			<Text>Chyquys are a powerful way of generating both a strong religion and to improve the economy. Given the relation between both for the Muisca, the Chyquys manage to increase the ammount of faith nicely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XUEPRIEST_TEXT">
+			<Text>
+				Chyquys (Priests) for Muisca (or Jeques for Chibcha) were an important part of their everyday life. Offerings played a fundamental role in the religious practices of the ancient societies that inhabited the Eastern Range. For it was through them that they sought to maintain balance and equilibrium in the world.
+				[NEWLINE][NEWLINE]
+				Offerings of gold, wood, stone beads, shell and bone artefacts, finger nails, hair, semen, tobacco and coca and other hallucinatory substances, drinks, food, plants and herbs, textiles, pottery vessels, baskets, quartz crystals, coal and large quantities of emeralds all embodied in their shape and materials some of the basic principles of the extensive system of opposites around which the cosmos was organised, for these people.
+				[NEWLINE][NEWLINE]
+				These principles came to life when the objects were left at sacred sites, such as in rivers, caves or lakes or on agricultural terraces, mountain peaks or hilltops, the floors of homes, or in shrines and tombs. The priests went to these places to leave offerings which, by virtue of their knowledge and their prophetic acts, they believed had the necessary powers to help them face up to natural phenomena or social events that affected them because of alterations to the dual cosmic balance.
+				[NEWLINE][NEWLINE]
+				Objects like 'tunjos' or 'santillos', which were human- or animal-shaped gold and tumbaga figurines, or personal, everyday objects, or scenes of everyday life, were generally offered up in pairs or groups. The two figures embodied a pair of opposites, like man and woman.
+				[NEWLINE][NEWLINE]
+				This releasing of the powers that were in the objects was nevertheless not achieved just by having the priest offer them up in these sacred places. Communication with the immaterial world was considerably more complex, and the benefits that could be gained depended on the precision of the whole process. It was carried out at times established by one or more priests at ceremonies involving prayers, chants and dances the priests themselves chose, based on what was needed from the offering.
+			</Text>
+		</Row>
+	</Language_en_US>
+
+
+
+
+	<Language_ES_ES>
+		<!--New abilities -->
+		<Row Tag="TXT_KEY_CHYQUY_01">
+			<Text>Meicuchuca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_02">
+			<Text>Saguamanchica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_03">
+			<Text>Tisquesusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_04">
+			<Text>Sagipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_05">
+			<Text>Michuá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_06">
+			<Text>Quemuenchatocha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_07">
+			<Text>Aquiminzaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_08">
+			<Text>Ciasua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_09">
+			<Text>Chasquechusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_10">
+			<Text>Chicha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_11">
+			<Text>Chichituba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_12">
+			<Text>Chiguatyba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_13">
+			<Text>Sacaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_14">
+			<Text>Tubaytuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_15">
+			<Text>Tiuqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_16">
+			<Text>Ubaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_17">
+			<Text>Xaguara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_18">
+			<Text>Tibaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_19">
+			<Text>Piracoca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_20">
+			<Text>Aijaco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_21">
+			<Text>Quemba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_22">
+			<Text>Yanquén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHYQUY_23">
+			<Text>Tibtá</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_OFFERING">
+			<Text>Ofrendas Sagradas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OFFERING_TEXT">
+			<Text>Ofrendas Sagradas conseguidas por los Chyquy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OFFERING_HELP">
+			<Text>Consigue Ofrendas Sagradas de este cuadro, removiendo el recurso. El Chyquy podrá ir a una ciudad para entregar la ofrenda, generando oro y fe, y consumiéndose.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OFFERING">
+			<Text>Conseguir Ofrendas Sagradas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CITYSTATE_OFFERING_HELP">
+			<Text>Consigue Ofrendas Sagradas de este cuadro, removiendo el recurso. El Chyquy podrá ir a una ciudad para entregar la ofrenda, generando oro y fe, y consumiéndose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OFFERING_REC">
+			<Text>Deberías conseguir Ofrendas Sagradas de este cuadro</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHYQUY_OFFERING_ALERT">
+			<Text>¡Tu Chyquy entregó {1_goldbonus} de Oro[ICON_GOLD] y  {2_faithbonus} de Fe[ICON_PEACE] de las ofrendas sagradas!</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_1">
+			<Text>Ofrendas Sagradas [COLOR_YIELD_GOLD](Nivel 1)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_1_HELP">
+			<Text>Esta unidad está cargando ofrendas sagradas, si es llevada a una ciudad puede brindar 100 de Oro y 50 de Fé</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_2">
+			<Text>Ofrendas Sagradas [COLOR_YIELD_GOLD](Nivel 2)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_2_HELP">
+			<Text>Esta unidad está cargando ofrendas sagradas, si es llevada a una ciudad puede brindar 200 de Oro y 70 de Fé</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_3">
+			<Text>Ofrendas Sagradas [COLOR_YIELD_GOLD](Nivel 3)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_3_HELP">
+			<Text>Esta unidad está cargando ofrendas sagradas, si es llevada a una ciudad puede brindar 450 de Oro y 80 de Fé</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_4">
+			<Text>Ofrendas Sagradas [COLOR_YIELD_GOLD](Nivel 4)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_4_HELP">
+			<Text>Esta unidad está cargando ofrendas sagradas, si es llevada a una ciudad puede brindar 700 de Oro y 90 de Fé</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_GOLD">
+			<Text>Ofrendas Sagradas [COLOR_YIELD_GOLD](De un recurso)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_GOLD_HELP">
+			<Text>Esta unidad está cargando ofrendas sagradas, si es llevada a una ciudad puede brindar 400 de Oro y 200 de Fé</Text>
+		</Row>
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_FIRSTGREETING_1">
+			<Text>Nuestros sacerdotes me contaron acerca de tu llegada, bienvenido a nuestro Lago Sagrado, Guatavita. Soy Nemequene, Zipa de la Confederación Muisca
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_FIRSTGREETING_2">
+			<Text>Saludos, forastero. Soy Nemequene. Bienvenido a las ricas tierras de la Confederación Muisca, únete a nosotros mientras ofrecemos nuestro oro a nuestros dioses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_FIRSTGREETING_3">
+			<Text>Te acercas al lago sagrado Guatavita, ¿Viniste a ofrecerle tu oro?</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE_DEFEATED_1">
+			<Text>Nuestras riquezas, robadas. Nuestras ciudades, destrozadas. Nuestras tradiciones pronto desaparecerán... ¡Pero nunca encontrarás El Dorado!</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CITY_MUISCA_01">
+			<Text>Hunza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_02">
+			<Text>Bacata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_03">
+			<Text>Iraca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_04">
+			<Text>Tundama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_05">
+			<Text>Guatavita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_06">
+			<Text>Ubate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_07">
+			<Text>Fusagasuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_08">
+			<Text>Sugamuxi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_09">
+			<Text>Funza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_10">
+			<Text>Duitama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_11">
+			<Text>Saboya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_12">
+			<Text>Charala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_13">
+			<Text>Chipata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_MUISCA_14">
+			<Text>Saquencipa</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_MUISCA_ADJECTIVE">
+			<Text>muisca|muisca|muisca|muisca</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MUISCA_DESC">
+			<Text>Confederación Muisca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MUISCA_SHORT_DESC">
+			<Text>Los Muisca</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MUISCA_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MUISCA_TEXT_1">
+			<Text>
+				Los muiscas o chibchas son un pueblo indígena que habitó el altiplano cundiboyacense y el sur del departamento de Santander, en Colombia, desde el siglo VI a. C., y cuyos descendientes directos viven actualmente en localidades del distrito de Bogotá como Suba y Bosa, y en municipios vecinos como Cota, Chía y Sesquilé. Una parte importante de la población actual de la Cordillera Oriental de Colombia es resultado del mestizaje de los muiscas con otros pueblos, particularmente con los españoles. La lengua original de este pueblo fue el muyskkubun, de la familia lingüística chibcha.4 Actualmente es una lengua muerta, pues el 16 de abril de 1770, mediante Real Cédula, el rey Carlos III de España prohibió el uso de lenguas indígenas en sus dominios. Sin embargo, existen proyectos para revitalizar la lengua, tal como se hizo en el caso del idioma hebreo.
+
+				[NEWLINE][NEWLINE]La confederación muisca era la unidad político-administrativa conformada en el momento de la llegada de los conquistadores, en 1537. La conformación presupuso el predominio de los psihipkua,5 jefes o caciques, dentro de cada comunidad. El gran centro de Poder administrativo, comercial y religioso se ubica en la ciudad de Hunza actual ciudad de Santiago de Tunja capital de Boyacá, y en el ámbito militar, el asentamiento de Bacatá actual Bogotá. El origen y parte de la explicación de unidades políticas que trascendían la comunidad debe buscarse en los lazos de parentesco, como los que existían entre los caciques de Bacatá y Chía, Tunja y Ramiriquí o Duitama y Tobasía.6 Aunque la necesidad de unirse para ejecutar obras, comerciar o aliarse temporalmente durante las guerras haya desempeñado también un papel en la articulación confederal, entre los muiscas la tendencia preponderante llegó a ser la sujeción de las comunidades más débiles por las más fuertes, por medios militares.
+
+				[NEWLINE][NEWLINE]El cacique dominante dentro de una confederación respetaba el gobierno autónomo de los caciques subordinados y mantenía la territorialidad de las respectivas comunidades, pero se convertía en el máximo jefe militar y además en el detentador final y principal beneficiario de un sistema de tributos comunitarios que ha sido documentado.8 Operaba una superposición de estructuras de caciques y comunidades dominantes, subdominantes y dominados,9 a la que le correspondían caciques de jerarquía diferente, que los españoles denominaron «señores» (psihipkua), «caciques» (uzake, eran convocados a los consejos), «capitanes» (sybintiba) y «capitanes menores» (utatiba).10 Se heredaba el cargo por línea materna.
+
+				[NEWLINE][NEWLINE]Las confederaciones hermanas, ubicadas en el Altiplano Cundiboyacense, área central de la Cordillera Oriental de los Andes colombianos, comprendían un territorio de aproximadamente 46.972 km2 (área un poco mayor que la de Suiza: 41.285 km2), desde el norte de el Chicamocha hasta el Páramo de Sumapaz, y desde las cimas hasta las faldas de la cordillera en la Cundinamarca oriental, limitando con los Panches y Pijaos. Dicho territorio tenía una población de aproximadamente un millón de habitantes.
+
+				[NEWLINE][NEWLINE]Las confederaciones conservan la soberanía, luego es inexacto hablar de un "reino muisca", y mucho menos de un "imperio muisca". No fue un reino porque no existía un monarca absoluto, y no fue un imperio porque los muiscas no sometieron pueblos no muiscas a su régimen político. En este sentido las confederaciones muiscas no pueden ser comparadas al Imperio azteca o al Imperio inca que le eran contemporáneos. La importancia política de la Confederación Muisca es que fue la más grande y la más organizada confederación de tribus del continente. Cada comunidad estaba regida por su jefe o cacique, tenía su autonomía y se sentían parte de su confederación.
+
+				[NEWLINE][NEWLINE]Los muiscas no trataron de agregar a esas confederaciones a otras etnias, sino que sus jefes se batían entre ellos para unirse entorno al vencedor.12 La confederación, además de ser entre tribus hermanas, de la misma cultura e idioma, garantizaba el trueque y la defensa común ante enemigos externos. Por esta razón el ejército dependía directamente del máximo jefe de la confederación (Zipa o Zaque) conformado por los güechas, los tradicionales guerreros muiscas.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MUISCA_DOM_TEXT_1">
+			<Text>Saludos, oh gran Zipa de Bacatá, Nemequene de los Muisca.
+				[NEWLINE][NEWLINE]Creaste el código de leyes para la Confederación, que ayudaría a mejorar la unificación de las tierras de los Zipa y los Zaque en una gran Confederación.
+				[NEWLINE][NEWLINE]La Confederación Muisca tuvo su centro en la ciudad de Hunza, ahora llamada Tunja, capital de Boyacá. Unidos en principio gracias a lazos familiares, la Confederación comenzó a expandirse bajo el mando de los Zipas de Bacatá, y sus creencias ayudaron a unirlos en religión y comercio.
+				[NEWLINE][NEWLINE]Con productios minerales abundantes, las gemas y el oro fueron una parte importante del día a día de la Confederación. El Oro se convirtió en el principal material para la producción de ropa, cerámica y arquitectura. Además formaba parte importante de los rituales en el lago Guatavita, que llevó a generar el mito de la ciudad de El Dorado.
+				[NEWLINE][NEWLINE]Ese mito llevó al Imperio Español a estar más interesado en conquistar las tierras de los Muisca, y eso significó finalmente el fin de la Confederación.
+				[NEWLINE][NEWLINE]Gran Zipa, tu gente aún recuerda su glora perdida, y las ricas ofrendas que ofrecían a sus dioses. ¿Podrás reconstruir la grandeza de la Confederación Muisca? ¿Construirás una civilización que trascienda las pruebas del tiempo?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_TEXT_1">
+			<Text>
+				Nemequene fue el tercer Zipa de Bacatá, de 1490 a 1514. Sobrino de Saguamanchica, ascendió al trono después de su muerte.
+				[NEWLINE][NEWLINE]Durante su reinado tuvo que enfrentarse a numerosas rebeliones de las diferentes tribus dentro y fuera de la Confederación Muisca. La principal rebelión fue la de los Panches y los Sutagaos, en Uzhaques. El Zipa logró confrontarles, y finalmente el rey de los Sutagaos, Fusagasugá, abandonó la batalla antes de que termine. Nemequene tuvo que enfrentar numerosas batallas posteriormente, y no dejó de luchar hasta cinco días antes de su muerte.
+				[NEWLINE][NEWLINE]Es considerado el Legislador de la Confederación Muisca, pues creó el llamado Código de Nemequene, recordado oralmente por la gente de la Confederación. Las sentencias solían ser de muerte o repudio y exclusión social. Los actos de incesto, adulterio, robo, cobardía y embriaguez eran algunos de los crímenes penalizados. Además, el código establecía las reglas de herencia, conducta, protocolo, obediencia, sumisión y tributo.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_LIVED">
+			<Text>Muerto en 1514.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_NAME">
+			<Text>Nemequene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_SUBTITLE">
+			<Text>Legislador Muisca y Zipa de Bacatá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMEQUENE">
+			<Text>Nemequene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_TITLES_1">
+			<Text>Zipa de Bacatá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DORADO">
+			<Text>
+				Consigue +1 de Fe [ICON_PEACE] por cada 125 de Oro[ICON_GOLD] hasta llegar al Renacimiento. Recibe el doble de cantidad de Oro, Plata, Gemas y Cobre, y la capital provee dos recursos gratis de Oro.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DORADO_SHORT">
+			<Text>Las enseñanzas de Bochica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_0">
+			<Text>Meicuchuca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_1">
+			<Text>Saguamanchica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_2">
+			<Text>Tisquesusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_3">
+			<Text>Sagipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_4">
+			<Text>Michua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_5">
+			<Text>Quemuenchatocha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_6">
+			<Text>Aquiminzaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_7">
+			<Text>Menchaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_8">
+			<Text>Zichuca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUISCA_9">
+			<Text>Chaquetoa</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_ELITE">
+			<Text>Valentía Dorada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ELITE_HELP">
+			<Text>Comienza con más experiencia, adquiere experiencia más rápido</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_BUILDING_MUISCA">
+			<Text>Ciudad Muisca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUISCA_DESC">
+			<Text>La Ciudad genera puntos hacia la generación de Chyquys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUISCA_STRATEGY">
+			<Text>La Ciudad genera puntos hacia la generación de Chyquys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUISCA_HELP">
+			<Text>La Ciudad genera puntos hacia la generación de Chyquys</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_UNIT_GUECHA">
+			<Text>Güecha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GUECHA">
+			<Text>Reemplazo muisca para el soldado con espada larga. No requiere hierro, pero tiene un costo de mantenimiento elevado. Comienza con suficiente experiencia para un ascenso, y obtiene experiencia más rápido.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GUECHA_STRATEGY">
+			<Text>No requiere hierro, pero tiene un costo de mantenimiento elevado. Comienza con suficiente experiencia para un ascenso, y obtiene experiencia más rápido.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_GUECHA_TEXT">
+			<Text>
+				Los "Güechas" fueron guerreros Chibcha y Muisca que tenían la misión de defender la nación Muisca de los ataques de los pueblos Panches y Piajos. Al parecer, los Güechas fueron un grupo de personas que formaba una casta especial por sus características físicas y de personalidad.
+				[NEWLINE][NEWLINE]En cuanto al significado de Güecha, Fray Pedro Simon, cronista franciscano para la corona española, menciona que la traducción más adecuada sería "Valiente". Lo Güechas fueron una élite guerrera de los soldados Muisca. Seleccionados de los más fuertes y valientes hombres en los dominios del Zipa. En la selección no importaba el linage local, así que cualquier Chibcha podía enrolarse y demostrar su valía.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_XUEPRIEST">
+			<Text>Chyquy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_XUEPRIEST">
+			<Text>Reemplazo muisca para el Gran Profeta. Los Lugares Sagrados construídos por los Chyquys en sitios de Oro, Plata o Gemas generan +7 de Oro [ICON_GOLD], además pueden comercializar productos exóticos al estar al lado de una ciudad extranjera.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XUEPRIEST_STRATEGY">
+			<Text>Reemplazo muisca para el Gran Profeta. Los Lugares Sagrados construídos por los Chyquys en sitios de Oro, Plata o Gemas generan +7 de Oro [ICON_GOLD], además pueden comercializar productos exóticos al estar al lado de una ciudad extranjera.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XUEPRIEST_HELP">
+			<Text>Reemplazo muisca para el Gran Profeta. Los Lugares Sagrados construídos por los Chyquys en sitios de Oro, Plata o Gemas generan +7 de Oro [ICON_GOLD], además pueden comercializar productos exóticos al estar al lado de una ciudad extranjera.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XUEPRIEST_TEXT">
+			<Text>
+				Los Chyquys (Sacerdotes) muisca fueron una parte importante de su cotidianidad. Las ofrendas jugaron un papel fundamental en las prácticas religiosas de las sociedades que habitaban la región de Cundinamarca, pues a través de ellos buscaban mantener el balance y el equilibrio con el mundo.
+				[NEWLINE][NEWLINE]Ofrendas de oro, madera, artefactos de hueso, cabello, tabaco, esmeraldas, coca y otras sustancias, formaban parte de los principios básicos del sistema de creencias de los muisca. Objetos como 'tunjos' y 'santillos', que fueron figuras antropomórficas y zoomórficas, y objetos personales solían ser ofrecidos en pares o en grupo. Dos figuras representaban el par de opuestos, como hombre y mujer.
+			</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="54a65e13-4b60-4a51-99e0-fcaa77aec1ef" version="1">
+  <Properties>
+    <Name>TarcisioCM - Assyria (Sammuramat)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Assyria[ENDCOLOR] under Sammuramat. Requires BNW.</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Assyria[ENDCOLOR] under Sammuramat. Requires BNW.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack	" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Cities in Development" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0D2469D0294F545E349169A4306AE487" import="1">Art/dds/Event_tcm_Decoys.dds</File>
+    <File md5="5CD00227C7A9C5D44C500FCB82FD35C7" import="1">Art/dds/Event_tcm_Seduction.dds</File>
+    <File md5="CDF8DA409EBB86551F4A5661CDD4DD8A" import="1">Art/dds/tcmSammurmatLS.xml</File>
+    <File md5="F1B165D2CFC87B1621E67997113F631E" import="1">Art/dds/tcm_assyrian_alpha_128.dds</File>
+    <File md5="84109CC88AAEB260809B1F05C7088FFB" import="1">Art/dds/tcm_assyrian_alpha_16.dds</File>
+    <File md5="D0398AA3403F65A2B2BE84FFD86C9951" import="1">Art/dds/tcm_assyrian_alpha_24.dds</File>
+    <File md5="2EDD7F51CE890AB0A54BB3B4D75C8BC1" import="1">Art/dds/tcm_assyrian_alpha_32.dds</File>
+    <File md5="9B7E93999EA9F8E65702952C0AAE6C2C" import="1">Art/dds/tcm_assyrian_alpha_48.dds</File>
+    <File md5="056F972939C5EE525B1831F6BF391D36" import="1">Art/dds/tcm_assyrian_alpha_64.dds</File>
+    <File md5="3EBC2DE32CA34C4A60B18D4D33667CBF" import="1">Art/dds/tcm_assyrian_alpha_80.dds</File>
+    <File md5="C7CABD00DB8867965B27E052DA51CEE0" import="1">Art/dds/tcm_assyrian_icons_128.dds</File>
+    <File md5="D44B431E764CC02BD4BE188828E4AE09" import="1">Art/dds/tcm_assyrian_icons_256.dds</File>
+    <File md5="DD03B419F995B8341DA928C97D630A9E" import="1">Art/dds/tcm_assyrian_icons_32.dds</File>
+    <File md5="B4B60CD3806849FAD50C096DBDD505B9" import="1">Art/dds/tcm_assyrian_icons_45.dds</File>
+    <File md5="128EAF7FF755B1101FE03CEE4252FFA7" import="1">Art/dds/tcm_assyrian_icons_64.dds</File>
+    <File md5="FF351E90D956F1E426B1869BAA1DDBA9" import="1">Art/dds/tcm_assyrian_icons_80.dds</File>
+    <File md5="F6BBBFD3FDA3C95EB52CA32336872EDC" import="1">Art/dds/tcm_assyria_dom.dds</File>
+    <File md5="3932E9FEF474BDC00A6BF2124EBA533B" import="1">Art/dds/tcm_assyria_leaderscreen.dds</File>
+    <File md5="4AC1062BD3223C09EA3CDB1C07CD341D" import="1">Art/dds/tcm_assyria_map.dds</File>
+    <File md5="F6B3008FC7EF307F3E29CA24F3EF5958" import="1">Art/dds/tcm_sapper_flag_alpha_32.dds</File>
+    <File md5="F560D147777BA04EBDF5FDA843583BCA" import="1">Art/dds/tcm_sapper_flag_alpha_sv.dds</File>
+    <File md5="9B766057CA651340C86CD2EB8A8E90AA" import="1">Art/Model/Mesopotamic_warrior.dds</File>
+    <File md5="A2727955BA2CC6013B5563A7C88B17D6" import="1">Art/Model/Mesopotamic_warrior.fxsxml</File>
+    <File md5="966DD29FB0E7C78905CCB052E507FDB7" import="1">Art/Model/Mesopotamic_warrior.gr2</File>
+    <File md5="BDDE3631FE249807AA43773DF3BE20AC" import="1">Art/Model/Mesopotamic_warrior_serf.dds</File>
+    <File md5="FC87ACC01FEF0F195C8AC8294A6E7246" import="1">Art/Model/Spearman_Babylon.dds</File>
+    <File md5="D4FBFFB9ABBEEF24269E9EA1FA131778" import="1">Art/Model/Spearman_Babylon.fxsxml</File>
+    <File md5="483B88F1F652113F9164F6A49D75DEE4" import="1">Art/Model/Spearman_Babylon.gr2</File>
+    <File md5="0222868B72C9D1C4F646870C8BC2D069" import="1">Art/Model/Spearman_Babylon_gloss.dds</File>
+    <File md5="1787268C723B0E0B928AF21535E44BDC" import="1">Art/Music/TCM_SAMMURAMAT_PEACE.mp3</File>
+    <File md5="1D85BDDF00603B8382AA5AAF3D6170CF" import="1">Art/Music/TCM_SAMMURAMAT_WAR.mp3</File>
+    <File md5="10BA3BF8DB3A17CED2A8FA9A581B6382" import="0">Code/Functions.lua</File>
+    <File md5="8A3B3D8B4F6A6256C63B149973C8BEDC" import="0">Code/ArtDef.sql</File>
+    <File md5="E4BCB1BCE77154160C5260B9AA953465" import="0">Code/Diplomacy.sql</File>
+    <File md5="A5403358F168E818DAB931FDB4738C0F" import="0">Code/ModSupport.sql</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Code/PlotIterators.lua</File>
+    <File md5="FE1B9B0F8F18B7149E97AAA83463212F" import="1">Code/SammuramatEvents.lua</File>
+    <File md5="E3DC88C9F7AF5271D3D437508AC898CA" import="1">Code/SammuramatDecisions.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Code/SaveUtils.lua</File>
+    <File md5="81DA219AA42D99CA6DD468479304F744" import="0">Code/Text.xml</File>
+    <File md5="64C83FF9B96F6F79A4994EF5FDAB74CC" import="0">Code/MainCode.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/MainCode.sql</UpdateDatabase>
+      <UpdateDatabase>Code/ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Code/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Text.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Functions.lua">
+      <Name>Sammuramat Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

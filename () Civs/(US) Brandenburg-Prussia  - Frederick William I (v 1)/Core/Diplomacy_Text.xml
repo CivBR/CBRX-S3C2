@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_US_FREDERICK_WILLIAM_FIRSTGREETING">
+			<Text>Well met! Apologies for the furnishings around here, I had to get rid of most of the gaudy furniture and gilded statues in order to actually run my country - not everyone has the fortitute to put aside such pleasures for a stable realm and a glorious future. Nice crown, by the way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_FREDERICK_WILLIAM_DEFEATED">
+			<Text>Interesting - I'd been wondering if stupidity, a general disregard for human life and the kind of recklessness that only comes with ignorance could work together as a cohesive military tactic. This defeat has proved that, yes, it can. Enjoy your 'victory'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_FREDERICK_WILLIAM_REPEAT_TOO_MUCH">
+			<Text>Huh? Sorry, I was just thinking about the bloodstains on my good uniform - since it also just doesn't go away nomatter what I say or do. Not sure why I thought about that just now, its... good... to see you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_FREDERICK_WILLIAM_REPEAT_TRADE">
+			<Text>Only a complete idiot would give this proposition over a second's consideration. How many weeks did you work on it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_FREDERICK_WILLIAM_GREETING_REPEAT">
+			<Text>Ah, yes, you're here! There's a terrible stain on some of my sheets, so if you tackle those fir- oh, you're another king? Really? That's... interesting. Have we met before?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_FREDERICK_WILLIAM_GREETING_HOSTILE_REPEAT">
+			<Text>Ah yes, I remember who you are! You never quite forget a face as... unique... as your own. War can inflict some terrible wounds, I understand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_FREDERICK_WILLIAM_GREETING_POLITE_HELLO">
+			<Text>Hmm? Oh, yes, I suppose I can spare a minute for you. Lets talk and walk though, I'm fairly busy.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

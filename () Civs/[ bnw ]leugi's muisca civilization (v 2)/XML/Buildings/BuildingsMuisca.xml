@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:52:31 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_MUISCA</Type>
+			<DefaultBuilding>BUILDING_MUISCA</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MUISCA</Description>
+		</Row>
+
+
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MUISCA</Type>
+			<BuildingClass>BUILDINGCLASS_MUISCA</BuildingClass>
+			<Cost>-1</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<Help>TXT_KEY_BUILDING_MUISCA_HELP</Help>
+			<Description>TXT_KEY_BUILDING_MUISCA</Description>
+			<Civilopedia>TXT_KEY_BUILDING_MUISCA_DESC</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MUISCA_STRATEGY</Strategy>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<MinAreaSize>-1</MinAreaSize>
+			<CapturePlunderModifier>0</CapturePlunderModifier>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>CIV_COLOR_ATLAS_MUISCA</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+</GameData>

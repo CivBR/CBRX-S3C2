@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/30/2016 12:56:56 AM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_LETANIA_COMPUTADORA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LETANIA_COMPUTADORA</Description>
+			<Audio>AS2D_Angel_Parra_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_VAMOS_ANDANDO_CAMINO</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_VAMOS_ANDANDO_CAMINO</Description>
+			<Audio>AS2D_Congreso_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LOS_MOMENTOS</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LOS_MOMENTOS</Description>
+			<Audio>AS2D_Eduardo_Gatti_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MIRA_NINITA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MIRA_NINITA</Description>
+			<Audio>AS2D_Los_Jaivas_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LA_RESFALOSA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LA_RESFALOSA</Description>
+			<Audio>AS2D_Margot_Loyola_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ARRIBA_EN_LA_CORDILLERA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ARRIBA_EN_LA_CORDILLERA</Description>
+			<Audio>AS2D_Patricio_Manns_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_VAMOS_MUJER</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_VAMOS_MUJER</Description>
+			<Audio>AS2D_Quilapayun_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SI_SOMOS_AMERICANOS</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SI_SOMOS_AMERICANOS</Description>
+			<Audio>AS2D_Rolando_Alarcon_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_JOAQUIN_MURIETA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_JOAQUIN_MURIETA</Description>
+			<Audio>AS2D_Sergio_Ortega_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_EL_DERECHO_DE_VIVIR_EN_PAZ</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_EL_DERECHO_DE_VIVIR_EN_PAZ</Description>
+			<Audio>AS2D_Victor_Jara_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_EL_MACHITUN</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_EL_MACHITUN</Description>
+			<Audio>AS2D_Violeta_Parra_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CANCION_PODER_POPULAR</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CANCION_PODER_POPULAR</Description>
+			<Audio>AS2D_Inti_Illimani_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ME_GUSTA_EL_VINO</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ME_GUSTA_EL_VINO</Description>
+			<Audio>AS2D_Tito_Fernandez_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DESPEDIDA_DEL_PUEBLO</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DESPEDIDA_DEL_PUEBLO</Description>
+			<Audio>AS2D_illapu_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CALAMBITO_TEMUCANO</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CALAMBITO_TEMUCANO</Description>
+			<Audio>AS2D_Barroco_Andino_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SERA_MAS_MEJOR</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SERA_MAS_MEJOR</Description>
+			<Audio>AS2D_Tiemponuevo_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LO_QUE_MAS_QUIERO</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LO_QUE_MAS_QUIERO</Description>
+			<Audio>AS2D_Isabel_Parra_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CAUTIVO_TIL_TIL</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CAUTIVO_TIL_TIL</Description>
+			<Audio>AS2D_Silvia_Urbina_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CESANTE</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CESANTE</Description>
+			<Audio>AS2D_Quelentaro_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LA_CHILENERA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LA_CHILENERA</Description>
+			<Audio>AS2D_Trio_Lonqui_Great_Work</Audio>
+			<Image>Zamacueca.dds</Image>
+		</Row>
+			
+	</GreatWorks>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_LETANIA_COMPUTADORA">
+			<Text>Letania para una computadora y para un niño que va a nacer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VAMOS_ANDANDO_CAMINO">
+			<Text>Vamos Andando mi Amigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LOS_MOMENTOS">
+			<Text>Los Momentos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MIRA_NINITA">
+			<Text>Mira Niñita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LA_RESFALOSA">
+			<Text>La Resfalosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ARRIBA_EN_LA_CORDILLERA">
+			<Text>Arriba en la Cordillera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VAMOS_MUJER">
+			<Text>Vamos Mujer (Cantata Santa Maria) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SI_SOMOS_AMERICANOS">
+			<Text>Si Somos Americanos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JOAQUIN_MURIETA">
+			<Text>Fulgor y Muerte de Joaquin Murieta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EL_DERECHO_DE_VIVIR_EN_PAZ">
+			<Text>El Derecho de Vivir en Paz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EL_MACHITUN">
+			<Text>El Guillatun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CANCION_PODER_POPULAR">
+			<Text>Cancion del Poder Popular</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ME_GUSTA_EL_VINO">
+			<Text>Me Gusta el Vino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DESPEDIDA_DEL_PUEBLO">
+			<Text>Poblacion la Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CALAMBITO_TEMUCANO">
+			<Text>Calambito Temucano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SERA_MAS_MEJOR">
+			<Text>Será más Mejor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LO_QUE_MAS_QUIERO">
+			<Text>Lo que más Quiero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CAUTIVO_TIL_TIL">
+			<Text>El Cautivo de Til Til</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CESANTE">
+			<Text>Cesante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LA_CHILENERA">
+			<Text>La Chilenera</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

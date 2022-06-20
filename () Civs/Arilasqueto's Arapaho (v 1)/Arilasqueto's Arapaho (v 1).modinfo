@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cda675e1-f800-4839-b7ff-94251be7c300" version="1">
+  <Properties>
+    <Name>Arilasqueto's Arapaho</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds the Arapaho Tribe under Pretty Nose to BNW</Teaser>
+    <Description>Adds the Arapaho Tribe under Pretty Nose to BNW. Part of the Kings of the Wild Frontier event.</Description>
+    <Authors>Arilasqueto</Authors>
+    <SpecialThanks>ExplosiveWatermelon, EmeraldRange, Chrisy15, Zharques, Tophatpaladin</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="BDDEB1C27AFB7DE0A28B44CCFC2CF16E" import="1">Art/arapahoAlpha_128.dds</File>
+    <File md5="4B329183B64C4F5693DB296846F965F5" import="1">Art/arapahoAlpha_24.dds</File>
+    <File md5="4CBEE63AE3CD5E42837812B685C4A915" import="1">Art/arapahoAlpha_32.dds</File>
+    <File md5="1C360C10AC46386D05FE5D1572E37B3D" import="1">Art/arapahoAlpha_48.dds</File>
+    <File md5="33E5EF037FA53E9752C4583EBB518514" import="1">Art/arapahoAlpha_64.dds</File>
+    <File md5="EBCF1D858026CD81B7EC9B5151A13BF6" import="1">Art/arapahoAtlas_128.dds</File>
+    <File md5="5583C130D78841E5373CCFF21FE4F2DD" import="1">Art/arapahoAtlas_256.dds</File>
+    <File md5="C936762EDA023CA7345DC2AD75944EB5" import="1">Art/arapahoAtlas_32.dds</File>
+    <File md5="3E336ACA73FC7CEE2C23A5C48A27A8CB" import="1">Art/arapahoAtlas_45.dds</File>
+    <File md5="57C46053A08FC97B0DC3DC858798A7AD" import="1">Art/arapahoAtlas_64.dds</File>
+    <File md5="A61AD512B696EC6CD106B87A70DC52FE" import="1">Art/arapahoAtlas_80.dds</File>
+    <File md5="ECB299BEAC3CBCCF18EFE86E38A123ED" import="1">Art/arapahoDoM.dds</File>
+    <File md5="DA06317D52585F16911B07DDBEE3A0FA" import="1">Art/arapahoLeaderscene.dds</File>
+    <File md5="77CAD6F12237AAC8891FC92F3F5F1538" import="1">Art/arapahoMap.dds</File>
+    <File md5="18395848836EDA8D052ECE4B3C32DD4E" import="1">Art/arapaho_LS.xml</File>
+    <File md5="6524BDBE1488F731BE8D073A9F67C798" import="1">Art/beniiinenAlpha_32.dds</File>
+    <File md5="5B2C97DE7458E1E02401E8AA1B63A4AD" import="1">Art/BENIIINEN/er_arapaho.fxsxml</File>
+    <File md5="5AF61CBE14815CFD82F1BFC5EF53C239" import="1">Art/BENIIINEN/er_arapaho.gr2</File>
+    <File md5="A9BAC71CF1747C5A6CA61A09E9A93EB0" import="1">Art/BENIIINEN/er_arapaho_horse.dds</File>
+    <File md5="C7DBD83C9B416E792F9A8E9F4049B509" import="1">Art/BENIIINEN/er_arapaho_horse_sref.dds</File>
+    <File md5="E32D3C1580B6A43A5D9FB6E9CD63D650" import="1">Art/BENIIINEN/er_arapaho_rider.dds</File>
+    <File md5="1EBC658F1E5263E0C34AAC4930FDA644" import="1">Art/BENIIINEN/er_arapaho_rider_sref.dds</File>
+    <File md5="3806C275C5B3922A58F9BFBC641E8E44" import="0">Core/ASQ_Arapaho_ArtDefines.sql</File>
+    <File md5="A632011D04E926C487CC91F9F6B811D4" import="0">Core/ASQ_Arapaho_GameText.xml</File>
+    <File md5="0165B7A4C1CB7BB9777095027C674E36" import="0">Core/ASQ_Arapaho_Core.sql</File>
+    <File md5="9D66742408896AFA0D3FC35E707DA54A" import="0">Core/MasterSupportFile.sql</File>
+    <File md5="09D09124F38EE2F406572EFA89E5D28F" import="0">Lua/ASQ_Arapaho_functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ASQ_Arapaho_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Arapaho_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Arapaho_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/MasterSupportFile.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ASQ_Arapaho_functions.lua">
+      <Name>Arapaho Lua Functions</Name>
+      <Description>Queste Nocci</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

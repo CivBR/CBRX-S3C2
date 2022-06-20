@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="42083a20-ce4e-40c8-947e-4f7dc0348675" version="6">
+  <Properties>
+    <Name>Light in the East - The Ainu (Shakushain)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Ainu[ENDCOLOR] People led by Shakushain.</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]The Ainu People led by Shakushain[ENDCOLOR].</Description>
+    <Authors>COF, Regalman, DMS</Authors>
+    <SpecialThanks>_Bane, Guandao</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A9B1C021FD49C2DC81289017AEF7043B" import="1">Art/Diplomacy/LITE_Ainu_Leaderhead.dds</File>
+    <File md5="B1F02D99AF618BD543C246FF14B922DE" import="1">Art/Diplomacy/LITE_Ainu_Leaderhead.xml</File>
+    <File md5="FBBE7F22DC34C6AF9A0DD479CFB311DC" import="1">Art/EventImages/EventImage_IaomanteCelebrations.dds</File>
+    <File md5="DB1E98E2BEC923B615FF3E784946DCD5" import="1">Art/EventImages/EventImage_PoetImekanu.dds</File>
+    <File md5="8225DE8E3C5F19B3AA326AD6939C2135" import="1">Art/Graphics/Composite_Bowman_China_v2.dds</File>
+    <File md5="EB71EE2A1A039076AA1AD330D48F4019" import="1">Art/Graphics/Composite_Bowman_China_v2.fxsxml</File>
+    <File md5="FEC6EDDF94A7C6C7E0C85B79BEBF2312" import="1">Art/Graphics/Composite_Bowman_China_v2.gr2</File>
+    <File md5="173E74084501374898D550F60929FCCE" import="1">Art/Graphics/Composite_Bowman_China_v2_gloss.dds</File>
+    <File md5="4BD80EF78AEA65605B9341BFFE7F5DC9" import="1">Art/Graphics/LITE_sv_Matagi_Ainu.dds</File>
+    <File md5="EA13A29F07DF40AB91806A58E5EB75EE" import="1">Art/Icon Atlas/LITE_Ainu_Alpha_128.dds</File>
+    <File md5="C6A259FA34F0A3221DC925ADCA7F4886" import="1">Art/Icon Atlas/LITE_Ainu_Alpha_16.dds</File>
+    <File md5="2142925B7A8EBDCD771BF9BB575A0E8D" import="1">Art/Icon Atlas/LITE_Ainu_Alpha_24.dds</File>
+    <File md5="185C09CA13129357DF5753971B8E5D3C" import="1">Art/Icon Atlas/LITE_Ainu_Alpha_256.dds</File>
+    <File md5="79F82835C6A373916E0CBFA89C72F4BA" import="1">Art/Icon Atlas/LITE_Ainu_Alpha_32.dds</File>
+    <File md5="92ADF6B427D2F48FC814B5DEBD8FA952" import="1">Art/Icon Atlas/LITE_Ainu_Alpha_45.dds</File>
+    <File md5="2DF06A2B9DAFE6A1FC33384914D47486" import="1">Art/Icon Atlas/LITE_Ainu_Alpha_48.dds</File>
+    <File md5="6BBDA91C929A7E8DFEB0F3C93CC370E6" import="1">Art/Icon Atlas/LITE_Ainu_Alpha_64.dds</File>
+    <File md5="8905F7C1C32948C5D113ED0AB24456F9" import="1">Art/Icon Atlas/LITE_Ainu_Alpha_80.dds</File>
+    <File md5="3D0F3386C6BA51FEBA5170AC3F43AA71" import="1">Art/Icon Atlas/LITE_Ainu_Atlas_128.dds</File>
+    <File md5="584218FCAA7ABE301CCA4F50D8EC7602" import="1">Art/Icon Atlas/LITE_Ainu_Atlas_16.dds</File>
+    <File md5="59CDFB61D841579B63657C3394138F45" import="1">Art/Icon Atlas/LITE_Ainu_Atlas_24.dds</File>
+    <File md5="09C02083E3CE7ED822004B3EC2995B0C" import="1">Art/Icon Atlas/LITE_Ainu_Atlas_256.dds</File>
+    <File md5="CE0B5DF87A49A47F7089AB13A4586EC7" import="1">Art/Icon Atlas/LITE_Ainu_Atlas_32.dds</File>
+    <File md5="AD4198C1BCF68AC6CE6B537E5BD8A539" import="1">Art/Icon Atlas/LITE_Ainu_Atlas_45.dds</File>
+    <File md5="2C7298D06970551B7328546CC0DA580F" import="1">Art/Icon Atlas/LITE_Ainu_Atlas_48.dds</File>
+    <File md5="6E04083E6E6F9259D4A0B848C0B13820" import="1">Art/Icon Atlas/LITE_Ainu_Atlas_64.dds</File>
+    <File md5="AE32437186C9CD21673E114138149756" import="1">Art/Icon Atlas/LITE_Ainu_Atlas_80.dds</File>
+    <File md5="176C43EC3B162E2C949F8980AEF37141" import="1">Art/Icon Atlas/LITE_Bear_Ainu_fonticon.dds</File>
+    <File md5="D6856F541E9FDDC4B4BB374985B02E71" import="1">Art/Icon Atlas/LITE_Bear_Ainu_fonticon.ggxml</File>
+    <File md5="EEF731A6EFE5EA76C37BBC3979FE32BE" import="1">Art/Icon Atlas/LITE_Matagi_Ainu_Flag.dds</File>
+    <File md5="45D72D148DBB54F844D8622477700FA9" import="1">Art/Map/LITE_Ainu_DoM.dds</File>
+    <File md5="6A7CB98F2D1C88F091C6607A89492643" import="1">Art/Map/LITE_Ainu_Map.dds</File>
+    <File md5="08A4FC3CF11EAB688748777850999B2D" import="1">Audio/LITE_Ainu_Peace.mp3</File>
+    <File md5="E8D79B424175C7D9A3FBFB03E3715B40" import="1">Audio/LITE_Ainu_War.mp3</File>
+    <File md5="9F1D9016633082AE4B2546D3C5312862" import="0">Core/LITE_Ainu_ModSupport_Old.sql</File>
+    <File md5="20A8E84EC734D217CCA375FE88869236" import="0">Core/LITE_Ainu_GameDefines.sql</File>
+    <File md5="D85648283CED93556A87D7E611EF6D7C" import="0">Core/LITE_Ainu_ModSupport.sql</File>
+    <File md5="D59F2518D6DC304A9A1B26A165B2B9D5" import="0">Core/LITE_Ainu_ArtDefines.sql</File>
+    <File md5="BAE7945B28F5A351AA8269FC94AA03D8" import="0">Core/LITE_Ainu_GameText.xml</File>
+    <File md5="B181D3BDCE8266678E9C234A0CCCC1F1" import="0">Core/LITE_Ainu_ModSupport_GameText.xml</File>
+    <File md5="6B99893C6BDB5C6E01CB39FC4C16099D" import="0">Lua/LITE_Ainu_Decisions.lua</File>
+    <File md5="53DF2DFD3CD1B28DB1EF39525CDFE82D" import="0">Lua/LITE_Ainu_Events.lua</File>
+    <File md5="51CDA235E8AB09BA9DA2CCD2A50BE1BF" import="1">Lua/LITE_Ainu_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/PlotIterators.lua</File>
+    <File md5="05E008DDDF8F16212D523B84776C2747" import="0">Credits.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/LITE_Ainu_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/LITE_Ainu_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/LITE_Ainu_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/LITE_Ainu_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/LITE_Ainu_ModSupport_GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/LITE_Ainu_Functions.lua">
+      <Name>LITE_Ainu_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

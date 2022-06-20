@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="460dcc36-895f-48dc-85de-1d1fe0998856" version="1">
+  <Properties>
+    <Name>EmeraldRange and Jarcast's Bengal Empire</Name>
+    <Teaser>Adds the Bengal Nawabate into Civ 5</Teaser>
+    <Description>Adds the Bengal Nawabate under Shuja-ud-din Muhammad Khan into Civ 5</Description>
+    <Authors>EmeraldRange and Jarcast</Authors>
+    <SpecialThanks>ExplosiveWatermelon</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="(2) Community Balance Overhaul" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Hazel's Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="BrutalSamurai's Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="Gedemon's R.E.D Pack" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Bingle's Civ IV Traits" />
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Troller0001's Additional Achievements" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Ryoga's Unique Cultural Influence" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C8FFD88DCBA7139681B7FBB5CA5DEE97" import="1">Art/Atlases/BengalAlphaIcon24.dds</File>
+    <File md5="7C5942481984714E7017A80E8DB7A453" import="1">Art/Atlases/BengalAlphaIcon32.dds</File>
+    <File md5="61DA1F38AFC0DB21B97C5610AF096F28" import="1">Art/Atlases/BengalAlphaIcon48.dds</File>
+    <File md5="4060140AB8FD364BC8B56A9F3BBD9FED" import="1">Art/Atlases/BengalAlphaIcon64.dds</File>
+    <File md5="6DEB52590CA99D3FC11A673D62D63D26" import="1">Art/Atlases/BengalIconAtlas128.dds</File>
+    <File md5="FBF1D3882C046B2B47043A687AA7A1CE" import="1">Art/Atlases/BengalIconAtlas24.dds</File>
+    <File md5="453A0549E38DF42B3337C7B17666264F" import="1">Art/Atlases/BengalIconAtlas256.dds</File>
+    <File md5="58393C54DF4B8B3D222D0A1EA623D28E" import="1">Art/Atlases/BengalIconAtlas32.dds</File>
+    <File md5="C00B62D0E0310E5AFBD3B5D9C16329E7" import="1">Art/Atlases/BengalIconAtlas45.dds</File>
+    <File md5="12F315C10803E517ED9C17F4190AC41E" import="1">Art/Atlases/BengalIconAtlas48.dds</File>
+    <File md5="30AEAA6659F0FA471E8C7390C05B7E96" import="1">Art/Atlases/BengalIconAtlas64.dds</File>
+    <File md5="AE4D47DD4DCF8701663AB5E342F83B52" import="1">Art/Atlases/BengalIconAtlas80.dds</File>
+    <File md5="53CEB15AD95B8252F8468A7A12BADC9F" import="1">Art/Bengal_DoM.mp3</File>
+    <File md5="26D49A66644D39868F63BDDAC13B7E63" import="1">Art/Bengal_LS.dds</File>
+    <File md5="790D540F71A0CE2C1A80AF0DDBC63466" import="1">Art/BengalCartography.dds</File>
+    <File md5="0108DD31A1169BA1293AB40C55253AAF" import="1">Art/BengalDoM.dds</File>
+    <File md5="85104300F86E020FD5C01C62DC85BB8A" import="1">Art/Bengal_peace.mp3</File>
+    <File md5="2AB8A9A5FA3996FD8EEC0F30CDB655F0" import="1">Art/Bengal_war.mp3</File>
+    <File md5="432CBDDDD9152FE526D4E77BAB85C018" import="1">Art/Shuja_scene.xml</File>
+    <File md5="5C30FC6EA0791DE5E7B4EAFA597C0DD9" import="1">Art/UU Art/erjar_paik.dds</File>
+    <File md5="C7B5346BE5C0F4D1A5A7C4E438892D92" import="1">Art/UU Art/erjar_paik.fxsxml</File>
+    <File md5="48706B5B66D7AA09A3257BBB4DBABE24" import="1">Art/UU Art/erjar_paik.gr2</File>
+    <File md5="9015E89C524211E1C5C8622B291179EC" import="1">Art/UU Art/erjar_paik_sref.dds</File>
+    <File md5="A085109489186E8139BD84967031AFD7" import="1">Art/UU Art/SV_er_paik.dds</File>
+    <File md5="BF1CDC031FBF98FFCB9569D5B2554EDB" import="1">Art/UU Art/unitflag_er_paik.dds</File>
+    <File md5="6B8B2F0A47209C0BF5B3A978C6A4C4DA" import="0">Core/ArtDefines.sql</File>
+    <File md5="1BAD5F4F5E1895AF36645D2228B4EDE3" import="0">Core/ERJar_Bengal_GameDefines.sql</File>
+    <File md5="3ACC857B6E7307375477929DFFDA7069" import="0">Core/ERJar_Bengal_GameText.xml</File>
+    <File md5="225774CEEEB7A31723F4C5C0B7391FAB" import="0">Core/ERJar_Bengal_ModSupport.sql</File>
+    <File md5="6229E5857513129E0210B903E78E4E95" import="0">Lua/ERJar_Bengal_Functions.lua</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/Utilities/AdditionalAchievementsUtility.lua</File>
+    <File md5="A7084347613410218D7612D93B5A950C" import="1">Lua/Utilities/RiverConnections.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ERJar_Bengal_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ERJar_Bengal_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ERJar_Bengal_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ERJar_Bengal_Functions.lua">
+      <Name>Bengal_Func</Name>
+      <Description>Bengal Lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

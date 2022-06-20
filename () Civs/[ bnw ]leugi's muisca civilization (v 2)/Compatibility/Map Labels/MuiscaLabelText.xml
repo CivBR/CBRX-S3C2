@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/24/2014 9:10:19 PM -->
+<GameData>
+	<Language_en_US>
+		<Replace Tag="TXT_KEY_ML_CULTURE_MUISCA">
+			<Text>Cundinamarca</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_ML_CULTURE_MUISCA_SUGGESTEDCIVS">
+			<Text>Muisca, Chibcha, Tayrona, Early Colombian</Text>
+		</Replace>
+		
+		
+		<Replace Tag="TXT_KEY_NAME_ML_FUNZA">
+			<Text>Funza</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_TENJO">
+			<Text>Tenjo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SUBACHOQUE">
+			<Text>Subachoque</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_FACATATIVA">
+			<Text>Facatativá</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_TABIO">
+			<Text>Tabio</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_COTA">
+			<Text>Cota</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CHIA">
+			<Text>Chía</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CAJICA">
+			<Text>Cajicá</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_ZIPAQUIRA">
+			<Text>Zipaquirá</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_NEMOCON">
+			<Text>Nemocón</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_ENGATIVA">
+			<Text>Engativá</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_BOS">
+			<Text>Bos</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SOACHA">
+			<Text>Soacha</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_ZIPACON">
+			<Text>Zipacón</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SESQUILE">
+			<Text>Sesquilé</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_GUASCA">
+			<Text>Guasca</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SOPO">
+			<Text>Sopó</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_USAQUEN">
+			<Text>Usaquén</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CHOACHI">
+			<Text>Choachí</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CHIPAQUE">
+			<Text>Chipaque</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_USME">
+			<Text>Usme</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_GUACHETA">
+			<Text>Guachetá</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_RAMIRIQUI">
+			<Text>Ramiriquí</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_MONIQUIRA">
+			<Text>Moniquirá</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_COCUY">
+			<Text>Cocuy</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SUMAPAZ">
+			<Text>Sumapaz</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CHINGAZA">
+			<Text>Chingaza</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_PISBA">
+			<Text>Pisba Mountain</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CHOACHI">
+			<Text>Choachi Mountain</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CRUZ_VERDE">
+			<Text>Cruz Verde Mountain</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_MACIZO_COLOMBIANO">
+			<Text>Macizo Colombiano</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CERRO_DE_MONSERRT">
+			<Text>Cerro de Monserrat</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_PERIJA">
+			<Text>Perija Mountain</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_YARIGUIES">
+			<Text>Yariguies Mountain</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SAN_LUIS">
+			<Text>San Luis Mountain</Text>
+		</Replace>
+
+
+		<Replace Tag="TXT_KEY_NAME_ML_GUATAVITA">
+			<Text>Guatavita Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_TOTA">
+			<Text>Tota Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CHIVOR">
+			<Text>Chivor Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_FUQUENE">
+			<Text>Fúquene Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SISGA">
+			<Text>Sisga Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_TOMINE">
+			<Text>Tominé Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_GUAVIO">
+			<Text>Guavio Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_MUNA">
+			<Text>Muña Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_IGUAQUE">
+			<Text>Iguaque Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SOCHAGOTA">
+			<Text>Sochagota Lake</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CHICAMOCHA_TUNJA_RIVER">
+			<Text>Chicamocha Tunja River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_BACATA_RIVER">
+			<Text>Bacatá River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SUMAPAZ_RIVER">
+			<Text>Sumapaz River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_GUATIQUIA_RIVER">
+			<Text>Guatiquía River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_ARAUCA_RIVER">
+			<Text>Arauca River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CATTUMBO_RIVER">
+			<Text>Cattumbo River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_TACHIRA_RIVER">
+			<Text>Táchira River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CAGUAN_RIVER">
+			<Text>Caguán River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_TUNJUELO_RIVER">
+			<Text>Tunjuelo River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SOGAMOSO_RIVER">
+			<Text>Sogamoso River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SARAVITA_RIVER">
+			<Text>Saravita River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_OIRA_RIVER">
+			<Text>Oirá River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SUAZA_RIVER">
+			<Text>Suaza River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_IKUBOKY_RIVER">
+			<Text>Ikuboky River</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_NAPO_MOIST_FOREST">
+			<Text>Napo Moist Forest</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_JAPURA_MOIST_FOREST">
+			<Text>Japura Moist Forest</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_VARZEA_FOREST">
+			<Text>Varzea Forest</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CHOCO_MOIST_FOREST">
+			<Text>Chocó Moist Forest</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_DARIEN_MOIST_FOREST">
+			<Text>Darién Moist Forest</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CAUCA_VALLEY_FOREST">
+			<Text>Cauca Valley Forest</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_URABA_FOREST">
+			<Text>Urabá Forest</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_CATATUMBO_FOREST">
+			<Text>Catatumbo Forest</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NAME_ML_SINU_VALLEY_DRY_FOREST">
+			<Text>Sinú Valley Dry Forest</Text>
+		</Replace>
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,441 @@
+<GameData>
+	<Language_en_US>
+	<!-- Civilization -->
+		<Row Tag="TXT_KEY_CIV5_JWW_TIMOR-LESTE_TITLE">
+			<Text>Timor-Leste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_TIMOR-LESTE_DESC">
+			<Text>Democratic Republic of Timor-Leste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_TIMOR-LESTE_SHORT_DESC">
+			<Text>Timor-Leste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_TIMOR-LESTE_ADJECTIVE">
+			<Text>East Timorese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JWW_TIMOR-LESTE_TEXT">
+			<Text>Oh, vigilant Xanana Gusmão. Along with the people who fought along side you, you were able to drive out the evil Indonesian threat from your homeland. You brought peace to the island of Timor, and your people use your name in joy! You were able to get help from the United Nations, who called for peacekeepers to your country to end this terrible war. You were able to rally other countries together, whose people were willing to help your cause. In the end, you met massacres from the Indonesian occupation with everlasting peace to your country.[NEWLINE][NEWLINE]Gusmão, your people need you as a leader once again, to bring peace to the terrible realities of this world. Can you stand strong among your people and keep the peace in your nation? Can you defend your nation at all costs until your last breath? Can you negotiate for the sake of your people and the world as we know it? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+	<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_JWW_BALIBOHONG_DELARATION">
+			<Text>Religious Units give a major [ICON_STRENGTH] combat bonus to adjacent units. For each land combat unit built in a city, you receive [ICON_PEACE] Faith depending on what era you’re in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JWW_BALIBOHONG_DELARATION_SHORT">
+			<Text>Balibohong Declaration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TL_UA">
+			<Text>Timor-Leste Balibohong Declaration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TL_UA_HELP">
+			<Text>50% Combat Bonus due to the religious unit nearby.</Text>
+		</Row>
+	<!-- Leader -->
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO">
+			<Text>Xanana Gusmão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_LIVED">
+			<Text>1944-Present</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_NAME">
+			<Text>Kay Rala Xanana Gusmão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_SUBTITLE">
+			<Text>1st President of Timor-Leste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_TITLES_1">
+			<Text>Grand Cross of the Order of Liberty, Portugal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_TITLES_2">
+			<Text>Honorary Knight Grand Cross of the Most Distinguished Order of Saint Michael and Saint George, United Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_TITLES_3">
+			<Text>Grand Collar of the Order of Prince Henry, Portugal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_TITLES_4">
+			<Text>Recipient of the Sydeny Peace Prize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_TITLES_5">
+			<Text>Honorary Companion of the New Zealand Order of Merit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_TITLES_6">
+			<Text>Recipient of the Sakharov Prize for Freedom of Thought</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_TITLES_7">
+			<Text>Recipient of the North-South Prize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_TITLES_8">
+			<Text>Recipient of the Gwangju Prize for Human Rights</Text>
+		</Row>
+	<!-- Building -->
+		<Row Tag="TXT_KEY_BUILDING_JWW_IGREJA_TIMORENSE">
+			<Text>Igreja Costeira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_IGREJA_TIMORENSE_STRATEGY">
+			<Text>The Igreja Costeira is the Timor-Leste unique building, which replaces the Constabulary. It gives Extra [ICON_CULTURE] Culture for each civ in which you have a common enemy, and if your [ICON_RELIGION] majority religion or religion that you created controls the majority of this city, then units are trained with more [ICON_STRENGTH] combat experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_IGREJA_TIMORENSE_HELP">
+			<Text>Only Timor-Leste can build this. On top of what the normal Constabulary does, for each civ in which you have a common enemy, you will get an extra +5 [ICON_CULTURE] Culture and [ICON_PEACE] Faith per turn. If your empire's majority [ICON_RELIGION] religion controls at least 75% of [ICON_CITIZEN] citizens in this city, then each unit trained get an extra +15 [ICON_STRENGTH] experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_TL_UB_DUMMY">
+			<Text>TL UB Dummy</Text>
+		</Row>
+	<!-- Unit -->
+		<Row Tag="TXT_KEY_UNIT_JWW_FORCAS_DA_FALINTIL">
+			<Text>FALINTIL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_FORCAS_DA_FALINTIL_STRATEGY">
+			<Text>FALINTIL is the Timor-Leste unique unit. It replaces the Marine, and gains a combat bonus when at war with a civilization with a different majority [ICON_RELIGION] religion or ideology. Upon death it will give the enemy empire +2% temporary [ICON_HAPPINESS_4] unhappiness (Max +20%).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_FORCAS_DA_FALINTIL">
+			<Text>Only Timor-Leste may build this unit. It replaces the Marine, and gains a combat bonus when at war with a civilization with a different majority [ICON_RELIGION] religion or ideology. Upon death it will give the enemy empire +2% temporary [ICON_HAPPINESS_4] unhappiness (Max +20%).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_TL_UU_TURN_DUMMY">
+			<Text>TL UU 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_TL_UU_SAD_DUMMY">
+			<Text>TL UU 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TL_UU">
+			<Text>FALINTIL Promotion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_TL_UU_HELP">
+			<Text>Due to being at war with a civ with a different religion or ideology, this unit is granted a combat bonus of 50%.</Text>
+		</Row>
+	<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV5_JWW_TIMOR-LESTE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_TIMOR-LESTE_TEXT_1">
+			<Text>The history of Timor-Leste really starts in 1973, during the 1973 Portuguese rebellion. This is when Portugal lost control of Portuguese Timor, its colony on Timor. In 1975, political parties fought against each other for power immediately. The three main political parities were The Timorese Democratic Union (UDT), The Revolutionary Front for an Independent East Timor (FRETILIN), and the Timorese Popular Democratic Association (APODETI), which didn't last long, as it supported integration with Indonesia (and we know how that went). The UDT attempted a coup on FRETILIN which had control of Timor-Leste at the time, but this coup ultimately failed. FRETILIN then declared (uinlateral) independence from Portugal, on 28 November 1975. Francisco Xavier do Amaral became the president, and Nicolau dos Reis Lobato became the Prime Minister. However, In 7 December 1975, Indonesia launched a full-scale invasion of Timor-Leste, and was backed by Australia, the UK, and the US (Mainly because they feared East Timor would become a communist nation). By the end of the year, 10,000 indonesian troops controlled Díli, and FALINTIL (The FRETILIN Armed Forces) troops had to retreat to the mountains of Timor to do guerrilla campaigns. The Indonesian troops in Díli massacred civilians. The massacres continued as well as the FALINTIL guerrilla forces. The East Timorese Catholic Church estimated between 60,000 and 100,000 dead. Indonesia justified their actions by claiming APODETI was the true political party, and that the Dutch and Portuguese messed up the island of Timor by dividing it, so they were merely fixing it. From 1975 onwards, the United Nations have told Indonesia to withdraw from Indonesia, but nothing was done. In 1976, FALINTIL was able to come to a stalemate with the Indonesian army, but they had devastating losses along the way. But, the tides turned back in Indonesian favor in 1977. Indonesia ordered missle-firing patrol-boats, submarines, and OV-10 aircraft from the US, Netherlands, South Korea, Taiwan, and West Germany. This weaponry dealt a massive blow to FALINTIL. The bombarbment of Timor led ro starvation and the surrender of many East Timorese, whom were mostly executed. The Indonesian army also barred support organizations such as the Red Cross from providing aid to the East Timorese. It is estimated that 84,200 to 183,000 East Timorese died to starvation alone. Women were also reportedly raped and faced sexual slavery and abuse, forced sterilization and marriage, torture, and execution. In 1981-1982, the Indonesian military launched "Operasi Keamanan" which used 50,000 to 80,000 East Timorese men as human shields against FALINTIL. This failed, and it caused more East Timorese to be in resistance to the occupation and the Australian government began to see the immediate threat. In March 1983, Xanana Gusmão (Commander of FALINTIL) met with Colonel Purwanto in order to achieve peace, and they agreed to a ceasefire. However, with "Operation Clean-Sweep", in August 1983, Indonesian forces broke the ceasefire and more massacres and executions broke loose. José Ramos-Horta pushed for people to stand strong and opened up diplomatic talks with other nations. The international pressure of the resistance caused Indonesia to try to imrpove infrastructure in East Timor and limit massacres and other war crimes. This lead to a decline in the fear of persecution and therefore more people joined the resistance. On 12 November 1991, a memorial mass was held by pro-independence demonstrators. In what came to be known as the Santa Cruz Massacre, around 200 Indonesian soldiers opened fire on these protesters. This lead to countries such as the United States to stop backing Indonesia. On 20 November 1992, Xanana Gusmão was arrested for rebelling. In 1996, José Ramos-Horta and  Carlos Filipe Ximenes Belo were awarded the Nobel Peace Prize for their efforts to end the conflict, and it also opened more international support for Timor-Leste. After wide-spread international support, the United Nations attempted to make peace with negociations between Portugal and Indonesia, which started in 1997. The 1997 Asian Fincancial Crisis and President Suharto's (The Indonesian president that was responsable for the attacks on Timor-Leste) resignation in 1998 were factors that loosened Indonesian control over Timor-Leste as well. The new Indonesian President, B. J. Habibie, attempted to make Timor-Leste an autonomous republic within Indonesia starting from June 1998. However, many other countries, such as Australia, began advocating for a referendum to be held in Timor-Leste. And finally, on 5 May 1999, Portugal and Indonesia announced that they would allow the people of Timor-Leste to choose between autonomy within Indonesia or independence. On 30 August 1999, the voting was held, and the UN announced that 78.5% of voters wanted independence. There was numerous reported violence from the Indonesian military following the vote, with reports of massacres and refugees. Following these events, there was widespread public outcry, mainly in Australia. An Australian Peace-Keeping force was sent to Timor-Leste, and on 12 September 1999, Indonesian President Habibie finally said that he is withdrawing the Indonesian military from Timor-Leste. The United Nations Transitional Administration in East Timor (UNTAET) had control of Timor-Leste until 20 May 2002, when it was deemed safe to give the Government of East Timor control, and Timor-Leste achieved independence. Xanana Gusmão (released from prison in 1999) became the first president of Timor-Leste on the same day, and Timor-Leste became a member of the UN on 27 September 2002. On April 2006, Timor-Leste faced riots by dismissed Timorese soldiers over distribution of oil funds and the poor organization of the army and police. Prime Minister Mari Alkatiri declared this as a coup, and troops from Australia, Portugal, Malaysia, and New Zealand had to come to the country to help subdue the unrest. Following the violence, on 21 June 2006, President Gusmão asked Alkatiri to step down as Prime Minister, for lying about the distribution of firearms to civilians for personal gain and ordering a hit squad to kill his political opponents. After Gusmão threatened to step down if Alkatiri didn't step down, Alkatiri finally agreed to step down. In April 2007, Gusmão declined another presidental term, and José Ramos-Horta was inaugurated as President, with Gusmão becoming the Prime Minister. President Ramos-Horta was nearly assassinated on 11 February 2008, and had to seek medical help in Australia. This was a failed coup led by Alfredo Reinado. Ramos-Horta was later succeeded by Taur Matan Ruak in 2012 and then Fransisco Guterres in 2017.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_TIMOR-LESTE_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_TIMOR-LESTE_FACTOID_TEXT">
+			<Text>
+				[ICON_BULLET]Timor-Leste is the world's 4th youngest recognized country, behind Kosovo, South Sudan, and Montenegro.
+				[NEWLINE][ICON_BULLET]It is one of only two nations to be Christianity-dominant in Asia. (The other country is the Phillipines.)
+				[NEWLINE][ICON_BULLET]Oil is Timor-Leste's biggest export by far.
+				[NEWLINE][ICON_BULLET]The Indonesian Occupation of East Timor is considered to be one of the deadliest genocides in history.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_FORCAS_DA_FALINTIL_TEXT">
+			<Text>The Forças Armadas da Libertação Nacional de Timor-Leste are the military wing of the FRETILIN Political Party, and are more commonly called FALINTIL. It was founded in 1975, and it intially contained 20,000 soldiers. FALINTIL became the main force of the resistance struggle against the Indonesian army, fighting mostly with guerrilla war. The first commander of FALINTIL was Nicolau Lobato, who was killed in battle in 1978 while fighting Indonesia. Xanana Gusmão became his replacement in 1981. After Gusmão's arrest, the commander became Taur Matan Ruak. As Timor-Leste moved toward peace, FALINTIL kept fighting with guerrilla force. FALINTIL eventually dissolved and was replaced by the Força de Defesa de Timor Leste (F-FDTL) in 2001. The F-FDTL are the East Timorese Armed Forces that now defend the country today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_JWW_IGREJA_TIMORENSE_TEXT">
+			<Text>The Igreja Costeira refers to the East Timor Catholic Church, which is very crucial to East Timorese daily life, as around 89% of the country is part of the the church today. In the 1500s, when Portuguese and Dutch traders made contact with East Timor, they brought Catholicism to the island of Timor. But it wasn't until the Indonesian occupation where there was mass conversions to Catholicism. Classic East Timorese animism didn't mix well with Indonesian monotheistism, so tons of East Timorese converted to Christianity. 20% were Catholic in 1975, and 95% were Catholic in 1985. Bishop Carlos Ximenes Belo was an important figure who advocated for human rights during the occupation, and he was the head of the church in East Timor. He even won the Nobel Peace Prize along with José Ramos-Horta. Pope John Paul's visit to East Timor in 1989 also spread the word about the astrocities occuring within the territory. Even though the Vatican was nuetral on the issue, he called for both sides to stop violence and "love and pray for their enemies." The Church today is still very much involved with politics in the country, and the number of churches in the country has increased from 100 to over 800 in just 20 years (1974-1994).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_XANANA_GUSMAO_TEXT_1">
+			<Text>Kay Rala Xanana Gusmão (born José Alexandre Gusmão) was born on 20 June 1944, in Manatuto, Portuguese Timor. After dropping out of high school, he worked various jobs before he got a job in public service in 1966. He then went on to join the Portuguese Armu in 1968, where he became a Corporal. After marrying Kristy Sword, he joined an organisation headed by José Ramos-Horta, where he became involved in protests against the colonial system. Following the 1974 Portuguese Coup, Gusmão became involved with The Revolutionary Front for an Independent East Timor (FRETILIN), and because of that he was arrested in 1975. He was released when FRETILIN regained control over the country later that year, and he was there when FRETILIN declared independence from Portugal. During the Indonesian invasion of East Timor nine days later, he was able to stay safe because he wasn't at Díli at the time. During the occupation, Gusmão became heavily involved with the resistance movement. He recuited many recruits and support, adn eventually became an officer of FALINTIL. But after a failed coup attempt against Gusmão in 1984, Gusmão left FRETILIN, and became a crucial player in the resistance movement by his diplomacy and making the situation in Timor-Leste widespread across the media. He became a big target for the Indonesian government, and because of this he was captured in 1992, and sentenced to life in prison for rebellion, but in 1993 it was shortened to 20 years. He wasn't released until 1999, which was after the referendum that was held, which decided that Timor-Leste would gain independence. Gusmão was appointed a role in UN administration in Timor-Leste until 2002, when Timor-Leste offically gained independence. He ran as an independent in the 2001 election, and became the Democratic Republic of Timor-Leste's first president. From then outwards he worked on rebuilding Timor-Leste. In 2006, he called for his Prime Minister, Mari Alkatiri to resign due to allegations that Alkatiri ordered a hit squad to kill Gusmão's opponents. In 2007, he declined to run for another presidental term, and became the Prime Minister with José Ramos-Horta as the new President. In 2008, Ramos-Horta and Gusmão were attempted to be assassinated, which failed. Gusmão was unhurt, but Ramos-Horta suffered a shot in the stomach, which was recovered. Xanana Gusmão is still alive today.</Text>
+		</Row>
+	<!-- Diplomacy Responses -->
+		<!-- First Greeting -->
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_FIRSTGREETING_1">
+			<Text>Greetings, friend. This is the free land of Timor-Leste. Please, stay was long as you'd like. I hope that we can stay on good terms and not occupy each other's lands!</Text>
+		</Row>
+
+		<!-- Defeated -->
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_DEFEATED_1">
+			<Text>So you've come to take my lands and my people? Very well, but I'm sure this won't stop the East Timorese from fighting even harder to ensure that we aren't cast aside and left for dead.</Text>
+		</Row>
+
+		<!-- Diplomacy: Wars, Denunciations, and DoF -->
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_ATTACKED_GENERIC_1">
+			<Text>You wish to attack the lands we worked so hard to make our own? Very well, but don't expect a cakewalk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_DEC_FRIENDSHIP_1">
+			<Text>Your support would be immensely helpful in these coming times, what do you say?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_DENOUNCE_1">
+			<Text>Your blatant lies and disrespect won't fall upon blind eyes. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_DOW_GENERIC_1">
+			<Text>Your lies and oppresion need to come to an end, and we're ready to fight against it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_EXPANSION_SERIOUS_WARNING_1">
+			<Text>If there's one thing the East Timorese would die to protect, its our land and freedom. And you appear to be intruding on our freedom with the lands you claim are yours.</Text>
+		</Row>
+
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_GREETING_AT_WAR_HOSTILE_1">
+			<Text>After so much suffering, after enduring so much sacrifice, the people of East Timor will bow to no one but our own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_GREETING_POLITE_HELLO_1">
+			<Text>Ah, it's you again. What do you propose this time, friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hello, what brings you to East Timor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_GREETING_HOSTILE_HELLO_1">
+			<Text>Freedom and mutual respect go hand-in-hand. However, we seem to be lacking the mutual respect.</Text>
+		</Row>
+
+		<!-- Misc -->
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Send your military elsewhere, otherwise it may be hard to avoid bloodshed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_LETS_HEAR_IT_1">
+			<Text>So, you anything worthwhile to provide in return for our resources?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_LOSEWAR_1">
+			<Text>The people of East Timor are no stranger to suffering and sacrifice. This mere defeat will barely set us back, if at all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_LUXURY_TRADE_1">
+			<Text>A trade of goods would really benefit us. What about you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_NO_PEACE_1">
+			<Text>It is in our special interest to push even harder to achieve our goals. We cannot stop now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_OPEN_BORDERS_EXCHANGE">
+			<Text>Opportunties to venture to other lands would be to both our benefits, yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_REPEAT_NO_1">
+			<Text>We cannot afford to accept. Stop asking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_RESPONSE_REQUEST_1">
+			<Text>Sometimes the world can be a bitter place, but we must remain optimistic. Can you justify my optimism?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Your words mean nothing to me. After all we've been through we will never let go of our sovereignty. Even if other nations frown upon us, that will never change.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_TOO_SOON_NO_PEACE_1">
+			<Text>With the resources we've already put into this war, it is too early to stop now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_WINWAR_1">
+			<Text>Despite our suffering and prejudice, the people East Timor were able to persevere as victors.</Text>
+		</Row>
+	<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_0">
+			<Text>Díli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_1">
+			<Text>Ainaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_2">
+			<Text>Baucau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_3">
+			<Text>Maliana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_4">
+			<Text>Pante Macassar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_5">
+			<Text>Lospalos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_6">
+			<Text>Suai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_7">
+			<Text>Gleno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_8">
+			<Text>Same</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_9">
+			<Text>Viqueque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_10">
+			<Text>Ataúro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_11">
+			<Text>Liquiçá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_12">
+			<Text>Manatutu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_13">
+			<Text>Aileu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_14">
+			<Text>Dom Aleixo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_15">
+			<Text>Cristo Rei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_16">
+			<Text>Hatulia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_17">
+			<Text>Vera Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_18">
+			<Text>Letefoho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_19">
+			<Text>Bobonaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_20">
+			<Text>Uato-Lari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_21">
+			<Text>Laga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_22">
+			<Text>Atabae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_23">
+			<Text>Laclubar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_24">
+			<Text>Hatu-Builico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_25">
+			<Text>Fatululic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_26">
+			<Text>Railaco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_27">
+			<Text>Vemasse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_28">
+			<Text>Cailaco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_29">
+			<Text>Remexio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_30">
+			<Text>Laclo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_31">
+			<Text>Laulara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_32">
+			<Text>Illiomar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_33">
+			<Text>Tilomar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_34">
+			<Text>Passabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_35">
+			<Text>Lacluta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_36">
+			<Text>Luro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_37">
+			<Text>Alas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_38">
+			<Text>Lequidoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_39">
+			<Text>Laleia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_40">
+			<Text>Fohorem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_41">
+			<Text>Ermera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_42">
+			<Text>Ossu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_43">
+			<Text>Tutuala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_44">
+			<Text>Metinaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_45">
+			<Text>Soibada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_46">
+			<Text>Lautém</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_47">
+			<Text>Fatuberlio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_48">
+			<Text>Nain Feto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_49">
+			<Text>Baguia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_50">
+			<Text>Quelicai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_51">
+			<Text>Fatumean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_52">
+			<Text>Maubara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_53">
+			<Text>Uato Carabau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_54">
+			<Text>Nitibe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_55">
+			<Text>Hato-Udo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_56">
+			<Text>Turiscai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_57">
+			<Text>Maubisse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_58">
+			<Text>Balibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_59">
+			<Text>Bazartete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_60">
+			<Text>Barique-Natarbora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_61">
+			<Text>Maucatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_62">
+			<Text>Manatuto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_63">
+			<Text>Venilale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_64">
+			<Text>Lolotoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_TIMOR-LESTE_65">
+			<Text>Oesilo</Text>
+		</Row>
+	<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_0">
+			<Text>Adérito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_1">
+			<Text>Ma'Huno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_2">
+			<Text>Nino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_3">
+			<Text>Taur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_4">
+			<Text>Francisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_5">
+			<Text>Arsénio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_6">
+			<Text>Arão Noé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_7">
+			<Text>Fernando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_8">
+			<Text>José</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_TIMOR-LESTE_9">
+			<Text>Vicente</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
