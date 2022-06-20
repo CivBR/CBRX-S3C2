@@ -65,10 +65,11 @@ cbrxTSLs["CIVILIZATION_JFD_GREAT_MING_YONGLE"] = {X = 88, Y = 60, S = "F", O = "
 
 cbrxTSLs["CIVILIZATION_"] = {X = 80, Y = 64, S = "F", O = "F"}
 
-local observerTechs = {1, 2, 4, 6, 7, 10}
+--local observerTechs = {GameInfoTypes["TECH_POTTERY"].ID, GameInfoTypes["TECH_ANIMAL_HUSBANDRY"].ID, GameInfoTypes["TECH_MINING"].ID, GameInfoTypes["TECH_CALENDAR"].ID, GameInfoTypes["TECH_MASONRY"].ID, GameInfoTypes["TECH_COMPASS"].ID}
+-- Pottery, Animal Husbandry, Mining, Calendar, Masonry, Compass
+local observerTechs = {1, 2, 4, 6, 10, 25}
 local sailing = GameInfoTypes["TECH_SAILING"]
 local optics = GameInfoTypes["TECH_OPTICS"]
-local bronze = GameInfoTypes["TECH_BRONZE_WORKING"]
 
 function addSailing(iPlayer)
 	if Game.GetGameTurn() > 2 then return end
@@ -89,71 +90,65 @@ function addSailing(iPlayer)
 	if cbrxTSLs[sCivilizationType].S == "T" then
 		pTeam:SetHasTech(sailing, true)
 		pTeam:SetHasTech(optics, true)
-		pTeam:SetHasTech(bronze, true)
+		player:InitUnit(81, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
+		player:InitUnit(81, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 	end
 end
 GameEvents.PlayerDoTurn.Add(addSailing)
 
 function setTSLs()
 	if Game.GetGameTurn() > 2 then return end
-	for iPlayer = 0, GameDefines.MAX_PLAYERS - 1, 1 do
+	for iPlayer = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
 		local player = Players[iPlayer]
-		if player and (not player:IsBarbarian()) and player:IsAlive() then
-			local sCivilizationType = nil
-			if player:IsMinorCiv() then
-				sCivilizationType = GameInfo.MinorCivilizations[player:GetMinorCivType()].Type
-			else
-				sCivilizationType = GameInfo.Civilizations[player:GetCivilizationType()].Type
+		if not player then return end
+		local sCivilizationType = GameInfo.Civilizations[player:GetCivilizationType()].Type
+		local pTeam = Teams[player:GetTeam()]
+		local currentTeamID = pTeam:GetID()
+
+		if iPlayer == 0 then
+			for index, val in ipairs(observerTechs) do
+				pTeam:SetHasTech(val, true)
+			end
+		end
+
+		for i = 0, Map.GetNumPlots() - 1, 1 do
+			local plot = Map.GetPlotByIndex(i)
+			local oldVisibility = plot:GetVisibilityCount(currentTeamID)
+
+			if oldVisibility > 0 then
+				plot:ChangeVisibilityCount(currentTeamID, -1, -1, true, true)
+				plot:SetRevealed(currentTeamID, false)
+				plot:UpdateFog()
+			end
+		end
+		Game.UpdateFOW(true)
+		UI.RequestMinimapBroadcast()
+
+		if cbrxTSLs[sCivilizationType] then
+			print(sCivilizationType)
+			for v in player:Units() do
+				v:SetXY(cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 			end
 
-			local pTeam = Teams[player:GetTeam()]
-			local currentTeamID = pTeam:GetID()
+			player:InitUnit(1, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
+			player:InitUnit(81, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 
-			if iPlayer == 0 then
-				for index, val in ipairs(observerTechs) do
-					pTeam:SetHasTech(val, true)
-				end
-			end
+			if cbrxTSLs[sCivilizationType].O == "T" then
+				local worker = false
 
-			for i = 0, Map.GetNumPlots() - 1, 1 do
-				local plot = Map.GetPlotByIndex(i)
-				local oldVisibility = plot:GetVisibilityCount(currentTeamID)
-
-				if oldVisibility > 0 then
-					plot:ChangeVisibilityCount(currentTeamID, -1, -1, true, true)
-					plot:SetRevealed(currentTeamID, false)
-					plot:UpdateFog()
-				end
-			end
-			Game.UpdateFOW(true)
-			UI.RequestMinimapBroadcast()
-
-			if cbrxTSLs[sCivilizationType] then
-				print(sCivilizationType)
-				for v in player:Units() do
-					v:SetXY(cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
-				end
-
-				player:InitUnit(1, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
-
-				if cbrxTSLs[sCivilizationType].O == "T" then
-					local worker = false
-
-					for u in player:Units() do
-						if u:GetUnitType() == 83 then
-							local newTrireme = player:InitUnit(22, u:GetX(), u:GetY())
-							newTrireme:JumpToNearestValidPlot()
-							u:Kill()
-						elseif u:GetUnitType() == 1 and (cbrxTSLs[sCivilizationType].S == "T" or worker == false) then
-							local newWorkBoat = player:InitUnit(2, u:GetX(), u:GetY())
-							newWorkBoat:JumpToNearestValidPlot()
-							u:Kill()
-							worker = true
-						end
+				for u in player:Units() do
+					if u:GetUnitType() == 83 then
+						local newTrireme = player:InitUnit(22, u:GetX(), u:GetY())
+						newTrireme:JumpToNearestValidPlot()
+						u:Kill()
+					elseif u:GetUnitType() == 1 and (cbrxTSLs[sCivilizationType].S == "T" or worker == false) then
+						local newWorkBoat = player:InitUnit(2, u:GetX(), u:GetY())
+						newWorkBoat:JumpToNearestValidPlot()
+						u:Kill()
+						worker = true
 					end
 				end
 			end
-
 		end
 	end
 end
