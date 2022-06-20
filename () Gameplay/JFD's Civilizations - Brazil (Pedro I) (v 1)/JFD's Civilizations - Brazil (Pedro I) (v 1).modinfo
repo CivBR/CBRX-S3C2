@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="440e6736-bde6-4634-8c8d-f86b385bc197" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Brazil (Pedro I)</Name>
+    <Teaser>Adds [COLOR_CYAN]Brazil under Pedro I[ENDCOLOR]. Click for details.</Teaser>
+    <Description>BRAZIL (PEDRO I)[NEWLINE][NEWLINE]UNIQUE TRAIT: INDEPENDENCE, OR DEATH[NEWLINE][ICON_BULLET]Receive [ICON_GREAT_PEOPLE] Great General Points based upon [ICON_HAPPINESS_1] Excess Happiness whenever a war breaks out. Enemy units beginning their turn adjacent to a Great General begin with only half their normal [ICON_MOVES] Movement.[NEWLINE][NEWLINE]UNIQUE UNIT: CANHONEIRA (IRONCLAD)[NEWLINE][ICON_BULLET]The unique Ironclad replacement for Brazil, the Canhoneira fights best when bombarding Land Units and Cities, but less effectively when attacking other Naval Units. Unlike the Ironclad, the Canhoneira is a Ranged Unit, meaning it is able to attack at a distance. Deploy Canhoneira carefully to take advantage of their siege capabilities, but keep them out of open conflict with enemy navies.[NEWLINE][NEWLINE]UNIQUE UNIT: INDEPENDENCE DRAGOON (CAVALRY)[NEWLINE][ICON_BULLET]The Independence Dragoon is the unique Cavalry replacement for Brazil. This unit fights 15% more effectively when stacked with a Great General. In addition, an Independence Dragoon is spawned alongside any Great General that you earn. Keeping your Independence Dragoons with your Great Generals will make them a formidable force to contend with.</Description>
+    <Authors>JFD, DarthStarKiller</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="c3b6e30c-3548-4fbc-9d7f-cf3025be8261" minversion="0" maxversion="999" title="JFD's Gameplay - Nationalism" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="8F0F671909F20AF708594CC842BDB55A" import="1">Art/Diplomacy/JFD_BrazilPedroI_Diplo.dds</File>
+    <File md5="8283221BCFD4C2D6FDD4CA5C92C16655" import="1">Art/Diplomacy/JFD_BrazilPedroI_Scene.xml</File>
+    <File md5="60A079450965A6A8A4DF99F110BED771" import="1">Art/Graphics/Canhoneira/Canhoneira.fxsxml</File>
+    <File md5="5798A6D39EEA2BB6D3DC449EAED02DEE" import="1">Art/Graphics/Canhoneira/Canhoneira.gr2</File>
+    <File md5="15406772C6B94B6BDB6880406C78FD1E" import="1">Art/Graphics/Canhoneira/Canhoneira_diff.dds</File>
+    <File md5="F194EF0E05696E922BCF54C3D47F1C94" import="1">Art/Graphics/Canhoneira/Canhoneira_dmg_diff.dds</File>
+    <File md5="6E79240DD7A9BE6AB018F48ED65456FB" import="1">Art/Graphics/Canhoneira/Canhoneira_sref.dds</File>
+    <File md5="B2D16B8BCA1F2C33DB5F64A01FDF72C1" import="1">Art/Graphics/Canhoneira/sv_Canhoneira.dds</File>
+    <File md5="84E10542BC3F12D6C691697E206D251D" import="1">Art/Graphics/Independence Dragoon/IndependenceDragoon.dds</File>
+    <File md5="2A0A83A797A8604873E64D20DC26C53B" import="1">Art/Graphics/Independence Dragoon/IndependenceDragoon.fxsxml</File>
+    <File md5="377F1108DF95D9BF4A0E8EDE0F14CFCF" import="1">Art/Graphics/Independence Dragoon/IndependenceDragoon.gr2</File>
+    <File md5="445E4BFCF4E54B86E18FEA49E1D8CD0E" import="1">Art/Graphics/Independence Dragoon/sv_IndependenceDragoon.dds</File>
+    <File md5="C3ED1A0390D2FFA53124FC7E63D4FB9C" import="1">Art/Icons/JFD_BrazilPedroI_AlphaAtlas_128.dds</File>
+    <File md5="15DA45C584678B4F8D5D4E7A4DCE799E" import="1">Art/Icons/JFD_BrazilPedroI_AlphaAtlas_16.dds</File>
+    <File md5="1003C3A0CC802B0C334FC8A403668C94" import="1">Art/Icons/JFD_BrazilPedroI_AlphaAtlas_24.dds</File>
+    <File md5="10AD4E354A01E396475AFEE30A050C3F" import="1">Art/Icons/JFD_BrazilPedroI_AlphaAtlas_32.dds</File>
+    <File md5="C05486EE254D028625A3477C177AA06B" import="1">Art/Icons/JFD_BrazilPedroI_AlphaAtlas_45.dds</File>
+    <File md5="4BEB6D94D41D7AA5F04EE8FD6F86B582" import="1">Art/Icons/JFD_BrazilPedroI_AlphaAtlas_48.dds</File>
+    <File md5="84CB4F11830F09B8E8742DA2D1D16208" import="1">Art/Icons/JFD_BrazilPedroI_AlphaAtlas_64.dds</File>
+    <File md5="D9123E30BA69F40D690A196EAB46CC10" import="1">Art/Icons/JFD_BrazilPedroI_AlphaAtlas_80.dds</File>
+    <File md5="20001BB3100845F9674431C9AE166564" import="1">Art/Icons/JFD_BrazilPedroI_IconAtlas_128.dds</File>
+    <File md5="C1111729BAF30AF88AB9596F7297EE98" import="1">Art/Icons/JFD_BrazilPedroI_IconAtlas_256.dds</File>
+    <File md5="CF940D8286C109B6A4F3C940F23D5C30" import="1">Art/Icons/JFD_BrazilPedroI_IconAtlas_32.dds</File>
+    <File md5="CD747DCC93D7D775BCB7F292285C0A86" import="1">Art/Icons/JFD_BrazilPedroI_IconAtlas_45.dds</File>
+    <File md5="2A439267CFD07928565979232287933D" import="1">Art/Icons/JFD_BrazilPedroI_IconAtlas_64.dds</File>
+    <File md5="82C51B61E11B149D3B63326B962F38AD" import="1">Art/Icons/JFD_BrazilPedroI_IconAtlas_80.dds</File>
+    <File md5="D1C0D69BC953D0B1A4D854B2A4D8489A" import="1">Art/Icons/JFD_BrazilPedroI_UnitFlagAtlas_32.dds</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="1">Art/Icons/Tomatekh_PromotionAtlas_256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="1">Art/Icons/Tomatekh_PromotionAtlas_32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="1">Art/Icons/Tomatekh_PromotionAtlas_45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/Icons/Tomatekh_PromotionAtlas_64.dds</File>
+    <File md5="5B22CB43BDE5BDA48E719F50B71F2397" import="1">Art/Maps/JFD_DOM_BrazilPedroI.dds</File>
+    <File md5="85A54FC981A39B5D06F2C6BB218CCD0A" import="1">Art/Maps/JFD_MapBrazilPedroI512.dds</File>
+    <File md5="77A0E0128E8003E8465CA015F41F3B33" import="1">Audio/Themes/JFD_BrazilPedroI_Peace.mp3</File>
+    <File md5="CD05F694DD9CEF8900375C5C77DAF0EF" import="1">Audio/Themes/JFD_BrazilPedroI_War.mp3</File>
+    <File md5="BE7565BDB22B1758EADE122FAF4EE5BD" import="0">Core/BrazilPedroI_ArtDefines.sql</File>
+    <File md5="B6527463E81FA3EE88B272202E0DE713" import="0">Core/BrazilPedroI_GameDefines.sql</File>
+    <File md5="39AA508EDA4B1CE341201CA050F7CC32" import="0">Core/BrazilPedroI_GameText.xml</File>
+    <File md5="B9E033C7CE402FE8F7F40487DD2F0D63" import="0">Core/BrazilPedroI_ModSupport.sql</File>
+    <File md5="5BC4D8C073F2BBE44F0A638BA296BFB4" import="0">Credits.txt</File>
+    <File md5="C8181F5895502F68CB33CB1AA09AACA6" import="0">Lua/JFD_Civs_BrazilPedroI_Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/BrazilPedroI_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/BrazilPedroI_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/BrazilPedroI_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/BrazilPedroI_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_BrazilPedroI_Functions.lua">
+      <Name>JFD_Civs_BrazilPedroI_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

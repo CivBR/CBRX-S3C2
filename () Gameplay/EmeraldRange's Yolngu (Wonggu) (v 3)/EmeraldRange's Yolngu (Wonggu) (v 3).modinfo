@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="48a201b8-a4f7-4e35-abb9-c089745def80" version="3">
+  <Properties>
+    <Name>EmeraldRange's Yolngu (Wonggu)</Name>
+    <Teaser>Adds the Yolngu in Minwatj (Arnhem Land) in northern Australia as a playable civilization into Civilization V! It's a Chrisymas</Teaser>
+    <Description>Adds the Yolngu in Minwatj (Arnhem Land) in northern Australia as a playable civilization into Civilization V! It's a Chrisymas miracle for Senshi!</Description>
+    <Authors>EmeraldRange</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions (Complete)" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D Units" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Hazel's Map Labels" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D94FD67DAD2BB7381E2134568BF8A89A" import="1">Art/Atlas/YolnguAlphaAtlas24.dds</File>
+    <File md5="2AEADF63142BC5ADB60093CDA55E4449" import="1">Art/Atlas/YolnguAlphaAtlas256.dds</File>
+    <File md5="06173E30A76E799BF507301FFECB2B70" import="1">Art/Atlas/YolnguAlphaAtlas32.dds</File>
+    <File md5="870F8A6383C43C94F4E0D097041AE514" import="1">Art/Atlas/YolnguAlphaAtlas48.dds</File>
+    <File md5="BAB2375A1989EA8063BCA34639AD24AB" import="1">Art/Atlas/YolnguAlphaAtlas64.dds</File>
+    <File md5="F8D3823244448BE1EB16C66223BB0148" import="1">Art/Atlas/YolnguIconAtlas128.dds</File>
+    <File md5="D36C8A69B54414089A03C498F9C26064" import="1">Art/Atlas/YolnguIconAtlas256.dds</File>
+    <File md5="6D24CCBE66F7488696D261DEF686069B" import="1">Art/Atlas/YolnguIconAtlas32.dds</File>
+    <File md5="F8515EDAD9A2877BE2DFE79E84BB3831" import="1">Art/Atlas/YolnguIconAtlas45.dds</File>
+    <File md5="B2515BEA15472A99E995C18D7E51A8AC" import="1">Art/Atlas/YolnguIconAtlas64.dds</File>
+    <File md5="AF54BB7421EBF870DCAF09800C0ED386" import="1">Art/Atlas/YolnguIconAtlas80.dds</File>
+    <File md5="141BF40E5ED973536985E8F33403EEA4" import="1">Art/UU/er_lippa.dds</File>
+    <File md5="B71A5F27C1CD7A6ABB949F16F946300E" import="1">Art/UU/er_lippa.fxsxml</File>
+    <File md5="151BDECB6BEA213AB85654E68FF52199" import="1">Art/UU/er_lippa.gr2</File>
+    <File md5="1CA09153EDAA1B269AB5DC6E08C60933" import="1">Art/UU/er_lippa_flag.dds</File>
+    <File md5="1B315A7173387D1AE7FFAD8A4253CD66" import="1">Art/UU/er_lippa_rower.dds</File>
+    <File md5="1BDF348F2D1B81D821CE81DFC08E5F14" import="1">Art/UU/sv_er_lippa.dds</File>
+    <File md5="8C7718F93392D4BDDB3A6212433D8596" import="1">Art/YolnguCartography.dds</File>
+    <File md5="BD4637275B9A0AC28908DD2ECD9AC72D" import="1">Art/YolnguDoM.dds</File>
+    <File md5="2E3161C52F50B11309DC2595A42B43F2" import="1">Art/YolnguDom.mp3</File>
+    <File md5="0DEE754A68A98888E2996AB1E0EE0EAA" import="1">Art/YolnguLS.dds</File>
+    <File md5="BFCCCA5976CD761B59F1A5B9093C2F57" import="1">Art/YolnguPeace.mp3</File>
+    <File md5="C109DE8543425369989DC3845EED7105" import="1">Art/YolnguScene.xml</File>
+    <File md5="BB49E99C6DD10D140DCD102E0D60DB38" import="1">Art/YolnguWar.mp3</File>
+    <File md5="9B3DBCC4EDF83C48A318B4DE14D35938" import="0">Core/ArtDefines.sql</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Core/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Core/CultureOverview.xml</File>
+    <File md5="B63754905C3A0A121B3D00DEA73CDE43" import="0">Core/Emerald_Yolngu_Dummies.sql</File>
+    <File md5="8B5D3001ABBDC0959D670AFD86AF279B" import="0">Core/Emerald_Yolngu_Functions.lua</File>
+    <File md5="5BEB51075E19897BE7D25F96F14932CE" import="0">Core/Supports.sql</File>
+    <File md5="91AA1C38870415D50B2E57D0C5F05E27" import="0">Core/Text.xml</File>
+    <File md5="8184D3B5C959671C2BDCA707F66DB8BA" import="0">Core/YolnguCore.sql</File>
+    <File md5="9B7BDF2EB405549E9F5811061A55F59B" import="0">Core/YolnguUB.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/YolnguCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Supports.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Emerald_Yolngu_Dummies.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Emerald_Yolngu_Functions.lua">
+      <Name>YolnguFunc</Name>
+      <Description>Yolngu Functions</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/YolnguUB.lua">
+      <Name>YolnguUBFunc</Name>
+      <Description>Yolngu UB Func</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

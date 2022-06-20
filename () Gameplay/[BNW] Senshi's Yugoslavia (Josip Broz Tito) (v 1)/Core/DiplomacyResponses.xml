@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_TITO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_TITO_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_TITO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_TITO_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_TITO_FIRSTGREETING_1">
+			<Text>I bid you welcome to Yugoslavia, land of unity and equality. I seek only cooperation between our states, but I will not tolerate any attempts at crushing the Yugoslav spirit!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_TITO_DEFEATED_1">
+			<Text>You have brought chaos, fratricidal war, and division to my great state. I fear for the future both of Yugoslavia and the world under your boot.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

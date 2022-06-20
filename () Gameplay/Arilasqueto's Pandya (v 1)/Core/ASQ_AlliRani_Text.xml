@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/30/2021 1:03:02 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI">
+			<Text>Alli Rani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ASQ_ALLIRANI">
+			<Text>Great people may be expended to start a golden age [ICON_GOLDEN_AGE] with a relevant science [ICON_RESEARCH] bonus for the duration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ASQ_ALLIRANI_SHORT">
+			<Text>Sangams of Madurai</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_TEXT_1">
+			<Text>
+			Alli Rani was a legendary Tamil queen of the Sangam period of the Pandyan Dynasty. She is thought to have ruled the whole western and northern coast of Sri Lanka from her capital Kudiramalai. It is said that she had an administrative and an army of only women, with male being their subordinates and servants.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_HEADING_2">
+			<Text>Immaculate Conception</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_TEXT_2">
+			<Text>
+				The only daughter of a Pandyan king, she was considered an immaculate conception as she was found on an alli, or lily, after the end of a Putrakameshti ritual. She was at young age sent to gurukula and perfected riding and martial arts. Early in her life, she is said to have defeated and killed in a battle a usurper to the Pandyan throne named Neenmugan, or the blue faced one. After the victory she was crowned to the throne of Madurai.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_HEADING_3">
+			<Text>Administering the Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_TEXT_3">
+			<Text>
+				Alli Raani ruled over the in western and northern coasts of Sri Lanka and controlled there the pearl fishery. At the time the gulf of Arasadi had no opening towards the north, but communicated with the sea ports by a channel running in the line of the present Chilaw canal. However, a great flood submerged greater parts of land, subsequently leaving Arasadi on a narrow split of land, forming the present Puttalam Lagoon and destroying Rani’s palace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_HEADING_4">
+			<Text>Two Heroes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_TEXT_4">
+			<Text>
+			Several myths attribute her as being married to the Mahabharata hero Arjuna. He is said to have broken into Rani’s palace, in the form of an old ascetic man. Desiring to marry this beautiful, courageous and alert queen, he called out for her love. She responded by sending snakes and elephants to kill him. Arjuna later on came to her room in the form of a snake as she was asleep, thereupon embracing the queen. He then tied the Thaali over Rani, marrying her.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_LIVED">
+			<Text>Ancient Times</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_NAME">
+			<Text>Alli Rani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_SUBTITLE">
+			<Text>Queen of Kudiramalai</Text>
+		</Row>
+		
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA">
+			<Text>Pandya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SHORT">
+			<Text>Pandya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_ADJ">
+			<Text>Pandya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_DOM">
+			<Text>
+				Hail, Alli Rani, Queen of the Pandyan Dynasty. Legends of your rule as queen, controlling the western and northern coasts of Sri Lanka. The only daughter of a Pandyan king, you were found on a lily at the end of a Putrakameshti ritual, immaculately conceived, seen as an incarnation of the gods, Meenakshi and Kannagi. Trained in riding and martial arts, you battled both usurpers and lovers for power over the throne, eventually marrying the hero of the Mahabharata, Arjuna. You, queen of an army of women, built Allirani fort, and built a great kingdom, with a palace and pearl fisheries, until much of it was destroyed with a terrible flood, leaving very little remaining. And while the Pandya dynasty continued after your death, controlling much of Sri Lanka and southern India, they have come to ruin. The old country is no more, with new kingdoms taking their place, before even newer ones took the place of them. The wheel of time has turned.
+				[NEWLINE]
+				Alli Rani, this is your opportunity to turn back time, to build back the empire you once lead to greatness. The time is now to become the Amazonian ruler queen once again. Can you rebuild the fortunes of your kingdom? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>  
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_TEXT_1">
+			<Text>
+			The Pandya dynasty was a Tamil dynasty of south India. The dynasty passed through two periods of imperial dominance, the 6th to 10th centuries CE, and under the Later Pandyas in the 13th to 14th centuries. The age and the antiquity of the Pandya dynasty are difficult to establish. The rulers of the three Tamil dynasties were referred to as the mu-ventar of the Tamil country.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_HEADING_2">
+			<Text>The First Accounts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_TEXT_2">
+			<Text>
+			The early historic Pandyas are celebrated in the earliest available Tamil poetry. Graeco-Roman accounts, the edicts of Maurya emperor Asoka, coins with legends in Tamil-Brahmi script, and Tamil-Brahmi inscriptions suggest the continuity of the Pandya dynasty from the 3rd century BCE to the early centuries CE. The poems refer to about twelve Pandya rulers. According to tradition, the legendary Sangams, or the Academies, were held in Madurai under the patronage of the Pandyas.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_HEADING_3">
+			<Text>It’s Like Poetry, It Rhymes </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_TEXT_3">
+			<Text>
+			Beside several short poems found in the Akananuru and the Purananuru collections, there are two major works, Mathuraikkanci and Netunalvatai, which give a glimpse into the society and commercial activities in the Pandya country during the early historic period. The Purananuru and Agananuru collections contain poems sung in praise of various Pandya rulers and also poems that were claimed to be composed by the rulers themselves. In the work Mathuraikkanci, the author Mankudi Maruthanar, refers to his patron, Talaihalanganum Nedunjeliyan, as the Lord of Korkai and the Warlord of the Southern Parathavar People. It contains a full-length description of Madurai and the Pandya country under the rule of Nedunjeliyan.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_HEADING_4">
+			<Text>The First Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_TEXT_4">
+			<Text>
+			The first Pandyan king who has been mentioned in the Sangam works recovered so far is Nedunjeliyan I, who ruled from the coastal town of Korkai, at the mouth of river Tamraparni. During this time, the Tamil country consisted of several small kingdoms ruled over by independent chieftains, in addition to the three monarchies of Cheras, Cholas and Pandyas. In a bid to expand his territory, Nedunj Cheliyan I invaded the kingdom of Koodal, which was later renamed Madurai, which was under the rule of an independent chieftain, Akutai. He defeated Akutai and moved the capital of Pandyan kingdom to Madurai. This king also defeated an invading army from the Deccan Plateau and hence was called Aariyap Padaikadantha Pandyan or the king who conquered the Aryan army. He was succeeded by his son Pudappandiyan, who expanded the kingdom by conquering Ollaiyu.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_HEADING_5">
+			<Text>The Lineage Continues</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_TEXT_5">
+			<Text>
+				The successor of Pudappandiyan was Nedunj Cheliyan II also known as Pasumpun Pandyan. Immediately after ascending the throne, he marched with his troops to the north of Vaigai and defeated the chieftain Evvi II. He then headed west and captured the Aayi territory controlled by another chieftain, Atiyan. Both Evvi II and Atiyan were made commanders of the Pandyan army for his battles against Kongu country that was further west. His successor, Mudukudumi Peruvaludhi, was also a great warrior and carried the devastation into enemy territories. He performed yagas with the aid of Brahmin priests, similar to the tradition in northern India at that time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_HEADING_6">
+			<Text>Defending the Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_TEXT_6">
+			<Text>
+				The next king in the hierarchy was Nedunj Cheliyan III, who is considered the greatest of all the early Pandyan kings. Since the Pandyan kingdom was considerably larger than a few generations ago, he had to defend it against many neighbors invading from various fronts. Not only did he succeed in defending his territory, but he also seems to have advanced into the enemy territories.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_HEADING_7">
+			<Text>The Five Great Assemblies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_TEXT_7">
+			<Text>
+			The head of the Government was the king, a hereditary monarch. His power was restricted by the Aimberunguzhu, or the Five Great Assemblies, which consisted of the representatives of the people, priests, physicians, astrologers and the ministers. There was another assembly of officials that served the king called the Enberaayam, or the Eight Groups of Attendants. While some scholars believe it consisted of attendants on the king's person like the perfumers, dressing valets, etc., others believe it consisted of more important persons like the people of the capital city, the leaders of the elephant corps and of the cavalry. The principal officers of State were the high priest, the chief astrologer, the ministers and the commanders of the army. The king divided his territory into a number of administrative units or principalities, each called a Kootram. A Kootram was further divided into provinces called Mandalam, which in turn was divided into many sub-provinces called Nadus, with each Nadu consisting of many villages. A locality inside a town or village was called Ur and each neighborhood inside an Ur was called a Cheri.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_HEADING_8">
+			<Text>Relgion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_TEXT_8">
+			<Text>
+			The Sangam period in Tamilakam was characterized by the coexistence of many religions, with Hinduism and later adopted Buddhism and Jainism alongside the folk religion of the Tamil people. The monarchs of the time practiced religious tolerance and openly encouraged religious discussions and invited teachers of every sect to the public halls to preach their doctrines. Hinduism, Jainism, and Buddhism were the three major religions that prevailed. Christianity was introduced in India by St. Thomas the Apostle who landed at Muziris on Malabar Coast in the year 52 CE.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_ASQ_PANDYA_GP_HELP">
+			<Text>larfingtibs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_PANDYA_GP">
+			<Text>Pandya great person dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ASQ_MARAVAL">
+			<Text>Warriors of the Palk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ASQ_MARAVAL_HELP">
+			<Text>Gets an extra attack when adjacent to coast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_ALLIRANI_GP_TT">
+			<Text>Found a new Sangam!</Text>
+		</Row>
+		
+		<!--Spies-->
+
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_0">
+			<Text>Mankudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_1">
+			<Text>Chandra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_2">
+			<Text>Aishwarya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_3">
+			<Text>Jaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_4">
+			<Text>Hari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_5">
+			<Text>Deepak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_6">
+			<Text>Kamala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_7">
+			<Text>Lakshmana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_8">
+			<Text>Nanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_9">
+			<Text>Praveen</Text>
+		</Row>
+		
+		<!--Cities-->
+		<!--sry Lacs tophat did these I think some of them might be obscure-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_1">
+			<Text>Madurai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_2">
+			<Text>Kudiramalai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_3">
+			<Text>Tirunelveli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_4">
+			<Text>Korkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_5">
+			<Text>Thoothukudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_6">
+			<Text>Mannar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_7">
+			<Text>Arasadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_8">
+			<Text>Akkaraipattu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_9">
+			<Text>Mangulam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_10">
+			<Text>Muziris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_11">
+			<Text>Allaiyur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_12">
+			<Text>Keezhadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_13">
+			<Text>Arikamedu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_14">
+			<Text>Kodumanam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_15">
+			<Text>Kanyakumari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_16">
+			<Text>Saliyur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_17">
+			<Text>Kayal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_18">
+			<Text>Marungurpattinam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_19">
+			<Text>Theni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_20">
+			<Text>Virudhunagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_21">
+			<Text>Coimbatore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_22">
+			<Text>Tailaialangnam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_23">
+			<Text>Illanji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_24">
+			<Text>Velvikudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_25">
+			<Text>Thanjavur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_26">
+			<Text>Sigiriya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_27">
+			<Text>Saluvankuppam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_28">
+			<Text>Adayagiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_29">
+			<Text>Khandagiri</Text>
+		</Row>
+		
+		<!--Unit-->
+		<Row Tag="TXT_KEY_UNIT_ASQ_MARAVAL">
+			<Text>Maraval</Text>
+		</Row>
+		<!--Building-->
+		<Row Tag="TXT_KEY_BUILDING_ASQ_PEARL_FISHERY">
+			<Text>Pearl Fishery</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_ASQ_PEARL_FISHERY_HELP">
+			<Text>Replaces the Lighthouse. Spawns a source of [ICON_RES_PEARLS] pearls. City gets +5% [ICON_GREAT_PEOPLE] Great Person generation for each sea resource controlled.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_PEARL_FISHERY_STRATEGY">
+			<Text>Capitalise on trade in your coastal cities with a free copy of pearls for trading away. Also lets you generate great people faster to found more Sangams.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_PEARL_FISHERY_PEDIA">
+		<Text>Pearl Hunting involves recovering wild molluscs, usually oysters or mussels, in the sea or freshwater. In most cases the pearl-bearing molluscs live at depths where they are not manually accessible from the surface, and diving or the use of some form of tool is needed to reach them. Historically the molluscs were retrieved by freediving, a technique where the diver descends to the bottom, collects what they can, and surfaces on a single breath. The Gulf of Mannar is known for its pearl banks of Pinctada radiata and Pinctada fucata for at least two thousand years. Pliny the Elder praised the pearl fishery of the gulf as one of the most productive in the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_MARAVAL_HELP">
+			<Text>Replaces the spearman. Starts with amphibious. Has an extra attack before melee when starting its turn adjacent to coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_MARAVAL_STRATEGY">
+			<Text>A unit with a heavy emphasis on fighting in coastal areas, which you'll be in a lot anyway if you want to capitalise on the Pearl Fishery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_MARAVAL_PEDIA">
+			<Text>Various martial arts including Kuttu Varisai, Varma Kalai, Silambam, Adithada, and Malyutham are practised in Tamil Nadu. Silambam originated in ancient Tamilakam and was patronized by the Pandyans. War was regarded as an honorable sacrifice and fallen heroes and kings were worshiped in the form of a hero stone. Each warrior was trained in martial arts, horse riding and specialized in two of the weapons of that period, Vel, or the spear, and Val, or the sword. Heroic martyrdom was glorified in ancient Tamil literature. The Tamil kings and warriors followed an honour code and committed suicide to preserve honor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI_FIRSTGREETING_1">
+			<Text>Aha! You thought to sneak up on me? You speak to Alli Rani, great queen of Pandya in this land of kings, and not even a cloud-footed tiger could hope to catch me unaware.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI_DEFEATED_1">
+			<Text>Oh look at you, bringing all your great and ugly armies to defeat a feeble woman. True bravery!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI_DOW_GENERIC_1">
+			<Text>Surprise! You're going to die! Or perhaps not. I'm feeling in a generous mood today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI_ATTACKED_HOSTILE">
+			<Text>Ugh! The one thing worse than your manners is your eyesight, because surely you can see how this is going to end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI_DEC_FRIENDSHIP_1">
+			<Text>You have the makings of a great leader in you. Let us share our </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI_DENOUNCE_1">
+			<Text>I truly am casting pearls before swine.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI_DENOUNCE_FRIEND_1">
+			<Text>I once thought you my equal. Now I shudder at the thought.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Hah! Your words are hot air, so easily lost in the warm evening breeze.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_SANGAMPANDYA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are buying your pearls and	gaining wisdom from your Sangams. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_SANGAMPANDYA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Are those Pandya pearls I see around your neck? I never thought you one to dress fashionably.</Text>
+		</Row>
+		<!--C15-->
+		<Row Tag="TXT_KEY_ASQ_PANDYA_MCIS_HELP_GENERAL">
+			<Text>Great General: Receive [ICON_RESEARCH] Science when a Land Combat Unit is trained.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_PANDYA_MCIS_HELP_ADMIRAL">
+			<Text>Great Admiral: Receive [ICON_RESEARCH] Science when a Naval Combat Unit is trained.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_PANDYA_MCIS_HELP_SCIENTIST">
+			<Text>+2 [ICON_RESEARCH] Science from Academies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_PANDYA_MCIS_HELP_ENGINEER">
+			<Text>+2 [ICON_RESEARCH] Science from Manufactories and +1 [ICON_RESEARCH] Science from Strategic Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_PANDYA_MCIS_HELP_MERCHANT">
+			<Text>+1 [ICON_RESEARCH] Science from each distinct and improved Strategic or Luxury Resource within a City's borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_PANDYA_MCIS_HELP_ARTIST">
+			<Text>+1 [ICON_RESEARCH] Science from Great Works.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_PANDYA_MCIS_HELP_WRITER">
+			<Text>Receive [ICON_RESEARCH] Science upon adopting a Social Policy or Ideological Tenet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_PANDYA_MCIS_HELP_MUSICIAN">
+			<Text>Receive a [ICON_RESEARCH] Science bonus for each foreign Civilization with whom you have a Familiar or greater cultural influence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_PANDYA_MCIS_HELP_PROPHET">
+			<Text>+1 [ICON_RESEARCH] Science for every for [ICON_CITIZEN] Citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_PANDYA_POLICY_SCIENCE">
+			<Text>+{1_Science} [ICON_RESEARCH] Science from adopting a Social Policy!</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

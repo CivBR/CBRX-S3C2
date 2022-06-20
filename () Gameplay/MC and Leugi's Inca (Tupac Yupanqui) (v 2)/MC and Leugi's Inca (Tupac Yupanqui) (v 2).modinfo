@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ae0d8b51-8dca-4608-a789-1985e012e591" version="2">
+  <Properties>
+    <Name>MC and Leugi's Inca (Tupac Yupanqui)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]the Incans[ENDCOLOR] under [COLOR_POSITIVE_TEXT]Tupac Yupanqui[ENDCOLOR]</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]the Incans[ENDCOLOR] under [COLOR_POSITIVE_TEXT]Topa Inca Yupanqui[ENDCOLOR] to the game as a playable civilisation</Description>
+    <Authors>More Civs</Authors>
+    <SpecialThanks>Firaxis</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="The Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1E8A55491EBBB03F16680D8D1459F3A0" import="1">Art/Atlases/MC_Inca_128.dds</File>
+    <File md5="9C1C9A61380119986E3BA73540B86536" import="1">Art/Atlases/MC_Inca_24.dds</File>
+    <File md5="01EE8A4DC993878894BD52DBDE5F3299" import="1">Art/Atlases/MC_Inca_256.dds</File>
+    <File md5="6671302FF4EE6CB5CBC04368FA9C2266" import="1">Art/Atlases/MC_Inca_32.dds</File>
+    <File md5="467E9D6EA237C04FAAF13FEC9BE99919" import="1">Art/Atlases/MC_Inca_45.dds</File>
+    <File md5="D780DE24AA71A3C152C3DAA86ED509CF" import="1">Art/Atlases/MC_Inca_48.dds</File>
+    <File md5="36BD42334C8AF7D566A54AE4F0F0ADAC" import="1">Art/Atlases/MC_Inca_64.dds</File>
+    <File md5="B3B0FE8377AED8F5444DEEED30F12C53" import="1">Art/Atlases/MC_Inca_80.dds</File>
+    <File md5="33567979761CECC4CAE519EBB21DB03D" import="1">Art/Atlases/MC_Inca_Alpha_128.dds</File>
+    <File md5="C9354A8952EA49CFBC02F04F3F99AB69" import="1">Art/Atlases/MC_Inca_Alpha_16.dds</File>
+    <File md5="167D431DC09D2A42C4FC4C3A5BA5B6F0" import="1">Art/Atlases/MC_Inca_Alpha_24.dds</File>
+    <File md5="A00A4E34F503D7AF1F84A44EAE06EF61" import="1">Art/Atlases/MC_Inca_Alpha_256.dds</File>
+    <File md5="32C1E463B7D73FDB1783A9228B14F35B" import="1">Art/Atlases/MC_Inca_Alpha_32.dds</File>
+    <File md5="51D87C51E0BCD4814607FC3214AC280A" import="1">Art/Atlases/MC_Inca_Alpha_48.dds</File>
+    <File md5="7997F03B7C05255DC4AE4078E4DCF765" import="1">Art/Atlases/MC_Inca_Alpha_64.dds</File>
+    <File md5="2209D09ECA36F3B5142FFB4B539E0F84" import="1">Art/Models/Chaska Chuqui/Warrior_Inca.blend</File>
+    <File md5="CD78C16F785923B8561EA74C9FD552CB" import="1">Art/Models/Chaska Chuqui/Warrior_Inca.dds</File>
+    <File md5="456A60FD54643937C37437BAC409EFC6" import="1">Art/Models/Chaska Chuqui/Warrior_Inca.fxsxml</File>
+    <File md5="D7990EB722A878453C514728FDFD2C60" import="1">Art/Models/Chaska Chuqui/Warrior_Inca.gr2</File>
+    <File md5="A19ACC049A55BA071F900EB66814CE41" import="1">Art/Models/Chaska Chuqui/Warrior_Inca.jpg</File>
+    <File md5="1C9AC6109609B5F385CC22E8CC8F6E20" import="1">Art/Models/Chaska Chuqui/Warrior_Inca_gloss.dds</File>
+    <File md5="849C02A8C71792997AB566D33885A0C9" import="1">Art/Models/Incan Embark/er_yampu_runancha.fxsxml</File>
+    <File md5="D280728B9D08C3754E3C5B8C5B841D88" import="1">Art/Models/Incan Embark/er_yampu_runancha.gr2</File>
+    <File md5="40E608157D6F1D013651E33BE0C61417" import="1">Art/Models/Incan Embark/er_yampu_runancha_diff.dds</File>
+    <File md5="207C2EE1AB99D5AABB6920934BB1E7BC" import="1">Art/Models/Incan Embark/er_yampu_runancha_sref.dds</File>
+    <File md5="C7D4D5E4B3277A092777C49A27B241A5" import="1">Art/Models/MC_ChaskaChuquiUnitFlag_32.dds</File>
+    <File md5="8E885ABC957DF3EE7E2088A51F7D6A65" import="1">Art/Models/sv_ChaskaChuqui.dds</File>
+    <File md5="872A20CAAAE5D4774F82C1AAB0551D41" import="1">Art/Models/MC_YampuRunanchaUnitFlag_32.dds</File>
+    <File md5="90D96D2E635A2377931BD16A24DB19E3" import="1">Art/Models/sv_YampuRunancha.dds</File>
+    <File md5="CDDD58E1852E4D76FA883FA4C018AE2C" import="1">Art/Models/Yampu Runancha/er_yampu_runancha_long.fxsxml</File>
+    <File md5="6B8644F3A15819C48AF581B901D785FF" import="1">Art/Models/Yampu Runancha/er_yampu_runancha_long.gr2</File>
+    <File md5="62F1D6A3DA813A51C3F0031A95379737" import="1">Art/Models/Yampu Runancha/er_yampu_runancha_long_dam_diff.dds</File>
+    <File md5="5E65B2EE7FBCE71884CE04EC73C4DC89" import="1">Art/Models/Yampu Runancha/er_yampu_runancha_long_dam_sref.dds</File>
+    <File md5="98BEC00782FFE31E32F0A9C44144C10B" import="1">Art/Models/Yampu Runancha/er_yampu_runancha_long_diff.dds</File>
+    <File md5="D7E011D01956098F9DBFF5F683797321" import="1">Art/Models/Yampu Runancha/er_yampu_runancha_long_sref.dds</File>
+    <File md5="1FE2F7C54E69478497668F32A957D6D8" import="1">Art/Scenes/MC_Inca_DoM.dds</File>
+    <File md5="7FE219D2DAE788CE98214100B231A620" import="1">Art/Scenes/MC_Inca_Leaderscene.dds</File>
+    <File md5="A02D5F2C72B0CCA3E5F9690B1C600C72" import="1">Art/Scenes/MC_Inca_Map.dds</File>
+    <File md5="34B484C3A7373D0B67A25F51C83B425E" import="0">Core/Art/MC_ChaskaChuquiArtDef.sql</File>
+    <File md5="520BDF4A6D12D27EFB3D5BD43D9C56D6" import="0">Core/Art/MC_IncaEmbarkArtDef.sql</File>
+    <File md5="CAE3D57193FFC62244975064C32E93DD" import="1">Core/Art/MC_Inca_Leaderscene.xml</File>
+    <File md5="7940321E92BFD794B9C258D59535BB5B" import="0">Core/Art/MC_YampuRunanchaArtDef.sql</File>
+    <File md5="5AA6BCC327401631C1926B57A670B24C" import="0">Core/Civilizations/MC_Inca_Civilizations.sql</File>
+    <File md5="8534A6601369D4C33042CB18B1CAE9EB" import="0">Core/GameInfo/MC_Inca_IconTextureAtlases.sql</File>
+    <File md5="B9E4AAEA6ADD1E3BE3A098F6F85D2632" import="0">Core/GameInfo/MC_Inca_Sounds.xml</File>
+    <File md5="8003D1254E4A4297FA4900B6DC7065C7" import="0">Core/Leaders/MC_Inca_Leader.sql</File>
+    <File md5="AAF46F6D990CDF01FCDD0CF459CDB9A6" import="0">Core/Text/MC_Inca_Text.xml</File>
+    <File md5="C9B069C343C08D7E4C2AA451B4F4E04F" import="0">Core/Units/MC_Inca_Units.sql</File>
+    <File md5="FF5312F220EE6545C5A3C0F41DB33484" import="0">Core/Units/MC_Inca_UnitPromotions.sql</File>
+    <File md5="6D7D9435F059D8553E6B2D270C716765" import="0">Lua/MC_Inca_Functions.lua</File>
+    <File md5="921E437133D91B6595A94FFBE2EF6E03" import="1">Lua/PlotIterators.lua</File>
+    <File md5="F6A9D811AE3FD676B4C13D0F3E22F36A" import="0">Mod Support/MC_Inca_ModSupport.sql</File>
+    <File md5="612BC7831AA603211F48FCDB0B11EBAE" import="1">Sounds/MC_Inca_Peace.mp3</File>
+    <File md5="3AC5E373D5B036E57DC585A490349D47" import="1">Sounds/MC_Inca_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Art/MC_ChaskaChuquiArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_Inca_Leaderscene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_IncaEmbarkArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_YampuRunanchaArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations/MC_Inca_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Inca_IconTextureAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Inca_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_Inca_Leader.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Text/MC_Inca_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Inca_UnitPromotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Inca_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/MC_Inca_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MC_Inca_Functions.lua">
+      <Name>MC_Inca_Functions</Name>
+      <Description>Functions for MC's Inca</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

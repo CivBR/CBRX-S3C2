@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/6/2013 9:18:46 AM -->
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Set Text="Paramaribo"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES"/>
+		</Update>
+		<Update>
+			<Set Text="Paramaribo"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_ADJ"/>
+		</Update>
+		<Update>
+			<Set Text="Paramaribo is the capital and largest city of Suriname, located on the banks of the Suriname River in the Paramaribo District. Paramaribo has a population of roughly 240,000 people (2012 census), almost half of Suriname's population. The historic inner city of Paramaribo has been a UNESCO World Heritage Site since 2002.
+[NEWLINE][NEWLINE]The name Paramaribo is probably a corruption of the name of an Indian village, Parmirbo. This was the location of the first Dutch settlement, a trading post established by Nicolaes Baliestel and Dirck Claeszoon van Sanen in 1613. English and French traders also tried to establish settlements in Suriname, including a French post established in 1644 near present-day Paramaribo.
+
+[NEWLINE][NEWLINE]The Dutch settlement was abandoned some time before the arrival of English settlers in 1650. The settlers were sent by the English governor of Barbados, Lord Francis Willoughby, 5th Baron Willoughby of Parham, and established a town on the site of Paramaribo (though probably south of the current town center). The town was protected by a fort, called Fort Willoughby. In 1662, Governor Willoughby was granted the settlement and surrounding lands (extending into Suriname’s interior) by King Charles II.
+
+[NEWLINE][NEWLINE]In 1667, during the Second Anglo-Dutch War, Paramaribo was conquered by a squadron of ships under Abraham Crijnssen. The Treaty of Breda in 1667, confirmed Paramaribo as the leading town of the now Dutch colony of Suriname. The fort protecting Paramaribo was renamed Fort Zeelandia in honor of the Dutch province that had financed Crijnssen’s fleet. (The town was also renamed New Middelburg but the name did not catch on with the inhabitants).
+
+[NEWLINE][NEWLINE]The population of Paramaribo has always been very diverse. Among the first British settlers were many Jews and one of the oldest synagogues in the Americas is found in Paramaribo. The population of the town was greatly increased after 1873, when former slaves (who had been freed in 1863) were allowed to stop working for their former masters and leave the sugar plantations.
+
+[NEWLINE][NEWLINE]Paramaribo has remained the capital of Suriname, from its colonial days through the independence of Suriname in 1975 to the present day. The old town has suffered many devastating fires over the years, notably in January 1821 (which destroyed over 400 buildings) and September 1832 (which destroyed nearly 50 buildings).
+
+[NEWLINE][NEWLINE]In 1987 an administrative reorganization took place in Suriname and the city was divided into 12 administrative jurisdictions."/>
+			<Where Tag="TXT_KEY_CIV5_BUENOS_AIRES_TEXT"/>
+		</Update>
+	</Language_en_US>
+</GameData>

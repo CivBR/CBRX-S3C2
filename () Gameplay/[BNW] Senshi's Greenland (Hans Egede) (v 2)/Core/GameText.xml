@@ -1,0 +1,276 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_01">
+			<Text>Godthåb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_02">
+			<Text>Godhavn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_03">
+			<Text>Jakobshavn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_04">
+			<Text>Holsteinsborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_05">
+			<Text>Julianehåb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_06">
+			<Text>Egedesminde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_07">
+			<Text>Christianshåb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_08">
+			<Text>Frederikshåb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_09">
+			<Text>Hunde Ejlande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_10">
+			<Text>Sukkertoppen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_11">
+			<Text>Upernavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_12">
+			<Text>Nennortalik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_13">
+			<Text>Fiskernæs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_14">
+			<Text>Claushavn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_15">
+			<Text>Rodebay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_16">
+			<Text>Solsiden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_17">
+			<Text>Ammassalik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_18">
+			<Text>Frederiksdal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_19">
+			<Text>Øen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_20">
+			<Text>Nordprøven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_21">
+			<Text>Sydprøven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_22">
+			<Text>Omenak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_23">
+			<Text>Igaliko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_24">
+			<Text>Søndre Upernavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_25">
+			<Text>Kap Dan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_26">
+			<Text>Scoresbysund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_27">
+			<Text>Sletten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_28">
+			<Text>Kraulshavn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_29">
+			<Text>Prøven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_GREENLAND_30">
+			<Text>Diskofjord</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_0">
+			<Text>Paul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_1">
+			<Text>Gertrud</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_2">
+			<Text>Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_3">
+			<Text>Eske</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_4">
+			<Text>Hinrich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_5">
+			<Text>Claus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_6">
+			<Text>Christian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_7">
+			<Text>Børge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_8">
+			<Text>Johannes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_GREENLAND_9">
+			<Text>Niels</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_GREENLAND_ADJECTIVE">
+			<Text>Greenlandic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_GREENLAND_DESC">
+			<Text>Greenland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_GREENLAND_SHORT_DESC">
+			<Text>Greenland</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_GREENLAND_TEXT">
+			<Text>Trust in the power of the Lord, oh Holy Hans Egede, Apostle of Greenland. Let his power guide you as you lead Greenland through its rebirth. For the seas are stormy, the Winters cold. Trained in the Lutheran faith in Denmark, you were inspired by the stories of the old Norse and sought to administer your faith to those who may inhabit it. Carried by the Hope, you, your wife, and four children, established what would become modern Greenland. Through trials and tribulations, you were guided by the Lord, and set Greenland on a righteous path that would see it become a unique and prosperous society in the years to come.[NEWLINE][NEWLINE]But your people once again cry out for you, oh Hans Egede, for the Heavenly Lads are cold and empty. They have been abandoned. Scurvy has turned back those who would help you on your mission. They cry for the guidance of the Lord. You must once again sail the seas of the Sagas, avoiding the sea serpents and the storms. You must once again stand as the shining beacon amongst the hardships that life presents, and lead Greenland by the example you set. Will you be up to the task? Can you build a civilization that stands in defiance of the chilly grip of entropy? A civilization to stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_TEXT_1">
+			<Text>Greenland is considered to be the world’s largest island, although there is debate around the inclusion or exclusion of Australia and Antarctica from this. It is located between the Arctic and Atlantic oceans, east of the Canadian Arctic Archipelago. In prehistoric times, Greenland was home to several successive Paleo-Inuit cultures known today primarily through archaeological finds. The earliest entry of the Paleo-Inuit into Greenland is thought to have occurred about 2500 BC. From around 2500 BC to 800 BC, southern and western Greenland were inhabited by the Saqqaq culture. From 2400 BC to 1300 BC, the Independence I culture existed in northern Greenland. It was a part of the Arctic small tool tradition. Towns, including Deltaterrasserne, started to appear. Around 800 BC, the Saqqaq culture disappeared and the Early Dorset culture emerged in western Greenland and the Independence II culture in northern Greenland. The Dorset culture was the first culture to extend throughout the Greenlandic coastal areas, both on the west and east coasts. It lasted until the total onset of the Thule culture in 1500 AD. The Dorset culture population lived primarily from hunting of whales and caribou.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_HEADING_2">
+			<Text>The Vikings Arrive with the Thule Following</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_TEXT_2">
+			<Text>From 986, Greenland's west coast was settled by Icelanders and Norwegians, through a contingent of 14 boats led by Erik the Red. They formed three settlements – known as the Eastern Settlement, the Western Settlement and the Middle Settlement. They shared the island with the late Dorset culture inhabitants who occupied the northern and western parts, and later with the Thule culture that entered from the north. Norse Greenlanders submitted to Norwegian rule in 1261 under the Kingdom of Norway. Later the Kingdom of Norway entered into a personal union with Denmark in 1380 and from 1397 was a part of the Kalmar Union. The Norse settlements thrived for centuries but disappeared sometime in the 15th century. It is theorized that this was due to the onset of the Little Ice Age. Apart from some runic inscriptions, no contemporary records or historiography survives from the Norse settlements, although Medieval Norwegian sagas have described Greenland’s economy, and Icelandic saga’s, which were often written long after the fact and do not constitute primary sources.[NEWLINE][NEWLINE]The Thule people are the ancestors of the current Greenlandic population. No genes from the Paleo-Inuit have been found in the present population of Greenland. The Thule culture migrated eastward from what is now known as Alaska around 1000 AD, reaching Greenland around 1300. The Thule culture was the first to introduce to Greenland such technological innovations as dog sleds and toggling harpoons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_HEADING_3">
+			<Text>Rediscovery - Portugal and Denmark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_TEXT_3">
+			<Text>In 1500, King Manuel I of Portugal sent Gaspar Corte-Real to Greenland in search of a Northwest Passage to Asia which, according to the Treaty of Tordesillas, was part of Portugal's sphere of influence. In 1501, Corte-Real returned with his brother, Miguel Corte-Real. Finding the sea frozen, they headed south and arrived in Labrador and Newfoundland. Upon the brothers' return to Portugal, the cartographic information supplied by Corte-Real was incorporated into a new map of the world which was presented to Ercole I d'Este, Duke of Ferrara, by Alberto Cantino in 1502. The Cantino planisphere, made in Lisbon, accurately depicts the southern coastline of Greenland.[NEWLINE][NEWLINE]From 1605–1607, King Christian IV of Denmark sent a series of expeditions to Greenland and Arctic waterways to locate the lost eastern Norse settlement and assert Danish sovereignty over Greenland. The expeditions were mostly unsuccessful, partly due to leaders who lacked experience with the difficult arctic ice and weather conditions, and partly because the expedition leaders were given instructions to search for the Eastern Settlement on the east coast of Greenland just north of Cape Farewell, which is almost inaccessible due to southward drifting ice. After the Norse settlements died off, Greenland came under the de facto control of various Inuit groups, but the Danish government never forgot or relinquished the claims to Greenland that it had inherited from the Norse. When it re-established contact with Greenland in the early 17th century, Denmark asserted its sovereignty over the island. In 1721, a joint mercantile and clerical expedition led by Danish-Norwegian missionary Hans Egede was sent to Greenland, not knowing whether a Norse civilization remained there. This expedition is part of the Dano-Norwegian colonization of the Americas. After 15 years in Greenland, Hans Egede left his son Paul Egede in charge of the mission there and returned to Denmark, where he established a Greenland Seminary. This new colony was centred at Godthåb on the southwest coast. Gradually, Greenland was opened up to Danish merchants, and closed to those from other countries. When the union between the crowns of Denmark and Norway was dissolved in 1814, the Treaty of Kiel severed Norway's former colonies and left them under the control of the Danish monarch. Norway occupied then-uninhabited eastern Greenland as Erik the Red's Land in July 1931, claiming that it constituted terra nullius. Norway and Denmark agreed to submit the matter in 1933 to the Permanent Court of International Justice, which decided against Norway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_HEADING_4">
+			<Text>Getting together and then drifting apart – World War II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_TEXT_4">
+			<Text>Greenland's connection to Denmark was severed on 9 April 1940, early in World War II, after Denmark was occupied by Nazi Germany. On 8 April 1941, the United States occupied Greenland to defend it against a possible invasion by Germany. This continued until 1945. Greenland was able to buy goods from the United States and Canada by selling cryolite from the mine at Ivittuut. Greenland had been a protected and very isolated society until 1940. The Danish government had maintained a strict monopoly of Greenlandic trade, allowing only small scale troaking with Scottish whalers. In wartime Greenland developed a sense of self-reliance through self-government and independent communication with the outside world. This eventually led to a modern welfare state with Denmark as sponsor and example.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_HEADING_5">
+			<Text>Modern Greenland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_GREENLAND_TEXT_5">
+			<Text>In 1946 the United States offered to buy the island from Denmark for $100,000,000, which Denmark refused. In August 2019, the American president Donald Trump again proposed to buy the country. With the 1953 Danish constitution, Greenland's colonial status ended as the island was incorporated into the Danish realm as an amt (county). Danish citizenship was extended to Greenlanders. Danish policies toward Greenland consisted of a strategy of cultural assimilation. The Home Rule Act of 1979 gave Greenland limited autonomy with its own legislature taking control of some internal policies, while the Parliament of Denmark maintained full control of external policies, security, and natural resources. On 21 June 2009, Greenland gained self-rule with provisions for assuming responsibility for self-government of judicial affairs, policing, and natural resources. Also, Greenlanders were recognized as a separate people under international law. In 2009, Greenlandic was declared the sole official language of Greenland. This is generally seen to be a step toward independence from Greenland.</Text>
+		</Row>
+
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_LIVED">
+			<Text>1686 - 1758 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_NAME">
+			<Text>Hans Egede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_SUBTITLE">
+			<Text>Apostle of Greenland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_EGEDE">
+			<Text>Hans Egede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_TITLES_1">
+			<Text>Bishop</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_TEXT_1">
+			<Text>Hans Egede was born into the home of a civil servant in Harstad, Norway, nearly 150 miles north of the Arctic Circle. His paternal grandfather had been a vicar in Vester Egede on southern Zealand, Denmark. Educated by an uncle who was a clergyman in the local Lutheran Church. In 1704 he travelled to Copenhagen to enter the University of Copenhagen, where he earned a Bachelor’s in Theology. He returned to Hinnøya Island after graduation, and in April 1707 he was ordained and assigned to a parish on the remote archipelago of Lofoten. It was in this same year that he married Gertrud Rask, with whom he had four children – two boys and two girls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_HEADING_2">
+			<Text>Greenland Calling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_TEXT_2">
+			<Text>During his time in Lofoten, Egede was inspired by stories of the old Norse settlements on Greenland, of which contact with had been lost for centuries. Thus, beginning in 1711, he sought permission from Frederick IV of Denmark-Norway to search for the colony and establish a mission there, presuming that it had either remained Catholic after the Danish-Norwegian Reformation or been lost to the Christian faith altogether. His wife, Gertrud, was aware of this by 1710 at the latest, and was strongly resistant to the plan initially, but eventually she agreed to follow Hans after he promised not to go to Greenland without her.[NEWLINE][NEWLINE]Egede established the Bergen Greenland Company with $9,000 in capital from Bergen merchants, $200 from the Danish king, and a $300 annual grant from the Royal Mission College. The company was granted broad powers to govern the peninsula (as it was then thought to be), to raise its own army and navy, to collect taxes and to administer justice; the king and his council, however, refused to grant it monopoly rights to whaling and trade in Greenland out of a fear of antagonizing the Dutch. The Haabet (Hope) set sail from Bergen with two smaller ships on 2 May 1721 bearing Egede, his wife and four children, and forty other colonists. On 3 July, they reached Nuup Kangerlua and established Hope Colony (Haabets Colonie) with the erection of a portable house on Kangeq Island, which Egede christened the Island of Hope (Haabets Ø). Searching for months for descendants of the old Norse colonists, he found only the local Inuit people and began studying their language. Preaching among them required some imagination as, for instance, the Inuit had no bread nor any idea of it, requiring the Lord's Prayer to be translated as "Give us this day our daily seal".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_HEADING_3">
+			<Text>Winters and Challenges for a Fledgling Colony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_TEXT_3">
+			<Text>By the end of the first winter, many of the colonists had been stricken with scurvy and most returned home as soon as they could. Egede and his family remained with a few others and in 1722 welcomed two supply ships the king had funded with the imposition of a new tax. His (now ship-borne) explorations found no Norse survivors along the western shore and future work was misled by the two mistaken beliefs – both prevalent at the time – that the Eastern Settlement would be located on Greenland's east coast (it was later established it had been among the fjords of the island's extreme southwest) and that a strait existed nearby communicating with the western half of the island. In fact, his 1723 expedition found the churches and ruins of the Eastern Settlement, but he considered them to be those of the Western. At the end of the year, he turned north and helped establish a whaling station on Nipisat Island. In 1724 he baptized his first child converts, two of whom would travel to Denmark and there inspire Count Zinzendorf to begin the Moravian missions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_HEADING_4">
+			<Text>The Missions Continue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_TEXT_4">
+			<Text>In 1728, a royal expedition under Major Claus Paarss arrived with four supply ships and moved the Kangeq colony to the mainland opposite, establishing a fort named Godt-Haab, meaning Good Hope, which would eventually become Godthåb. The extra supplies also allowed Egede to build a proper chapel within the main house. More scurvy led to forty deaths and abandonment of the site not only by the Danes but by the Inuit as well.Egede's book The Old Greenland's New Perlustration appeared in 1729 and was translated into several languages, but King Frederick lost patience and recalled Paarss's military garrison from Greenland the next year. Egede, encouraged by his wife Gertrud, remained with his family and ten sailors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_HEADING_5">
+			<Text>Last years in Greenland and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_TEXT_5">
+			<Text>A supply ship in 1733 brought three missionaries and news that the king had granted 2,000 rigsdaler a year to establish a new company for the colony under Jacob Severin. The Moravians were allowed to establish a station at Neu-Herrnhut (which became the nucleus of modern Nuuk, Greenland's capital) and in time a string of missions along the island's west coast. The ship also returned one of Egede's convert children with a case of smallpox. By the next year, the epidemic was raging among the Inuit and in 1735 it claimed Gertrud Egede. Hans carried her body back to Denmark for burial the next year, leaving his son Poul to carry on his work. In Copenhagen, he was named Superintendent of the Greenland Mission Seminary (Seminarium Groenlandicum) and in 1741 the Lutheran Bishop of Greenland. A catechism for use in Greenland was completed by 1747. He died on 5 November 1758 at the age of 72 in Stubbekøbing at Falster, Denmark.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_HEADING_6">
+			<Text>Legacy of an Apostle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_EGEDE_TEXT_6">
+			<Text>Hans Egede is a national icon of Greenland, becoming equivalent to a national saint of Greenland. The town of Egedesminde ("Memory of Egede") commemorates him. It was established by Hans's second son, Niels, in 1759 on the Eqalussuit peninsula. tatues of Hans Egede stand watch over Greenland's capital in Nuuk and outside of Frederik's Church in Copenhagen. His grandson and namesake Hans Egede Saabye also became a missionary to Greenland and published a celebrated diary of his time there.[NEWLINE][NEWLINE]Egede has also had a number of other honours named after him – the Egede Medal, established by the Royal Danish Geographical Society in 1916, the Egede Crater on the south edge of Mare Figoris (the Sea of Cold). His mission was ultimately successful, as inhabitants of the island are overwhelmingly Lutheran.</Text>
+		</Row>
+
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_GREENLAND_SHORT">
+			<Text>Give Us This Day Our Daily Seal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_GREENLAND">
+			<Text>Settlers and Great People may quickly Embark after founding a Religion, and spawn a Missionary in their place when expended. Converting a friendly city to your Religion for the first time spawns up to three Sea Resources in nearby tiles.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_SENSHI_APOSTLE">
+			<Text>Apostle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_APOSTLE_STRATEGY">
+			<Text>Unique Greenlandic replacement for the Great Prophet. In addition to the Prophet's regular bonuses, the Apostle may found cities on foreign continents. Cities founded by an Apostle begin with two extra Citizens, and exert double Religious pressure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_APOSTLE_HELP">
+			<Text>Unique Greenlandic replacement for the Great Prophet. In addition to the Prophet's regular bonuses, the Apostle may found cities on foreign continents. Cities founded by an Apostle begin with two extra Citizens, and exert double Religious pressure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_APOSTLE_TEXT">
+			<Text>Apostle is literally, from Greek, "the one who is sent off". Most famous among apostles is the original Twelve Apostles of Jesus – Simon Peter, Matthew, Andrew, John, James the son of Zebedee, James the son of Alphaeus, Philip, Bartholomew, Simon, Thaddeus/Jude, Thomas, and Judas Iscariot. Thus, in Christianity, an apostle is one who is sent off to spread the word of God. However, apostle does not exclusively refer to these twelve individuals. Hans Egede is referred to as the Apostle of Greenland, as in his capacity as a Dano-Norwegian Lutheran missionary, he launched several mission efforts to Greenland. Thus, a missionary is a very broadly similar term, as missionary is derived from the Latin for "a messenger". </Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_MISSIONSHUS">
+			<Text>Missionshus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_MISSIONSHUS_STRATEGY">
+			<Text>Unique Greenlandic replacement for the Temple. Spawns a Work Boat when constructed in a Coastal city. In addition, the Missionshus stores an additional +5% [ICON_FOOD] Food when a new Citizen is born for each incoming or outgoing Trade Route in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_MISSIONSHUS_HELP">
+			<Text>Unique Greenlandic replacement for the Temple. Spawns a Work Boat when constructed in a Coastal city. In addition, the Missionshus stores an additional +5% [ICON_FOOD] Food when a new Citizen is born for each incoming or outgoing Trade Route in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_SENSHI_MISSIONSHUS_TEXT">
+			<Text>A missionshus, roughly "mission house" or chapel, were Christian religious buildings, often referred to as "himlalador" which is translated as "heavenly lads".  The missionshus typically had no heating system, nor benches. These houses were often some of the first buildings to be built in Greenland, with the first built by Hans Egede, and many more by his sons, Poul Egede and Niels Egede. Owing to both the enormous cultural, historical and religious heritage of these buildings, many have, in modern times, turned into destinations for which tourists come to pay homage, often after being restored. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_SEN_APOSTLE">
+			<Text>Dummy: Apostle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_SEN_APOSTLE_HELP">
+			<Text>Dubs religious pressure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_SEN_MISSIONSHUS">
+			<Text>Dummy: Missionshus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_SEN_MISSIONSHUS_HELP">
+			<Text>Food kept.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

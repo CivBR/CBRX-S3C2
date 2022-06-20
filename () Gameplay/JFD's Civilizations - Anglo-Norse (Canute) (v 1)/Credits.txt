@@ -1,0 +1,55 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Art (Civ Icon, Unit Icon)
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+Danrell: 
+----------------
+	Graphics (Unit Model)
+	https://forums.civfanatics.com/resources/civ5-ancient-unit-pack-04-viking.19542/
+----------------
+DarthStarKiller: 
+----------------
+	Research (City-List)
+----------------
+Renlav: 
+----------------
+	Art (Unit Icon), Graphics (Unit Model)
+	https://steamcommunity.com/sharedfiles/filedetails/?id=912149804
+----------------
+TarcisioCM: 
+----------------
+	Art (Leaderscene, Map)
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Jeff van Dyck: 
+----------------
+	Music (Medieval Total War - Euro Mobilize 1 (Long Track); Medieval: Total War ~ Viking Battle Theme ~ OST)
+	https://www.youtube.com/watch?v=KgWpr_pD3C4
+	https://www.youtube.com/watch?v=vZFaieNEs4c
+----------------
+Britannica.com: 
+----------------
+	Pedias
+	https://www.britannica.com/biography/Canute-I
+----------------
+Wikipedia.com: 
+----------------
+	Pedias
+	https://en.wikipedia.org/wiki/North_Sea_Empire
+	https://en.wikipedia.org/wiki/Longship#Drakkar
+	http://www.thefullwiki.org/Canute
+--------------------------------------------------------------
+--------------------------------------------------------------

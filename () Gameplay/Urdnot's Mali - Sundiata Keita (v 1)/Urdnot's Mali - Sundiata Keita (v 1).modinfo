@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7c17501a-750d-4294-be44-69fd7279cbd8" version="1">
+  <Properties>
+    <Name>Urdnot's Mali - Sundiata Keita</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Empire of Mali under the great warrior king Sundiata Keita.</Teaser>
+    <Description>The Empire of Mali
+[NEWLINE][NEWLINE]
+UA: The Lion King[NEWLINE]
+Making purchases rushes the production of units or military buildings in that city, and  heals your units during a Golden Age. Trade buildings pacify conquered cities and yield +2 happiness. 
+[NEWLINE][NEWLINE]
+UU: Ton-tigi (Knight) [NEWLINE]
+Is a ranged unit unlike the Knight it replaces, and has the indirect fire promotion, but must set up to fire. Lacks the Knight's penalty versus cities, and receives the siege promotion if bought rather than trained. 
+[NEWLINE][NEWLINE]
+UU: Donson Ton (Barracks) 
+The Donson Ton is much more expensive than the barracks and costs +1 maintenance but may be both purchased and constructed, allowing for two in the same city. +1 happiness.</Description>
+    <Authors>Urdnot</Authors>
+    <SpecialThanks>Darth, Chrisy and Tophat</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="2BF14CE02220F724B8E30A7705F322A9" import="1">art/Graphics/Horseman/SonghaiBlackHorse.dds</File>
+    <File md5="8CE498C6990263C3D7E3DE051B52C272" import="1">art/Graphics/Horseman/SonghaiBlackHorse_sref.dds</File>
+    <File md5="010C0C869BCC8D4B150539174462CD9F" import="1">art/Graphics/Horseman/SonghaiMedHorseman.br2</File>
+    <File md5="16D21E2662336827C3C081BBF67D3ACD" import="1">art/Graphics/Horseman/SonghaiMedHorseman.dds</File>
+    <File md5="B9DB39EB371C36C2757F30BBEA9FDA75" import="1">art/Graphics/Horseman/SonghaiMedHorseman.fxsxml</File>
+    <File md5="483265D8AECEB690BB4DE6820059CFC5" import="1">art/Graphics/Horseman/SonghaiMedHorseman.gr2</File>
+    <File md5="F3CF9B25562DF8FDC8AF8533EAE5FD57" import="1">art/Graphics/Horseman/SonghaiMedHorseman.jpg</File>
+    <File md5="7D30FA390C6C504D0E5B09EFB05D6645" import="1">art/Graphics/Horseman/SonghaiMedHorsemanFinal.blend</File>
+    <File md5="BD25FAB1F143DFF925EE5CE356EA74E8" import="1">art/Graphics/Horseman/SonghaiMedHorseman_sref.dds</File>
+    <File md5="A357F946852DCAFD71E04202043FC1EC" import="1">art/Icons/SundiataAlpha_128.dds</File>
+    <File md5="4346E05566098EF8EEC25571D1A5128F" import="1">art/Icons/SundiataAlpha_24.dds</File>
+    <File md5="2F495BD082C6D4CE86454AB593BAD745" import="1">art/Icons/SundiataAlpha_256.dds</File>
+    <File md5="5F65EA70300DED912A160F3F2349B4A6" import="1">art/Icons/SundiataAlpha_32.dds</File>
+    <File md5="47EF02449E2278D14D1251C2ACBC10CD" import="1">art/Icons/SundiataAlpha_48.dds</File>
+    <File md5="8752E6E66D15E93CBCD1A69EEDCBD0A8" import="1">art/Icons/SundiataAlpha_64.dds</File>
+    <File md5="F84A769FA2AB62F4FB290891C25D984C" import="1">art/Icons/SundiataAtlas_128.dds</File>
+    <File md5="F57669D00AACE5EE8C6301DE3BCB90D7" import="1">art/Icons/SundiataAtlas_256.dds</File>
+    <File md5="C634E2F8A7D05C7755837A4831A7B68E" import="1">art/Icons/SundiataAtlas_32.dds</File>
+    <File md5="1F56DF8D1A99E03AC9F2712B4C854505" import="1">art/Icons/SundiataAtlas_45.dds</File>
+    <File md5="DC8C291E06B9CB335B6BC6D757AA99D0" import="1">art/Icons/SundiataAtlas_64.dds</File>
+    <File md5="C7111FFA5F04EAD0DB84BECB3D600709" import="1">art/Icons/SundiataAtlas_80.dds</File>
+    <File md5="87DA4A383E86563152B99D6690621BC5" import="1">art/Icons/SundiataUnitAlpha32.dds</File>
+    <File md5="C4D8E1C8B640ACC2CF137D7073C20B88" import="0">art/Leaderscene/US_Sundiata_Scene.xml</File>
+    <File md5="6D87D551E878DEE25FCF0C11F46FEEDA" import="1">art/Leaderscene/US_Sundiata_LS.dds</File>
+    <File md5="D61003A9B22614D0328CAA38715005FE" import="1">art/Maps/malismal.dds</File>
+    <File md5="C92D89F882CC750C45F697F7D69A6914" import="1">art/Maps/US_Sundiata_DoM.dds</File>
+    <File md5="79E970C73D4E95DA526A9487D9EF9660" import="0">audio/US_Sundiata_Peace.mp3</File>
+    <File md5="B113E69DF449DF2F48E4BC14D2F62AB8" import="0">audio/US_Sundiata_War.mp3</File>
+    <File md5="C1F04C25476E1FA7B9F8158FCE2FE876" import="0">core/Mali_Sundiata_ArtDefines.sql</File>
+    <File md5="A6A2F9BBF40F4D21A788EC5026D51CB0" import="0">core/Mali_Sundiata_GameDefines.sql</File>
+    <File md5="09495DE007BA0FB6057B248AD9A22574" import="0">core/Mali_Sundiata_GameText.xml</File>
+    <File md5="BC92D6FD9CC2123874C361E404BFF34B" import="0">core/Mali_Sundiata_ModSupport.sql</File>
+    <File md5="961F2E629AAB13A21BC2105894FB0D6E" import="0">lua/UrdMali.lua</File>
+    <File md5="2645E0F7DDB95845A5DC45F1F72E630A" import="0">lua/UrdMali.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>core/Mali_Sundiata_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>core/Mali_Sundiata_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>core/Mali_Sundiata_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>core/Mali_Sundiata_ArtDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="lua/UrdMali.lua">
+      <Name>Mali LUA</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

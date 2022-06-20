@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/19/2017 10:25:29 PM -->
+<GameData>
+	<Language_en_US>
+
+		<!--Provinces-->
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_PG_RIODELAPLATA">
+			<Text>Villa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_PG_RIODELAPLATA">
+			<Text>Intendente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_PG_RIODELAPLATA_FEMININE">
+			<Text>Intendente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_PG_RIODELAPLATA">
+			<Text>Ciudad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_PG_RIODELAPLATA">
+			<Text>Alcalde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_PG_RIODELAPLATA_FEMININE">
+			<Text>Alcaldesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_PG_RIODELAPLATA">
+			<Text>Provincia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_PG_RIODELAPLATA">
+			<Text>Gobernador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_PG_RIODELAPLATA_FEMININE">
+			<Text>Gobernador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COLONY_DESC_PG_RIODELAPLATA">
+			<Text>Territorio Nacional</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COLONY_DESC_RULER_PG_RIODELAPLATA">
+			<Text>Gobernador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COLONY_DESC_RULER_PG_RIODELAPLATA_FEMININE">
+			<Text>Gobernador</Text>
+		</Row>
+		
+		<!--JFD Government Titles-->
+	
+	
+	
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_GOVERNMENT_PG_RIODELAPLATA">
+		<Text>Pueblo {1_CivAdj}</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_PG_RIODELAPLATA">
+		<Text>Cacique</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_PG_RIODELAPLATA_FEMININE">
+		<Text>Cacique</Text>
+	</Row>
+	
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_PRINCIPALITY_TITLE_GOVERNMENT_PG_RIODELAPLATA">
+		<Text>Junta del {1_CivName}</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_PRINCIPALITY_TITLE_LEADER_RIODELAPLATA">
+		<Text>Presidente de la Junta</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_PRINCIPALITY_TITLE_LEADER_PG_RIODELAPLATA_FEMININE">
+		<Text>Presidente de la Junta</Text>
+	</Row>
+	
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_GOVERNMENT_PG_RIODELAPLATA">
+		<Text>Virreinato del {1_CivName}</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_LEADER_PG_RIODELAPLATA">
+		<Text>Virrey</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_LEADER_PG_RIODELAPLATA_FEMININE">
+		<Text>Virreina</Text>
+	</Row>
+		
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_EMPIRE_TITLE_GOVERNMENT_PG_RIODELAPLATA">
+		<Text>Imperio del {1_CiName}</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_EMPIRE_TITLE_LEADER_PG_RIODELAPLATA">
+		<Text>Emperador</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_EMPIRE_TITLE_LEADER_PG_RIODELAPLATA_FEMININE">
+		<Text>Emperatriz</Text>
+	</Row>
+	
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_COMMONWEALTH_TITLE_GOVERNMENT_PG_RIODELAPLATA">
+		<Text>Provincias Unidas del {1_CivName}</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_COMMONWEALTH_TITLE_LEADER_PG_RIODELAPLATA">
+		<Text>Director Supremo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_COMMONWEALTH_TITLE_LEADER_PG_RIODELAPLATA_FEMININE">
+		<Text>Directora Suprema</Text>
+	</Row>
+	
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_GOVERNMENT_PG_RIODELAPLATA">
+		<Text>República del {1_CivName}</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_PG_RIODELAPLATA">
+		<Text>Gobernador</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_PG_RIODELAPLATA_FEMININE">
+		<Text>Gobernadora</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_LATE_PG_RIODELAPLATA">
+		<Text>Presidente</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_LATE_PG_RIODELAPLATA_FEMININE">
+		<Text>Presidente</Text>
+	</Row>
+	
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_LEADER_PG_RIODELAPLATA">
+		<Text>General</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_LEADER_PG_RIODELAPLATA_FEMININE">
+		<Text>Generala</Text>
+	</Row>
+	
+	<Row Tag="TXT_KEY_GOVERNMENT_JFD_FEDERATION_TITLE_GOVERNMENT_PG_RIODELAPLATA">
+		<Text>Confederación del {1_CivName}</Text>
+	</Row>
+	
+	<!--JFD Governments-->
+	<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_PG_RIODELAPLATA">
+		<Text>Congreso Nacional Constituyente</Text>
+	</Row>
+	
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA">
+		<Text>Presidente de la Junta Grande</Text>
+	</Row>
+	
+	<!--JFD Heads of Government-->
+	
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_1">
+		<Text>Cornelio Saavedra</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_2">
+		<Text>Manuel Belgrano</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_3">
+		<Text>Juan José Castelli</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_4">
+		<Text>Miguel de Azcuénaga</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_5">
+		<Text>Manuel Alberti</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_6">
+		<Text>Domingo Matheu</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_7">
+		<Text>Juan Larrea</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_8">
+		<Text>Juan José Paso</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_9">
+		<Text>Mariano Moreno</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_10">
+		<Text>José Simón García de Cossio</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_11">
+		<Text>Juan Francisco Tarragona</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_12">
+		<Text>Manuel Felipe Molina</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_13">
+		<Text>Gregorio Funes</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_14">
+		<Text>José Julián Pérez</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_15">
+		<Text>Francisco de Gurruchaga</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_16">
+		<Text>Juan Ignacio Gorriti</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_17">
+		<Text>José Antonio Olmos</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_18">
+		<Text>Marcelino Poblet</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_19">
+		<Text>Hipólito Vieytes</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_20">
+		<Text>Francisco Ortiz de Campo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_21">
+		<Text>Feliciano Antonio Chilcana</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_22">
+		<Text>Juan Martín de Pueyrreidón</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_23">
+		<Text>Gervasio Posadas</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_24">
+		<Text>Carlos María de Alvear</Text>
+	</Row>
+	<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_PG_RIODELAPLATA_25">
+		<Text>Juan Pedro Aguirre</Text>
+	</Row>
+		</Language_en_US>
+</GameData>

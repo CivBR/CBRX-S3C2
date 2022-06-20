@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/4/2021 3:40:37 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE">
+			<Text>Pretty Nose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ASQ_PRETTYNOSE_SHORT">
+			<Text>People of the Blue Sky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ASQ_PRETTYNOSE">
+			<Text>Gain a free mounted unit each time you complete a [ICON_TRADE] trade route. Cities settled on a strategic resource create the relevant improvement and get a free trade route slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_NAME">
+			<Text>Pretty Nose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_SUBTITLE">
+			<Text>War Chief of the Northern Arapaho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_LIVED">
+			<Text>1851-1952AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_HEADING_1">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_TEXT_1">
+			<Text>Pretty Nose was an Arapaho woman who participated in the Battle of the Little Bighorn, one of the most notable battles of the Great Sioux War of 1876. She later became a respected elder member of the tribe, living to be at least 101 years old. It is also reputably believed that she became an Arapaho war chief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_HEADING_2">
+			<Text>Early Life, the Battle of Little Bighorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_TEXT_2">
+			<Text>The Battle of the Little Bighorn, known to the Lakota and other Plains Indians as the Battle of the Greasy Grass, was an armed engagement between combined forces of the Lakota, Northern Cheyenne, and Arapaho tribes and the 7th Cavalry Regiment of the United States Army. The battle, which resulted in the defeat of U.S. forces, was the most significant action of the Great Sioux War of 1876. It took place on June 25 to 26, 1876, along the Little Bighorn River in the Crow Indian Reservation in southeastern Montana Territory. The fight was an overwhelming victory for the Lakota, Northern Cheyenne, and Arapaho, who were led by several major war leaders, including Crazy Horse and Chief Gall, and had been inspired by the visions of Sitting Bull. In this battle, Pretty Nose was a member of the combined Cheyenne and Arapaho detachment. This was at a relatively young age, being roughly 25 to 30 years of age. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_HEADING_3">
+			<Text>Laton Alton Huffman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_TEXT_3">
+			<Text>In roughly 1879, a few years after the Battle of Little Bighorn, Pretty Nose was photographed by Laton Alton Huffman, photographs which now are part of the collection of the Princeton Library. One of these photographs was a portrait of Pretty Nose wearing a cloth dress with a woven cloth belt and a buffalo robe, along with earrings, bracelet, rings and necklace. Another photograph showed Pretty Nose with another young woman, Spotted Fawn. It is believed by some that they were sisters. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_HEADING_4">
+			<Text>Later Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_PEDIA_TEXT_4">
+			<Text>Pretty Nose lived to the age of 101. Her grandson, Mark Soldier Wolf, became an Arapaho tribal elder who served in the US Marine Corps during the Korean War. On his return to the Wind River Indian Reservation in 1952, at the end of her life, Pretty Nose donned a buckskin dress, detailed with elk teeth, and wearing red, black and white beaded cuffs to demonstrate her rank as an Arapaho war chief. She died this same year.</Text>
+		</Row>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO">
+			<Text>The Arapaho</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SHORT">
+			<Text>The Arapaho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_ADJ">
+			<Text>Arapaho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_DOM">
+			<Text>
+				Acclimations, Pretty Nose, war chief of the Arapaho and veteran of the Battle of Little Bighorn, more commonly known among your people as the Battle of the Greasy Grass. It was in this battle that you displayed your commitment to your people, fighting in one of the greatest victories for your people in the Great Sioux War, taking part as a member of the combined detachment of Cheyenne and Arapaho. Only still a young woman, you were photographed almost five years later, and your story was carried on by your descendant, Mark Soldier Wolf, a tribal elder who detailed your elder years and your pride, greeting your returning grandson in red, black and white beaded cuffs to demonstrate your rank and show solidarity with your kin.
+				[NEWLINE]
+				Pretty Nose, the greatest battles are yet ahead. Your people once again require the grit and determination of a leader blessed with as much courage as yourself, as they still have many battles to face. They need you to lead them for one last battle to rise to their true potential, unbridled of the sins of the past committed against them. Will you fight for your people? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_HEADING_1">
+			<Text>Creation Myth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_TEXT_1">
+			<Text>The creation myth of the Arapaho people shows a connection with the Algonquian people. Both cultures have an "earth-diver creation myth". The Arapaho myth begins with a being called Flat Pipe who exists alone upon the water. The Great Spirit suggests to Flat Pipe that he create creatures to build a world. He first conceives of ducks and other water birds who dive beneath the surface of the water but are not able to find land. With guidance from the Great Spirit, Flat Pipe creates a turtle who can live on both land and in the water. The Turtle dives and returns, spitting out a piece of land which grows into the earth. Flat Pipe then goes about creating men, women and animals to populate the earth. The turtle is common to many "earth-diver" creation myths. This myth is an example of "creation by thought". Flat Pipe creates the creatures by thinking of them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_HEADING_2">
+			<Text>The divisions of Arapaho People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_TEXT_2">
+			<Text>The Arapaho recognize five main divisions among their people, each speaking a different dialect and apparently representing as many originally distinct but cognate tribes. Through much of Arapaho history, each tribal nation maintained a separate ethnic identity, although they occasionally came together and acted as political allies. Each spoke mutually intelligible dialects, which differed from Arapaho proper. Dialectally, the Haa'ninin, Beesowuunenno', and Hinono'eino were closely related. Arapaho elders claimed that the Hánahawuuena dialect was the most difficult to comprehend of all the dialects. Alfred Kroeber identified these five nations from south to north: Nanwacinaha'ana, Nawathi'neha or Nanwuine'nan / Noowo3iineheeno'; Hánahawuuena, Hananaxawuune'nan or Aanû'nhawa; Hinono'eino or Hinanae'inan; Beesowuunenno', Baasanwuune'nan or Bäsawunena; and the Haa'ninin, A'aninin or A'ani. Over time, and after contact with the Europeans, this became the Northern Arapaho and Southern Arapaho.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_HEADING_3">
+			<Text>Language of the Arapaho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_TEXT_3">
+			<Text>The Arapaho language is currently spoken in two different dialects, and it is considered to be a member of the Algonquian language family. The number of fluent speakers of Northern Arapaho dwindles at 250, most living on the Wind River Reservation in Wyoming, while the number of Southern Arapaho speakers is even more scarce, only a handful of people speak it, all advanced in age. The Northern Arapaho have made a great effort to maintain the language through establishing the Language and Culture Commission. By producing audio and visual materials, they have provided ways for younger generations to learn the language. They have matched this effort with a preschool immersion program and is offered all throughout grade school. However, the number of students that take the subject is wavering and those who learn typically only retain a selection of memorized vocabulary. There is a widespread interest in keeping the language alive for the Northern Arapaho.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_HEADING_4">
+			<Text>The Early history of the Arapaho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_TEXT_4">
+			<Text>Around 3,000 years ago, the ancestral Arapaho-speaking people, the Heeteinono'eino' lived in the western Great Lakes region along the Red River Valley in what is classified as present-day Manitoba, Canada and Minnesota, United States. There the Arapaho were an agricultural people who grew crops, including maize. Following European colonization in eastern Canada, together with the early Cheyenne people, the Hitesiino', the Arapaho were forced to migrate westward onto the eastern Great Plains by the Ojibwe. They were numerous and powerful, having obtained guns from their French trading allies. The ancestors of the Arapaho people entered the Great Plains the western Great Lakes region sometime before 1700. During their early history on the plains, the Arapaho lived on the northern plains from the South Saskatchewan River in Canada south to Montana, Wyoming, and western South Dakota. Before the Arapaho acquired horses, they used domestic dogs as pack animals to pull their travois. The Arapaho acquired horses in the early 1700s from other tribes, which changed their way of life. They became a nomadic people, using the horses as pack and riding animals. They could transport greater loads and travel more easily by horseback to hunt more easily and widely, increasing their success in hunting on the Plains. Gradually, the Arapaho moved farther south, split into the closely allied Northern and Southern Arapaho, and established a large joint territory spanning land in southern Montana, most of Wyoming, the Nebraska Panhandle, central and eastern Colorado, western Oklahoma, and extreme western Kansas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_HEADING_5">
+			<Text>The Sand Creek Massacre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_TEXT_5">
+			<Text>Several skirmishes had ignited hatred from white settlers that lived in the area of the Arapaho, and left Arapaho and Cheyenne tribes in constant fear of being attacked by American troops. For example, on April 12, 1864, a rancher brought troops to attack a group of 15 warriors who had asked for reward from bringing his mules back to him. The warriors acted in self-defense, and sent the troops running. Word got back to Colonel John Chivington, and they had told him the Indians shot first. He also heard there were 175 cattle head stolen from the government. Chivington "ordered troops to find and 'chastise' the 'Indians'." Soldiers burned villages and sought out to kill Indians, the violence escalating months before the Sand Creek Massacre. In November 1864, the Colorado militia, led by Colonel John Chivington, massacred a small village of Cheyenne and Arapaho in the Sand Creek massacre. According to an historical narrative on the event titled "Chief Left Hand", by Margaret Coel, there were several events that led to the Colorado militia's attack on the village. Governor Evans desired to hold title to the resource rich Denver-Boulder area. The government trust officials avoided Chief Left Hand, a linguistically gifted Southern Arapaho chief, when executing their treaty that transferred title of the area away from Indian Trust. The local cavalry was stretched thin by the demands of the Civil War while Indian warriors, acting independently of Chief Left Hand, raided their supply lines. A group of Arapaho and Cheyenne elders with women and children had been denied their traditional wintering grounds in Boulder by the cavalry and were ordered to come to Fort Lyon for food and protection or be considered hostile. On arrival at Lyon, Chief Left Hand and his followers were accused of violence by Colonel Chivington. Chief Left Hand and his people got the message that only those Indians that reported to Fort Lyon would be considered peaceful, and all others would be considered hostile and ordered killed. Confused, Chief Left Hand and his followers turned away and traveled a safe distance away from the Fort to camp. A traitor gave Colonel Chivington directions to the camp. He and his battalion stalked and attacked the camp early the next morning. Rather than heroic, Colonel Chivington's efforts were considered a gross embarrassment to the Cavalry since he attacked peaceful elders, women and children. As a result of his war efforts, instead of receiving the promotion to which he aspired, he was relieved of his duties. The events at Sand Creek sparked outrage among the Arapaho and Cheyenne resulting in three decades of war between them and the United States. Much of the hostilities took place in Colorado leading to many of the events being referred to as part of the so-called Colorado War. Battles and hostilities elsewhere on the southern plains such as in Kansas and Texas are often included as part of the "Comanche Wars". During the wars, the Arapaho and Cheyenne allies the Kiowa, Comanche, and Plains Apache would participate in some battles alongside them. The Lakota from the north came down into northern Colorado to help the Arapaho and Cheyenne there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_HEADING_6">
+			<Text>Red Cloud’s War and the Great Sioux War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_TEXT_6">
+			<Text>Red Cloud's War was a war fought between soldiers of the United States and the allied Lakota, Northern Cheyenne, and Northern Arapaho from 1866 to 1868. The war was named after the prominent Oglala Lakota chief Red Cloud who led many followers into battle with the invading soldiers. The war was a response to the large number of miners and settlers passing through the Bozeman Trail, which was the fastest and easiest trail from Fort Laramie to the Montana gold fields. The Bozeman Trail passed right through the Powder River Country which was near the center of Arapaho, Cheyenne, Lakota, and Dakota territory in Wyoming and southern Montana. The large number of miners and settlers competed directly with the Indians for resources such as food along the trail. The most significant battle during Red Cloud's War was the Fetterman Fight, also known as Battle of The Hundred in the Hand to the Indian forces fought on December 21, 1866. The battle was the greatest military defeat by the US on the Great Plains until the Battle of the Little Bighorn ten years later. Red Cloud's War ended in a victory for the Arapaho, Cheyenne, Lakota, and Dakota. The Treaty of Fort Laramie guarantied legal control of the Powder River country to the Indians. The Great Sioux War of 1876–77, also known as the Black Hills War or Great Cheyenne War, was a major conflict that was fought between the Lakota Sioux, Cheyenne, and Arapaho alliance and the US Army. The war was started after miners and settlers traveled into the Black Hills area and found gold, resulting in increased numbers of non-Indians illegally entering designated Indian lands. A large part of Cheyenne and Arapaho territory and most of Sioux territory known as the Great Sioux Reservation was guaranteed legally to the tribes by the Treaty of Fort Laramie after they defeated the US during Red Cloud's War in 1868. The Arapaho, along with their allies, were victorious in the Battle of Little Bighorn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_HEADING_7">
+			<Text>Wind River Indian Reservation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_TEXT_7">
+			<Text>In the winter of 1878-79, the United States Army escorted the Northern Arapaho to the Sweetwater Valley near Independence Rock and then temporarily placed them at the Shoshone's Fort Washakie Agency to receive rations. This decision to place the Arapaho in close proximity with their historic enemies the Shoshone has had significant historical and political consequences. In practice the Arapaho did not wish to locate permanently at an agency shared by the Sioux. They were belittled by leaders of the more powerful Sioux including Red Cloud and wanted to avoid being culturally subsumed within the Lakota Nation. Instead, the Arapaho hoped for a reservation of their own. To seek favor of the Army, leaders Chief Black Coal (Northern Arapaho), Sharp Nose and their followers allied with Gen. George Crook as scouts against their former allies the Cheyenne, participating in the November 1876 Dull Knife Fight on the side of the United States, along with Shoshone, Cheyenne, Sioux, and Pawnee scouts. Officers of the United States Army supported the idea of an Arapaho reservation in eastern Wyoming Territory — General Crook may have promised an agency on the Tongue River. Yet federal policy prevented this from coming to fruition, partly because the United States had essentially stopped negotiating reservation treaties with tribes after 1868, preferring instead to use executive orders in such agreements. In 1878 the U.S. Army saw the onset of winter with roughly 1,000 hungry and impoverished Arapaho still averse to living near the Red Cloud Agency, at an agreed-upon agency of Fort Randall, or in Indian Territory with the Southern Arapaho. Chief Black Coal had previously visited the Southern Arapaho reservation on the Canadian River in Oklahoma, finding the location unacceptable. So, Army officers looked to Fort Washakie as the closest alternate agency for distributing rations, even though the Shoshone held treaty rights to decide what other tribes they were willing to admit to the reservation under the Fort Bridger Treaty Council of 1868.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_HEADING_8">
+			<Text>A Complicated History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_ARAPAHO_TEXT_8">
+			<Text>The supposedly temporary placement of the Arapaho at Fort Washakie Agency became permanent because the United States government never took further action to relocate the tribe. The Arapaho held out hope for a reservation of their own until 1890, when Gen. Crook died. In late-1800s dealings including land cessions, the government repeatedly acted as if the Arapaho were a party of their reservation and its resources by including them in cession discussions like the sale of the Thermopolis Hot Springs. It wasn't until the conclusion of the 1938 U.S. Supreme Court Case United States v. Shoshone Tribe of Indians that the government recognized it had wrongly given Shoshone land and resources to the Arapaho. A subsequent land deal then officially solidified Arapaho claim as half-owners of tribal lands and resources on the Shoshone Indian Reservation, which was officially renamed the Wind River Indian Reservation. This complicated history of the Arapaho arrival on the reservation continues to affect intertribal relations and politics on the reservation today. Over time, intermarriage between members of the two tribes has occurred, building connections between members of the historically enemy tribes and encouraging political cooperation. Yet efforts to maintain and exert independent sovereignty of each tribe remain a major dynamic on the reservation. In the 1970s and 1980s, oil and gas operators on the Wind River Indian Reservation were found to be stealing oil from the Eastern Shoshone and Northern Arapaho. In a coordinated scheme, companies extracted oil and paid some production royalties to tribes, while also secretly collecting and selling a separate supply of oil for which they paid no royalties. The exposé led to reforms.</Text>
+		</Row>
+		<!--Unit-->
+		<Row Tag="TXT_KEY_UNIT_ASQ_BENIIINEN">
+			<Text>Beniiinen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_BENIIINEN_HELP">
+			<Text>Replaces the Knight. Ignores Zone of Control and gets yields on kill depending on level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_BENIIINEN_STRATEGY">
+			<Text>The Beniiien is a powerful medieval cavalry unit that gives increasing bonuses the more you use it. Level one grants gold on kills, then culture at two, faith at three, and science at four. After this, it loops back and inceases existing yields.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_BENIIINEN_PEDIA">
+			<Text>Beniiinen is the Arapaho word for soldier. The Arapaho, usually in concert with the Cheyenne, were involved in a number of battles, skirmishes, and massacres, usually against the United States. Some of the most notable of these conflicts were the Sand Creek Massacre, Red Cloud’s War, and most famously, the Great Sioux War of 1876 and the Battle of Little Bighorn. A large part of Arapaho society was based around the warrior. Most young men sought this role. After adopting use of the horse, the Arapaho quickly became master horsemen and highly skilled at fighting on horseback. Like other plains Indians, including their Cheyenne allies, the Arapaho have a number of distinct military societies. Each of the eight Arapaho military societies had their own unique initiation rites, pre- and post- battle ceremonies and songs, regalia, and style of combat. Unlike their Cheyenne, Lakota, and Dakota allies, the Arapaho military societies were age based. Each age level had its own society for prestigious or promising warriors of the matching age. Warriors often painted their face and bodies with war paint, as well as their horses, for spiritual empowerment. Each warrior created a unique design for the war paint which they often wore into battle. Feathers from birds, particularly eagle feathers, were also worn in battle as symbols of prestige and for reasons similar to war paint. Before setting out for war, the warriors organized into war parties. War parties were made up of individual warriors and a selected war chief. The title of war chief must be earned through a specific number of acts of bravery in battle known as counting coup. Coups may include stealing horses while undetected, touching a living enemy, or stealing a gun from an enemy's grasp. Arapaho warriors used a variety of weapons, including war-clubs, lances, knives, tomahawks, bows, shotguns, rifles, and pistols.</Text>
+		</Row>
+		<!--Building-->
+		<Row Tag="TXT_KEY_BUILDING_ASQ_TRAVOIS">
+			<Text>Travois Post</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_TRAVOIS_HELP">
+			<Text>Replaces the caravansary. Increases trade route [ICON_TRADE] range by 10% per copy of horses [ICON_HORSES] controlled by the city.  25% of trade route income [ICON_GOLD] in this city is converted into production [ICON_PRODUCTION].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_TRAVOIS_STRATEGY">
+			<Text>The Travois Post is a good way of expanding your trade route range in the early game to reach more destinations. Settle areas with lots of horses for optimum outcome, and recieve production for your efforts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_TRAVOIS_PEDIA">
+			<Text>A travois is a historical frame structure that was used by indigenous peoples, notably those of the plains. The basic construction consists of a platform or netting mounted on two long poles, lashed in the shape of an elongated isosceles triangle; the frame was dragged with the sharply pointed end forward. Sometimes the blunt end of the frame was stabilized by a third pole bound across the two poles. A travois could either be loaded by piling goods atop the bare frame and tying them in place, or by first stretching cloth or leather over the frame to hold the load to be dragged. These travois could also be used stationary, in a group, and create something resembling a non-permanent trading post. What today is known as the Lewis and Clark Trail-Travois Road, and Montana's Lewis and Clark Pass were areas heavily traveled where travois "were dragged over the trail, causing deep, parallel tracks to mark the earth," which are still visible today.</Text>
+		</Row>
+		<!--Promotion-->
+		<Row Tag="TXT_KEY_PROMOTION_ASQ_ARAPAHO_IGNORE_ZOC">
+			<Text>Dog Eater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ASQ_ARAPAHO_IGNORE_ZOC_HELP">
+			<Text>Ignores Zone of Control.</Text>
+		</Row>
+		
+		<!--Cities
+		taken from https://www.colorado.edu/center/csilw/language-archives/arapaho-word-lists/place-names
+		ty sas :pleasedtibs:-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_1">
+			<Text>Wootei-niicie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_2">
+			<Text>Nii-cii-nec-iini'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_3">
+			<Text>Nook-oowu'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_4">
+			<Text>Konouutosei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_5">
+			<Text>Heet-niiseekuu'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_6">
+			<Text>Nonookuneeseeii'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_7">
+			<Text>Ceneit-eetee'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_8">
+			<Text>Tecenoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_9">
+			<Text>Heet-hockoootee-t</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_10">
+			<Text>Xonouu'oo'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_11">
+			<Text>Biito'owu'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_12">
+			<Text>Wox Noho'kuhnee-t</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_13">
+			<Text>Noowóo-ííteen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_14">
+			<Text>Heet-ko'einoo'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_15">
+			<Text>Hóo'uu Níit-ko'ús-i'i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_16">
+			<Text>Hinenitee Toh-nooxeih-t</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_17">
+			<Text>Toh-okooxeee-ni'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_18">
+			<Text>Níit-kotóus-í'i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_19">
+			<Text>Heneeceen-okoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_20">
+			<Text>Nihoon-oobe'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_21">
+			<Text>Beexookein-okoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_22">
+			<Text>Notkonii-booo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_23">
+			<Text>Ni'ec-i' Toh-booeti-</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_24">
+			<Text>Tih-noo'oeenootee' Ni'ec-i'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_25">
+			<Text>Neniikote'eit Neh'eih-t</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_26">
+			<Text>Wox-eihtoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_27">
+			<Text>Hisei Tih-nooee-t</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_28">
+			<Text>Ti'iihiinen Tih-neh'eee-t</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_29">
+			<Text>Beniis-otoyoo'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_30">
+			<Text>Hiwoxuu Hiniioon</Text>
+		</Row>
+		
+		<!--Spies-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_1">
+			<Text>Black Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_2">
+			<Text>Black Kettle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_3">
+			<Text>Little Raven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_4">
+			<Text>Black Coal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_5">
+			<Text>Friday</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_6">
+			<Text>Plenty Bear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_7">
+			<Text>Sorrel Horse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_8">
+			<Text>Sharp Nose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_9">
+			<Text>Left Hand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_10">
+			<Text>Runs-on-Top</Text>
+		</Row>
+		
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_FIRSTGREETING_1">
+			<Text>Tous, my fellow traveller. I am Pretty Nose of the Arapaho, and I would see that you do no harm while in my lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_DEFEATED_1">
+			<Text>Every battle cannot be won. Howouunoni. Have mercy on me. Have mercy on my people. Because beware, we are still strong in defeat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_DOW_GENERIC_1">
+			<Text>The time has come for boo3etiit, or to you, war. I have earned my war cuffs. Have you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_ATTACKED_HOSTILE">
+			<Text>You're quickly going to find yourself wronged if you continue with that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_DEC_FRIENDSHIP_1">
+			<Text>I believe that we can work in harmony together. Do you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_DENOUNCE_1">
+			<Text>What a grotesque display by a grotesque individual. You bring shame upon all your people.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_DENOUNCE_FRIEND_1">
+			<Text> There comes a time where every leader must do what's right. I shall protect my people. Will you?[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You disgust me. There is little else in this world more profoundly pathetic then an individual who does not back their words with weapons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRANQ_BRAZIL_GOULART_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now dressing with porcupine quills and talking about Flat Pipe. I worry the rest of the world will succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRANQ_BRAZIL_GOULART_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I see that your people are now dressing with porcupine quills and talking about Flat Pipe. This is pleasing.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

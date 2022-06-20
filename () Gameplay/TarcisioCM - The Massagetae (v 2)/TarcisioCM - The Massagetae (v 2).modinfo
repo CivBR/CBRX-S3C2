@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1a0acd06-4375-4731-9c16-0fca54f58c1b" version="2">
+  <Properties>
+    <Name>TarcisioCM - The Massagetae</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Massagetae[ENDCOLOR] under Tomyris. Requires BNW.</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]The Massagetae[ENDCOLOR] under Tomyris. Requires BNW.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety and Prestige" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1BB32BB8D86178DCC824FECA3006522A" import="1">Art/DDS/tcmAlphaMassagetae128.dds</File>
+    <File md5="A0563F0B652420526708483A478E20C9" import="1">Art/DDS/tcmAlphaMassagetae16.dds</File>
+    <File md5="C1E92EC977350BBF84DF91358064898E" import="1">Art/DDS/tcmAlphaMassagetae24.dds</File>
+    <File md5="B956452ECE9F936DEA21AFAD8B897E48" import="1">Art/DDS/tcmAlphaMassagetae256.dds</File>
+    <File md5="C168BF0623FBBDB9147D89EE683D6618" import="1">Art/DDS/tcmAlphaMassagetae32.dds</File>
+    <File md5="852B27F9192E4BE1E54BBFB2C4865D66" import="1">Art/DDS/tcmAlphaMassagetae48.dds</File>
+    <File md5="8827B9C233D7AB7198698533697D50F0" import="1">Art/DDS/tcmAlphaMassagetae64.dds</File>
+    <File md5="D0BD1FFEEEB2CD033CC232446D6ACB5F" import="1">Art/DDS/tcmAlphaMassagetae80.dds</File>
+    <File md5="30798311658FF132C9F0177081B35D2E" import="1">Art/DDS/tcmBattleAxemanSV.dds</File>
+    <File md5="CBCFD488E42E8EE4F7A1B3091286BC7D" import="1">Art/DDS/tcmIconMassagetae128.dds</File>
+    <File md5="77FCDB40A19D9375A380DBB6DD226238" import="1">Art/DDS/tcmIconMassagetae256.dds</File>
+    <File md5="A0905BC8B13850FBC38806E9802EF5F2" import="1">Art/DDS/tcmIconMassagetae32.dds</File>
+    <File md5="D5EAAEEE6F4062BCD3FBB23218C573C6" import="1">Art/DDS/tcmIconMassagetae45.dds</File>
+    <File md5="042C1C37D912D03274ADBCFC86981B22" import="1">Art/DDS/tcmIconMassagetae64.dds</File>
+    <File md5="05FA82142862330786CBCBADA572F7C1" import="1">Art/DDS/tcmIconMassagetae80.dds</File>
+    <File md5="8AC4036B9DDC7E89B5F375D94F4257D9" import="1">Art/DDS/tcm_BattleAxemanUnitFlag_32.dds</File>
+    <File md5="F504CDB997401BB5AE01C66621A222B9" import="1">Art/DDS/tcm_dawnofman_tomyris.dds</File>
+    <File md5="7A04EED7A962F2CF0626311798844D5C" import="1">Art/DDS/tcm_leaderscene_tomyris.dds</File>
+    <File md5="B2326C7E0B07140A1F76B6F2BFDEF036" import="1">Art/DDS/tcm_map_massagetae.dds</File>
+    <File md5="066AFFA2D287EEDD9BACF7AA24D45D7F" import="1">Art/Models/MassagetaeAxeman.dds</File>
+    <File md5="C59CDF6485E023240B27578BD639EEBB" import="1">Art/Models/MassagetaeAxeman.fxsxml</File>
+    <File md5="561E981782B458DBC50F254D7423DD2C" import="1">Art/Models/MassagetaeAxeman.gr2</File>
+    <File md5="A7D8345AA5F95CF6B7CC5C7906AB022F" import="1">Art/Models/MassagetaeAxeman_sref.dds</File>
+    <File md5="C3DDADE43309A1A9916595A7D909DCA3" import="1">Art/Music/tcmMassagetaePeace.mp3</File>
+    <File md5="CA8BD601118B3105BACCD51B3EFE6721" import="1">Art/Music/tcmMassagetaeWar.mp3</File>
+    <File md5="C07E682A5A0DCE043E7D096F87F0E1F6" import="1">Art/tcmTomyrisScene.xml</File>
+    <File md5="03892F34BAE885B5ECCFC22ECB671DF5" import="0">Core/CoreSQL.sql</File>
+    <File md5="EC72893EA4A9C1B68C52F12D2EFFA7BD" import="1">Core/Events and Decisions Support/tcm_MassagetaeDecisions.lua</File>
+    <File md5="494925F6AD2DBC11895929D2E4432387" import="0">Core/Functions.lua</File>
+    <File md5="73CB5851CCD6F3B04EF032049403610A" import="0">Core/ArtDefBattleAxeman.xml</File>
+    <File md5="F5FB29D0DE415FEF53FBF11B1DFE85AF" import="0">Core/Diplomacy.sql</File>
+    <File md5="0D3FD92AA9AF683EC3157D63A7354CD8" import="0">Core/Icons.sql</File>
+    <File md5="54CFAD532EEAC3F646C92F021A2D5829" import="0">Core/ModSupport.sql</File>
+    <File md5="991F6D0C2713F1FC5356E6E2A918B8BF" import="0">Core/Gametext.xml</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Core/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Core/SaveUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/CoreSQL.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gametext.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Icons.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefBattleAxeman.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Functions.lua">
+      <Name>Massagetae Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

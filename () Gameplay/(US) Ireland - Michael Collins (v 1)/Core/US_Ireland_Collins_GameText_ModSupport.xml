@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- SUKRITACT's DECISIONS -->
+		<!-- Found the Twelve Apostles -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FOUND_THE_TWELVE_APOSTLES">
+			<Text>Found the Twelve Apostles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FOUND_THE_TWELVE_APOSTLES_DESC">
+			<Text>
+				In order to counter foreign intelligence efforts in these uncertain times, more extreme measures are needed. Let us therefore found The Squad: a professional elite assassination unit!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Must be Ireland.
+				[NEWLINE][ICON_BULLET]Must have reached the Industrial Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE][ICON_BULLET]{1_faith} [ICON_PEACE] Faith.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]-25% foreign Espionage effectiveness in Cities with a garrison.
+				[NEWLINE][ICON_BULLET]Police Stations yield +10% [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FOUND_THE_TWELVE_APOSTLES_ENACTED_DESC">
+			<Text>
+				In order to counter foreign intelligence efforts in these uncertain times, more extreme measures are needed. Let us therefore found The Squad: a professional elite assassination unit!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]-25% foreign Espionage effectiveness in Cities with a garrison.
+				[NEWLINE][ICON_BULLET]Police Stations yield +10% [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_WORLD_EVENTS_FOUND_THE_TWELVE_APOSTLES">
+			<Text>In Ireland, an elite assassination squad known as both the Squad or the Twelve Apostles have begun to operate, countering foreign intelligence efforts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_US_TWELVE_APOSTLES">
+			<Text>US: Ireland Decision Twelve Apostles Building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_US_TWELVE_APOSTLES_HELP">
+			<Text>-25% foreign spy effectiveness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_US_TWELVE_APOSTLES">
+			<Text>US: Ireland Decision Twelve Apostles Policy</Text>
+		</Row>
+		<!-- Encourage the notion of 'Blood Sacrifice' -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_ENCOURAGE_THE_NOTION_OF_BLOOD_SACRIFICE">
+			<Text>Encourage the notion of 'Blood Sacrifice'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_ENCOURAGE_THE_NOTION_OF_BLOOD_SACRIFICE_DESC">
+			<Text>
+				The fools, the fools! — they have left us our Fenian dead, and while Ireland holds these graves, Ireland unfree shall never be at peace. Life springs from death; and from the graves of patriot men and women spring living nations.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Must be Ireland.
+				[NEWLINE][ICON_BULLET]Must be at War.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE][ICON_BULLET]{1_iGold} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]{2_iCulture} [ICON_CULTURE] Culture.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Military Units with 50 or less Health generate [ICON_CULTURE] Culture per turn.
+				[NEWLINE][ICON_BULLET]Garrisoned military Units with 50 or less Health generate [ICON_GREAT_MUSICIAN] Great Musician points.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_ENCOURAGE_THE_NOTION_OF_BLOOD_SACRIFICE_ENACTED_DESC">
+			<Text>
+				The fools, the fools! — they have left us our Fenian dead, and while Ireland holds these graves, Ireland unfree shall never be at peace. Life springs from death; and from the graves of patriot men and women spring living nations.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Military Units with 50 or less Health generate [ICON_CULTURE] Culture per turn.
+				[NEWLINE][ICON_BULLET]Garrisoned military Units with 50 or less Health generate [ICON_GREAT_MUSICIAN] Great Musician points.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 01/05/21 5:15:23 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_UC_MORAZAN_FIRSTGREETING_1">
+			<Text>I welcome you to Centroamerica, I am her president, Francisco Morazan. We strive for progress and liberty and hope that you share these aspirations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_MORAZAN_DEFEATED_1">
+			<Text>I do not desire death for I was an apostle of freedom!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_MORAZAN_ATTACKED_GENERIC_1">
+			<Text>We will not be oppressed by the likes of you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_MORAZAN_DEC_FRIENDSHIP_1">
+			<Text>You share the same soul of the free that we value here in Centroamerica. Would you like to declare friendship with us and leading the way towards liberty?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_MORAZAN_DENOUNCE_1">
+			<Text>You're stuck in the past fool.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_MORAZAN_DOW_GENERIC_1">
+			<Text>When I advance, my men follow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_MORAZAN_GREETING_POLITE_HELLO_1">
+			<Text>Greetings. Been reading any books lately?</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

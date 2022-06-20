@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 08/12/16 12:55:27 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_0">
+			<Text>Ankara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_1">
+			<Text>Istanbul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_2">
+			<Text>Izmir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_3">
+			<Text>Bursa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_4">
+			<Text>Adana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_5">
+			<Text>Gaziantep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_6">
+			<Text>Konya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_7">
+			<Text>Antalya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_8">
+			<Text>Diyarbakir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_9">
+			<Text>Mersin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_10">
+			<Text>Kayseri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_11">
+			<Text>Eskisehir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_12">
+			<Text>Gebze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_13">
+			<Text>Sanliurfa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_14">
+			<Text>Denizli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_15">
+			<Text>Samsun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_16">
+			<Text>Kahramanmaras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_17">
+			<Text>Trabzon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_18">
+			<Text>Adapazari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_19">
+			<Text>Malatya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_20">
+			<Text>Erzurum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_21">
+			<Text>Van</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_22">
+			<Text>Batman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_23">
+			<Text>Elazig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_24">
+			<Text>Izmit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_25">
+			<Text>Manisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_26">
+			<Text>Tarsus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_TURKEY_27">
+			<Text>Sivas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_0">
+			<Text>Shahnaz</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_1">
+			<Text>Farahnaz</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_2">
+			<Text>Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_3">
+			<Text>Leila</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_4">
+			<Text>Jafar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_5">
+			<Text>Asadollah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_6">
+			<Text>Amir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_7">
+			<Text>Ebrahim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_8">
+			<Text>Ahmad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_TURKEY_9">
+			<Text>Eskander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UC_TURKEY_DESC">
+			<Text>Republic of Turkey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UC_TURKEY_SHORT_DESC">
+			<Text>Turkey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UC_TURKEY_ADJECTIVE">
+			<Text>Turkish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UC_TURKEY">
+			<Text>Turkey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_UC_SIX_ARROWS_SHORT">
+			<Text>The Six Arrows</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_UC_SIX_ARROWS">
+			<Text>Promoting land units provides [ICON_PEACE] Faith before entering the Industrial Era, and [ICON_CULTURE] Culture instead afterwards. Gain [ICON_RESEARCH] Science from adopting policies that other known civs have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_DESC">
+			<Text>Ataturk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_UC_ATATURK_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_PEDIA">
+			<Text>Franklin Delano Roosevelt, the 32nd President of the United States, is best known for leading the US out of the Great Depression and to victory in WWII. Crippled by polio at 39, Roosevelt displayed indomitable courage and resolve to overcome his disability and achieve his goals.[NEWLINE][NEWLINE]Roosevelt was a man of contradictions. Though wealthy and powerful, Roosevelt was beloved by the poor and downtrodden and despised as a socialist by the wealthy and powerful. Roosevelt ran for office on a platform of isolationism, but he hated fascism and oppression, and unceasingly worked behind the scenes to aid the UK and get America into World War II.[NEWLINE][NEWLINE]When Roosevelt first became President in 1932, the United States was in a crippling depression. Banks had closed and businesses had failed. Millions were unemployed and falling into poverty. To counter this malaise, Roosevelt enacted a series of policies that he called the "New Deal:" a sweeping program to bring recovery to business and agriculture, relief to the unemployed and to those in danger of losing businesses, farms and homes.[NEWLINE][NEWLINE]Meanwhile, the Depression raged across the entire planet, and mUCh of the rest of the world was degenerating into chaos. Japan was attacking China, while the two great dictators - Hitler and Stalin - were threatening to engulf Europe. The United States had largely withdrawn from world politics after World War I and the failure of the League of Nations, and few American politicians had the stomach to call for intervention. Roosevelt didn't, either, and in fact he ran for reelection on a platform of isolationism.[NEWLINE][NEWLINE]However, Roosevelt sincerely believed that the United States would have to become involved in the conflict one way or another - he abhorred fascism and totalitarianism - and he feared that, left unchecked, Germany, Russia and Japan would become powerful enough to overwhelm everything in their path - including, eventually, the US. Thus he did everything in his power to ready the US for the upcoming conflict by dramatically increasing the size of the US armed forces, pitifully weakened after the end of World War I. Further, he gave as mUCh aid as was politically feasible to England, whom he rightly saw as the unprepared US's chief protection from the German war machine. Meanwhile, he did his best to turn public opinion around in favor of more direct action.[NEWLINE][NEWLINE]It is not clear that Roosevelt would have sUCceeded in that, if it weren't for Japan's attack against Pearl Harbor. Though casualties were extremely heavy, Pearl Harbor did "awake a sleeping giant," and at long last the citizens of the country realized their peril. And when Germany made the huge strategic blunder of declaring war on the United States shortly thereafter, Roosevelt was able to put all of the United States' massive industrial and military might into the conflict.[NEWLINE][NEWLINE]During the war, Roosevelt showed himself to be a masterful international politician; the UK-Soviet-American alliance was shaky at best, and his adroit handling of Stalin and Churchill did mUCh to keep things running (relatively) smoothly. Meanwhile his "fireside chats" kept the country firmly behind him, and world opinion in the allies' favor. It has been said that Hitler hated Roosevelt even more than Stalin or Churchill - high praise indeed.[NEWLINE][NEWLINE]As a military leader Roosevelt was less sure-footed and the US made some early strategic blunders that could have been avoided. He learned quickly, however, and by the end of his life the US military machine was the most powerful that the world had ever seen.[NEWLINE][NEWLINE]Roosevelt died in 1945, shortly before the war ended. His legacies of social welfare and international cooperation would dominate United States policies for the next half a century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_ATATURK_LIVED">
+			<Text>1881 - 1938</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK">
+			<Text>Ataturk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_UC_ATATURK_SUBTITLE">
+			<Text>Leader of Turkey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_UC_ATATURK_TITLES_1">
+			<Text>President of Turkey (1923 - 1938)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_UC_TURKEY">
+			<Text>The Turkish people bow in your presence, illustrious President Ataturk. Your bravery while defending Gallipolli during the Great War won you respect throughout the Turkish nation, who would find itself divided amongst the imperial powers at the war's end. You took command of the Turkish liberation forces and succeeded in securing the independence of the Turkish people from colonial rule. While millions across Turkey lamented the death of the Ottoman Empire and reminisced of the glory they had once known, you instead looked towards the future. Your efforts to reform the Turkish government and society were ambitious, eschewing long standing cornerstones of Turkish society like the caliphate, traditional clothing, Sharia law, and the writing script. Your efforts culminated in the transformation of Turkey into the most modern Middle Eastern nation and a powerhouse in the region. Turkish citizens were proud to repeat your quote "Happy is he who is a Turk!"[NEWLINE][NEWLINE]Visionary president, the future of Turkey is unclear and your people need you to lead the nation once again into greatness. Can you convince the Turkish people of your vision and lead them to modernity? Can you validate your claim to being "Kemal", perfect, by bringing a glory to Turkey unseen for centuries? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_UC_ATATURK">
+			<Text>Ataturk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_UC_KUVA">
+			<Text>Kuva-yi Milliye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_UC_KUVA_STRATEGY">
+			<Text>Replaces the Great War Infantry. Although initally weaker, the Kuva-yi Milliye starts with Drill I and  benefits 50% more from Great Generals. Upgrades into Infantry for free.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_UC_KUVA">
+			<Text>Replaces the Great War Infantry. Although initally weaker, the Kuva-yi Milliye starts with Drill I and  benefits 50% more from Great Generals. Upgrades into Infantry for free.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_UC_HALKEVLERI_TEXT">
+			<Text>Halkevleri, meaning "People's House", was a project established by Ataturk to enlighten the Turkish populace. Ataturk's ambition with the project was to raise literacy and reduce the conversative influences in Turkish society, to put Turkey on the path to modernity and secular society. Halkevleri were free educational centers that offered courses such as literature, science, mathematics, fine arts, and handicrafts. The project started with 17 Halkevleris in major cities, before spreading throughout the nation and totaling more than 4000 by 1950.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_UC_KUVA">
+			<Text>Liberty or Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UC_KUVA_HELP">
+			<Text>Benefits 50% more from Great Generals. Upgrades into Infantry for free.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UC_KUVA_GENERAL">
+			<Text>Ordered to Die</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UC_KUVA_GENERAL_HELP">
+			<Text>8% Combat Strength from Great General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_KUVA_TEXT">
+			<Text>The Kuva-yi Milliye were irregular militia forces during the early phase of the Turkish War of Independence. They consisted of deserted Turkish officers and soldiers after the Ottoman Empire had been dismantled, though many other people joined their ranks when the European power tried to exert control over Anatolia. The Kuva-yi Milliye were noted for their hit and run tactics and resilience. The majority of the Kuva-yi Milliye joined the Turkish army when it was created, although some had disagreements with the Ankara government and continued to operate solo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UC_HALKEVLERI">
+			<Text>Halkevleri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UC_HALKEVLERI_STRATEGY">
+			<Text>Replaces the Public School. Instead of providing a base +3 [ICON_RESEARCH] Science, the Halkevleri reduces this city's [ICON_PEACE] Faith by 25%, and converts the remaining amount into [ICON_RESEARCH] Science. +2 [ICON_GOLDEN_AGE] Golden Age points from specialists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UC_HALKEVLERI_HELP">
+			<Text>Replaces the Public School. Instead of providing a base +3 [ICON_RESEARCH] Science, the Halkevleri reduces this city's [ICON_PEACE] Faith by 25%, and converts the remaining amount into [ICON_RESEARCH] Science. +2 [ICON_GOLDEN_AGE] Golden Age points from specialists.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_HALKEVLERI_UI_DESC">
+			<Text>Halkevleri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HALKEVLERI_UI_HELP">
+			<Text>This city's [ICON_PEACE] Faith is reduced by 25% due to having a Halkevleri, the remaining amount is converted into {1_Num} [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ATATURK_UA">
+			<Text>+{1_Num} [ICON_RESEARCH] Science from adopting our latest Social Policy!</Text>
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="eed9e067-1c21-4b04-ad69-223f897cdcff" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Vladimir (Vsevolod)</Name>
+    <Teaser>Adds [COLOR_CYAN]Vladimir under Vsevolod[ENDCOLOR]. Click for details.</Teaser>
+    <Description>VLADIMIR (VSEVOLOD)[NEWLINE][NEWLINE]UNIQUE TRAIT: TALE OF IGOR'S CAMPAIGN[NEWLINE][ICON_BULLET]Generate [ICON_GREAT_PEOPLE] Great Writer Points from combat in owned or City-State borders.[NEWLINE][ICON_BULLET]Combat Units gain bonus Attacking Strength, [ICON_MOVES] Movement, and pillage for free on the turn that a Great Writer is born.[NEWLINE][NEWLINE]UNIQUE BUILDING: WHITE CATHEDRAL[NEWLINE][ICON_BULLET]Replaces Garden.[NEWLINE][ICON_BULLET]+2 [ICON_PEACE] Faith.[NEWLINE][ICON_BULLET]1 Great Work of Writing Slot.[NEWLINE][ICON_BULLET]Great Writers expended in or adjacent to this city grant a free Missionary.[NEWLINE][ICON_BULLET]No Fresh Water requirement.[NEWLINE][NEWLINE]UNIQUE UNIT: PRINCE'S RETINUE[NEWLINE][ICON_BULLET]Replaces Longswordsman.[NEWLINE][ICON_BULLET]Requires no [ICON_RES_IRON] Iron.[NEWLINE][ICON_BULLET]Unlocked at Civil Service.[NEWLINE][ICON_BULLET]Slightly weaker.[NEWLINE][ICON_BULLET]Begins with bonus XP for each Great Work of Writing in the city.</Description>
+    <Authors>JFD, Janboruta, DarthStarKiller, Alga, Senshidenshi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D4608AE32C1A93E339FA8A32B1BA0DD8" import="1">Art/Graphics/Prince's Retinue/PrincesRetinue.dds</File>
+    <File md5="1528D23D9E1E3112EA81CBEC4BB744A5" import="1">Art/Graphics/Prince's Retinue/PrincesRetinue.fxsxml</File>
+    <File md5="25E1C4060D23E4EE36F81B6E6917CA0F" import="1">Art/Graphics/Prince's Retinue/PrincesRetinue.gr2</File>
+    <File md5="70E701EF6D947C9E6C6D8C05DC38E8ED" import="1">Art/Graphics/Prince's Retinue/PrincesRetinue_gloss.dds</File>
+    <File md5="00798ED552C739D1F35AC0744B78A24E" import="1">Art/Graphics/Prince's Retinue/sv_PrincesRetinue.dds</File>
+    <File md5="06B2C6AC95C1FB55C6C0F7AB8419D6B8" import="1">Art/Icons/JFD_Vladimir_AlphaAtlas_128.dds</File>
+    <File md5="618DC5EDD9EF578D686DB69CEE4FA562" import="1">Art/Icons/JFD_Vladimir_AlphaAtlas_16.dds</File>
+    <File md5="A0DEFF5278F81E7605E5DF3486834687" import="1">Art/Icons/JFD_Vladimir_AlphaAtlas_24.dds</File>
+    <File md5="0E654E39C9EACBB8EA37294195E56D50" import="1">Art/Icons/JFD_Vladimir_AlphaAtlas_32.dds</File>
+    <File md5="10FF4913DA8E486178008D8FB322C42F" import="1">Art/Icons/JFD_Vladimir_AlphaAtlas_45.dds</File>
+    <File md5="B243F52E55BEBA360658D982BAB87D25" import="1">Art/Icons/JFD_Vladimir_AlphaAtlas_46.dds</File>
+    <File md5="60C111A33AD89145A6B99EA27FB5A796" import="1">Art/Icons/JFD_Vladimir_AlphaAtlas_64.dds</File>
+    <File md5="D26C8C08568150613791EBA23005B88B" import="1">Art/Icons/JFD_Vladimir_AlphaAtlas_80.dds</File>
+    <File md5="B3D0A6072C89E8354C3AFA9DC7056122" import="1">Art/Icons/JFD_Vladimir_IconAtlas_128.dds</File>
+    <File md5="57ACBF37393501430E6B47F0A409C989" import="1">Art/Icons/JFD_Vladimir_IconAtlas_256.dds</File>
+    <File md5="B58F687CC0B4BE4BC92D6AA978A8E3DD" import="1">Art/Icons/JFD_Vladimir_IconAtlas_32.dds</File>
+    <File md5="14562045F407F19AF769F3818BE6ACFF" import="1">Art/Icons/JFD_Vladimir_IconAtlas_45.dds</File>
+    <File md5="8ABFD54184F20DF5A8DC519E9E82C74A" import="1">Art/Icons/JFD_Vladimir_IconAtlas_64.dds</File>
+    <File md5="8F6C259A9ACF485FCF9E845C5A15037C" import="1">Art/Icons/JFD_Vladimir_IconAtlas_80.dds</File>
+    <File md5="0CA2E38911C51DD1C4D8DC82C2CC6FA7" import="1">Art/Icons/JFD_Vladimir_UnitFlagAtlas_32.dds</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="0">Art/Icons/Tomatekh_PromotionAtlas_256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="0">Art/Icons/Tomatekh_PromotionAtlas_32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="0">Art/Icons/Tomatekh_PromotionAtlas_45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="0">Art/Icons/Tomatekh_PromotionAtlas_64.dds</File>
+    <File md5="A2EECA0F5EC17A45AAB629CA7B17CB0B" import="1">Art/Leaderscene/JFD_Vladimir_Diplo.dds</File>
+    <File md5="2AB7C26AC372A32831E63E1B3FAB1B20" import="1">Art/Leaderscene/JFD_Vladimir_Scene.xml</File>
+    <File md5="FD910F32349E71D2E96B0835FB2ED2AB" import="1">Art/Maps/JFD_DOM_Vladimir.dds</File>
+    <File md5="1AB7DD5F3B4712C8A55B5EF027E9D895" import="1">Art/Maps/JFD_MapVladimir512.dds</File>
+    <File md5="D620E66A7F3444FCC6B95D3C0AE99566" import="1">Audio/JFD_Vladimir_Peace.mp3</File>
+    <File md5="6D8A369120D43762A30AF88B1CD493E9" import="1">Audio/JFD_Vladimir_War.mp3</File>
+    <File md5="3A993ADC22373974449C9B47E7F1FDF8" import="0">Core/Vladimir_ArtDefines.sql</File>
+    <File md5="343E7D9626EBB56C15A0B4321E7E26B2" import="0">Core/Vladimir_GameDefines.sql</File>
+    <File md5="208D374EA392E2FF802E12BAD40E7ABB" import="0">Core/Vladimir_GameText.xml</File>
+    <File md5="B66352E34A99F4A26BED34214D49EDAD" import="0">Core/Vladimir_ModSupport.sql</File>
+    <File md5="AF24F359FD1CC32589EA24F0FC37B5CA" import="0">Credits.txt</File>
+    <File md5="4D935C01C96EA6B2B7FAE631A370D172" import="0">Lua/JFD_Civs_Vladimir_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Vladimir_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Vladimir_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Vladimir_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Vladimir_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_Vladimir_Functions.lua">
+      <Name>JFD_Civs_VladimirSuzdal_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

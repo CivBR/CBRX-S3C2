@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b104fe5f-27fc-4e9f-a0a5-dfcbfe1eefd6" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Maori (Potatau Te Wherowhero)</Name>
+    <Teaser>Adds [COLOR_CYAN]Maori under Potatau[ENDCOLOR]. Click for details.</Teaser>
+    <Description>MAORI (POTATAU)[NEWLINE][NEWLINE]UNIQUE TRAIT: KIINGITANGA[NEWLINE]Free Settler on meeting a foreign Civilization for the first time and receive Settler [ICON_PRODUCTION] Production in the Capital on subsequent new meetings. Newly founded cities start with any of the Capital's [ICON_CULTURE] Culture-yielding Buildings.[NEWLINE][NEWLINE]UNIQUE BUILDING: MARAE (GARDEN)[NEWLINE]The Marae is the unique Garden replacement for the Maori under Potatau. It increases the amount of [ICON_FOOD] Food a city stores after growth. Unlike the Garden, the Marae does not require a nearby river, and is unlocked at Civil Service, although it does require that the city first have a Shrine. It also costs no maintenance.[NEWLINE][NEWLINE]UNIQUE UNIT: TOA (LONGSWORDSMAN)[NEWLINE]The Toa replaces the Longswordsman for the Maori under Potatau. Unlike the Longswordsman, the Toa is slightly weaker in combat. It is also unlocked at Chivalry instead of Steel and does not require [ICON_RES_IRON] Iron to be trained. The Toa earns 20% more XP from combat, making it especially effective at generating Great Generals. In addition, if a Toa begins its turn within 2 tiles of a foreign Settler Unit, it ignores terrain movement penalties and enemy Zone of Control for that turn. This ability can be carried forward with upgrades. This makes Toa adept at counteracting enemy settlements before they can be established.</Description>
+    <Authors>JFD, DarthKyofu, Janboruta, Pouakai, Sukritact</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="7287f9db-78cb-40c3-bf8a-cf8ebc18a565" minversion="0" maxversion="999" title="MC's Polynesian Civilisation Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="976F24B9CA6C445BD1FABD6BA0D2E9F4" import="1">Art/Graphics/Toa/sv_Toa.dds</File>
+    <File md5="6B14C4D3E1BFBCB5F3F049F04D6D276E" import="1">Art/Icons/JFD_MaoriPotatau_IconAtlas_128.dds</File>
+    <File md5="B7F6F494D9C0F5FA57CE7F8AD7F97D18" import="1">Art/Icons/JFD_MaoriPotatau_IconAtlas_256.dds</File>
+    <File md5="124055D1CEF03D369CD5B8BF7E6F0978" import="1">Art/Icons/JFD_MaoriPotatau_IconAtlas_32.dds</File>
+    <File md5="F37B0AB2B418E1610F8448256BC535FE" import="1">Art/Icons/JFD_MaoriPotatau_IconAtlas_45.dds</File>
+    <File md5="D9BFCCC7674B88D73F82C5ED7C6AFFC9" import="1">Art/Icons/JFD_MaoriPotatau_IconAtlas_64.dds</File>
+    <File md5="0B88E4BDDF29C7D4DD4783D2617A9790" import="1">Art/Icons/JFD_MaoriPotatau_IconAtlas_80.dds</File>
+    <File md5="F7EC6B22227B300A7E3717738E6A8252" import="1">Art/Icons/JFD_MaoriPotatau_AlphaAtlas_128.dds</File>
+    <File md5="28867CEC95BAF7BB1D0F891869229ACD" import="1">Art/Icons/JFD_MaoriPotatau_AlphaAtlas_16.dds</File>
+    <File md5="116002BCD91C771428F24F4984104470" import="1">Art/Icons/JFD_MaoriPotatau_AlphaAtlas_24.dds</File>
+    <File md5="206E8D35EB5927F6DDB59E8E0FDF164D" import="1">Art/Icons/JFD_MaoriPotatau_AlphaAtlas_32.dds</File>
+    <File md5="2FBF1575883ABD6B6CC9274332BC13BE" import="1">Art/Icons/JFD_MaoriPotatau_AlphaAtlas_45.dds</File>
+    <File md5="A661A7CA57C0A1065703599947EB012A" import="1">Art/Icons/JFD_MaoriPotatau_AlphaAtlas_48.dds</File>
+    <File md5="BCB8C16B82D0CF95523C84A75A168B71" import="1">Art/Icons/JFD_MaoriPotatau_AlphaAtlas_64.dds</File>
+    <File md5="7DB59513C4C9A11A72B6DB6BF1431F72" import="1">Art/Icons/JFD_MaoriPotatau_AlphaAtlas_80.dds</File>
+    <File md5="7B7346B6CC49D55E5D44954EDAE6F5E4" import="1">Art/Icons/JFD_MaoriPotatau_UnitFlagAtlas_32.dds</File>
+    <File md5="721AD0EF2FDBC1F02685B95CC59C7258" import="1">Art/Leaderscene/JFD_MaoriPotatau_Diplo.dds</File>
+    <File md5="B204E9D306F5BFF096AC8FCCA9357D43" import="1">Art/Leaderscene/JFD_MaoriPotatau_Scene.xml</File>
+    <File md5="B349E64F00D800A7E2AD9B663C3387CC" import="1">Art/Maps/JFD_DOM_MaoriPotatau.dds</File>
+    <File md5="070143BB25F9CFF3B43D846EEFF5F91F" import="1">Art/Maps/JFD_MapMaoriPotatau512.dds</File>
+    <File md5="BB83EA2C3C0CE9E8C75D556AD59838DA" import="1">Audio/JFD_MaoriPotatau_Peace.mp3</File>
+    <File md5="C6F322D89D8102D30BFEEBB07A47D29E" import="1">Audio/JFD_MaoriPotatau_War.mp3</File>
+    <File md5="167F7B1DC2F7E4C4C8AF00170C8CD68B" import="0">Core/MaoriPotatau_ArtDefines.sql</File>
+    <File md5="F5E2108D9F8E564E4857B9668E70313B" import="0">Core/MaoriPotatau_GameDefines.sql</File>
+    <File md5="06DFE4F88918C53FB92662CE7C0D161C" import="0">Core/MaoriPotatau_GameText.xml</File>
+    <File md5="4FD8632206C70B845C79F4C1DE9EE7BC" import="0">Core/MaoriPotatau_ModSupport.sql</File>
+    <File md5="AE10CDB8B3B828E46539F203E7A74CD0" import="0">Credits.txt</File>
+    <File md5="349AA43A97B18ED6B1167B3072EBD014" import="0">Lua/JFD_Civs_MaoriPotatau_Functions.lua</File>
+    <File md5="530C0915BC50AF2CD0A61117533374F0" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/MaoriPotatau_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MaoriPotatau_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MaoriPotatau_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/MaoriPotatau_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_MaoriPotatau_Functions.lua">
+      <Name>JFD_Civs_MaoriPotatau_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

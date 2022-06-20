@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/8/2021 9:17:47 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Philippines -->
+		<Row Tag="TXT_KEY_CIV_DJ_PHILIPPINES_AGUINALDO_ADJECTIVE">
+			<Text>Philippine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJ_PHILIPPINES_AGUINALDO_DESC">
+			<Text>Philippine Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJ_PHILIPPINES_AGUINALDO_SHORT_DESC">
+			<Text>The Philippines</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_1">
+			<Text>The Republic of the Philippines is a nation situated in South-East Asia, somewhat near to Taiwan and to the north-east of the Indonesian island of Borneo. Until about 500 years ago, the islands were relatively isolated from the rest of the world.  This changed in 1521, when Ferdinand Magellan, a Spanish explorer, came across the modern-day Philippines while trying to sail around the world. Magellan was later killed by the natives, who kept his body as a war trophy. In 1565, the first Spanish settlement was established on the islands, making way for around 350 years of colonial rule for the islands. In the late 19th Century, nationalist and reform movements began in the Philippines among both the natives and the Spanish. In 1898, they proclaimed independence, but were handed over to the USA in the Treaty of Paris. The Filipinos eventually got a home government in 1934, and in 1946, they finally got full independence after the fight against the Japanese in the Second World War. In the 20th Century, the dictator Ferdinand Marcos took power, and through his corrupt regime he deprived the country of a lot of its wealth. Marcos was overthrown almost bloodlessly in 1986, and the power of the Philippine Republic was restored to its people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_2">
+			<Text>The Philippines is made up of 7,107 islands, and as a result has the 5th largest coastline in the world. It is prone to natural disasters, as it is located near the Pacific Ring of Fire. Around 20 earthquakes happen there daily, but the majority are too weak to even be felt. However, the islands have had a lot of publicity recently due to the damage caused by hurricanes. However, international aid quickly came to their rescue, and as a result, it didn’t completely destroy their economy or anything. The islands embrace a lot of storms and flooding, but it is normally quite warm. Due to the fact that deadly storms are quite rare, the islands have a lot of tourism because of the generally good weather, and the magnificent landscape. Although the Philippines is an island nation, it is quite hilly, due to geological activity on the Pacific Ring of Fire. In the north, rice terraces were built by the indigenous people as a way of feeding themselves, because the rest of the land was too difficult to cultivate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_3">
+			<Text>Early People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_3">
+			<Text>Before the Europeans colonised the land, there was already a lot of diversity in the states there. After the Philippine pre-history period ended in 900 with the first piece of dated work there, new states began to emerge and interact with their neighbours in Asia. The people of these states were mostly maritime, and were for the most part controlled by various Rajahnates, such as Tondo, Cebu and Butuan. These states operated mainly by trading with their neighbours. They also had a written language, and appeared to have knowledge about astronomy and a couple of other scientific matters. However, in the late 1300s, Islam spread to the islands. The Sultanate of Sulu was created in the south, and took up part of the Philippines as well as a large section of the slowly-crumbling Majapahit Empire. The two main parties of the archipelago vied for both land control and maritime trade link domination. The native people of the Philippines were under attack from a lot of Islamic states that captured the nearby islands, and they remained a dominant force in the south until the European expansion into the Philippines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_4">
+			<Text>Colonial Encounters and Spanish Exploration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_4">
+			<Text>The first Spanish encounter, and the one that goes down in history, of the Philippines was made by Ferdinand Magellan, an explorer for the Crown of Spain. He was on an attempt to circumnavigate the globe, but on the way there, he encountered the Philippines. Magellan landed there, which proved to be a fatal mistake, as he was later killed by the natives of the land. The rest of his crew decided to go home after this incident, and it also meant that Magellan wasn’t the first person to sail around the world (it was his slave, Enrique) contrary to the Civ V achievements. The first permanent settlement on the islands was done by Miguel López de Legazpi, another Spanish explorer, with the setting off point this time being the sensible Mexico. Legazpi was able to keep out the Portuguese, and at the same time he kept converting the inhabitants to Christianity. He militarised the colony, and before long, it was in good shape to become a territory of New Spain. However, the entire archipelago was yet to be explored, and threats from the Islamic states and the natives were still real. The Spanish aimed to make sure that they repelled all this to establish the Philippines as a Spanish territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_5">
+			<Text>European Settlement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_5">
+			<Text>By 1590, the missionaries were ready to convert the rest of the archipelago. Following the conquest of Luzon, a large part of the Philippines was under Spanish control. Manila was made into a holy site for the Catholic Church; the majority of the education was done by the missionaries. The education in the islands was better than what the Asian counterparts could offer; more European, but still quite advanced for the day. The Spanish opened up more trade routes to places around Asia and the world, like the predecessors of the land. The natives eventually merged with the Spanish due to intermarriage, and the culture of the Philippines became somewhat different to that of Spain. In 1646, the Dutch attempted to capture the Philippines in the Eighty Years’ War. However, the Dutch navy was destroyed when it tried to capture Manila, despite it outnumbering the Spanish one by nearly 6:1, and the fact that the Dutch sailors were trained, as opposed to the Spanish navy being made out of the native Filipino populous, despite them never having much formal training.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_6">
+			<Text>Revolution and Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_6">
+			<Text>Due to the Spanish colonial methods, not a lot of Filipinos were happy with their rule over the islands, and a lot of the islanders wanted independence. Several movements were in place to gain independence for the land, including the Katipuan, a secret organisation set up to create a Filipino state, and the Propaganda movement, aiming to turn public opinion against the Spanish, with José Rizal as a prominent figure within it. In 1896, the revolution broke out, perhaps prematurely. Unfortunately, Rizal was executed in December, and a lot of the other revolutionary leaders were later killed as well. They managed to get help from the United States of America due to their shared Liberty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_7">
+			<Text>American Takeover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_7">
+			<Text>The islands now had their independence from Spain, with a large amount of help from the Americans. However, the USA stayed in the Philippines, which angered a lot of the Katipuan Nationalists, who believed that the islands could stand well enough on its own. There was an uneasy relationship between the two sides for about a year, as the Americans refused to recognise the Philippine Republic as a nation. In 1899, fighting broke out between the Filipinos and the Americans, which resulted in complete American victory two years later. The islands became a puppet of the United States, and they were somewhat oppressed by them. For years, the USA held onto the islands, attempting to keep the peace. Eventually, they were granted more rights, but the one thing that the Filipinos wanted most of all was independence, which they hadn’t yet achieved. In 1934, due to increasing demands for self-rule, a bill was created starting a ten year transition period for the islands to become independent. However, this would take slightly longer than expected due to a new threat – the Japanese Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_8">
+			<Text>World War Two</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_8">
+			<Text>On the 7th of December 1941, the Japanese forces attacked an American naval base at Pearl Harbour, Hawaii. The United States declared war on the Japanese the next day, dragging the Philippines into the war as well. The Japanese soon after attacked more American bases in the Philippines, and soon launched a full land invasion. On January 2nd 1942, Manila fell to the Japanese forces. The politicians on the islands were split on what to do; some returned to the USA, while others collaborated with the Japanese. The Filipino nationalists attacked the Japanese in a guerrilla fashion, and were able to hold off against them for some time. General Douglas MacArthur was eventually able to send in a larger army to attack the Japanese, and he did so with a large amount of success. Once more, the American and Filipino forces were fighting side by side. Fierce fighting continued in the Philippines until the Japanese surrender. The next year, the Philippines were granted independence by the Americans. Around one million Filipino soldiers died in the war, so the Americans thought them worthy to keep their nation strong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_9">
+			<Text>The Marcos Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_9">
+			<Text>In 1965, Ferdinand Marcos was elected as President of the Philippines. He was incredibly intelligent, and had been previously famed for his guerrilla campaign against the Japanese in the Second World War. He promised a lot of reforms such as infrastructure development and economic growth, which eventually got him the post of president. Marcos supported the Americans in Vietnam, an unexpected, but not badly judged more. Although Marcos did implement a lot of reforms, his reign turned autocratic and authoritarian, and he quickly got a bad reputation in the Philippines and abroad. Marcos had a family dictatorship, and took money out of the treasury to help fund their wants, and his wife had literally thousands of pairs of shoes by the end of Marcos’ rule. Unsurprisingly, his people grew more and more discontent with him, and in 1986, campaigns from the Filipino masses ousted Marcos as he tried to run for another term in office with rigged elections, following the mysterious death of a popular candidate. Marcos fled to Hawaii while democracy was restored in the Philippines, where he died in 1989. He is suspected to have stolen around 6 billion US dollars from the Philippine economy, as well as taking massive loans from other leaders, putting the Philippines into a large amount of debt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_HEADING_10">
+			<Text>The Philippines Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_PHILIPPINES_AGUINALDO_TEXT_10">
+			<Text>The islands of the Philippines are doing pretty well today. The total population of the isles is 100 million, making it the 12th largest country (by population). The Philippines are also a large tourist resort, and as a result, they have recovered from the massive losses that Marcos created. The current system is fully democratic, but there are still some ethnic tensions in some areas, but mostly, people are able to get on quite well. There is a high degree of multiculturalism due to the combination of Spanish, Filipino and American influences; as a result, there are loads of official languages to reflect this, and a lot of people speak English as either a first or second language, helping it more in international trade. However, there are still various territorial disputes going on, which are, for the most part, being handled indelicately. The Philippine government has also drawn censure both at home and abroad for its stances on controversial issues, such as the Marawi siege of 2017 and the ongoing large-scale drug operations that never seem to catch any drug lords. Whatever the case, the future of the Philippines remains something to keep a close eye on.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_0">
+			<Text>Malolos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_1">
+			<Text>Cavite El Viejo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_2">
+			<Text>San Juan del Monte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_3">
+			<Text>Pasig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_4">
+			<Text>Angeles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_5">
+			<Text>Pateros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_6">
+			<Text>Tagig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_7">
+			<Text>Kalookan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_8">
+			<Text>Cabanatuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_9">
+			<Text>San Pedro de Makati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_10">
+			<Text>Mandaluyong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_11">
+			<Text>San Francisco de Malabon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_12">
+			<Text>Noveleta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_13">
+			<Text>Imus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_14">
+			<Text>Mariquina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_15">
+			<Text>Antipolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_16">
+			<Text>Bacoor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_17">
+			<Text>Montalban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_18">
+			<Text>Las Pinas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_19">
+			<Text>Naik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_20">
+			<Text>Tejeros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_21">
+			<Text>Maragondon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_22">
+			<Text>Biak-na-bato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_23">
+			<Text>Capiz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_24">
+			<Text>Jaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_25">
+			<Text>Guagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_26">
+			<Text>Tarlac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_27">
+			<Text>San Fernando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_28">
+			<Text>Angono</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_29">
+			<Text>Calamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_30">
+			<Text>Bocaue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_31">
+			<Text>Baler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_32">
+			<Text>Bacolor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_33">
+			<Text>Kakarong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_34">
+			<Text>Cebu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_35">
+			<Text>Nueva Caceres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_36">
+			<Text>Carcar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_37">
+			<Text>Nueva Vergara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_38">
+			<Text>Bayombong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PHILIPPINES_AGUINALDO_39">
+			<Text>Palanan</Text>
+		</Row>
+		<!-- Spy Names -->
+
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_0">
+			<Text>Antonio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_1">
+			<Text>Crisostomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_2">
+			<Text>Gregoria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_3">
+			<Text>Apolinario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_4">
+			<Text>Andres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_5">
+			<Text>Miguel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_6">
+			<Text>Pio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_7">
+			<Text>Mariano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_8">
+			<Text>Tomas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_PHILIPPINES_AGUINALDO_9">
+			<Text>Marcela</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Emilio Aguinaldo -->
+		<Row Tag="TXT_KEY_LEADER_DJ_AGUINALDO">
+			<Text>Emilio Aguinaldo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_LIVED">
+			<Text>1869 - 1964 A.D.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_NAME">
+			<Text>Emilio Aguinaldo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_SUBTITLE">
+			<Text>Leader of the Philippines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_TITLES_1">
+			<Text>General of the Philippine Revolutionary Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_TITLES_2">
+			<Text>President of the Philippines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_TEXT_1">
+			<Text>The Philippine revolutionary leader Emilio Aguinaldo fought for independence of the Philippine Islands, first against Spain and then against the United States.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_TEXT_2">
+			<Text>Born on March 23, 1869, Emilio Aguinaldo grew up in Kawit in Cavite Province and was educated in Manila. Appointed to a municipal position in his home province, he was also the local leader of a revolutionary society fighting Spanish rule over the Philippines. By an agreement signed with rebel leaders in January 1898, Spain agreed to institute liberal reforms and to pay a large indemnity; the rebels then went into exile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_HEADING_3">
+			<Text>Rise and Fall of the Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_TEXT_3">
+			<Text>When war broke out between Spain and the United States in April 1898, Aguinaldo made arrangements with the U.S. consuls in Hong Kong and Singapore and with Commodore George Dewey to return from exile to fight against Spain. On June 12 Aguinaldo proclaimed the independence of the Philippine Islands from Spain, hoisted the national flag, introduced a national anthem, and ordered a public reading of the declaration of independence.[NEWLINE][NEWLINE]When he realized that the United States would not accept immediate and complete independence for the Philippines, he organized a revolution against American rule that resulted in 3 years of bloody guerrilla warfare. He was captured on March 23, 1901, by Gen. Frederick Funston. Funston and several other officers, bound hand and foot, pretended to be prisoners and were taken to Aguinaldo's camp by Filipinos loyal to the United States. Released and given weapons, they easily captured Aguinaldo, who then took an oath of allegiance to the United States and issued a peace proclamation on April 19. The bitterness caused by the war was soon transformed into friendship as Americans and Filipinos joined to work toward Philippine independence. Aguinaldo retired to private life, and his son entered West Point in the same class as Gen. Funston's son.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_HEADING_4">
+			<Text>Later Life and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_AGUINALDO_TEXT_4">
+			<Text>In 1935 Aguinaldo ran unsuccessfully for president of the Philippine Commonwealth against Manuel Quezon. After the Japanese invasion of the Philippines in 1941, he cooperated with the new rulers, even making a radio appeal for the surrender of the American and Filipino forces on Bataan. He was arrested as a collaborationist after the Americans returned but was later freed in a general amnesty. He explained his action by saying, "I was just remembering the fight I led. We were outnumbered, too, in constant retreat. I saw my own soldiers die without affecting future events. To me that seemed to be what was happening on Bataan, and it seemed like a good thing to stop."[NEWLINE][NEWLINE]In 1950 he was named to the Council of State, an advisory body for the president, and in his later years he was chairman of a board which dispensed pensions to the remaining veterans of the revolution. He died in Manila on Feb. 6, 1964.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_DJ_AGUINALDO_TEXT">
+			<Text>Rise, Emilio Aguinaldo, general of the revolution and president of the first Philippine Republic. Though born from common stock, all around you could ense that you were made for greatness. Beginning first as a bureaucrat in the Spanish colonial government, their practices would enflame your convictions, leading you to the Katipunan, a secret society dedicated to the motherland's liberation. There you would again ascend the ranks, eventually wresting power even from Supreme Leader Andres Bonifacio. It was from this office that you successfully led the revolution against the colonizers, and from this office that you would accept the duties and responsibilities of the first President of the Philippines. But the country's hard-earned peace was not to last; the treacherous Americans invaded the Philippines in 1899 AD, and brought the first republic in Asia to her knees not three years later.[NEWLINE][NEWLINE]Most cunning and valorous President, war once more brews on the horizon, and the Filipino people look to you to lead them in the field of battle. Will you heed their call, and defend your homeland with a ferocity undimmed by tyrant's might? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_DJ_AGUINALDO_FIRSTGREETING_1">
+			<Text>I am Emilio Aguinaldo, supreme commander of the Philippine armies and president of the Philippine people. You honor us with your visit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_AGUINALDO_DEFEATED_1">
+			<Text>Your conquest of this land will go down as a great treachery in the history of the world. Of this, I am sure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_AGUINALDO_DOW_GENERIC_1">
+			<Text>By the power vested in me as leader of the Philippine people, I hereby declare war between our two nations. May he who finds favor with God win.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_AGUINALDO_ATTACKED_HOSTILE">
+			<Text>You will not be the first to attempt a conquest of our lands, but I shall make sure that you will be the last. To arms, my countrymen!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_AGUINALDO_DEC_FRIENDSHIP_1">
+			<Text>We Filipinos are grateful for the good you have done for us, so we offer this Declaration of Friendship to repay this great debt of honor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_AGUINALDO_DENOUNCE_1">
+			<Text>We seek only allies in the fight to ensure our freedom, but your black heart desires to see us in chains once again![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_AGUINALDO_DENOUNCE_FRIEND_1">
+			<Text>To think that I trusted one who would see the Philippines yoked to an alien power once more![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_AGUINALDO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Leave us, colonizer!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_PHILIPPINES_AGUINALDO_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now dancing the Cariñosa and drinking your sugarcane wine! I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_PHILIPPINES_AGUINALDO_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are dancing the Cariñosa and drinking our sugarcane wine. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+		<!-- Undimmed by Tyrant's Might -->
+		<Row Tag="TXT_KEY_TRAIT_DJ_UNDIMMED_BY_TYRANTS_MIGHT_SHORT">
+			<Text>Undimmed by Tyrant's Might</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DJ_UNDIMMED_BY_TYRANTS_MIGHT">
+			<Text>At the outbreak of war with a major civilization, receive [ICON_CULTURE] Culture for each enemy city in excess of yours. Gun Units starting in your borders may force defenders to retreat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_DJ_PHILIPPINES_AGUINALDO_ON_DECLARE_WAR">
+			<Text>Hostilities with a larger civilization have begun, providing us with {1_Num} [ICON_CULTURE] Culture!</Text>
+		</Row>
+		<!-- Katipunero -->
+		<Row Tag="TXT_KEY_UNIT_DJ_KATIPUNERO_DESC">
+			<Text>Katipunero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNITS_DJ_KATIPUNERO_TEXT">
+			<Text>The Kataastaasan, Kagalanggalangang Katipunan ng mga Anak ng Bayan, also known as Katipunan or KKK, was a Philippine revolutionary society founded by anti-Spanish colonialism Filipinos in Manila in 1892; its primary goal was to gain independence from Spain through a revolution.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJ_KATIPUNERO_STRATEGY">
+			<Text>The Katipunero is the Philippine unique Unit, replacing the Rifleman. They regain +1 [ICON_MOVES] Movement point and +10 HP upon adopting a Social Policy, moreso if they are in your borders. Use them to push back against invading armies, especially those that have penetrated into home territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJ_KATIPUNERO_HELP">
+			<Text>Strong Industrial Era unit. Regains +1 [ICON_MOVES] Movement and +10 HP upon adopting a Social Policy, doubling if in friendly borders. May only be trained by the Philippines.</Text>
+		</Row>
+		<!-- Aglipayan Church -->
+		<Row Tag="TXT_KEY_BUILDING_DJ_AGLIPAYAN_CHURCH_DESC">
+			<Text>Aglipayan Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_DJ_AGLIPAYAN_CHURCH_TEXT">
+			<Text>The Philippine Independent Church is an independent Christian denomination in the form of a national church in the Philippines. Its schism from the Roman Catholic Church was proclaimed in 1902 by the members of the Unión Obrera Democrática Filipina, due to the mistreatment of the Filipinos by Spanish priests and the execution of José Rizal during Spanish colonial rule.[NEWLINE][NEWLINE]Isabelo de los Reyes was one of the initiators of the separation, and suggested that former Catholic priest Gregorio Aglipay be the head of the church. It is also known as the "Aglipayan Church", after its first Supreme Bishop, Gregorio Aglipay, who like José Rizal, later became a Freemason, in May 1918.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_AGLIPAYAN_CHURCH_STRATEGY">
+			<Text>In addition to the regular abilities of the Stadium, the Aglipayan Church also provides a burst of [ICON_PRODUCTION] Unit Production upon training a unit. This burst is based upon your [ICON_CULTURE] Culture and [ICON_PEACE] Faith output, and contributes to the next unit of its kind. Only the Philippines may build it, and it requires a Temple instead of a Zoo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_AGLIPAYAN_CHURCH_HELP">
+			<Text>Unique Philippine Stadium replacement. Upon training a unit, yields a burst of [ICON_PRODUCTION] Unit Production toward the next one of its kind, based on your total [ICON_CULTURE] Culture and [ICON_PEACE] Faith output.</Text>
+		</Row>
+		<!-- MOD SUPPORT -->
+		<!-- Additional Achievements -->
+		<Row Tag="TXT_KEY_MOD_DJ_PHILIPPINES_AGUINALDO_NAME">
+			<Text>DuskJockey's Philippines (Emilio Aguinaldo)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_DJ_PHILIPPINES_AGUINALDO_ID_STEAM">
+			<Text>ebb8a2d3-76ac-4d7c-8a3c-02f94c0a76a5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_DJ_PHILIPPINES_AGUINALDO_AUTHORS">
+			<Text>DuskJockey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_PHILIPPINES_AGUINALDO_VICTORY_HEADER">
+			<Text>My Christmas Gift Came Early!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_PHILIPPINES_AGUINALDO_VICTORY_TEXT">
+			<Text>Win the game on any difficulty setting as Emilio Aguinaldo's Philippines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_PHILIPPINES_AGUINALDO_SPECIAL_HEADER">
+			<Text>How Do You Like THEM Mangoes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_PHILIPPINES_AGUINALDO_SPECIAL_TEXT">
+			<Text>As Emilio Aguinaldo's Philippines, capture the American capital.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

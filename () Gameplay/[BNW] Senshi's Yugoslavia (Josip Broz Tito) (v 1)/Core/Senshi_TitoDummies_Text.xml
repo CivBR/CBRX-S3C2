@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLICY_SENSHI_YUGOSLAVIA_TITO">
+			<Text>Tito Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_YUGOSLAVIA_TITO_PRODUCTION">
+			<Text>Tito Prod.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_YUGOSLAVIA_TITO_CULTURE">
+			<Text>Tito Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_PARTISAN_RANGE">
+			<Text>Guerrilla Fighter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_PARTISAN_RANGE_HELP">
+			<Text>+1 Range.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_PARTISAN_RANGE_STRENGTH">
+			<Text>Experienced Detachment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_PARTISAN_RANGE_STRENGTH_HELP">
+			<Text>+5% Ranged Strength.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

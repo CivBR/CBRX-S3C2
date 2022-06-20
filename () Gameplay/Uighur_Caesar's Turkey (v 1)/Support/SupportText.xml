@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 09/10/16 12:04:52 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_UC_TURKEY_SCRIPT">
+			<Text>Adopt a Foreign Script</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_UC_TURKEY_SCRIPT_DESC">
+			<Text>
+				Our current writing script is an obsolete relic of the past that makes scholarship and common education too difficult for our people. We shall adopt a foreign writing script to remedy this issue.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Turkey
+				[NEWLINE][ICON_BULLET]Must be in at least the Industrial Era
+				[NEWLINE][ICON_BULLET]Must have at least DOF
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE][ICON_BULLET]500 [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 turns worth of a random ally's [ICON_RESEARCH] Science.
+				[NEWLINE][ICON_BULLET]+50% [ICON_RESEARCH] Science from Research Agreements.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_UC_TURKEY_SCRIPT_ENACTED_DESC">
+			<Text>
+				Our current writing script is an obsolete relic of the past that makes scholarship and common education too difficult for our people. We shall adopt a foreign writing script to remedy this issue.[NEWLINE]
+				[NEWLINE][ICON_BULLET]2 turns worth of a random ally's [ICON_RESEARCH] Science.
+				[NEWLINE][ICON_BULLET]+50% [ICON_RESEARCH] Science from Research Agreements.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TURKEY_LAWS">
+			<Text>Secularize the Legal Code</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TURKEY_LAWS_DESC">
+			<Text>
+				The laws of our nation have always been influenced by religion and clerics, which we can no longer tolerate if we seek modernity. We shall secularize the legal code and diminish the power of the clergy.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Turkey
+				[NEWLINE][ICON_BULLET]Must have Scientific Theory
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All policies in Piety are removed for large amounts of [ICON_CULTURE] Culture and [ICON_RESEARCH] Science.
+				[NEWLINE][ICON_BULLET]-10% [ICON_HAPPINESS_4] Unhappiness from population.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TURKEY_LAWS_ENACTED_DESC">
+			<Text>
+				The laws of our nation have always been influenced by religion and clerics, which we can no longer tolerate if we seek modernity. We shall secularize the legal code and diminish the power of the clergy.[NEWLINE]
+				[NEWLINE][ICON_BULLET]All policies in Piety are removed for large amounts of [ICON_CULTURE] Culture and [ICON_RESEARCH] Science.
+				[NEWLINE][ICON_BULLET]-10% [ICON_HAPPINESS_4] Unhappiness from population.
+			</Text>
+		</Row>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_UC_TURKEY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now throwing away traditional headgear for Panama hats and demanding a new alphabet - except the Kurds of course, they don't have a say in the matter. I fear the rest of the world will soon develop an irrational desire to reform everything as well.</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

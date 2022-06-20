@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="939270c4-6461-4404-b42f-90247f595fa8" version="1">
+  <Properties>
+    <Name>TarcisioCM - Kievan Rus'</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Kievan Rus'[ENDCOLOR] under Saint Olga. Requires BNW.</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Kievan Rus'[ENDCOLOR] under Saint Olga. Requires BNW.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Claims and Colonies" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="AB7E52AE0B0F7BF9328C36E02BA67C2E" import="1">Art/dds/tcm_gost_convoy_sv.dds</File>
+    <File md5="91FB819BAA696F19CBEC2118AD118534" import="1">Art/dds/tcm_gost_convoy_alpha_32.dds</File>
+    <File md5="6F2E3C24CCD0775BCA7522727A23FDA0" import="1">Art/dds/tcm_kievan_rus_leaderscreen.dds</File>
+    <File md5="9F0AD632EF8AD6D3C8F6840B3ABC2C61" import="1">Art/dds/tcm_kiev_alpha_128.dds</File>
+    <File md5="F0A37979508E67F1799B8A396CC83CDA" import="1">Art/dds/tcm_kiev_alpha_16.dds</File>
+    <File md5="1F6D80032F9F2E98F1596FC6B03EC8DB" import="1">Art/dds/tcm_kiev_alpha_24.dds</File>
+    <File md5="018125C6C5D9B2CA4CC40427F57A75B5" import="1">Art/dds/tcm_kiev_alpha_32.dds</File>
+    <File md5="FF2E18914A954B5A678D0D4554C9AAE6" import="1">Art/dds/tcm_kiev_alpha_48.dds</File>
+    <File md5="B25C6D942989BEAC87F062284E77792B" import="1">Art/dds/tcm_kiev_alpha_64.dds</File>
+    <File md5="35C3B31D5B79C5D239AD617552A3C08A" import="1">Art/dds/tcm_kiev_alpha_80.dds</File>
+    <File md5="31570C00896E12954B1FE8838816A76A" import="1">Art/dds/tcm_kiev_icons_128.dds</File>
+    <File md5="85B77019B4172867915A05F608AEF2D1" import="1">Art/dds/tcm_kiev_icons_256.dds</File>
+    <File md5="FD5CA2E3166294607146C930A7E514C1" import="1">Art/dds/tcm_kiev_icons_32.dds</File>
+    <File md5="DC3C314EE2F513D88F0A1800A6C5E527" import="1">Art/dds/tcm_kiev_icons_45.dds</File>
+    <File md5="AA60E86BC268857D5B512A1E704F9EF1" import="1">Art/dds/tcm_kiev_icons_64.dds</File>
+    <File md5="2861FC7083094AA9129ABE4FD1A1AFA8" import="1">Art/dds/tcm_kiev_icons_80.dds</File>
+    <File md5="AD9FAF69BA6F50C91908887E1406561A" import="1">Art/dds/tcm_Olga_Leaderhead.xml</File>
+    <File md5="86D6C9BB0E692B479A3B0C6DDC2F39BA" import="1">Art/dds/tcm_kievan_rus_dom.dds</File>
+    <File md5="2271C63B59D18162CA8B45698FBD180D" import="1">Art/dds/tcm_kievan_rus_map.dds</File>
+    <File md5="6031D1697E88BA8DE340934B82F0CA2E" import="1">Art/models/tcm_gost.dds</File>
+    <File md5="9CEF71C6CF6142CA4A46B4600F3565DB" import="1">Art/models/tcm_gost.fxsxml</File>
+    <File md5="5F41BFD400DDD3D04BC6401F166B1C09" import="1">Art/models/tcm_gost.gr2</File>
+    <File md5="7223A0931A0D812B38A2B32FBCC46528" import="1">Art/models/tcm_gost_gloss.dds</File>
+    <File md5="054DEC0826460DAC2845E17A5341F5FA" import="1">Art/music/tcm_kiev_peace.mp3</File>
+    <File md5="75A25BDEBF854EBD365E3F89571873EF" import="1">Art/music/tcm_kiev_war.mp3</File>
+    <File md5="C1F7249ECFC113E5F243D310AAD4F1DA" import="0">Code/ArtDef.sql</File>
+    <File md5="61D2F65AC148F657934C44B84F29A6AE" import="0">Code/CodeCore.sql</File>
+    <File md5="969EBE3DD0C25682D7D311392507A996" import="0">Code/Functions.lua</File>
+    <File md5="6EA567A6C776721B1A71C5455D6D2691" import="0">Code/Kiev City-State Update.xml</File>
+    <File md5="F2200D3790F0E16FB7600FA7B7AE06BF" import="0">Code/ModSupport.sql</File>
+    <File md5="F2C6890D290BDC4443B36F45BAC5CE5A" import="0">Code/GameText.xml</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Code/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Code/SaveUtils.lua</File>
+    <File md5="3D15F75556964E3D510D53A51A315934" import="1">Code/tcmOlgaDecisions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/CodeCore.sql</UpdateDatabase>
+      <UpdateDatabase>Code/ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Code/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Kiev City-State Update.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Functions.lua">
+      <Name>Olga Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

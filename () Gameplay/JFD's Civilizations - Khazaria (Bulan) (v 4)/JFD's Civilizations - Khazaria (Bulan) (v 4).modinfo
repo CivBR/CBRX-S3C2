@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c130ca83-d8b6-41bd-9045-62eea5eb6518" version="4">
+  <Properties>
+    <Name>JFD's Civilizations - Khazaria (Bulan)</Name>
+    <Teaser>Adds [COLOR_CYAN]Khazaria under Bulan[ENDCOLOR]. Click for details.</Teaser>
+    <Description>KHAZARIA (BULAN)[NEWLINE][NEWLINE]UNIQUE TRAIT: KHAZAR CORRESPONDENCE[NEWLINE]When a city is conquered, the followers of your main Religion from that city contribute progress toward your [ICON_CAPITAL] Capital's next [ICON_CITIZEN] Citizen. If that city was a Capital, receive [ICON_INFLUENCE] Influence with City-States sharing your main Religion.[NEWLINE][NEWLINE]UNIQUE BUILDING: SHUL (TEMPLE)[NEWLINE]The Shul is the unique Temple replacement for Khazaria. Unlike the Temple, the Shul is unlocked at Currency and increases the distance of Land Trade Routes by 50%. It also increases the [ICON_GOLD] Gold output of outgoing Trade Routes by +1 for every three followers of your main Religion in the city. It does not cost any maintenance.[NEWLINE][NEWLINE]UNIQUE UNIT: BEK (GREAT GENERAL)[NEWLINE]The Bek is the unique Khazar Great Person, replacing the Great General. Unlike the regular Great General, the Khagan Bek can be used to passively convert a city that its stationed in. When a city with a Bek trains a new Combat Unit, 10% of that city's Population is converted to your main Religion. In addition, Beks begin with bonus [ICON_MOVES] Movement for each Trade Route departing its city, making it highly versatile to move around your empire.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>Moriboe</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1324833741C3B6F920735EE2CCC02CEA" import="1">Art/Graphics/Bek/Knight_Turkey.dds</File>
+    <File md5="455AB5E60BB2FF2343E9D7A680796AF5" import="1">Art/Graphics/Bek/Knight_Turkey.fxsxml</File>
+    <File md5="3545880A98D609F0467BCDB311E7BC81" import="1">Art/Graphics/Bek/Knight_Turkey.gr2</File>
+    <File md5="6FEAA0A2CD0464F20FA84BCCBF4029E8" import="1">Art/Graphics/Bek/Knight_Turkey_gloss.dds</File>
+    <File md5="E4BD8CC51BF1C5C64D78DEF2411C515A" import="1">Art/Graphics/Bek/Knight_Turkey_Horse.dds</File>
+    <File md5="4C70FE4170AE6D900D26FCAFABA4697F" import="1">Art/Graphics/Bek/Knight_Turkey_Horse_gloss.dds</File>
+    <File md5="F263BC5C5E371A6848151A1010E3C069" import="1">Art/Graphics/Bek/sv_Bek.dds</File>
+    <File md5="381EEC92C189D77200D4271275F7E42C" import="1">Art/Icons/JFD_KhazariaBulan_UnitFlagAtlas_32.dds</File>
+    <File md5="A4AB2619157B3DFD30BE45E9203D71F8" import="1">Art/Leaderscene/JFD_KhazariaBulan_Diplo.dds</File>
+    <File md5="43E0B94DBBA910EE6261002A0E874A3F" import="1">Art/Leaderscene/JFD_KhazariaBulan_Scene.xml</File>
+    <File md5="215FDAE767BE517AC8D772FF8EFD3464" import="1">Art/Icons/JFD_KhazariaBulan_AlphaAtlas_128.dds</File>
+    <File md5="352BA4EE5D982F7B41E6C2DD3DAB3143" import="1">Art/Icons/JFD_KhazariaBulan_AlphaAtlas_16.dds</File>
+    <File md5="B7505125533FDF86983DE94747085D0C" import="1">Art/Icons/JFD_KhazariaBulan_AlphaAtlas_24.dds</File>
+    <File md5="3304DA82D3B884585EBFBE4DCFC97838" import="1">Art/Icons/JFD_KhazariaBulan_AlphaAtlas_32.dds</File>
+    <File md5="4630E487C23A9AC520E0EDEF6D34CCC5" import="1">Art/Icons/JFD_KhazariaBulan_AlphaAtlas_45.dds</File>
+    <File md5="A648FC32718733CBA1D0542D757948D3" import="1">Art/Icons/JFD_KhazariaBulan_AlphaAtlas_48.dds</File>
+    <File md5="9BD3D3C18307DDCC521C5036F80BCD5F" import="1">Art/Icons/JFD_KhazariaBulan_AlphaAtlas_64.dds</File>
+    <File md5="159D1EB01A87BAC26EA44B1F58B34400" import="1">Art/Icons/JFD_KhazariaBulan_AlphaAtlas_80.dds</File>
+    <File md5="B9279D1099CA5F70E9EF05B19425FD86" import="1">Art/Icons/JFD_KhazariaBulan_IconAtlas_128.dds</File>
+    <File md5="F9AA263F2693698071A6427DC2FB6C3C" import="1">Art/Icons/JFD_KhazariaBulan_IconAtlas_256.dds</File>
+    <File md5="E096C928F52B4F4E7B375639B48071ED" import="1">Art/Icons/JFD_KhazariaBulan_IconAtlas_32.dds</File>
+    <File md5="DE024202A063855F58A9F16AA8CD3E35" import="1">Art/Icons/JFD_KhazariaBulan_IconAtlas_45.dds</File>
+    <File md5="1AE15C08F81D477A63F94C0341B44B61" import="1">Art/Icons/JFD_KhazariaBulan_IconAtlas_64.dds</File>
+    <File md5="65899E88D08D08D8045FADF6B43D80CB" import="1">Art/Icons/JFD_KhazariaBulan_IconAtlas_80.dds</File>
+    <File md5="5A33D0E17BB796839054D36AC5CC13D6" import="1">Art/Maps/JFD_DOM_KhazariaBulan.dds</File>
+    <File md5="D4BC7156A80573E55B787A19D1586C9F" import="1">Art/Maps/JFD_MapKhazariaBulan512.dds</File>
+    <File md5="BAB4D8F8EA4665F4EBC6ECFD7A620877" import="1">Audio/JFD_KhazariaBulan_Peace.mp3</File>
+    <File md5="029FA498446A9D7CF74F7F9C51673A9E" import="1">Audio/JFD_KhazariaBulan_War.mp3</File>
+    <File md5="A880A5CF9F6507227749A766239424CB" import="0">Core/KhazariaBulan_ArtDefines.sql</File>
+    <File md5="379A89230A99E83F500D9B489D7FC042" import="0">Core/KhazariaBulan_GameDefines.sql</File>
+    <File md5="73FBB2672BA31CC893EACF9268D425E5" import="0">Core/KhazariaBulan_GameText.xml</File>
+    <File md5="EB776DEA166C3412D6AD9CCB8B3F9F5F" import="0">Core/KhazariaBulan_ModSupport.sql</File>
+    <File md5="34EE9250AA482B59E4DD2C2BC083B938" import="0">Credits.txt</File>
+    <File md5="ABC6D6E34B2D1C3B3C620988223027D6" import="0">Lua/JFD_Civs_KhazariaBulan_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/KhazariaBulan_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/KhazariaBulan_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/KhazariaBulan_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/KhazariaBulan_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_KhazariaBulan_Functions.lua">
+      <Name>JFD_Civs_KhazariaBulan_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

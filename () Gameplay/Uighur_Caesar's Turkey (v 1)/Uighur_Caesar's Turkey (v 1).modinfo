@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5714d844-6b73-4712-bc79-d186d6923170" version="1">
+  <Properties>
+    <Name>Uighur_Caesar's Turkey</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Republic of Turkey under Mustafa Kemal Ataturk to the game.</Teaser>
+    <Description>Adds the Republic of Turkey under Mustafa Kemal Ataturk to the game.</Description>
+    <Authors>Uighur_Caesar</Authors>
+    <SpecialThanks>Urdnot_Scott, Regalman. Viregel, DarthStarKiller, TarcisioCM</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's RTP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="CIV Traits" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="819F60C8AE4C3754B339868D6BA4C0E3" import="1">Art/AtaturkLS.dds</File>
+    <File md5="C0BFA4F9EB063A49A935EF3E647EA52B" import="1">Art/AtaturkPeace.mp3</File>
+    <File md5="A943B826B7D64103A5CD5142321FA73D" import="1">Art/KuvaFlag.dds</File>
+    <File md5="A84F895B65162ECCA598ACE694FBE932" import="1">Art/TurkeyAlpha128.dds</File>
+    <File md5="ED0D5D0191ECD1ED04C8A5A0D175D808" import="1">Art/TurkeyAlpha16.dds</File>
+    <File md5="8275FD2567DFEF6FD075EF9E7C155BE1" import="1">Art/TurkeyAlpha24.dds</File>
+    <File md5="709C7DC42F4298F5FC4A57A18FE98425" import="1">Art/TurkeyAlpha256.dds</File>
+    <File md5="081CAF8EDDD3EA0BB0709E1092BEB642" import="1">Art/TurkeyAlpha32.dds</File>
+    <File md5="1D58AA9D15B02C9EDB45AD8A04762F85" import="1">Art/TurkeyAlpha45.dds</File>
+    <File md5="14BFD348DDADE8C7DEEC74C5C6EA7D9E" import="1">Art/TurkeyAlpha48.dds</File>
+    <File md5="6574F834628D01CBF8A1DB46FFD5DF0E" import="1">Art/TurkeyAlpha64.dds</File>
+    <File md5="4DA4D81C327A6717A985054276B0B93C" import="1">Art/TurkeyAlpha80.dds</File>
+    <File md5="47CC5326EC1C35681DC3600CCAEAC208" import="1">Art/TurkeyAtlas128.dds</File>
+    <File md5="2EFE351FCDF2C1B886918D311C3F1DB1" import="1">Art/TurkeyAtlas256.dds</File>
+    <File md5="21F4CADE115C2A53F97F01D83E83AE3C" import="1">Art/TurkeyAtlas32.dds</File>
+    <File md5="2799550ECF95970ED29AA777515661A3" import="1">Art/TurkeyAtlas45.dds</File>
+    <File md5="6BC1FCCD0798C24285E1279A8AE43480" import="1">Art/TurkeyAtlas64.dds</File>
+    <File md5="89BA55BAC7EB9A16F65E0E10324FA156" import="1">Art/TurkeyAtlas80.dds</File>
+    <File md5="E73AAD7CF0C4A36E030D5819A24B8EA7" import="1">Art/TurkeyDOM.dds</File>
+    <File md5="6F7AAA816C7546A331A204E49C2EB16D" import="1">Art/TurkeyMap.dds</File>
+    <File md5="9BCB5617B7D9C9ACC4F63DFD81082AB2" import="1">Art/gergw1.dds</File>
+    <File md5="8BCCD98D36FB50516FF92ADB2474EC55" import="1">Art/gergw1.fxsxml</File>
+    <File md5="7F0730D4A157E40CBF26384BCF16851E" import="1">Art/gergw1.gr2</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/no_gloss.dds</File>
+    <File md5="EC40DAE6D2698D04BB03EB891E4B5293" import="1">Art/ottgw1.dds</File>
+    <File md5="9CFDBB399C0C0C10ABED71CEFD0890CA" import="1">Art/ottgw1.fxsxml</File>
+    <File md5="FB916DDBBA30491CF610033695032799" import="1">Art/ottgw1.gr2</File>
+    <File md5="7EAD4C3CA79D5FE56237DCA1E85E7B6E" import="1">Art/AtaturkWar.mp3</File>
+    <File md5="E98D4601D6A8239E1BDD359D7C4B6D96" import="1">Core/AtaturkScene.xml</File>
+    <File md5="8DE371CACBC2293174C258A1B78991A6" import="0">Core/Defines.sql</File>
+    <File md5="6B0C77B2BB7C6E3AA4EF7ECC85AD195E" import="0">Core/Leader.xml</File>
+    <File md5="B02152C8973D15849A6FBFE3D81FE9A2" import="0">Core/Building.xml</File>
+    <File md5="AA5E3274927A4CB641511545C80F42ED" import="0">Core/Unit.xml</File>
+    <File md5="7C2E99B58DF8EC0272A6181FB00D0EA7" import="0">Core/Civ.xml</File>
+    <File md5="D484C2B02CACA51B5933DA999DCC2798" import="0">Lua/AtaturkFunctions.lua</File>
+    <File md5="C1DBDAED416ED2B86029339541CC34D1" import="0">Lua/AtaturkFunctions.xml</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Sukritact's Modular City Info Stack (v 1)/UI/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Sukritact's Modular City Info Stack (v 1)/UI/CityInfoStack.xml</File>
+    <File md5="E4A3A953BEA189AC81BEA76A54F2DCB6" import="0">Support/SupportText.xml</File>
+    <File md5="D16450776C8FC3CCC261DB02A5B9EF36" import="1">Support/TurkeyDecisions.lua</File>
+    <File md5="F92DC7F5EE0CCDE04D9A4E08EB38C41C" import="0">Support/Support.sql</File>
+    <File md5="055F559104826519221CF771ED18258C" import="0">Text/Diplo.xml</File>
+    <File md5="B35EA290DD2E86162DF85EA6F07612E7" import="0">Text/Diplo.sql</File>
+    <File md5="9B19B59C1761EC77574B97B3C150B97D" import="0">Text/Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Building.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civ.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Unit.xml</UpdateDatabase>
+      <UpdateDatabase>Text/Text.xml</UpdateDatabase>
+      <UpdateDatabase>Support/Support.sql</UpdateDatabase>
+      <UpdateDatabase>Support/SupportText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Defines.sql</UpdateDatabase>
+      <UpdateDatabase>Text/Diplo.sql</UpdateDatabase>
+      <UpdateDatabase>Text/Diplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/AtaturkFunctions.lua">
+      <Name>jtehrsgaef</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Sukritact's Modular City Info Stack (v 1)/UI/CityInfoStack.lua">
+      <Name>6o8kijnhyrdbgf</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

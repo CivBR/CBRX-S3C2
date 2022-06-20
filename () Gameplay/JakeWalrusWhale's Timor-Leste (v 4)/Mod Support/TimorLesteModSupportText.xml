@@ -1,0 +1,174 @@
+<GameData>
+	<Language_en_US>
+		<!-- Sovereignty -->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_JWW_TIMOR-LESTE">
+			<Text>The National Parliament</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_1">
+			<Text>Francisco Guterres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_2">
+			<Text>Fernando de Araújo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_3">
+			<Text>Vicente Guterres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_4">
+			<Text>Adérito Hugo da Costa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_5">
+			<Text>Aniceto Guterres Lopes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_6">
+			<Text>Arão Noé da Costa Amaral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_7">
+			<Text>José Ramos-Horta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_8">
+			<Text>Taur Matan Ruak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_9">
+			<Text>Estanislau da Silva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_10">
+			<Text>Mari Alkatiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_11">
+			<Text>Rui Maria de Araújo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_12">
+			<Text>Nicolau dos Reis Lobato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_13">
+			<Text>Francisco Xavier do Amaral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_14">
+			<Text>José Luís Guterres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_15">
+			<Text>Zacarias da Costa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_16">
+			<Text>Emília Pires</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_17">
+			<Text>Lúcia Lobato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_18">
+			<Text>Nelson Martins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_19">
+			<Text>João Câncio Freitas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_20">
+			<Text>Arcângelo Leite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_21">
+			<Text>João Gonçalves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_22">
+			<Text>Maria Domingas Alves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_23">
+			<Text>Gastão Francisco de Sousa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_24">
+			<Text>Pedro Lay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JWW_TIMOR-LESTE_25">
+			<Text>Ovidio D. J. Amaral</Text>
+		</Row>
+		<!-- Additional Achievements -->
+		<Row Tag="TXT_KEY_MOD_JWW_TIMOR-LESTE_NAME">
+			<Text>JakeWalrusWhale's Timor-Leste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_JWW_TIMOR-LESTE_MODID">
+			<Text>e55801b4-a79d-4e4c-8a2f-ab29dba9b376</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_JWW_TIMOR-LESTE_AUTHORS">
+			<Text>JakeWalrusWhale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JWW_TIMOR-LESTE_VICTORY_HEADER">
+			<Text>Unidade, Acção, Progresso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JWW_TIMOR-LESTE_VICTORY_TEXT">
+			<Text>Win as Timor-Leste.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JWW_TIMOR-LESTE_SPECIAL_HEADER">
+			<Text>Oh, How the Turn Tables Turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JWW_TIMOR-LESTE_SPECIAL_TEXT">
+			<Text>As Timor-Leste, take Indonesia's Original capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAB_JWW_CIVS_HEADER">
+			<Text>JakeWalrusWhale's Civilizations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAB_JWW_CIVS_DESCRIPTION">
+			<Text>Achievements for mods created by JakeWalrusWhale</Text>
+		</Row>
+		<!-- Decisions -->
+		<Row Tag="TXT_KEY_DECISIONS_JWW_TIMORLESTE_SUPPORT">
+			<Text>Gain Global Support From the UN</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JWW_TIMORLESTE_SUPPORT_DESC">
+			<Text>
+				Your country is struggling with the latest war, as troops have been lost and cities have been taken. Fortunately, you have the option to go to the United Nations with the issue, and popularize it throughout the world. Doing this may help you recieve support from other civilizations.
+				[NEWLINE][NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Timor-Leste
+				[NEWLINE][ICON_BULLET]Must be at War
+				[NEWLINE][ICON_BULLET]Must have the "Penicilin" Tech
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]700 [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities that have been lost by you in the last 10 turns will return to you
+				[NEWLINE][ICON_BULLET]5 [ICON_WAR] "FALINTIL" appear to defend your capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JWW_TIMORLESTE_SUPPORT_ENACTED_DESC">
+			<Text>
+				People everywhere have heard about your struggles, and they have been urging their leaders to intervene for the sake of peace. The United Nations have called to help out your cause, and other leaders have listened and have lent you their support.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities that have been lost by you in the last 10 turns will return to you
+				[NEWLINE][ICON_BULLET]5 [ICON_WAR] "FALINTIL" appear to defend your capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_TL_SUPPORT_DUMMY">
+			<Text>TL Support Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JWW_TIMORLESTE_PETROLEUM">
+			<Text>Establish the Timor-Leste Petroleum Fund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JWW_TIMORLESTE_PETROLEUM_DESC">
+			<Text>
+				Oil has been discovered in our territory, and the amount of it is very numerous! Oil has become one of our greatest incomes. However, your advisers recommend allocating the surplus wealth from oil into a fund to be used by the government. This could mean much more wealth for you and your people!
+				[NEWLINE][NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Timor-Leste
+				[NEWLINE][ICON_BULLET]Must have the "Refrigeration" tech
+				[NEWLINE][ICON_BULLET]Must have at least 5 [ICON_RES_OIL] Offshore Platforms
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]500 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each plot with [ICON_RES_OIL] Oil will yield an additional 5 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JWW_TIMORLESTE_PETROLEUM_ENACTED_DESC">
+			<Text>
+				And thus the Timor-Leste Petroleum Fund was established, and the surplus income is predicted to skyrocket over the years. This wealth could help us win many battles!
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each plot with [ICON_RES_OIL] Oil will yield an additional 5 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<!-- Cultural Influence -->
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now reliant on oil and asking the United Nations for support. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_XANANA_GUSMAO_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are reliant on oil and asking the United Nations for support. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

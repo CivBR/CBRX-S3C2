@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="926c1377-9d93-4b90-a8a5-f12abe0ccc2c" version="2">
+  <Properties>
+    <Name>JFD's Civilizations - Afghanistan (Ahmad Shah Durrani)</Name>
+    <Teaser>Adds [COLOR_CYAN]Afghanistan under Ahmad Shah Durrani[ENDCOLOR]. Click for details.</Teaser>
+    <Description>AFGHANISTAN (AHMAD SHAH DURRANI)[NEWLINE][NEWLINE]UNIQUE TRAIT: GRAVEYARD OF EMPIRES[NEWLINE]Enemy Units in your borders take damage when in Hills or next to Mountains. This and combat victories in Friendly Territory produce [ICON_GREAT_PEOPLE] Great Writer Points.[NEWLINE][NEWLINE]UNIQUE BUILDING: DIVAN (CARAVANSARY)[NEWLINE]The unique Divan is the Caravansary replacement for Afghanistan. Like the Caravansary, the Divan improves the range and [ICON_GOLD] Gold yield of land trade routes. However, it also produces [ICON_CULTURE] Culture whenever a new Tile is acquired, equal to the city's culture output. It also possesses a [ICON_GREAT_WORK] Great Work of Writing slot.[NEWLINE][NEWLINE]UNIQUE UNIT: JEZAILCHI (CAVALRY)[NEWLINE]The Jezailchi is a late-game Mounted Unit with a single-range attack, allowing it to take no damage when engaging in battle. This unit is much more effective when fighting in Hills, especially within your borders, although it is inherently weaker than the Cavalry that it replaces. They are unique to Afghanistan. Use Jezailchi to repel enemy invaders and protect your territory.</Description>
+    <Authors>JFD, Sukritact, Janboruta, Regalman</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B4F9EE26BB1EE86E5898F9CB573B98A2" import="1">Art/Leaderscene/JFD_AfghanistanDurrani_Diplo.dds</File>
+    <File md5="3D3C0E4ED287ABD296FD0F8436538F13" import="1">Art/Leaderscene/JFD_AfghanistanDurrani_Scene.xml</File>
+    <File md5="5706BF34E2C4E028663AE1AD53339227" import="1">Art/Graphics/Jezailchi/black_4x4.dds</File>
+    <File md5="B5939567EA659BF4F694E2F4EF3F9478" import="1">Art/Graphics/Jezailchi/sv_Jezailchi.dds</File>
+    <File md5="A70E59FDB0F2553A4314C08ACA18E2D6" import="1">Art/Graphics/Jezailchi/u_afghanistan_camel_gunner.fxsxml</File>
+    <File md5="BBD74561C7F504EE32112BA3A91E9EBD" import="1">Art/Graphics/Jezailchi/u_afghanistan_camel_gunner.gr2</File>
+    <File md5="0CA1D1A92C410CD78548686A1C8877AA" import="1">Art/Graphics/Jezailchi/u_afghanistan_camel_gunner_camel_diff.dds</File>
+    <File md5="B97DC373708151C51669BAE8BF36A6F7" import="1">Art/Graphics/Jezailchi/u_afghanistan_camel_gunner_diff.dds</File>
+    <File md5="6E68B2DDF34A622E1635F32CDE29B852" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_128.dds</File>
+    <File md5="0D72DF54F0251DE040D2CB8CDF5AD206" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_16.dds</File>
+    <File md5="951FFE4C57C7644CF152422512A43834" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_22.dds</File>
+    <File md5="C8DF150F1281E8FE88850851B41D1355" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_24.dds</File>
+    <File md5="058DEEF250CE77B77BCF185E13F0CAF9" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_256.dds</File>
+    <File md5="B4ABDB38CFEDE0A4165B88FE00A3F2ED" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_32.dds</File>
+    <File md5="E8A263EC34E146E7B2A3C100584AF858" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_45.dds</File>
+    <File md5="FD176C8B42C5CFAD246F0319CCA40335" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_48.dds</File>
+    <File md5="B6346A3B3E90D3FE6812747F5FE96A5F" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_64.dds</File>
+    <File md5="F3C6C5B2C53054E3E01B5D90FA295640" import="1">Art/Icons/JFD_AfghanistanDurrani_AlphaAtlas_80.dds</File>
+    <File md5="C0DBD3795766DBF5A4D3B664D76CA1AB" import="1">Art/Icons/JFD_AfghanistanDurrani_IconAtlas_128.dds</File>
+    <File md5="FECE88FA53372D22BFDC8D20F98BF492" import="1">Art/Icons/JFD_AfghanistanDurrani_IconAtlas_256.dds</File>
+    <File md5="629FC92CB1C9950977C1B3CEC73CFADA" import="1">Art/Icons/JFD_AfghanistanDurrani_IconAtlas_32.dds</File>
+    <File md5="40D0332FA44A5B0C11AD71E8DF053BCE" import="1">Art/Icons/JFD_AfghanistanDurrani_IconAtlas_45.dds</File>
+    <File md5="09515DA23CDF96CFDDCE1AF505EE98CF" import="1">Art/Icons/JFD_AfghanistanDurrani_IconAtlas_64.dds</File>
+    <File md5="6999635DD125ED4365E67F17E78F982D" import="1">Art/Icons/JFD_AfghanistanDurrani_IconAtlas_80.dds</File>
+    <File md5="B291DF23F35CCCB8408EB108C144DA27" import="1">Art/Icons/JFD_AfghanistanDurrani_UnitFlagAtlas_32.dds</File>
+    <File md5="B472F06D49140F6F48FDD792B5C3DBD3" import="1">Art/Maps/JFD_DOM_AfghanistanDurrani.dds</File>
+    <File md5="848213E6DE822A616D44B49E03921E65" import="1">Art/Maps/JFD_MapAfghanistanDurrani512.dds</File>
+    <File md5="DE53304CCC95A12B870CCF0CCFE51012" import="1">Audio/JFD_AfghanistanDurrani_Peace.mp3</File>
+    <File md5="F25CFDCD6A9C15EA5D5E332648BC56AC" import="1">Audio/JFD_AfghanistanDurrani_War.mp3</File>
+    <File md5="1915BEEC72053B1CA02D7C1E2E90F481" import="0">Core/AfghanistanDurrani_ArtDefines.sql</File>
+    <File md5="F0A444A6DD2F5B1D07C5E02C392BE709" import="0">Core/AfghanistanDurrani_GameDefines.sql</File>
+    <File md5="26581490BEE8BDAC9E6C7E823CEF4EAA" import="0">Core/AfghanistanDurrani_GameText.xml</File>
+    <File md5="5972625A04015719465BE37306145DFE" import="0">Core/AfghanistanDurrani_ModSupport.sql</File>
+    <File md5="AF6E4FF07C7B09F472E4F1672D762C48" import="0">Credits.txt</File>
+    <File md5="11CE77B3088EACEC60E48ACE22E5E19B" import="0">Lua/JFD_Civs_AfghanistanDurrani_Functions.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/AfghanistanDurrani_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AfghanistanDurrani_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AfghanistanDurrani_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/AfghanistanDurrani_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_AfghanistanDurrani_Functions.lua">
+      <Name>JFD_Civs_AfghanistanDurrani_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

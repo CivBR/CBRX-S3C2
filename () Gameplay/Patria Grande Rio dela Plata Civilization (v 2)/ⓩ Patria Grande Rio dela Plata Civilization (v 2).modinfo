@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6aa1934c-48d5-4bad-b136-7702e03fb07e" version="2">
+  <Properties>
+    <Name>ⓩ Patria Grande; Rio dela Plata Civilization</Name>
+    <Teaser>Adds the [COLOR_WATER_TEXT]Provincias Unidas del Rio dela Plata[ENDCOLOR] with José de San Martín as its leader!</Teaser>
+    <Description>Adds the [COLOR_WATER_TEXT]Provincias Unidas del Rio dela Plata[ENDCOLOR] with [COLOR_WATER_TEXT]José de San Martín[ENDCOLOR] as its leader.
+[NEWLINE][COLOR_DARK_GREY]The mod includes an alternate map. Check User_Settings_RiodelaPlata.sql to change.[ENDCOLOR]
+[NEWLINE][NEWLINE]
+----------------------------------------------------------------------------------------------
+[NEWLINE][NEWLINE]
+[COLOR_WATER_TEXT]Civilization Concept:[ENDCOLOR]
+As an alternate Argentina Civilization, the civ allows for good bonuses both for aggressive and defensive playstyles. Yerbamate Plantations are the core of the civilization, giving them extra growth as well as a defensive healing bonus. San Martin can use mounted units to further enhance growth by gaining Golden Age points. Finally growth gives a flexible bonus based on city focus.
+[NEWLINE]
+[COLOR_WATER_TEXT]Main Strengths:[ENDCOLOR] [ICON_FOOD]Growth and [ICON_STRENGTH]Combat.
+[NEWLINE][NEWLINE]
+----------------------------------------------------------------------------------------------
+[NEWLINE][NEWLINE]
+[COLOR_WATER_TEXT]Abilities:[ENDCOLOR]
+[NEWLINE][ICON_BULLET][COLOR_WATER_TEXT]UA: Docta Latinoamericana: [ENDCOLOR]Whenever a Citizen is born you receive an amount of [ICON_RESEARCH]Science, [ICON_CULTURE]Culture, [ICON_PRODUCTION]Production, or [ICON_GOLD]Gold depending on the City Focus. Mounted Units grant points towards [ICON_GOLDEN_AGE]Golden Ages when defeating an enemy.
+[NEWLINE][ICON_BULLET][COLOR_WATER_TEXT]UU: Granaderos a Caballo: [ENDCOLOR]Replacement for Cavalry which takes longer to produce but has increased damage has an additional weaker 1 Range attack. Granaderos also receive the “Code of Honour” promotion, which heals half of their health points when starting a turn with less than 10 HP, the effect can only be applied once.
+[NEWLINE][ICON_BULLET][COLOR_WATER_TEXT]UI: Yerbamate Plantation: [ENDCOLOR]Unique Improvement for Rio dela Plata that may not be built next to each other. May only be built on flatlands next to rivers after the discovery of Horseback Riding. Grants a free source of [ICON_RES_MATE]Yerba Mate, yielding a total of +1 [ICON_FOOD]Food and +2 [ICON_CULTURE]Culture aside from the plot yields, producing +1 more [ICON_FOOD] Food during Golden Ages.
+[NEWLINE][COLOR_WATER_TEXT][ICON_RES_MATE]Yerbamate is a Bonus Resource that receives bonuses with Granaries and heals owned units that start on their plot.[ENDCOLOR]
+[NEWLINE][NEWLINE]
+----------------------------------------------------------------------------------------------
+[NEWLINE][NEWLINE]
+[COLOR_WATER_TEXT]Included Compatibility:[ENDCOLOR]
+[NEWLINE][ICON_BULLET] JFD's Cultural Diversity.
+[NEWLINE][ICON_BULLET] JFD's Rise to Power.
+[NEWLINE][ICON_BULLET] Sukritact's Events &amp; Decisions
+[NEWLINE][ICON_BULLET] Yet (not) Another Earth Map Pack
+[NEWLINE][ICON_BULLET] Ethnic Units
+[NEWLINE][ICON_BULLET] Civ IV Leader Traits in Civ V
+[NEWLINE][ICON_BULLET] Unique Cultural Influence.
+[NEWLINE][NEWLINE]
+----------------------------------------------------------------------------------------------
+[NEWLINE][NEWLINE]
+[COLOR_WATER_TEXT]Credits:[ENDCOLOR]
+[NEWLINE][ICON_BULLET] Leugi: Civilization Design, Code and most Art.
+[NEWLINE][ICON_BULLET] regalman: Alternate Map.
+[NEWLINE][ICON_BULLET] JFD: Code and utilities.
+[NEWLINE][ICON_BULLET] Hoop_Thrower: City List.
+[NEWLINE][ICON_BULLET] Tomatekh: Pedias.
+[NEWLINE][ICON_BULLET] LeeS: Code Help</Description>
+    <Authors>Leugi,</Authors>
+    <SpecialThanks>regalman, JFD, Tomatekh, Hoop_Thrower</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="86A9171340C5C1ED98C5AA510CD57D5C" import="1">Art/Icons/flag_granaderos.dds</File>
+    <File md5="CFD1A56670828480C28232796369C380" import="1">Art/Icons/flag_patricios.dds</File>
+    <File md5="F58DCB648A43ED360E847C4DEBBBC6C0" import="1">Art/Icons/RiodelaPlataIocons128.dds</File>
+    <File md5="3C2D67ACD81997D2422C35F6D59369DF" import="1">Art/Icons/RiodelaPlataIocons16.dds</File>
+    <File md5="7E64ED11B555C922F97EDDF07C4FE9FB" import="1">Art/Icons/RiodelaPlataIocons24.dds</File>
+    <File md5="750BEAAACE3EB55B0739B70AC14C8AF0" import="1">Art/Icons/RiodelaPlataIocons256.dds</File>
+    <File md5="1203F6504BDBF2A83304A17863D8D5A7" import="1">Art/Icons/RiodelaPlataIocons32.dds</File>
+    <File md5="F9D0AAA266482B169AB15F81B9908503" import="1">Art/Icons/RiodelaPlataIocons45.dds</File>
+    <File md5="3B2F0C229C8B8688F14E7DAC749BD9BB" import="1">Art/Icons/RiodelaPlataIocons48.dds</File>
+    <File md5="A9E7A9217F3029619335D9B8FAD42773" import="1">Art/Icons/RiodelaPlataIocons64.dds</File>
+    <File md5="F4FA3AD14B181A58B4C828F481EA611E" import="1">Art/Icons/RiodelaPlataIocons80.dds</File>
+    <File md5="3C3FC3127710B42934984A9C72AC14C2" import="1">Art/Icons/sv_granaderos.dds</File>
+    <File md5="35B4B599580AC6F7F49378BFAEB21548" import="1">Art/Icons/sv_MATE.dds</File>
+    <File md5="0456981A1AEDD1F7E4B8C7E8AF386DC5" import="1">Art/Icons/sv_patricios.dds</File>
+    <File md5="4F61896E63355D8D027BF2541BA85F58" import="1">Art/Icons/sv_yerbamate_plantation.dds</File>
+    <File md5="DA2E825565FB3F5FAEF464AD12C7FCDC" import="1">Art/Models/yerbamatedecal1.dds</File>
+    <File md5="F16D6B2BD682D76EA970CE066AC119E2" import="1">Art/Models/YerbaMateTexture.dds</File>
+    <File md5="8B90AFA849B06F6A6790D8001487B5D8" import="1">Art/Models/YerbaMateTexture_pl.dds</File>
+    <File md5="5AE66973536526951F1EF5AD2CC0B7E3" import="1">Art/Models/yerbamate_hb.fxsxml</File>
+    <File md5="28E1A3D81D81524EC422184FB76E9F90" import="1">Art/Models/yerbamate_pl.fxsxml</File>
+    <File md5="413C899B00C56424DBBCF7DCD29960E2" import="1">Art/Models/yerbamate.fxsxml</File>
+    <File md5="C9738505AB2B7A72CCFBC404CD196BC5" import="1">Art/Models/granaderos.gr2</File>
+    <File md5="C761CF680CBA68F8138560F8446E6FB2" import="1">Art/Models/granaderos_diff.dds</File>
+    <File md5="3742EC2DBF83DCC175AB42946254B553" import="1">Art/Models/granaderos_sref.dds</File>
+    <File md5="CD3560CAC96CE4F0D523417E996E66E8" import="1">Art/Models/granaderos.fxsxml</File>
+    <File md5="99CC1AD550303478BEB584707E04C8CD" import="1">Art/Models/lightfix.dds</File>
+    <File md5="E859F9244C399060D528BF659E6B07F4" import="1">Art/Models/patricios.gr2</File>
+    <File md5="7BA70EDCF52E6D0F0406EC61013D6B5C" import="1">Art/Models/patricio_diff.dds</File>
+    <File md5="5DA1715C9743D64D369D32EBDFBE4A46" import="1">Art/Models/patricios.fxsxml</File>
+    <File md5="D83643FC981C5D056A6AC96E5EDDFAA8" import="1">Art/Models/yerbamate.gr2</File>
+    <File md5="16886CA3EC6A4CDCCEFFF5FD5E186BC6" import="1">Art/Models/yerbamate_hb.gr2</File>
+    <File md5="C7DE44A8FCFDB07D0C6801FEAFA484A6" import="1">Art/Models/yerbamate_pl.gr2</File>
+    <File md5="322C79CAE1D62607C8579386676B2646" import="1">Art/Music/MinorCiv_BuenosAires.mp3</File>
+    <File md5="03249542C6D9DF0485571C8C60316DC4" import="1">Art/Music/SanMartinPeace.mp3</File>
+    <File md5="800F973C1275439993FC9EF57D146DAC" import="1">Art/Music/SanMartinWar.mp3</File>
+    <File md5="E92EF496441E58B8BF5A028E19610180" import="1">Art/Other/DOM_SanMartin_00.dds</File>
+    <File md5="C2D14F61104E7B5148F40D0F7176D6C7" import="1">Art/Other/DOM_SanMartin_01.dds</File>
+    <File md5="4947B9A6B3E474B3BB6E90E70C629B50" import="1">Art/Other/Leaderscene_SanMartin.dds</File>
+    <File md5="E5D2F4630DB4181C99FBEABF3816E300" import="1">Art/Other/Map_RiodelaPlata_00.dds</File>
+    <File md5="4F459B2F5BB20EEEC614296AC4D51974" import="1">Art/Other/Map_RiodelaPlata_01.dds</File>
+    <File md5="F8CB6A052AEC1F641E64DF4779909A7A" import="1">Art/Resources/Icon_Mate.dds</File>
+    <File md5="DF16ECA5FAE9919B220FD43A0FFBA3F1" import="1">Art/Resources/Icon_Mate.ggxml</File>
+    <File md5="BBCA8419B308B12CA38D9AA72C85E896" import="1">Art/Resources/Mate_Fonticon.xml</File>
+    <File md5="47A598D8D3AAE6CD72EF7ED118B88BE7" import="1">Lua/ChangePlayerResearchProgress.lua</File>
+    <File md5="339A14C6B51062B0B25466E3A1FAF791" import="0">sql/Civilization_RioPlata.sql</File>
+    <File md5="5F6E2BEA34F6A83DB7D9BA77743C95FA" import="0">sql/CulDiv_RiodelaPlata.sql</File>
+    <File md5="9E29E2B332ABC029061163B6F1E88B4E" import="0">UserSettings_RiodelaPlata.sql</File>
+    <File md5="456D70097532404CD7E10B743FCE072E" import="1">Lua/Decisions_RioPlata.lua</File>
+    <File md5="30D31046F7C5DB4A364328B77BE21ED5" import="1">Lua/Events_RioPlata.lua</File>
+    <File md5="615D9CB00482FF1FD6D51E8125315789" import="1">Lua/Improvement_Yerbamate.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="18772B612B25BC93AEE2594FD93323C2" import="0">Lua/Trait_RioPlata.lua</File>
+    <File md5="927DA32D763DBADD2E05437E945FEC1D" import="0">Lua/Unit_Granadero.lua</File>
+    <File md5="7E4B87A1352F5B1F0CB596162D308EED" import="0">sql/ArtDefines_RioPlata.sql</File>
+    <File md5="2E98169A51EA220DC10BB1D3AABD7F1E" import="0">sql/Buildings_RioPlata.sql</File>
+    <File md5="1E85BD6EEFDF36F753A335DF0BF1A17E" import="0">sql/Cities_RioPlata.sql</File>
+    <File md5="D11487DD759D52754834076B88CAA45E" import="0">sql/Improvements_RioPlata.sql</File>
+    <File md5="76E460E377B8769D6A4794240633A90D" import="0">sql/LeaderDiplo_RioPlata.sql</File>
+    <File md5="A1FFD6BFEA1E02AD04D752AF324B5EBB" import="0">sql/Leader_RioPlata.sql</File>
+    <File md5="53AEBD854B019E0AC4856DC2B47821B2" import="0">sql/ModSupport_RioPlata.sql</File>
+    <File md5="F177D9FCA9FFF720236F2EA8E5BD3E4E" import="0">sql/Policies_RioPlata.sql</File>
+    <File md5="4D66C7DC6A3758BBD882C75822EE3917" import="0">sql/Trait_RioPlata.sql</File>
+    <File md5="66B570AB49FE4A34B3510E12019A6602" import="0">sql/Units_RioPlata.sql</File>
+    <File md5="9A96B2073FD1CA9169E8393F4B6CD712" import="0">xml/Events_RioPlata.xml</File>
+    <File md5="3969BCB5E84A6F787DD94462B290A210" import="0">xml/TextCityState_Paramaribo.xml</File>
+    <File md5="5BF2EA62A33A9B1382F6AB4B865819BE" import="1">xml/Scene_SanMartin.xml</File>
+    <File md5="4F789E55D57A29A99D9733AA60EC2E47" import="0">xml/ModSupportText_RioPlata.xml</File>
+    <File md5="C5DB8B73798DCAFE0C0618A24E5D8FBB" import="0">xml/Cities_Spies_RioPlata.xml</File>
+    <File md5="7CB09F2AD39981A0E7039E34F851728B" import="0">xml/Text_RioPlata.xml</File>
+    <File md5="9AAB042E05BF0327C67BD248FA0F62ED" import="0">xml/Diplomacy_RioPlata.xml</File>
+    <File md5="244F4E65312034DB64941C75F03B896B" import="0">xml/Decisions_RioPlata.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>UserSettings_RiodelaPlata.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Resources/Mate_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>sql/Civilization_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/ArtDefines_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/Buildings_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/Cities_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/Improvements_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/Leader_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/LeaderDiplo_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/Policies_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/Trait_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/Units_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>xml/Cities_Spies_RioPlata.xml</UpdateDatabase>
+      <UpdateDatabase>xml/Decisions_RioPlata.xml</UpdateDatabase>
+      <UpdateDatabase>xml/Events_RioPlata.xml</UpdateDatabase>
+      <UpdateDatabase>xml/ModSupportText_RioPlata.xml</UpdateDatabase>
+      <UpdateDatabase>xml/Text_RioPlata.xml</UpdateDatabase>
+      <UpdateDatabase>xml/TextCityState_Paramaribo.xml</UpdateDatabase>
+      <UpdateDatabase>xml/Diplomacy_RioPlata.xml</UpdateDatabase>
+      <UpdateDatabase>sql/ModSupport_RioPlata.sql</UpdateDatabase>
+      <UpdateDatabase>sql/CulDiv_RiodelaPlata.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Improvement_Yerbamate.lua">
+      <Name>Improvement Rio dela Plata</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Trait_RioPlata.lua">
+      <Name>Trait Rio dela Plata</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Unit_Granadero.lua">
+      <Name>Unit Rio dela Plata</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

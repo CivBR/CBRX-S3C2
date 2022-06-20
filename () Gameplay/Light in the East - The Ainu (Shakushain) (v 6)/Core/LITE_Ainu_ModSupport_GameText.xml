@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--Itaomachip Traders-->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_AINU_ITAOMACHIP_TRADERS">
+			<Text>Itaomachip Traders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_AINU_ITAOMACHIP_TRADERS_DESC">
+			<Text>
+				Taking advantage of a law that banned almost all Japanese nationals from engaging in foreign trade, the Ainu exported their own products (furs, marine products), and acted as middlemen for Japanese merchants.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Must be the Ainu.
+				[NEWLINE][ICON_BULLET]Must have reached the Medieval Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]+5% [ICON_CULTURE] Culture in the Capital per outgoing International Naval Trade Route.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_AINU_ITAOMACHIP_TRADERS_ENACTED_DESC">
+			<Text>
+				Taking advantage of a law that banned almost all Japanese nationals from engaging in foreign trade, the Ainu exported their own products (furs, marine products), and acted as middlemen for Japanese merchants.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]+5% [ICON_CULTURE] Culture in the Capital per outgoing International Naval Trade Route.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DECISIONS_DMS_AINU_ITAOMACHIP_TRADERS">
+			<Text>The Ainu Itaomachip Traders have intensified their export of Ainu goods such as bear fur. This will in time likely strengthen Ainu culture greatly!</Text>
+		</Row>
+		<!-- Itaomachip Traders dummy building -->
+		<Row Tag="TXT_KEY_BUILDING_LITE_ITAOMACHIP_TRADERS_COUNT_DUMMY">
+			<Text>DMS: Itaomachip Traders dummy building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LITE_ITAOMACHIP_TRADERS_COUNT_DUMMY_HELP">
+			<Text>Itaomachip Traders dummy building help :D</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LITE_ITAOMACHIP_TRADERS_COUNT_DUMMY_PEDIA">
+			<Text>Itaomachip Traders dummy building pedia :P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LITE_ITAOMACHIP_TRADERS_COUNT_DUMMY_STRATEGY">
+			<Text>Itaomachip Traders dummy building strategy 8)</Text>
+		</Row>
+		<!-- Construct Poroto Kotan -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_AINU_CONSTRUCT_POROTO_KOTAN">
+			<Text>Construct Poroto Kotan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_AINU_CONSTRUCT_POROTO_KOTAN_DESC">
+			<Text>
+				Construct the Poroto Kotan museum; a museum dedicated to presenting the rich culture of the Ainu people.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Must be the Ainu.
+				[NEWLINE][ICON_BULLET]Must have reached the Industrial Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Provides a free Museum in the Capital.
+				[NEWLINE][ICON_BULLET]+15% [ICON_CULTURE] Culture in the Capital.
+				[NEWLINE][ICON_BULLET]+15% [ICON_TOURISM] Tourism from Great Works in the Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_AINU_CONSTRUCT_POROTO_KOTAN_ENACTED_DESC">
+			<Text>
+				Construct the Poroto Kotan museum; a museum dedicated to presenting the rich culture of the Ainu people.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Provides a free Museum in the Capital.
+				[NEWLINE][ICON_BULLET]+15% [ICON_CULTURE] Culture in the Capital.
+				[NEWLINE][ICON_BULLET]+15% [ICON_TOURISM] Tourism from Great Works in the Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DECISIONS_DMS_AINU_CONSTRUCT_POROTO_KOTAN">
+			<Text>Write World Event Notification text here.</Text>
+		</Row>
+		<!-- Poroto Kotan dummy building -->
+		<Row Tag="TXT_KEY_BUILDING_LITE_POROTO_KOTAN">
+			<Text>DMS: Poroto Kotan dummy building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LITE_POROTO_KOTAN_HELP">
+			<Text>Poroto Kotan dummy building help :D</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LITE_POROTO_KOTAN_PEDIA">
+			<Text>Poroto Kotan dummy building pedia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LITE_POROTO_KOTAN_STRATEGY">
+			<Text>Poroto Kotan dummy building strategy</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Poet Imekanu -->
+		<Row Tag="TXT_KEY_EVENT_LITE_AINU_POET_IMEKANU">
+			<Text>Poet Imekanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LITE_AINU_POET_IMEKANU_DESC">
+			<Text>The great writer and prophet Imekanu has actively started writing traditional poems and stories about our people and we have requested her services.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LITE_AINU_POET_IMEKANU_OUTCOME_1">
+			<Text>Fantastic, we can use her work to promote our culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LITE_AINU_POET_IMEKANU_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]You gain a free Great Writer[NEWLINE][ICON_BULLET]When expended, the Great Writer will provide a [ICON_CULTURE] Culture boost[NEWLINE][NEWLINE]NOTE: The [ICON_CULTURE] Culture boost will be dependent on your number of Great Works.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LITE_AINU_POET_IMEKANU_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Great Writer Imekanu has offered us her services.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENTS_LITE_AINU_POET_IMEKANU_1">
+			<Text>A Great Writer and prophet has offered her services to the Ainu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_POET_IMENKANU">
+			<Text>Imekanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DMS_POET_IMENKANU">
+			<Text>Kutune Shirka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DMS_POET_IMENKANU">
+			<Text>Come now, you heroes that I tend,[NEWLINE]Be sure that you pay no heed[NEWLINE]To tales such as this.[NEWLINE]It is a thing that happened long ago,[NEWLINE]And now at the ebb of time[NEWLINE]Has happened again;[NEWLINE]No more and no less.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LITE_AINU_POET_IMEKANU_NOTIFICATION_ON_EXPENDED">
+			<Text>You have gained +{1_iCulture} [ICON_CULTURE] Culture from the Great Work 'Kutune Shirka' by the Poet Imekanu.</Text>
+		</Row>
+		<!-- Iaomante Celebrations -->
+		<Row Tag="TXT_KEY_EVENT_DMS_IAOMANTE_CELEBRATIONS">
+			<Text>Iaomante Celebrations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_IAOMANTE_CELEBRATIONS_DESC">
+			<Text>The traditional bear sacrifice celebrations of our people have commenced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_IAOMANTE_CELEBRATIONS_OUTCOME_1">
+			<Text>Let us celebrate!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_IAOMANTE_CELEBRATIONS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a total of {1_ifaith} [ICON_PEACE] Faith for Bear resources empire-wide[NEWLINE][ICON_BULLET]Cities on Tundra will enters a We Love The King Day for 8 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_IAOMANTE_CELEBRATIONS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Iomante celebrations have gone flawlessly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENTS_DMS_IAOMANTE_CELEBRATIONS_1">
+			<Text>The Ainu traditional celebrations of bear sacrifice has once again commenced - poor bears!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

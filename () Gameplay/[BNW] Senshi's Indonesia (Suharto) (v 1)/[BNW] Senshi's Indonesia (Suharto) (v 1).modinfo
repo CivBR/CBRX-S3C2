@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="240e1648-3f1b-4ca5-928f-218d1681fc9b" version="1">
+  <Properties>
+    <Name>[BNW] Senshi's Indonesia (Suharto)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the state of Indonesia into the game, under the governance of Suharto!</Teaser>
+    <Description>Adds the state of Indonesia into the game, under the governance of Suharto!
+Additionally renames Gajah Mada's civ to Majapahit and provides them with a new Capital - works best with DuskJockey's Majapahit.
+
+Credits:
+Senshi: Design, Code, Text, Auxiliary Art
+JFD: Lua
+DMS: Art (Leaderscene)
+DarthKyofu: Art (Civ Icon &amp; Alpha)
+RawSasquatch: Art (Kopassus Icon)
+Grant: Art (Pancasila Icon)</Description>
+    <Authors>Senshi</Authors>
+    <SpecialThanks>JFD, DMS, DarthKyofu, RawSasquatch, Grant</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B5F3D5BFE198043CA0B33EC05082DBD3" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="FB2651DADD47FE070E2F3BA0A802A844" import="1">Art/Atlas/KopassusFlag32.dds</File>
+    <File md5="B0706CD30A5F67960FE72945DCC80B47" import="1">Art/Atlas/SuhartoAlpha128.dds</File>
+    <File md5="E314528C5795B7E7D54F7BA2DE2C6A7E" import="1">Art/Atlas/SuhartoAlpha16.dds</File>
+    <File md5="992CA65DF86356DDF6D1F3BFD0C0E49C" import="1">Art/Atlas/SuhartoAlpha24.dds</File>
+    <File md5="8EF4DAC6ADA1313F49CE92BAF5AD5E08" import="1">Art/Atlas/SuhartoAlpha256.dds</File>
+    <File md5="61259298D39B1F3F8929ADCEC4816E46" import="1">Art/Atlas/SuhartoAlpha32.dds</File>
+    <File md5="5592BEDD1B3E440CE6EB918F39F93515" import="1">Art/Atlas/SuhartoAlpha48.dds</File>
+    <File md5="48DAFA436B30BD5D4912BEFF046814C3" import="1">Art/Atlas/SuhartoAlpha64.dds</File>
+    <File md5="3DF3E0626873D52DAD7663A1EB2AD8F1" import="1">Art/Atlas/SuhartoAlpha80.dds</File>
+    <File md5="96ED7AD166652BEE919E538BC60F1C95" import="1">Art/Atlas/SuhartoAtlas128.dds</File>
+    <File md5="00FA01D3B0E6B4D13C297460ADCC309F" import="1">Art/Atlas/SuhartoAtlas256.dds</File>
+    <File md5="28B604627228747E987BC9281417EDBD" import="1">Art/Atlas/SuhartoAtlas32.dds</File>
+    <File md5="499EBF92F3F1ACE0CDA8F11B63D886D4" import="1">Art/Atlas/SuhartoAtlas45.dds</File>
+    <File md5="E87236EA207F8A4E385836F1FCD063BC" import="1">Art/Atlas/SuhartoAtlas48.dds</File>
+    <File md5="621A13F4D6E59DCFC02F941077AE2494" import="1">Art/Atlas/SuhartoAtlas64.dds</File>
+    <File md5="0E117556F8373E4DB4A6DD695DA00094" import="1">Art/Atlas/SuhartoAtlas80.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Kopassus/no_gloss.dds</File>
+    <File md5="7566B04D01D50A084E56ED14284ACB98" import="0">Art/Kopassus/ModelRig.xml</File>
+    <File md5="DBE36EA26DF1E980876763F9C4EAF75E" import="1">Art/Kopassus/Paratrooper_UK.dds</File>
+    <File md5="AEDD847C7A666EC641A5B081349AD581" import="1">Art/Kopassus/Paratrooper_UK_MG.blend</File>
+    <File md5="1276DE74AF0617A6D87989485DA409D5" import="1">Art/Kopassus/Paratrooper_UK_MG.fxsxml</File>
+    <File md5="F87C976E71B3CF912EC5A897B35D78E0" import="1">Art/Kopassus/Paratrooper_UK_MG.gr2</File>
+    <File md5="D1449F325282054B5DAA7A167540AA5D" import="1">Art/Kopassus/sv_Kopassus.dds</File>
+    <File md5="CAFE9CD8BDB999A00D965E16316DDF22" import="0">Art/Music/SoundRig.xml</File>
+    <File md5="79154152E44336B80A6AA3BDF32CF5FA" import="0">Art/Music/SuhartoPeace.mp3</File>
+    <File md5="27E466AFB9C29C5BBC86615567947FA6" import="0">Art/Music/SuhartoWar.mp3</File>
+    <File md5="A3856C0B5BF51C2D2FAFDE06CFAD2E83" import="1">Art/SuhartoDoM.dds</File>
+    <File md5="A7DD084C951C9C85F98BC5ACD051B8B3" import="1">Art/SuhartoLS.dds</File>
+    <File md5="AC3326A8C3CB2193F376B7E8F9A1290E" import="1">Art/SuhartoMap412.dds</File>
+    <File md5="DE69B9EC62E74986DA9A72FAD7413CD6" import="0">Core/Buildings.sql</File>
+    <File md5="A6BC1D197D2E225466561E822AFADCFC" import="0">Core/Civilizations.sql</File>
+    <File md5="957155C65B20D30CC58084FA1421874F" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="0DE98E06D000B80CD0F548F3AF00FB72" import="0">Core/GameText.xml</File>
+    <File md5="61A2F121ED75CC95C31B7972C241FAFF" import="0">Core/IndoSuharto_Functions.lua</File>
+    <File md5="275645595975E3C8F8EAB831BDAF5280" import="0">Core/IndoSuharto_GameDefines.sql</File>
+    <File md5="A00BED659121DD7B5A1477DBC6B82879" import="0">Core/IndoSuharto_GameText.xml</File>
+    <File md5="6D67906743926F440DE6643434CD940C" import="0">Core/Leaderhead.sql</File>
+    <File md5="636D7FC1EFECC244063A7DCF27F98540" import="0">Core/ModSupport.sql</File>
+    <File md5="4DF196FE57BECBDA22433D7CBBFCB363" import="0">Core/PlayerColours.sql</File>
+    <File md5="E539594F6977B00D898061CF27F251B9" import="1">Core/PlotIterators.lua</File>
+    <File md5="1A07EEBF228EDCE08D3B7D3CF398A8DF" import="1">Core/Senshi_Suharto_Scene.xml</File>
+    <File md5="3593C191D622359B9F3C39F70F02CD06" import="0">Core/Traits.sql</File>
+    <File md5="10841F1F55142353B7219909001EEF29" import="0">Core/Units.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Kopassus/ModelRig.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/IndoSuharto_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/IndoSuharto_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Music/SoundRig.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/IndoSuharto_Functions.lua">
+      <Name>IndoSuharto_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

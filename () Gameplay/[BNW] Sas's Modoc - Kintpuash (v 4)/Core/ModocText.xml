@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/26/2021 1:51:44 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_SAS_MODOC_ADJECTIVE">
+			<Text>Modoc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_MODOC_DESC">
+			<Text>The Modoc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DAWN_SAS_MODOC_TEXT">
+			<Text>Let the strength of your ancestors’ flow through you, oh Kintpuash, Chief of the Modoc people, famously known as Captain Jack. As a young man, the American colonizers forced you into a reservation with your tribal enemies, the Klamath, who treated you poorly. After only a year, you decisively lead a band of your people from the reservation back to your homeland. This was not easy, as you were forced back onto the reservation by the United States Army. But your tenacious nature did not allow you to take such a loss standing, and you left again. This time, you led your people to war, using the lava beds and trenches of your new hideout for defensive warfare. You hoped for a peaceful solution that would allow your people to stay in your territory, but it was not to be. You were shamed for entering into negotiations, and instead planned an ambush. Killing a U.S. General, you were forced back to fighting, but, after your surrender, you were tried and convicted to hang.[NEWLINE][NEWLINE]Oh brave Kintpuash, do not repeat the same mistakes. You can use peace, you can use war. The time has come to free your people. Will you carve out territory for your people? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_MODOC_SHORT_DESC">
+			<Text>The Modoc</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_HEADING_1">
+			<Text>Background and Pre-Contact Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_TEXT_1">
+			<Text>The Modoc are a Native American people who originally lived in the area which is now northeastern California and central Southern Oregon. They are currently divided between Oregon and Oklahoma and are enrolled in either of two federally recognized tribes, the Klamath Tribes in Oregon and the Modoc Tribe of Oklahoma, now known as the Modoc Nation. Estimates of the pre-Contact Modoc varied from 400 to 600. Until the 19th century, when European explorers first encountered the Modoc, like all Plateau Indians, they caught salmon during salmon runs and migrated seasonally to hunt and gather other food. In winter, they built earthen dugout lodges shaped like beehives, covered with sticks and plastered with mud, near lake shores with reliable sources of seeds from aquatic wokas plants and fishing, known today as pit houses. They neighbored the Klamath, Rogue River Athabaskans, Takelma, Northern Paiute, Karuk, Yurok, and Achomawi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_HEADING_2">
+			<Text>First Contact and The Applegate Trail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_TEXT_2">
+			<Text>In the 1820s, Peter Skene Ogden, an explorer for the Hudson's Bay Company, established trade with the Klamath people north of the Modoc. This was effectively contact with the Modoc. The Modoc lived without much disturbance from the United States for another 25 years or so, until the establishment of the Applegate Trail. Brothers Jesse and Lindsay Applegate, accompanied by 13 other white settlers, established the Applegate Trail, or South Emigrant Trail, in 1846. It connected a point on the Oregon Trail near Fort Hall, Idaho, and the Willamette Valley in western Oregon. The new route was created to encourage European-Americans to come to western Oregon, and to eliminate the hazards encountered on the Columbia Route. Since the Hudson's Bay Company controlled the Columbia Route, development of an alternate route enabled migration even if there were trouble between the United States and the United Kingdom. The Applegate brothers became the first known white people in present-day Lava Beds National Monument. The opening of the Applegate Trail appeared to bring the first regular contact between the Modoc and the European-American settlers, who had largely ignored their territory before. Many of the events of the Modoc War took place along the trail. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_HEADING_3">
+			<Text>Emigrants, Treaty, Mistreatment, and the Prelude to War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_TEXT_3">
+			<Text>From 1846 to 1873, thousands of emigrants entered the Modoc territory. Beginning in 1847, the Modoc raided the invading emigrants on the Applegate Trail under the leadership of Old Chief Schonchin. In September 1852, the Modoc destroyed an emigrant train at Bloody Point on the east shore of Tule Lake, killing all but three of the 65 people in the party. The only man to survive the attack made his way to Yreka, California. After hearing his news, Yreka settlers organized a militia under Sheriff Charles McDermit, Jim Crosby, and Ben Wright. They went to the scene of the massacre to bury the dead and avenge their death. Crosby's party had a skirmish with a band of Modoc and returned to Yreka. Wright and a small group stayed on to avenge the deaths. Accounts differ as to what took place when Wright's party met the Modoc on the Lost River, but most agree that Wright planned to ambush them, which he did in November 1852. Wright and his forces attacked, killing approximately 40 Modoc, in what came to be known as the "Ben Wright Massacre." Historians have estimated that the Modoc killed at least 300 emigrants and settlers between 1846 and 1873. The United States, the Klamath, the Modoc, and the Yahooskin band of Snake tribes signed a treaty in 1864 that established the Klamath Reservation. It required the tribes to cede the land bounded on the north by the 44th parallel, on the west and south by the ridges of the Cascade Mountains, and on the east by lines touching Goose Lake and Henley Lake back up to the 44th parallel. In return, the United States was to make a lump sum payment of $35,000, and annual payments totaling $80,000 over 15 years, as well as provide infrastructure and staff for a reservation. The treaty provided that if the Indians drank or stored intoxicating liquor on the reservation, the payments could be withheld and that the United States could locate additional tribes on the reservation in the future. The treaty required that the Modoc surrender their lands near Lost River, Tule Lake, and Lower Klamath Lake in exchange for lands in the Upper Klamath Valley. They did so, under the leadership of Chief Schonchin. The Indian agent estimated the total population of the three tribes at about 2,000 when the treaty was signed. The land of the reservation did not provide enough food for both the Klamath and the Modoc peoples. Illness and tension between the tribes increased. The Modoc requested a separate reservation closer to their ancestral home, but neither the federal nor the California government approved it. In 1870 Kintpuash led a band of Modoc to leave the reservation and return to their traditional homelands. They built a village near the Lost River. These Modoc had not been adequately represented in the treaty negotiations and wished to end the harassment by the Klamath on the reservation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_HEADING_4">
+			<Text>The Modoc War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_TEXT_4">
+			<Text>In November 1872, the U.S. Army was sent to Lost River to attempt to force Kintpuash's band back to the reservation. A battle broke out, and the Modoc escaped to what is called Captain Jack's Stronghold in what is now Lava Beds National Monument, California. The band of fewer than 53 warriors was able to hold off the 3,000 U.S. Army troops for several months, defeating them in combat several times. In April 1873, the Modoc left the Stronghold and began to splinter. Kintpuash and his group were the last to be captured, on June 4, 1873, when they voluntarily gave themselves up. U.S. government personnel had assured them that their people would be treated fairly and the warriors would be allowed to live on their own land. The U.S. Army tried, convicted and executed Kintpuash and three of his warriors in October 1873 for the murder of Major General Edward Canby earlier that year at a parley. Canby had violated agreements made with the Modoc. The Army sent the rest of the band to Oklahoma as prisoners of war with Scarfaced Charley as their chief. The tribe's spiritual leader, Curley Headed Doctor, was also forced to remove to Indian Territory. In the 1870s, Peter Cooper brought Indians to speak to Indian rights groups in eastern cities. One of the delegations was from the Modoc and Klamath tribes. In 1909, the group in Oklahoma was given permission to return to Oregon. Several people did, but most stayed at their new home. It was also during this time that the notable Modoc translator, Winema (Tobey) Riddle, operated, along with her husband Frank Riddle. She served as an interpreter in negotiations between the Native American Modoc tribe and the United States Army during the Modoc War and warned the peace commission of a possible Modoc attack. She and her family toured with commissioner head Alfred B. Meacham after the war, starring in his lecture-play "Tragedy of the Lava Beds", to inform American people about the war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_HEADING_5">
+			<Text>Modoc Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_MODOC_TEXT_5">
+			<Text>The original language of the Modoc and that of the Klamath, their neighbors to the north, were branches of the family of Plateau Penutian languages. The Klamath and Modoc languages together are sometimes referred to as Lutuamian languages. Both peoples called themselves maklaks, meaning "people". To distinguish between the tribes, the Modoc called themselves Moatokni maklaks, from muat meaning "South". The Achomawi, a band of the Pit River tribe, called them Lutuami, meaning "Lake Dwellers". The religion of the Modoc is not known in detail. The number five figured heavily in ritual, as in the Shuyuhalsh, a five-night dance rite of passage for adolescent girls. A sweat lodge was used for purification and mourning ceremonies.</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_SAS_KINTPUASH">
+			<Text>Kintpuash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_TEXT_1">
+			<Text>Kintpuash, also known as Captain Jack, was a chief of the Modoc tribe of California and Oregon, born in 1837 and dying on October 3, 1873. His name meaning ‘Strikes the water brashly’ in the Modoc language, he led a band from the Klamath Reservation to return to their lands in California, where they resisted return. From 1872 to 1873, their small force made use of the lava beds, holding off more numerous United States Army forces for months in the Modoc War. Kintpuash was the only Native American leader ever to be charged with war crimes, and he was executed by the Army, along with several followers, for their ambush killings of General Edward Canby and Reverend Eleazar Thomas at a peace commission meeting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_HEADING_2">
+			<Text>Early Life and Conflict with the Klamath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_TEXT_2">
+			<Text>Kintpuash was born about 1837 into a Modoc family in their ancestral territory near Tule Lake. The Modoc occupied about 5,000 acres here, along what became the California-Oregon border after European colonization. In 1864, the Modoc still lived in their ancestral home near Tule Lake. Due to the pressure of white colonizers who wanted to steal and farm the fertile land in this territory, Kintpuash and his family were among the Modoc forcefully removed by the United States to the Klamath Reservation in southwestern Oregon. This was primarily occupied by their traditional rivals, the much larger Klamath tribe. The Klamath outnumbered the newcomers, and the reservation was on traditional Klamath land; the Modoc complained of poor treatment and conflict with the Klamath.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_HEADING_3">
+			<Text>Captain Jack and the desire to return home</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_TEXT_3">
+			<Text>In 1865, Kintpuash, by then informally called Captain Jack by American colonizers, led a band of Modoc from the reservation back to their home in California. In 1869, the band were rounded up by the United States Army and returned to the Klamath Reservation. Finding conditions had not improved, in April 1870, Captain Jack led a band of about 180 Modoc back to the Tule Lake area.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_HEADING_4">
+			<Text>The Start of the Modoc War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_TEXT_4">
+			<Text>In 1872, US Army forces were sent to capture Kintpuash's band and force them back to the reservation. On November 29, while their surrender was being negotiated at the Lost River in Oregon, fighting broke out between a soldier and one of the Modoc warriors. The Battle of Lost River ensued. Kintpuash fled with his band into the area now protected as the Lava Beds National Monument. The band settled into this natural fortress. His warriors made use of its many caves and trenches in the lava beds for defensive fighting, and women and children could be sheltered. When the Modoc were finally located, the Army launched an attack on January 17, 1873; the Army was left with 35 dead and many wounded, while the Modoc suffered no casualties. Kintpuash's advisers, not understanding differences between Modoc and Euro-American culture, suggested that the Army would leave if their warriors killed its leader General Edward Canby. Kintpuash hoped for a peaceful solution that would allow his people to stay in their territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_HEADING_5">
+			<Text>Negotiations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_TEXT_5">
+			<Text>He entered into negotiations with a federal peace commission. During the months-long negotiations, the Modoc hawks gained in influence. Kintpuash was shamed, his opponents throwing the hat of a Modoc woman at him to symbolically strip him of his manhood. To bolster his influence, Kintpuash agreed to their plan: he called for a meeting with the commission (of which Canby was then the chairman) with, it is said, the intention of killing them all. During the next meeting of the peace commission on April 11, Kintpuash and several other Modoc drew pistols at a prearranged signal; he shot General Canby twice in the head and cut his throat. The Modoc fled to the lava beds. Canby was the only general killed during the Indian Wars. Canby's successor, General Jefferson C. Davis, brought in more than 1000 soldiers as reinforcements, determined to crush the Modoc resistance. On April 14, the Army attacked the lava stronghold, and many of the Modoc scattered to escape capture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_HEADING_6">
+			<Text>Capture and Fate of a Modoc Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_TEXT_6">
+			<Text>Over the next several months, various groups of Modoc continued to fight the army, while some began to surrender. Kintpuash successfully evaded the Army until some Modoc agreed to capture him and turn him in. On June 1, Kintpuash surrendered, laying his rifle down in a symbolic gesture. e was taken to Fort Klamath. After being tried by a military court and found guilty, Kintpuash was hanged on October 3, 1873, for the murders of General Canby and Reverend Thomas. After the execution, Kintpuash's body was transported by freight train to Yreka. There were rumors that his body was embalmed to be used as a carnival attraction in the Eastern states. The Army had tried to keep the fate of the Modoc remains a secret. They severed the Modocs' heads after the executions at Fort Klamath. In 1898, the Army transferred the skulls to the Smithsonian Institution. In the 1970s, descendants of Kintpuash learned that his skull was at the Smithsonian and appealed for its return. In 1984 the Smithsonian returned Kintpuash's skull to his relatives, who acted as tribal representatives to receive also the skulls of Boston Charley, Black Jim, and John Schonchin; his companions, and of an unknown Modoc woman whose remains had been recovered from the Lava Beds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_LIVED">
+			<Text>1837 - 1873 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_NAME">
+			<Text>Kintpuash/Captain Jack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_SUBTITLE">
+			<Text>Leader of The Modoc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_KINTPUASH_TITLES_1">
+			<Text>Captain</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_SAS_KINTPUASH_SHORT">
+			<Text>Hell With The Fire Out</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SAS_KINTPUASH">
+			<Text>Cities receive additional Strength and HP per Mountain or Hill in their borders, and +1 [ICON_FOOD] Food per directly adjacent Mountain. Cities adjacent to Mountains allow the 'airlifting' of units to one another.</Text>
+		</Row>
+		<!--Kilosh-->
+		<Row Tag="TXT_KEY_UNIT_SAS_KILOSH">
+			<Text>Kilosh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_KILOSH_HELP">
+			<Text>Unique Rifleman for the Modoc which possesses a 20% [ICON_STRENGTH] Defensive bonus while in Rough terrain. When adjacent to an enemy, generates [ICON_GREAT_PEOPLE] Great Writer Points in the capital, and provides moreso by passively damaging adjacent enemy Great Generals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_KILOSH_STRATEGY">
+			<Text>Unique Rifleman for the Modoc which possesses a 20% [ICON_STRENGTH] Defensive bonus while in Rough terrain. When adjacent to an enemy, generates [ICON_GREAT_PEOPLE] Great Writer Points in the capital, and provides moreso by passively damaging adjacent enemy Great Generals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_KILOSH_TEXT">
+			<Text>Kilosh is a Klamath term, as little of the Modoc language is recorded, for 'particularly aggressive/savage warrior’. This is used to represent the warriors of the Modoc War, also known as the Lava Beds War or the Modoc Campaign. Kintpuash, also known as Captain Jack, led 52 warriors in a band of more than 150 Modoc people who left the Klamath Reservation. Occupying defensive positions throughout the lava beds south of Tule Lake (in present-day Lava Beds National Monument), those few warriors resisted for months the more numerous United States Army forces sent against them, which were reinforced with artillery. For example, in the First Battle of the Stronghold, on the morning of January 17, 1873, troops advanced on the Captain Jack’s Stronghold. Hindered by fog, the United States soldiers never saw any Modoc. Occupying excellent positions, the Modoc repulsed troops advancing from the west and east. A general retreat of troops was ordered at the end of the day. In the attack, the U.S. Army lost 35 men killed, and 5 officers and 20 enlisted men wounded. Captain Jack's band included approximately 150 Modoc, including women and children. Of that number, there were only 52 warriors. The Modoc suffered no casualties in the fighting, as they had the advantage of terrain and local knowledge over the militia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_KILOSH_PROMO">
+			<Text>Spirit In The Rock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_KILOSH_PROMO_HELP">
+			<Text>+20% Defense while in Rough Terrain. Generates [ICON_GREAT_PEOPLE] Great Writer Points when adjacent to an enemy, and deals attrition damage to adjacent enemy Great Generals.</Text>
+		</Row>
+		<!--Kiva-->
+		<Row Tag="TXT_KEY_BUILDING_SAS_PITHOUSE">
+			<Text>Pit House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_PITHOUSE_PEDIA">
+			<Text>A Pit House is a form of shelter in the form of a large house, dug into the ground and covered over. Besides shelter, these structures provided a place to store items (often perishable food) and a place to partake in cultural activities. They are found in numerous cultures around the world. hroughout the inland Pacific Northwest, indigenous people were nomadic during the summer and gathered resources at different spots according to the season and tradition, but over wintered in permanent semi-subterranean pit houses at lower elevations. This was also how the Modoc people used the pit huts, spending the cold, snowy winters of North California and Southern Oregon in Pit Houses. Modoc pit houses were about 22 feet across and up to 15 feet deep, though were usually only 3 to 4 feet deep, and built with logs and sealed with grasses and dirt for insulation. These houses were entered by crawling across the roof and climbing down a ladder, an entrance which doubled as ventilation. Two or three families shared each pit house, and a central fire provided warmth. The people slept on mats made of rushes, and their fur blankets were stored at the outer edges of the house along the walls. They used a separate building made of grass mats for cooking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_PITHOUSE_STRATEGY">
+			<Text>Unique Amphitheater for the Modoc. Units killed in the borders of this city provide a boost of [ICON_CULTURE] Culture. If a city with a Pit House is captured, all other cities with filled Pit House GW slots have their HP restored and [ICON_PRODUCTION] Production hurried.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_PITHOUSE_HELP">
+			<Text>Unique Amphitheater for the Modoc. Units killed in the borders of this city provide a boost of [ICON_CULTURE] Culture. If a city with a Pit House is captured, all other cities with filled Pit House GW slots have their HP restored and [ICON_PRODUCTION] Production hurried.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAS_MODOCFOOD">
+			<Text>Mountain Spring</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_MODOC_DFENS1">
+			<Text>Modoc: Defense 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_MODOC_DFENS2">
+			<Text>Modoc: Defense 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_MODOC_AIRLIFT">
+			<Text>Modoc: Airlifts</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_9">
+			<Text>Schonchin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_8">
+			<Text>Scarface Charley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_7">
+			<Text>Shaknasty Jim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_6">
+			<Text>Winema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_5">
+			<Text>Yellow Hammer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_4">
+			<Text>Boston Charley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_3">
+			<Text>Hooker Jim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_2">
+			<Text>Ellen's Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_1">
+			<Text>Bogus Charley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_MODOC_0">
+			<Text>Black Jim</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_1">
+			<Text>Captain Jack's Stronghold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_2">
+			<Text>Agawesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_3">
+			<Text>Kumbat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_4">
+			<Text>Pashha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_5">
+			<Text>Wachamshwash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_6">
+			<Text>Nushalt-Hagak-ni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_7">
+			<Text>Kalelk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_8">
+			<Text>Nakoshkeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_9">
+			<Text>Wukakeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_10">
+			<Text>Keuchishkeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_11">
+			<Text>Kawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_12">
+			<Text>Leush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_13">
+			<Text>Waisha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_14">
+			<Text>Welwashkeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_15">
+			<Text>Yulalona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_16">
+			<Text>Yaneks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_17">
+			<Text>Shapashkeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_18">
+			<Text>Keshlakchuis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_19">
+			<Text>Sputuishkeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_20">
+			<Text>Stuikishkeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_21">
+			<Text>Yainax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_22">
+			<Text>Bloody Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_23">
+			<Text>Lost River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_24">
+			<Text>Tule Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_25">
+			<Text>Dry Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_26">
+			<Text>Shasta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_27">
+			<Text>Land's Ranch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_28">
+			<Text>Dokdokwas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_29">
+			<Text>Hardin Butte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_MODOC_30">
+			<Text>Sand Butte</Text>
+		</Row>
+		<!-- DIPLOMACY: VANILLA -->
+		<Row Tag="TXT_KEY_GENERIC_SAS_MODOC_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now hiking into highly-defensible mountains and refusing to come out. I worry the rest of the world will soon succumb to the influence of your culture.</Text>
+		</Row>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_SAS_KINTPUASH_FIRSTGREETING_1">
+			<Text>I am but one man. I am the voice of my people. Whatever their hearts feel, I talk.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_SAS_KINTPUASH_DEFEATED_1">
+			<Text>I am not afraid to die. I will not fall on the rocks. When I die, my enemies will be under me! </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_THP_SEN_DONDUK">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_THP_SEN_DONDUK_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THP_SEN_DONDUK">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_THP_SEN_DONDUK_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_THP_SEN_DONDUK_FIRSTGREETING_1">
+			<Text>Hello. This is the free state of Tannu Tuva, and I am its humble Prime Minister. We ask only for solitude.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THP_SEN_DONDUK_DEFEATED_1">
+			<Text>Well done, I'm sure your annexation of a small steppe republic will go down in history as a great achievement. All we wanted was autonomy!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

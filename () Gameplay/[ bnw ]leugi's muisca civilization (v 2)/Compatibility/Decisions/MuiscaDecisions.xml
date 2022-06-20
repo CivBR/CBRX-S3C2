@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Language_en_US>
+		<!--Confederation-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MUISCA_CONFEDERATION">
+			<Text>Organize the Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MUISCA_CONFEDERATION_DESC">
+			<Text>
+				Our people, the Muisca, are for now unorganized, and that may mean the end of each tribe because of our many enemies. The Zipa, the Zaque, the Tundama and the Iraca have started a council, and they are debating the benefits of establishing a confederation of the Muisca tribes.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Muisca.
+				[NEWLINE][ICON_BULLET]Must be enacted before Renaissance.
+				[NEWLINE][ICON_BULLET]Must have at least 3 cities
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]300 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]300 [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_cityname1} will generate +50%[ICON_PRODUCTION]Gold
+				[NEWLINE][ICON_BULLET]{2_cityname2} will generate +25%[ICON_GOLD]Production towards military units
+				[NEWLINE][ICON_BULLET]{3_cityname3} will generate +8[ICON_PEACE]Faith
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MUISCA_CONFEDERATION_ENACTED_DESC">
+			<Text>
+				Our people, the Muisca, are now organized. The Zipa, the Zaque, the Tundama and the Iraca have established the Muisca Confederation, and each of their tribes grants something to the newly formed union![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_cityname1} will generate +50%[ICON_PRODUCTION]Gold
+				[NEWLINE][ICON_BULLET]{2_cityname2} will generate +25%[ICON_GOLD]Production towards military units
+				[NEWLINE][ICON_BULLET]{3_cityname3} will generate +8[ICON_PEACE]Faith
+			</Text>
+		</Row>
+		<!--Nemequene Code-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_NEMEQUENE_CODE">
+			<Text>Code of Nemequene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_NEMEQUENE_CODE_DESC">
+			<Text>
+				Lord Nemequene, as the Zipa of Bacatá you must ensure that the Muisca Confederation holds its laws and rules firmly. For this, you can establish a code of laws for all the Confederation with adequate punishment for those that disobey.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Muisca.
+				[NEWLINE][ICON_BULLET]The civilization must not be unhappy
+				[NEWLINE][ICON_BULLET]Must be enacted within the Medieval Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE][ICON_BULLET]+3 [ICON_HAPPINESS_4] Unhappiness
+				[NEWLINE][ICON_BULLET]200 [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Free Social Policy
+				[NEWLINE][ICON_BULLET]Receive 50 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_NEMEQUENE_CODE_ENACTED_DESC">
+			<Text>
+				Lord Nemequene, as the Zipa of Bacatá you must ensure that the Muisca Confederation holds its laws and rules firmly. For this, you can establish a code of conduct for all the Confederation with adequate punishment for those that disobey.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Free Social Policy
+				[NEWLINE][ICON_BULLET]Receive 50 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+	</Language_en_US>
+
+
+	<Language_ES_ES>
+	
+	</Language_ES_ES>
+</GameData>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 09/11/16 9:38:07 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- DIPLOMACY: VANILLA Vanilla -->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_FIRSTGREETING_1">
+			<Text>Welcome to Republic of Turkey. My people seek the path of enlightenment, a path that will bring them great peace and prosperity. Do you search for this path as well or do you cling to dogmatic customs?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_DEFEATED_1">
+			<Text>Our life is truly hellish here.</Text>
+		</Row>
+		<!--First Greeting from leaders that don't have their own file yet-->
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_GREETING_POLITE_HELLO_1">
+			<Text>Peace be upon you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_GREETING_HOSTILE_HELLO_1">
+			<Text>What is a fool bound by dogmatic superstitions doing in Turkey?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_DOW_LEADER_UC_ATATURK_1">
+			<Text>The world is a body composed of nations. Your nation is a cancer that must be purgued to see the world grow and prosper and my armies will be the blade that removes you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Of course a fool like you would be envious of Turkey's accomplishments.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_LUXURY_TRADE_1">
+			<Text>Change will not occur between nations unless we seek it. I offer a trade deal to benefit both our nations in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_DENOUNCE_1">
+			<Text>You're a fool who cling to ancient lies for knowledge instead of reason. Idiots like you only impede the progress of rational nations such as mine.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_DEC_FRIENDSHIP_1">
+			<Text>Mankind is a single body and all nations are but parts of it. We must live true to these principles and seek both peace at home and peace in the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_NO_PEACE_1">
+			<Text>My men are ordered not to fight, but to die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_STOP_CONVERSIONS_1">
+			<Text>My people do not need your foolish superstitutions to populate their minds and control their lives. Leave your lies at the bottom of the ocean where they belong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_ATTACKED_HOSTILE_1">
+			<Text>War is a crime and you shall be punished for it. I will order my men not just to fight, but to die until you've been defeated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_BULLIED_PROTECTED_CITY_STATE_1">
+			<Text>War is a crime if a nation's life is not in peril. Your exploitation of {@1_MinorCivName} is unjustified and you will not escape with impunity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_ATATURK_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Nations cannot strive for progress in isolation. I offer you a mutual Research Agreement, so that both of our peoples can embrace the teachings of science and set aside foolish beliefs.</Text>
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

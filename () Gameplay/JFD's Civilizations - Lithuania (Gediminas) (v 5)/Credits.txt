@@ -1,0 +1,50 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+Janboruta: 
+----------------
+	Art (Gediminas Leaderscene; Lithuania Map, Lithuania Civ Icon; Sacred Grove Icon; Smogitian Warrior Flag; Smogitian Warrior Icon)
+----------------
+Danrell:
+----------------
+	Graphics (Smogitian Warrior Model)
+	https://forums.civfanatics.com/resources/civ5-ancient-unit-pack-13-russia.19881/
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Borislav Slavov: 
+----------------
+	Music (Knights of Honor Soundtrack - Echo in Eternity; Knights of Honor Soundtrack - Last Fortress)
+	https://www.youtube.com/watch?v=j5A3lWkUTd8
+	https://www.youtube.com/watch?v=ogxCLi4CG9U
+----------------
+Encyclopedia.com
+----------------
+	Pedias 
+	https://www.encyclopedia.com/places/commonwealth-independent-states-and-baltic-nations/cis-and-baltic-political-geography/tartu
+----------------
+New World Encyclopedia
+----------------
+	Pedias 
+	https://www.newworldencyclopedia.org/entry/Gediminas
+----------------
+Wikipedia.com: 
+----------------
+	Pedias 
+	https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania
+	https://en.wikipedia.org/wiki/Gediminas
+	https://en.wikipedia.org/wiki/Sacred_grove
+--------------------------------------------------------------
+--------------------------------------------------------------

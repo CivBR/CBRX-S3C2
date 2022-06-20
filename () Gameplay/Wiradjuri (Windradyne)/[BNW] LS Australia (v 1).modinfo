@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="926eb953-9b50-495b-bcd4-49983788032b" version="1">
+  <Properties>
+    <Name>Wiradjuri Nation</Name>
+    <Teaser>Adds the Wiradjuri lead by Windradyne</Teaser>
+    <Description>Mod is created for and tested on BNW + GK.[NEWLINE][NEWLINE]
+Music Credits:
+1. Ub Ubbo Exchange ft Parkes Wiradjuri Language Group - Badu Ngahdi Mudyigaang Guwaany:[NEWLINE]
+https://www.youtube.com/watch?v=xnphpFu_vOM[NEWLINE]
+https://www.triplejunearthed.com/artist/ub-ubbo-exchange[NEWLINE]
+2. (The late) Ron Wardrop and the Parkes Wiradjuri Language Group - A Tribute for Ron:[NEWLINE]
+https://www.youtube.com/watch?v=BRtqSeIuzhE</Description>
+    <Authors>LastSword, Miles5280s, and SeroSedSerio</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="1A8B42FB8915E02963DF459BA647A5B2" import="1">Australia/AusUnitAlphaAtlas.dds</File>
+    <File md5="49811FC86B5105AF921B9C948C3DBFB4" import="1">Australia/DiploRCLSMod.dds</File>
+    <File md5="F7C22A5E5FD17673D2A6B95A83C89D4B" import="1">Australia/DoMRCLSMod.dds</File>
+    <File md5="0C2A22B13E912418D2C7D722EEF326DC" import="1">Australia/Folder/Inca_Atlatlist.dds</File>
+    <File md5="AD352B2A16E2F41C3D593ED422A66D19" import="1">Australia/Folder/Inca_Atlatlist.fxsxml</File>
+    <File md5="1EAFA43E18F8F96972243F63AF11C842" import="1">Australia/Folder/Inca_Atlatlist.gr2</File>
+    <File md5="8352E8B363DA66D81411E7FFF39BC416" import="1">Australia/Folder/Inca_Atlatlist_gloss.dds</File>
+    <File md5="E2AE046E275920C164008BEC0E8F2AED" import="1">Australia/Folder/ResourceLSAusAtlas128.dds</File>
+    <File md5="A86F545A5EE3355D8F33C0FDA087B5F8" import="1">Australia/Folder/ResourceLSAusAtlas256.dds</File>
+    <File md5="CD07A409CA9C91971A6F9A86370AE8CB" import="1">Australia/Folder/ResourceLSAusAtlas45.dds</File>
+    <File md5="1559A246A517BDC44041F16B9139C625" import="1">Australia/Folder/ResourceLSAusAtlas64.dds</File>
+    <File md5="E58F9C2C3414D9275CD2A7465A209D7A" import="1">Australia/Folder/ResourceLSAusAtlas80.dds</File>
+    <File md5="148E0D63E0DC2CEB4980E44F5477944A" import="0">Australia/Folder/ArtDefineAus.sql</File>
+    <File md5="D6F9848FB861C0B80DBF697791218D8C" import="1">Australia/LSAuaAmbienceMusic.mp3</File>
+    <File md5="4C449D19FDCED652F1BF60E449BAF9D9" import="1">Australia/LSAuaWarMusic.mp3</File>
+    <File md5="9E3B824E0C8D39C29DBFA32463ED2B72" import="1">Australia/LSAuaPeaceMusic.mp3</File>
+    <File md5="CD0CFA857B1EE83DFDF4E2A62B4A8CB6" import="1">Australia/MapRCLSMod.dds</File>
+    <File md5="A2AA3641D1A4ECE30C72D8215A79622F" import="0">Australia/RC Mod.xml</File>
+    <File md5="DF486091C80BD34FB1D95B5E2BAFF236" import="0">Australia/RC Building Mod.xml</File>
+    <File md5="5BAF90386F1B00D141608A1C1ED38FAA" import="0">Australia/RC Civ Mod.xml</File>
+    <File md5="BDFC863F231D292178718187E1F7E917" import="1">Australia/RC Civ Related.lua</File>
+    <File md5="A37EF129FC85072179147718E59A0D61" import="0">Australia/RC Game Text Mod.xml</File>
+    <File md5="BF06D296E0AC323C379017ED21314DE0" import="0">Australia/RC Leader Mod.xml</File>
+    <File md5="0D9C75BCC78425D09C529E8F810BE906" import="0">Australia/RC Trait Stuff.xml</File>
+    <File md5="AC0B2C8D8F5141DCFB00292252CC98A5" import="0">Australia/RC UD Mod.lua</File>
+    <File md5="6680E28495B9ACABB7024130623B5A7C" import="0">Australia/RC Units Mod.xml</File>
+    <File md5="CC679DB6080A032211F9952D29B50A11" import="1">Australia/RC_Leader_Scene_LS_Mod.xml</File>
+    <File md5="F9B30B52C5D553BDF749EC694B4822AE" import="0">Australia/RC Mod.lua</File>
+    <File md5="9D498F4120EFE90A4C5B24306DC17825" import="1">Australia/SV_AusLS.dds</File>
+    <File md5="2A89286C1CBA1BBDFB1BEB1901DAF9BC" import="1">Folder/AlphaLS14Atlas24.dds</File>
+    <File md5="67B0B47D2AF66E246BE1D39C309BC559" import="1">Folder/AlphaLS14Atlas32.dds</File>
+    <File md5="6276FF743BBA75FA8F08950065E36BD1" import="1">Folder/AlphaLS14Atlas48.dds</File>
+    <File md5="902D28D073D7D49F1E5F1748C239786C" import="1">Folder/AlphaLS14Atlas64.dds</File>
+    <File md5="778F9DACD2561B1B4765A861116F6251" import="1">Folder/BuildingLS14Atlas128.dds</File>
+    <File md5="5416A863F24A3EEAC32619031F446BCB" import="1">Folder/BuildingLS14Atlas256.dds</File>
+    <File md5="76965E00F2B99B801154E67AF24F1CEC" import="1">Folder/BuildingLS14Atlas45.dds</File>
+    <File md5="DEB1224C806DD89055F6D28D8F0220E6" import="1">Folder/BuildingLS14Atlas64.dds</File>
+    <File md5="66F29F8C613C26ED7A8B93440940EFF3" import="1">Folder/CivLS14Atlas128.dds</File>
+    <File md5="A314C933C45193C7735E200A87E97A22" import="1">Folder/CivLS14Atlas256.dds</File>
+    <File md5="018D9755F578D31C23A2407F726251B6" import="1">Folder/CivLS14Atlas32.dds</File>
+    <File md5="C2D8AF1EFB94721C18D2F45B2E3451CA" import="1">Folder/CivLS14Atlas45.dds</File>
+    <File md5="7ACD91DAB686CD54B125835CDA76CDFF" import="1">Folder/CivLS14Atlas64.dds</File>
+    <File md5="B1C1B3E7CE6641F7FE54CA1EE805AAAE" import="1">Folder/CivLS14Atlas80.dds</File>
+    <File md5="0B6FE3E59873C49CC63AE0FB996BDA31" import="1">Folder/LeaderLS14Atlas128.dds</File>
+    <File md5="D25CB0DE70E64B9F49A0356B3AEA2D47" import="1">Folder/LeaderLS14Atlas256.dds</File>
+    <File md5="0BB3FBC26ADA7E6DD08CE29FE153C1EB" import="1">Folder/LeaderLS14Atlas64.dds</File>
+    <File md5="AA39FE6C9F8BFD28844E6A182C46CB2F" import="0">Folder/LS14 Atlas Mod.xml</File>
+    <File md5="CACB93533A537BE8DAE67FF02E6B5C19" import="1">Folder/UnitLS14Atlas128.dds</File>
+    <File md5="FDBBCFEDE6BB731BB1B468692C3C78D6" import="1">Folder/UnitLS14Atlas256.dds</File>
+    <File md5="74C2FD4B20101E97DFF32562B799D8B6" import="1">Folder/UnitLS14Atlas45.dds</File>
+    <File md5="EC32859095E9A6690641ADD87048DCD8" import="1">Folder/UnitLS14Atlas64.dds</File>
+    <File md5="035AEE6C622C9238818293DCBFC9C342" import="1">Folder/UnitLS14Atlas80.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Australia/RC Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Australia/RC Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Australia/RC Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Australia/RC Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Australia/RC Trait Stuff.xml</UpdateDatabase>
+      <UpdateDatabase>Australia/RC Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Folder/LS14 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Australia/Folder/ArtDefineAus.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Australia/RC Mod.lua">
+      <Name>dasd</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Australia/RC UD Mod.lua">
+      <Name>fas</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

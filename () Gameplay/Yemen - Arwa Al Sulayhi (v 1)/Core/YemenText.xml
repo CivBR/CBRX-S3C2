@@ -1,0 +1,349 @@
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_01">
+			<Text>Sana'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_02">
+			<Text>Aden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_03">
+			<Text>Taizz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_04">
+			<Text>Asir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_05">
+			<Text>Hudaydah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_06">
+			<Text>Ibb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_07">
+			<Text>Jibla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_08">
+			<Text>Najran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_09">
+			<Text>Mecca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_10">
+			<Text>Zanzibar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_11">
+			<Text>Mocha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_12">
+			<Text>Mukalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_13">
+			<Text>Shibam Hadramawt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_14">
+			<Text>Sayyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_15">
+			<Text>Ash Shihir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_16">
+			<Text>Hajjah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_17">
+			<Text>Socotra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_18">
+			<Text>Al Bayda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_19">
+			<Text>Lahij</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_20">
+			<Text>Say'un</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_21">
+			<Text>Habarut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_22">
+			<Text>Sayhut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_23">
+			<Text>Al Ghaydah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URD_YEMEN_24">
+			<Text>Nishtun</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_0">
+			<Text>Fatimah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_1">
+			<Text>Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_2">
+			<Text>Asma bint Shihab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_3">
+			<Text>Ahmad al-Mukarram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_4">
+			<Text>Saba ibn Ahmad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_5">
+			<Text>Umm Hamdan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_6">
+			<Text>Zoeb Musa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_7">
+			<Text>At-Tayyib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_8">
+			<Text>Abu'l Maymun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_9">
+			<Text>al-Amir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_10">
+			<Text>al-Zahir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URD_YEMEN_11">
+			<Text>al-Hakim</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_URD_YEMEN_ADJECTIVE">
+			<Text>Yemeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_URD_YEMEN_DESC">
+			<Text>Yemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_URD_YEMEN_SHORT_DESC">
+			<Text>Yemen</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_DOM_URD_YEMEN_TEXT">
+			<Text>
+				May the Imam bless your reign, oh mighty Queen Arwa al Sulayhi. Your position is one all too unique across Arabia, that of a woman able to ascend the rungs of power and become revered across the muslim world for your intelligent, capable rule, your military might and your world famous piety. The only woman ever to have her name read atop the Friday prayers in Mecca, during your reign Yemen expanded to its greatest extent, seizing the all-important Hijazi cities of Mecca and Asir, sending Za'idi missionaries as far afield as India and constructing some of the greatest mosques in Yemen. For these achievements, you were granted the prestigious title of Hujjah - the closest human to God of that age. The first woman ever to receive that title, your exploits would grant you a unique and incredible place in history as one of the most remarkeable rulers, man or woman, of your deeply patriarchal time. [NEWLINE][NEWLINE] Oh great Queen Arwa, the lands of Yemen lie divided and dry, bereft of the mighty hand of both God and Humanity. Can you dispense pious justice across these lands? Can you rise to the top in a world dominated by men, subduing all who dare question your god-given right to rule? Can you build a civilisation that will stand the test of time?  
+			</Text>
+		</Row>
+
+		<!--Pedia-->
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_LIVED">
+			<Text>1048-1138</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_NAME">
+			<Text>Arwa al-Sulayhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_SUBTITLE">
+			<Text>Queen of Yemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_NAME">
+			<Text>Arwa al-Sulayhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_TITLES_1">
+			<Text>Hujjah</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_TEXT_1">
+			<Text>Arwa al-Sulayhi holds a number of unique and interesting positions within history. The actions of her reign would do more than enough to secure her position among the pantheon of great rulers of the Islamic world: expanding the Great Mosque of Sanaa, and improving the lives of her citizenry by building a number of schools in her domains. However, what elevates her is the fact that she is one of the two female monarchs in the Muslim Arab world to have had the khutbah, the ultimate recognition of Muslim monarchial status, proclaimed in their name in the mosques. The other is, of course, her mother in Law. She is popularly referred to as ‘The Noble Lady’, ‘The Noble Queen’, and ‘The Little Queen of Sheba’.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_TEXT_2">
+			<Text>Arwa was born in 440 Hijri or 1048 AD in the Haraz, which was the heartland of Isma'ilism in Yemen. She was the niece of the then-ruler of Yemen, Ali al-Sulayhi. Orphaned at a young age, she was brought up in the palace at Sana'a under the tutorship of her aunt, her mother in Law Asma bint Shihab, who was co-ruler with, and wife of, Ali bin Muhammad. In 1066, at the age of 17, Arwa married her cousin Ahmad al-Mukarram bin Ali bin Muhammad As Sulaihi, with the city of Aden as her mahr, and Queen Asma became her mother-in-law. Arwa assisted her mother-in-law and her husband after death of Ali al-Sulayhi. She had four children, Muhammad, Ali, Fatimah and Umm Hamdan. Arwa is said by the chroniclers of her time to be brave, devout and have an independent character. She was also seen as highly intelligent and well learned, having a great memory for poems, stories and historical events. She was very knowledgeable in the sciences of the Quran and the hadith. The chroniclers also mention her as being extremely beautiful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_HEADING_3">
+			<Text>Early reign of a unique monarch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_TEXT_3">
+			<Text>Following the death of Sayyid Ali al-Sulayhi in 1067, Arwa’s husband Ahmad became the de jure ruler of Yemen, but he was unable to rule, being paralyzed and bedridden. He gave all of his power to Arwa, and she had her name mentioned in the khutbah directly after the name of the Fatimid Caliph, Al-Mustansir Billah, signifying her authority to rule. She reigned as co-regent of her mother-in-law until the latter's death in 1087. In contrast to her mother-in-law, Queen Asma, Arwa did not appear unveiled when she attended councils as Asma had famously done. The reason for this was reportedly because she was much younger than her mother-in-law, it would have been riskier in her case to follow that example. However, although she was veiled, she still attended state councils in person and thus mixed with men and refused to conduct the meetings hidden by a screen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_HEADING_4">
+			<Text>Revenge and reverence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_TEXT_4">
+			<Text>One of her first actions was to move the capital from Sana'a to Jibla, in order to be in a better position to destroy the Najahid ruler Sa'id ibn Najar of Zabīd, and thus avenge her father-in-law's death, who had been assassinated during an attack on his caravan. After her capital had been moved, in 1088, she led Sa'id ibn Najar into a trap, where it is believed she exacted revenge. After her revenge had been enacted, she built a new palace at Jibla, and transformed the old palace into a great mosque where she was eventually buried. Arwa was given the highest rank in the Yemeni dawah, that of Hujjat, by Imām Al-Mustansir Billah in 1084. This was the first time that a woman had ever been given such a status in the whole history of Islam. And after the death of her husband, Arwa was encouraged by Al-Mustansir Billah to marry her late husband's cousin, Saba ibn Ahmad. This she did reluctantly in 1091 in order to remain in power, but she probably did not allow the marriage to be consummated. She continued to rule Yemen until Saba died in 1101. From that time on she ruled alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_HEADING_5">
+			<Text>Reigning alone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_TEXT_5">
+			<Text>Under her rule, Shi'ite da'is were sent to western India. Owing to her patronage of missions, an Ismāʿīlī community was established in Gujarat in the second half of the 11th century, which still survives there today as Dawoodi Bohra, Sulaymani and Alavi. In the 1094 schism, Arwa supported Al-Musta'li to be the rightful successor to Al-Mustansir Billah. Due to the high opinion in which Arwa was held in Yemen and western India, these two areas followed her in regarding Imām al-Musta'li as the new Fatimid Caliph. Through her support of Imām at-Tāyyīb she became head of a new grouping that became known as the Taiyabi Ismaili. Her enemies in Yemen in turn gave their backing to Al-Hafiz but they were unable to remove Sayyadah Arwa from power. The Taiyabi Ismaili believe that Imām al-Āmir bi'Aḥkāmill-Lāh sent a letter to Arwa commissioning her to appoint a vicegerent for his infant son, Imām Taiyyab. In accordance with this wish, she appointed Zoeb bin Moosa as Da'i al-Mutlaq, the vicegerent of the secluded at-Tāyyīb Abū l-Qāsim. The line of succession continues down to today through the various Taiyabi Duat. Hafizi Ismāʿīlīsm, the following of al-Hafiz, intimately tied to the Fatimid regime in Cairo, disappeared soon after the collapse of the Caliphate in 1171 and the Ayyubid invasion of southern Arabia in 1173. But the Taiyabi dawah, initiated by Arwa, survived in Yemen with its headquarters remaining in Haraz. Due to the close ties between Sulayhid Yemen and Gujarat, the Taiyibi cause was also upheld in western India and Yemen, which gradually became home to the largest population of Taiyabis, known there as Sulaymani, Dawoodi Bohra and Alavi Bohra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_HEADING_6">
+			<Text>Economic Policies and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_TEXT_6">
+			<Text>In addition to her work on relations with other states and her religious policies, Arwa also spent much money on improvement of Sana’a, having grand mosque expanded, and the road from the city to Samarra improved. In Jibla, she had a new Palace of Queen Arwa and the eponymous mosque constructed. She also had built numerous schools, and supported agriculture, generally taking an interest in the economy as a whole as monarch. Arwa remained in power until her death in 1138. She was buried beside the mosque that she had had built at Zi Jibla. Her tomb later became a place of pilgrimage. The Queen Arwa University in Sana'a is named after her. Arwa is considered one of the most consequential and powerful women in Islamic history, and is still revered today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_1">
+			<Text>Background – the ancient history of Yemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_1">
+			<Text>Yemen is a country at the southern end of the Arabian Peninsula in Western Asia. With its long sea border between eastern and western civilizations, Yemen has long existed at a crossroads of cultures with a strategic location in terms of trade on the west of the Arabian Peninsula. Large settlements for their era existed in the mountains of northern Yemen as early as 5000 BCE. Little is known about ancient Yemen and how exactly it transitioned from nascent Bronze Age civilizations to more trade-focused caravan kingdoms. From these ancient civilizations rose the Sabeans, which came into existence from at least the eleventh century BC. The Sabean rulers adopted the title Mukarrib generally thought to mean unifier or a priest-king. The Sabeans are generally believed to be the biblical Sheba. By the 3rd century BCE, Qataban, Hadramout and Ma'in became independent from Saba and established themselves in the Yemeni arena. But by the time of the Roman expedition to Arabia Felix in 25 BCE, the Sabaeans were once again the dominating power in Southern Arabia. Aelius Gallus was ordered to lead a military campaign to establish Roman dominance over the Sabaeans. The Romans had a vague and contradictory geographical knowledge about Arabia Felix or Yemen. The Roman army of ten thousand men reached Marib, but was not able to conquer the city, according to Cassius Dio and Pliny the Elder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_2">
+			<Text>Post Roman Interaction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_2">
+			<Text>After the Roman expedition – perhaps earlier – the country fell into chaos and two clans, namely Hamdan and Himyar, claimed kingship, assuming the title King of Sheba and Dhu Raydan. Dhu Raydan (i.e. Himyarites) allied themselves with Aksum in Ethiopia against the Sabaeans. The Himyarites annexed Sana'a from Hamdan circa AD 100. Hashdi tribesmen rebelled against them, however, and regained Sana'a in around 180. It was not until 275 that Shammar Yahri'sh conquered Hadramout and Najran and Tihama, thus unifying Yemen and consolidating Himyarite rule. In 354, Roman Emperor Constantius II sent an embassy headed by Theophilos the Indian to convert the Himyarites to Christianity. According to Philostorgius, the mission was resisted by local Jews. By 515, Himyar became increasingly divided along religious lines and a bitter conflict between different factions paved the way for an Aksumite intervention. The last Himyarite king Mu'di Karab Ya'fir was supported by Aksum against his Jewish rivals. Mu'di Karab was Christian and launched a campaign against the Lakhmids in Southern Iraq, with the support of other Arab allies of Byzantium. After the death of Mu'di Karab Ya'fir in around 521 CE, a Himyarite Jewish warlord named Yousef Asar Yathar rose to power. His honorary title Yathar means "to avenge". Yemenite Christians, aided by Aksum and Byzantium, systematically persecuted Jews and burned down several synagogues across the land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_3">
+			<Text>The advent of Islam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_3">
+			<Text>Prophet Mohammed sent his cousin Ali to Sana'a and its surroundings around 630 AD. At the time, Yemen was the most advanced region in Arabia. The Banu Hamdan confederation were among the first to accept Islam. Mohammed sent Muadh ibn Jabal as well to Al-Janad in present-day Taiz, and dispatched letters to various tribal leaders. The reason behind this was the division among the tribes and the absence of a strong central authority in Yemen during the days of the prophet. Major tribes, including Himyar, sent delegations to Medina during the Year of delegations around 630–631. Several Yemenis had already accepted Islam, including Ammar ibn Yasir, Al-Ala'a Al-Hadrami, Miqdad ibn Aswad, Abu Musa Ashaari and Sharhabeel ibn Hasana The country was stable during the Rashidun Caliphate. Yemeni tribes played a pivotal role in the Islamic conquests of Egypt, Iraq, Persia the Levant, Anatolia, North Africa, Sicily and Andalusia. Yemeni tribes that settled in Syria, contributed significantly to the solidification of Umayyad rule, especially during the reign of Marwan I. Several emirates led by people of Yemeni descent were established in North Africa and Andalusia. Effective control over entire Yemen was not achieved by the Umayyad Caliphate. The first Zaidi imam, Yahya ibn al-Husayn, arrived to Yemen in 893 CE. He was the founder of the Zaidi imamate in 897. He was a religious cleric and judge who was invited to come to Saada from Medina to arbitrate tribal disputes. Imam Yahya persuaded local tribesmen to follow his teachings. The sect slowly spread across the highlands, as the tribes of Hashid and Bakil, later known as the twin wings of the imamate, accepted his authority. The Yufirid emir Abdullah ibn Qahtan attacked and burned Zabid in 989, severely weakening the Ziyadid dynasty. The Ziyadid monarchs lost effective power after 989, or even earlier than that. Meanwhile, a succession of slaves held power in Zabid and continued to govern in the name of their masters eventually establishing their own dynasty around 1022 or 1050 CE according to different sources. Although they were recognized by the Abbasid Caliphate in Baghdad, they ruled no more than Zabid and four districts to its north. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_4">
+			<Text>The Sulayhid dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_4">
+			<Text>The Sulayhid dynasty was founded in the northern highlands around 1040 CE. At the time, Yemen was ruled by different local dynasties. In 1060, Ali ibn Mohammed Al-Sulayhi conquered Zabid and killed its ruler Al-Najah, founder of the Najahid dynasty, whose sons were forced to flee to Dahlak. Hadramawt fell into Sulayhid hands after their capture of Aden in 1062. By 1063, Ali had subjugated Greater Yemen. He then marched toward Hejaz and occupied Makkah. Ali was married to Asma bint Shihab, who governed Yemen with her husband.[71] The Khutba during Friday prayers was proclaimed in her husband's and her name. No other Arab woman had this honor since the advent of Islam. Ali al-Sulayhi was killed by Najah's sons on his way to Mecca in 1084 CE. His son Ahmad al-Mukarram led an army to Zabid and killed 8,000 of its inhabitants. He later installed the Zurayids to govern Aden. Ahmad al-Mukarram, who had been afflicted with facial paralysis resulting from war injuries, retired in 1087 and handed over power to his wife Arwa al-Sulayhi, who he had been co-ruler with. Queen Arwa moved the seat of the Sulayhid dynasty from Sana'a to Jibla, a small town in central Yemen near Ibb. Jibla was strategically near the Sulayhid dynasty source of wealth, the agricultural central highlands. It was also within easy reach of the southern portion of the country, especially Aden. She sent Ismaili missionaries to India where a significant Ismaili community was formed that exists to this day. Queen Arwa continued to rule securely until her death in 1138. Shortly after queen Arwa's death, the country was split between five competing petty dynasties along religious lines. The Ayyubid dynasty overthrew the Fatimid caliphate in Egypt. A few years after their rise to power, Saladin dispatched his brother Turan Shah to conquer Yemen in 1174 CE.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_5">
+			<Text>The Ayyubids and Rasulids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_5">
+			<Text>l-Abbas and al-Mas'ud, sons of Karam Al-Yami from the Hamdan tribe started ruling Aden for the Sulayhids. However, this was not to last, as the Ayyubids then conquered the area. Although the Hamdanid sultans of Sana'a resisted the Ayyubid in 1175 and it was not until 1189 that the Ayyubids managed to definitely secure Sana'a, the Ayyubid rule was stable in southern and central Yemen where they succeeded in eliminating the mini-states of that region, while Ismaili and Zaidi tribesmen continued to hold out in a number of fortresses. However, the Ayyubids failed to capture the Zaydis stronghold in northern Yemen. The Ayyubid army was defeated in Dhamar in 1226, and the Rasulid Dynasty was established in 1229 CE by Umar ibn Rasul. Umar ibn Rasul was appointed deputy governor by the Ayyubids in 1223. When the last Ayyubid ruler left Yemen in 1229, Umar stayed in the country as caretaker. He subsequently declared himself an independent king by assuming the title al-Malik Al-Mansur. Umar established the Rasulid dynasty on a firm foundation and expanded its territory to include the area from Dhofar to Mecca. The Rasulid capitals were Zabid and Ta'izz. After the fall of Baghdad to the Mongols in 1258, al-Muzaffar Yusuf I appropriated the title of caliph. The Rasulid state nurtured Yemen's commercial links with India and the Far East. They profited greatly by the Red Sea transit trade via Aden and Zabid. The economy also boomed due to the agricultural development programs instituted by the kings who promoted massive cultivation of palms. The Rasulid sultans built numerous Madrasas in order to solidify the Shafi'i school of thought which is still the dominant school of jurisprudence amongst Yemenis today. Under their rule, Ta'izz and Zabid became major international centers of Islamic learning. The dynasty is regarded as the greatest native Yemeni state since the fall of pre-Islamic Himyarite Kingdom. They were, of course, of Turkic descent but claimed an ancient Yemenite origin to justify their rule. The dynasty, however, became increasingly threatened by disgruntled family members over the problem of succession, combined by periodic tribal revolts, as they were locked in a war of attrition with the Zaydi imams in the northern highlands. During the last twelve years of Rasulid rule, the country was torn between several contenders for the kingdom. The weakening of the Rasulids provided an opportunity for the Banu Taher clan to take over and establish themselves as the new rulers of Yemen in 1454.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_6">
+			<Text>The Tahiride Dynasty, the Zaydis and the Ottomans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_6">
+			<Text>The Tahirids were a local clan based in Rada'a. They built schools, mosques and irrigation channels as well as water cisterns and bridges in Zabid and Aden, Rada'a, and Juban. Their best-known monument is the Amiriya Madrasa in Rada' which was built in 1504. The Tahiride were too weak either to contain the Zaydi Imams or to defend themselves against foreign attacks. The Mamluks of Egypt tried to attach Yemen to Egypt and the Portuguese, led by Afonso de Albuquerque, occupied Socotra and launched an unsuccessful four-day siege of Aden in 1513. The Mamluk army with the support of forces loyal to Zaydi Imam Al-Mutawakkil Yahya Sharaf ad-Din conquered the entire realm of the Tahiride but failed to capture Aden in 1517 CE. The Mamluk victory turned out to be short-lived. The Ottoman Empire conquered Egypt, hanging the last Mamluk Sultan in Cairo. The Ottomans had two fundamental interests to safeguard in Yemen: The Islamic holy cities of Mecca and Medina and the trade route with India in spices and textiles, both of which were threatened and the latter virtually eclipsed by the arrival of the Portuguese in the Indian Ocean and the Red Sea in the early part of the 16th century. Imam al-Mutawakkil Yahya Sharaf ad-Din ruled over the northern highlands including Sana'a while Aden was held by the last Tahiride Sultan 'Amir ibn Dauod. Hadım Suleiman Pasha stormed Aden in 1538 CE, killing its ruler and extended Ottoman's authority to include Zabid in 1539 and eventually Tihama in its entirety. During this time, there were a succession of unpopular Ottoman governors. The Zaydi tribesmen in the northern highlands, particularly those of Hashid and Bakil, were a constant irritant to Turkish rule in Arabia. Justifying their presence in Yemen as a triumph for Islam, the Ottomans accused the Zaydis of being infidels. Hassan Pasha was appointed governor of Yemen, which enjoyed a period of relative peace from 1585 to 1597. Pupils of al-Mansur al-Qasim suggested that he claim the immamate and fight the Turks. He declined at first but was infuriated by the promotion of the Hanafi school of jurisprudence at the expense of Zaydi Islam. He proclaimed the Imamate in September 1597, which was the same year the Ottoman authorities inaugurated al-Bakiriyya Mosque. In 1627, the Ottomans lost Aden and Lahej. 'Abdin Pasha was ordered to suppress the rebels but failed and had to retreat to Mocha. Al-Mu'ayyad Muhammad captured Zabid in 1634 and allowed the Ottomans to leave Mocha peacefully. In 1632 CE, Al-Mu'ayyad Muhammad sent an expeditionary force of 1000 men to conquer Mecca. The army entered the city in triumph and killed its governor. The Ottomans were not ready to lose Mecca after Yemen, so they sent an army from Egypt to fight the Yemenites. Al-Mu'ayyad Muhammad died in 1644. He was succeeded by Al-Mutawakkil Isma'il, another son of al-Mansur al-Qasim, who conquered Yemen in its entirety, from Asir in the north to Dhofar in the east. During his reign and that of his successor, Al-Mahdi Ahmad, the Imamate implemented some of the harshest discriminatory laws against the Jews of Yemen, which culminated in the expulsion of all Jews to a hot and arid region in the Tihama coastal plain. The Qasimid state was the strongest Zaydi state to ever exist. During the period, Yemen was the sole Coffee producer in the world. After 1849 the Zaidi polity descended into chaos that lasted for decades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_7">
+			<Text>Great Britain and Colonization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_7">
+			<Text>The British were looking for a coal depot to service their steamers en route to India. It took 700 tons of coal for a round-trip from Suez to Bombay. East India Company officials decided on Aden. London tried to reach an agreement with the Zaydi imam of Sana'a permitting them a foothold in Mocha; and when unable to secure their position, they extracted a similar agreement from the Sultan of Lahej, enabling them to consolidate a position in Aden. An incident played into British hands when, while passing Aden for trading purposes, one of their sailing ships sank and Arab tribesmen boarded it and plundered its contents. The British managed to occupy Aden and agreed to compensate the sultan with an annual payment of 6000 riyals. In November 1839, 5000 tribesmen tried to retake the town but were repulsed and 200 were killed. The British realized that Aden's prosperity depended on their relations with the neighboring tribes, which required that they rest on a firm and satisfactory basis. The British government concluded "protection and friendship" treaties with nine tribes surrounding Aden, whereas they would remain independent from British interference in their affairs if they did not conclude treaties with non-Arab colonial powers. Aden was declared a free zone in 1850 CE. The Ottomans were concerned about the British expansion from India to the Red Sea and Arabia. They returned to the Tihama in 1849 after an absence of two centuries. Rivalries and disturbances continued among the Zaydi imams, between them and their deputies, with the ulema, with the heads of tribes, as well as with those who belonged to other sects. Some citizens of Sana'a were desperate to return law and order to Yemen and asked the Ottoman Pasha in Tihama to pacify the country. The Ottomans learned from their previous experience and worked on the disempowerment of local lords in the highland regions. They even attempted to secularize the Yemeni society; Yemenite Jews came to perceive themselves in Yemeni nationalist terms. The Ottomans appeased the tribes by forgiving their rebellious chiefs and appointing them to administrative posts. They introduced a series of reforms to enhance the country's economic welfare. On the other hand, corruption was widespread in the Ottoman administration in Yemen. The Tanzimat reforms were considered heretic by the Zaydi tribes. In 1876, the Hashid and Bakil tribes rebelled against the Ottomans, the Turks had to appease them with gifts to end the uprising. The tribal chiefs were difficult to appease and an endless cycle of violence curbed the Ottoman efforts to pacify the land. Ahmed Izzet Pasha proposed that the Ottoman army should evacuate the highlands and confined itself to Tihama and not to be unnecessarily burdened with continuing military operation against the Zaydi tribes. The northern tribes united under the leadership of the House of Hamidaddin in 1890. Imam Yahya Hamidaddin led a rebellion against the Turks in 1904, the rebels disrupted the Ottoman ability to govern. The Ottomans signed a treaty with imam Yahya Hamidaddin in 1911. Under the treaty, imam Yahya was recognized as an autonomous leader of the Zaydi northern highlands. The Ottomans continued to rule Shafi'i areas in the mid-south until their departure in 1918.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_8">
+			<Text>Idrisid Emirate and Mutawakkilite Kingdom of Yemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_8">
+			<Text>After the Ottoman departure in 1918, Imam Yahya hamid ed-Din al-Mutawakkil. He sought to recapture the lands of his Qasimid ancestors. He dreamed of Greater Yemen stretching from Asir to Dhofar. These schemes brought him into conflict with the de facto rulers in the territories claimed, namely the Idrisids, Ibn Saud and the British government in Aden. The Zaydi imam did not recognize the Anglo-Ottoman border agreement of 1905 on the grounds that it was made between two foreign powers occupying Yemen. The border treaty effectively divided Yemen into "north" and "south". In 1915 the British signed a treaty with the Idrisids guaranteeing their security and independence if they would fight against the Turks. The Italian Empire was the first to recognize Imam Yahya as the King of Yemen in 1926. Furthermore, the Italians in 1926 and 1927 aimed at taking control of the Farasan Islands. Imam Ahmad reversed the isolationist policies of his father and opened Yemen's economy and society to the outside world. It went as the theocratic and largely medieval Imamate which became the first Arab state to accept Soviet aid. Beginning in 1955 Yemen entered into various treaties of friendship and from 1957 began receiving large amounts of Soviet arms as well as Soviet and Chinese military advisers. When the imam went abroad owing to illness, crown prince Muhammad al-Badr led a pro-Soviet party and communist activity increased. When the Imam returned in 1959, brutal repression ensued and communists were expelled. In April 1956 Yemen joined a defensive pact with Syria and Egypt, and in February 1958 it federated with the United Arab Republic. In parallel, clan violence erupted in Yemen and Aden, claiming hundreds of lives over 1956–60. The defensive pact move was conceived as a defensive measure against republican agitation, which urban nationalists still engaged in from British-occupied Aden. So long as Yemen was federated with the UAR, republicans would be deprived any assistance from Egyptian President Nasser. Although the federation lasted only for three years, crown prince al-Badr continued to portray himself as an Arab patriot, often railing against "reactionary Arab monarchs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_9">
+			<Text>Yemen Splits in Two and Joins Once More</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_9">
+			<Text>Arab nationalism influenced some circles that opposed the lack of modernization efforts in the Mutawakkilite monarchy. This became apparent when Imam Ahmad bin Yahya died in 1962. He was succeeded by his son, but army officers attempted to seize power, sparking the North Yemen Civil War, wherein the Hamidaddin royalists fought republicans. After six years of civil war, the republicans were victorious and formed the Yemen Arab Republic. The revolution in the north coincided with the Aden Emergency, which hastened the end of British rule in the south. On 30 November 1967, the state of South Yemen was formed, comprising Aden and the former Protectorate of South Arabia. This socialist state was later officially known as the People's Democratic Republic of Yemen and a programme of nationalisation was begun. Relations between the two Yemeni states fluctuated between peaceful and hostile. The South was supported by the Eastern bloc. The North, however, couldn’t get the same connections. In 1972, the two states fought a war. The war was resolved with a ceasefire and negotiations brokered by the Arab League, where it was declared that unification would eventually occur. In 1979, fighting erupted between the North and the South. There were renewed efforts to unite the two states. In 1986, thousands died in the South, when a civil war erupted between supporters of former president Abdul Fattah Ismail and his successor, Ali Nasser Muhammad. Ali Nasser Muhammad fled the country and was later sentenced to death for treason. In 1990, the two governments reached a full agreement on the joint governing of Yemen, and the countries were merged on 22 May 1990 with Saleh as President, and the President of South Yemen, Ali Salim al-Beidh, as Vice-President.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_HEADING_10">
+			<Text>Modern Yemen, More Instability</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_URD_YEMEN_TEXT_10">
+			<Text>In January 2009, the Saudi and Yemeni al-Qaeda branches merged to form Al-Qaeda in the Arabian Peninsula (AQAP). Al Qaeda in the Arabian Peninsula is based in Yemen, and many of its members were Saudi nationals who had been released from Guantanamo Bay. The Yemeni army launched a fresh offensive against the Shia insurgents in 2009, assisted by Saudi forces. The U.S. launched a series of drone attacks in Yemen to curb a perceived growing terror threat due to political chaos in Yemen. The Yemeni Crisis began with the 2011–12 revolution against President Ali Abdullah Saleh, who had led Yemen for more than two decades. After Saleh left office in early 2012 as part of a mediated agreement between the Yemeni government and opposition groups, the government led by Saleh's former vice president, Abd Rabbuh Mansur Hadi, struggled to unite the fractious political landscape of the country and fend off threats both from Al Qaeda in the Arabian Peninsula and Houthi militants that had been waging a protracted insurgency in the north for years. In 2014, Houthi fighters swept into the capital of Sana'a and forced Hadi to negotiate a "unity government" with other political factions. The rebels continued to apply pressure on the weakened government until, after his presidential palace and private residence came under attack from the militant group, Hadi resigned along with his ministers in January 2015. The following month, the Houthis declared themselves in control of the government, dissolving Parliament and installing an interim Revolutionary Committee led by Mohammed Ali al-Houthi, a cousin of Houthi leader Abdul-Malik al-Houthi. However, Hadi escaped to Aden, where he declared he remains Yemen's legitimate president, proclaimed the country's temporary capital, and called on loyal government officials and members of the military to rally to him. The war in Yemen also resulted in cholera and famine. This is the current state of Yemen.</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_URD_YEMEN_SHORT">
+			<Text>Compete - Never Envy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_URD_YEMEN">
+			<Text>Acquiring a new Luxury Resource provides a free Trade Unit and a burst of [ICON_FOOD] Food in all Cities adjacent to mountains. Trade Routes provide additional [ICON_FOOD] Food to the nearest friendly city when passing over desert tiles.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_URD_BAKIL">
+			<Text>Bakil Highlander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_URD_BAKIL_STRATEGY">
+			<Text>May claim adjacent desert or mountain tiles while fortified. Tiles acquired this way yield +1 [ICON_FOOD] Food. Not slowed by hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_URD_BAKIL_HELP">
+			<Text>May claim adjacent desert or mountain tiles while fortified. Tiles acquired this way yield +1 [ICON_FOOD] Food. Not slowed by hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_URD_BAKIL_TEXT">
+			<Text>The Bakil federation is the largest tribal federation in Yemen, consisting of more than 10 million people, and primarily found in the far north of Yemen. Traditionally in Yemen, the tribes have been the basic unit of social, political, and military organization in the country. Traditionally adherents of Zaydi Islam, the religious power of the Bakil has traditionally worked in tandem with the political power. The Ottoman Empire had conquered much of Yemen, including the home territory of the Bakil tribes in the Northern Highlands by 1873, however, by 1873, the Hashid and Bakil tribes had already rebelled against the Ottomans. The adherents of Zaydi Islam considered the Tanzimat reforms heretical. This rebellion, along with further rebellions, led to autonomy for the Bakil, even in the Ottoman Empire.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_URD_ARWA_MBS">
+			<Text>Mud Brick Skyscraper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_URD_ARWA_MBS_STRATEGY">
+			<Text>Cheaper than the granary, and costs no maintenance. Provides only +5% Growth, but may construct additional floors to increase this bonus. Also provides a source of fresh water and +2 [ICON_HAPPINESS] local happiness when 5 floors are built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_URD_ARWA_MBS_HELP">
+			<Text>While cheaper than the Granary, the Mud Brick Skyscraper's full potential is only unlocked upon building its fifth floor, which gives the city fresh water and extra happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_URD_ARWA_MBS_TEXT">
+			<Text>The Mud Brick Skyscraper is the colloquial term that refers to the unique large high-rise buildings made of mud-brick that are a distinctive part of Yemen’s architectural heritage. The best well known city containing these mud brick skyscrapers is the city of Shibam Hadramawt, which is known as “Chicago of the Desert” or “Manhattan of the Desert”.  The city is now a UNESCO World Heritage Site. The larger of these buildings typically rise from five to eleven stories high, and typically last originate in the 16th century, although the buildings have often been rebuilt. The mudbrick buildings are frequently threatened by wind, rain, and heat erosion, and require constant upkeep in order to maintain their structures. This includes applying fresh layers of mud.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_URD_WATER_DUMMY">
+			<Text>Mud Brick Skyscraper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_URD_WATER_DUMMY_TEXT">
+			<Text>Fresh Water Source from completing the Mud Brick Skyscraper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_URD_YEMEN_FOOD_DUMMY">
+			<Text>Dummy Building to handle resources</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_URD_YEMEN_RESOURCE_DUMMY">
+			<Text>Dummy Building to handle Luxuries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BAKIL_HILLS">
+			<Text>Bakil Highlander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BAKIL_HILLS_HELP">
+			<Text>Double Movement in Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_FIRSTGREETING_1">
+			<Text>Welcome to Yemen traveller, Arabia Felix. Here you will want for nothing so long as you treat my land, its people and above all, its ruler, with respect. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_DEFEATED_1">
+			<Text>Already now I hear the thundering cries of mountain warriors preparing in their steadfasts. The drum of feet and spears on the hard rock of this land. You are not the first to make the mistake of thinking you can tame Yemen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_ATTACKED_HOSTILE_1">
+			<Text>Allah tests me by sending you here, but know that he does not hand out his blessings so easily. I know he has chosen, and I know that she shall never fall with his support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_DEC_FRIENDSHIP_1">
+			<Text>Lord, I could do with a friend that isn't constantly trying to question my right to rule - maybe its you? If not, I've been dissapointed too many times to care.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_DENOUNCE_1">
+			<Text>The Lord has made it clear that you have no place in this world - know that I am but his humble instrument. So, I'd like to say this isn't personal, but it really is.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_DENOUNCE_FRIEND_1">
+			<Text>You aren't the first friend to let me down, and I dare say you shant be the last.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_DOW_GENERIC_1">
+			<Text>Allah has made his will manifest - resist and you are resisting him, and thus shall be doomed in the next world. Regardless, you're already doomed in this one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your cities are beginning to be seen from our highest mountains. Perhaps you could try not spoiling such pristine views with these sad excuses for settlements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_GREETING_HOSTILE_HELLO_1">
+			<Text>Come, sit, I'll have to sit behind this curtain so you can't see me, but its all tradition, honest. If you hear snoring from the other side, its probably someone else don't worry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_GREETING_NEUTRAL_HELLO_1">
+			<Text>God, more beggars? Oh, nevermind, I thought you were- nevermind. Come, sit. You look lovely today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_GREETING_POLITE_HELLO_1">
+			<Text>Yemen always has space for a friend like you, come, I'll light some incense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do not mistake my reluctance to attack for weakness, we can't all be as bloodthirsty as you, foreigner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_LUXURY_TRADE_1">
+			<Text>My nation is the source of much of the worlds happiness, wouldn't you want your people to partake?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let pilgrims flow between our two nations - finally your subjects will be able to witness the majesty of our mosques, of the holy city, of the great mountains and rivers which form our porud nation. And hey, if my people ever want to see the worlds biggest toilet... </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_REQUEST_1">
+			<Text>Yemen is always searching for trading partners, perhaps you could be next?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_TOO_SOON_NO_PEACE_1">
+			<Text>Yemenis may not relish violence, but sometimes it is the only route to peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URD_ARWA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Hah! You think the closest living image of God cares what you think? You look like the closest living image of a goat, only without the intellect. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

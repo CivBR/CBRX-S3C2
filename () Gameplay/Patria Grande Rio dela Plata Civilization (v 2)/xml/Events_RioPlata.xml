@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--SUKRITACT EVENTS-->
+		<!-- Patricios -->
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS">
+			<Text>Enter the Patricios!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_DESC">
+			<Text>Dear leader, a band of soldiers approached us, seemingly willing to join our revolutionary efforts. They call themselves the “Patricios”, and are a group of voluntary men who joined against the English for the Viceroyalty. They swear their allegiance with the Viceroyalty has diminished, and their primary goal is to defend Buenos Aires. We have lost troops to them, so we must be careful with them. They gathered at the “Plaza de la Victoria” awaiting for our decision.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_OUTCOME_1">
+			<Text>Allow them to join our cause freely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Culture} Culture.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive {2_NumPatricios} Patricios Units near your [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Patricios join José de San Martín!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_OUTCOME_2">
+			<Text>Expel them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Capital enters in [ICON_RESISTANCE] Resistance for {1_Turns} Turns.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive {2_Culture} Culture[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The Patricios started a revolt in Rio dela Plata!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_OUTCOME_3">
+			<Text>Allow them to join, but without their weapons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Culture} Culture.[ENDCOLOR]
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Capital enters in [ICON_RESISTANCE] Resistance for {2_Turns} Turns.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive {3_NumWorker} Worker Units near your [ICON_CAPITAL] Capital[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_PATRICIOS_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>The Patricios are divided!</Text>
+		</Row>
+
+		<!-- Boca vs River -->
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_CLASICO">
+			<Text>Boca vs River!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_CLASICO_DESC">
+			<Text>Our citizens are in joy for a new epic match in the history of Soccer. Our two major teams, Boca and River will play at {1_CityName}’s Stadium! People rejoice in excitement and are ready for a match that shall change the course of Soccer for ever! [NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_CLASICO_OUTCOME_1">
+			<Text>¡Viva!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_CLASICO_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The losers will start a turn of [ICON_RESISTANCE] Resistance in the city.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The winners will start a "We Love the King Day" in the city as celebration![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_CLASICO_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Boca won a football match against River in {1_CityName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_CLASICO_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>River won a football match against Boca in {1_CityName}</Text>
+		</Row>
+
+
+		<!-- Logia Lautaro -->
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_LOGIALAUTARO">
+			<Text>Logia Lautaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_LOGIALAUTARO_DESC">
+			<Text>
+				A letter from Francisco de Miranda:[NEWLINE]
+				“José de San Martín, it’s always a pleasure to send some words to you. As you know, we have been battling the Spanish Empire for our freedom for quite a while now. We must not remain fighting alone in this effort. I have sent this letter to you, Bolivar and O’Higgins, aside from some other fellow libertadores, with the hope we can join our forces together in a secret order to remove the Colonial powers from our lands; they have all accepted. As you once suggested, we can name it the “Logia Lautaro”. I hope we can join forces together, and I will be awaiting your answer.”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_LOGIALAUTARO_OUTCOME_1">
+			<Text>Found the Order</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_LOGIALAUTARO_OUTCOME_RESULT_1">
+			<Text>The Logia Lautaro will help us in war and politics, but smaller states will feel less confident around us.[NEWLINE]
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Resting point with Cit-States will be reduced by 10.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Military Unit production will increase by 15%.[ENDCOLOR][NEWLINE]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Social Policy.[ENDCOLOR][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_LOGIALAUTARO_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Rumor says San Martín founded the Logia Lautaro!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_LOGIALAUTARO_OUTCOME_2">
+			<Text>Dismiss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_LOGIALAUTARO_OUTCOME_RESULT_2">
+			<Text>Without the Logia our military efforts will be weakened, but our diplomatical relationships with smaller states will be improved[NEWLINE]
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Military Unit production will be 15% slower[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Resting point with City-States will be increased by 15[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PG_RIOPLATA_LOGIALAUTARO_OUTCOME_RESULT_2_CIVS">
+			<Text>
+				Without the Logia the members will denounce you, but our diplomatical relationships with smaller states will be improved[NEWLINE]
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]You will be denounced by some or all of the founding members.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Resting point with City-States will be increased by 15[ENDCOLOR]
+			</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

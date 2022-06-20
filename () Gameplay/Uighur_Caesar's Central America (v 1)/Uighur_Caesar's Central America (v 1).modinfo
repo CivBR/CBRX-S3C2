@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ada5bf2b-6383-4875-8bbe-ca5192f36d84" version="1">
+  <Properties>
+    <Name>Uighur_Caesar's Central America</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the United Provinces of Central America under Francisco Morazan to the game,</Teaser>
+    <Description>Adds the United Provinces of Central America under Francisco Morazan to the game,</Description>
+    <Authors>Uighur_Caesar</Authors>
+    <SpecialThanks>Agla, Darth, JFD, Senshi</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's CulDiv" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Pouakai's Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="598C55BC482372F6F7C0E0575BAFE5E9" import="1">Art/CentroamericaAlpha128.dds</File>
+    <File md5="F7E960DF9017650E9E9102EBE508EE48" import="1">Art/CentroamericaAlpha24.dds</File>
+    <File md5="7DC2830005F79E957D41A6AFB3ADA963" import="1">Art/CentroamericaAlpha256.dds</File>
+    <File md5="FC2431DCDE4C968979230F7AB3D09F27" import="1">Art/CentroamericaAlpha32.dds</File>
+    <File md5="98BEF8CB22EC6963D1331DCD35C597CB" import="1">Art/CentroamericaAlpha48.dds</File>
+    <File md5="48728138C84C0F944EAAA22B12A402A6" import="1">Art/CentroamericaAlpha64.dds</File>
+    <File md5="B8FE87F1E863B0E4AF32A5A7E814D576" import="1">Art/CentroamericaAtlas128.dds</File>
+    <File md5="8AC80A268EA937E4DFFDE2F99DEFC2F6" import="1">Art/CentroamericaAtlas256.dds</File>
+    <File md5="FAE684CAEF9B014DBF037D5750AE7750" import="1">Art/CentroamericaAtlas32.dds</File>
+    <File md5="361AB9033F96949715180253E97FBC63" import="1">Art/CentroamericaAtlas45.dds</File>
+    <File md5="F2DE7DA2EA9A89E3428080C93B928808" import="1">Art/CentroamericaAtlas64.dds</File>
+    <File md5="203E6D78BB49B02280724233E3CD833B" import="1">Art/CentroamericaAtlas80.dds</File>
+    <File md5="9F2FA60851E41ABA890B135AF24B865A" import="1">Art/CentroamericaDoM.dds</File>
+    <File md5="7C7E1016E4AC90EC63B31A2674CECA89" import="1">Art/CentroamericaUnit32.dds</File>
+    <File md5="E9BE8D9FE4B197AB752CD623A2B5DC60" import="1">Art/CentroamericaUnitSV.dds</File>
+    <File md5="4301BA35DA115634FB2399D5D4B8ABCE" import="1">Art/MapCentroamerica.dds</File>
+    <File md5="9D5086197870A2A6BA18D338BBC2E4E0" import="1">Art/Morazan.dds</File>
+    <File md5="A59390783544093E74233E38177A0DD2" import="1">Art/Musketman French/civ5_fremm1.fxsxml</File>
+    <File md5="909F3F86A67F31A929BE201DA1AD7880" import="1">Art/Musketman French/civ5_fremm1.gr2</File>
+    <File md5="D73145CAD93C5E32EDEE84A2FE2DAAE7" import="1">Art/Musketman French/civ5_fremm2.fxsxml</File>
+    <File md5="2817A1A4DD239E2C44D122092B6FD065" import="1">Art/Musketman French/civ5_fremm2.gr2</File>
+    <File md5="1B1F5E8511754BA94C258F316A21B773" import="1">Art/Musketman French/civ5_fremm3.fxsxml</File>
+    <File md5="FFED8EF246545F34D3E001AAE21E6A51" import="1">Art/Musketman French/civ5_fremm3.gr2</File>
+    <File md5="07AB022ACB8C10A944D1013B8DB75711" import="1">Art/Musketman French/fremm1.dds</File>
+    <File md5="4947CFACB4573339EB47C815939C0440" import="1">Art/Musketman French/fremm1_sref.dds</File>
+    <File md5="A10F66C43618A6D92F7EFAD9722452BE" import="1">Art/Musketman French/fremm2.dds</File>
+    <File md5="21E44229997690777759B502D033504D" import="1">Art/Musketman French/fremm2_sref.dds</File>
+    <File md5="A65F9C8321D5AD7B2C9FA9D93A36D228" import="1">Art/Musketman French/fremm3.dds</File>
+    <File md5="04BB1427DA5512F90D419A8E2C3D868B" import="1">Art/Musketman French/fremm3_sref.dds</File>
+    <File md5="94F717000C6DAE1B7217174A28773A56" import="0">Core/CentralAmerica_ArtDefines.sql</File>
+    <File md5="4FC661F394E6559A63C296575A3E52FA" import="0">Core/CentralAmerica_Core.sql</File>
+    <File md5="0E2DD278DD936CC036D5D1F77D885739" import="0">Core/CentralAmerica_Functions.lua</File>
+    <File md5="8E68F5C14BD19C5F8B8A426E05663156" import="1">Core/CentralAmerica_Functions.xml</File>
+    <File md5="8772D6285AC96AA3F350EFCEFAC7418C" import="0">Core/Diplo.sql</File>
+    <File md5="8CD85F9C28D49313958FDBE7FFEB4695" import="0">Core/DiplomacyText.xml</File>
+    <File md5="84C5807DF7F9453EBF9263F9F1119ABF" import="0">Core/ModSupport.sql</File>
+    <File md5="E6FF8426111A72B158FC5A75244740C6" import="1">Core/MorazanLS.xml</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="1">Core/PlotIterators.lua</File>
+    <File md5="94FE6C17E5150FB58EB29D6199187E26" import="0">Core/UPCA_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/CentralAmerica_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/UPCA_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/CentralAmerica_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Diplo.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/CentralAmerica_Functions.lua">
+      <Name>CentralAmerica</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

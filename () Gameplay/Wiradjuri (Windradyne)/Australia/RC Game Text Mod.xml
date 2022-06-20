@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_AUSTRALIA_LS">
+			<Text>Marara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AUSTRALIA_LS_HELP">
+			<Text>Wiradjuri replacement for the Circus. Each turn, grants bonuses of one extra random Pantheon.[NEWLINE][NEWLINE]City must follow a Pantheon or Religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_WAMARR">
+			<Text>Barra-wi-dyany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_WAMARR">
+			<Text>Wiradjuri replacement for the Archer. Has a chance to gain additional [ICON_MOVES] Movement while moving.</Text>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_AUSTRALIA_LS_MOD_DESC">
+			<Text>Wiradjuri Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUSTRALIA_LS_MOD_SHORT_DESC">
+			<Text>The Wiradjuri</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_AUSTRALIA_LS_MOD_ADJECTIVE">
+			<Text>Wiradjuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUSTRALIA_LS_MOD">
+			<Text>The Wiradjuri</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_AUSTRALIA_LS_MOD_TEXT">
+			<Text>Welcome, Windradyne, champion of the Wiradjuri people. The Wiradjuri are the largest Aboriginal group of modern New South Wales, dwelling in the land of the three rivers: the Wambool, the Kalari, and the Murrumbidjeri. When the white colonists came and threatened the Wiradjuri way of life, it was you, Windradyne, who led the effort to resist them in what was known as the Bathurst War. And when the time came to sue for peace with the white men, it was you who led the way once again, respected by your kin and the settlers alike.[NEWLINE][NEWLINE]Oh, Windradyne, great warrior and leader: your people need you once more in this neverending race to glory. Will you lead them through peace and war? Will you stand proudly against any who would oppose you? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUSTRALIA_LS_MOD_RUSSEL_CROWE_DESC">
+			<Text>Windradyne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUSTRALIA_LS_MOD_RUSSEL_CROWE_NAME">
+			<Text>Windradyne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUSTRALIA_LS_MOD_RUSSEL_CROWE_SUBTITLE">
+			<Text>Elder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUSTRALIA_LS_MOD_RUSSEL_CROWE_TITLES_1">
+			<Text>Resistance Leader</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_AUSTRALIA_SHORT">
+			<Text>Yindyamarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_AUSTRALIA">
+			<Text>Can see additional Natural Wonders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_1">
+			<Text>Wahluu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_2">
+			<Text>Moothi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_3">
+			<Text>Loowee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_4">
+			<Text>Gulgong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_5">
+			<Text>Wagga Wagga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_6">
+			<Text>Bungambrawatha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_7">
+			<Text>Yarrawudda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_8">
+			<Text>Narrungdera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_9">
+			<Text>Minyanbal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_10">
+			<Text>Gudhamangdhuray</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_11">
+			<Text>Mungabareena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_12">
+			<Text>Maiyingu Marragu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_13">
+			<Text>Walla Walla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_14">
+			<Text>Doomut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_15">
+			<Text>Eugowra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_16">
+			<Text>Maynggu Ganai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_17">
+			<Text>Djirrildhuray</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_18">
+			<Text>Wallerawang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_19">
+			<Text>Koonadan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUSTRALIA_LS_MOD_20">
+			<Text>Koorawatha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_0">
+			<Text>Gobbagumbalin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_1">
+			<Text>Pomingalarna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_2">
+			<Text>Stan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_3">
+			<Text>Linda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_4">
+			<Text>Yarri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_5">
+			<Text>Jacky Jacky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_6">
+			<Text>Mum Shirl</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_7">
+			<Text>Ballandella</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_8">
+			<Text>Turandurey</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRALIA_LS_MOD_9">
+			<Text>Moolbong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUSTRALIA_LS_MOD_RUSSEL_CROWE_FIRST_GREETING_1">
+			<Text>If you come in peace, we shall receive you in peace. Welcome to the lands of the Wiradjuri.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUSTRALIA_LS_MOD_RUSSEL_CROWE_FIRST_GREETING_2">
+			<Text>Yamandhu marang mudyi? Are you well, friend? I think we can hunt together, if you respect our way of life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUSTRALIA_LS_MOD_RUSSEL_CROWE_DEFEATED_1">
+			<Text>For so long, I have had to keep running. I have come to the edge of the land, where the water begins, and I know now that I am defeated. At least let me return to my people in death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUSTRALIA_LS_MOD_RUSSEL_CROWE_DEFEATED_2">
+			<Text>I have grown far too weary of war, with so many lives lost in acts of revenge. It is time for me to rest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDERFUL_TEXT">
+			<Text>Debug text for Wiradjuri wonders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER">
+			<Text>Natural Wonder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_TEXT">
+			<Text>Unique Natural Wonders exclusive for Wiradjuri civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP">
+			<Text>Natural Wonder.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_1">
+			<Text>Lake Cowal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_1">
+			<Text>Grants +1 [ICON_CITIZEN] Citizen in all Cities if discovered as neutral territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_3">
+			<Text>Walangduray</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_3">
+			<Text>Grants 50 [ICON_CULTURE] Culture if discovered as neutral territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_4">
+			<Text>Ghannabulla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_4">
+			<Text>All cities acquire 3 new Plots if discovered as neutral territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_5">
+			<Text>Kengal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_5">
+			<Text>Doubles religious pressure emanating from City if it's within City's borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_9">
+			<Text>Wulambiyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_9">
+			<Text>Free Promotion for adjacent units: Mudhiga (-5% penalty to adjacent enemies)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NOUR_SPIRIT_LS">
+			<Text>Mudhiga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NOUR_SPIRIT_LS_HELP">
+			<Text>Enemy units receive -5% [ICON_STRENGTH] Combat Strength when adjacent to any unit with this promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NOUR_SPIRIT_LS_2">
+			<Text>Mudhiga II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NOUR_SPIRIT_LS_HELP_2">
+			<Text>Enemy units receive -10% [ICON_STRENGTH] Combat Strength when adjacent to any unit with this promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_7">
+			<Text>Drunong Drung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_7">
+			<Text>Increases length of [ICON_GOLDEN_AGE] Golden Ages by 25% if it's within your borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_2">
+			<Text>Marrambidya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_2">
+			<Text>Increases City Health by 100 if it's within City's borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_8">
+			<Text>Eunonyhareenyha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_8">
+			<Text>Additional +5 [ICON_RESEARCH] Science after researching Archaelogy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_6">
+			<Text>Cudegeligo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_6">
+			<Text>Grants 5% [ICON_PEACE] Faith discount if it's within your borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AUS_LS_EXTRA_WONDER_10">
+			<Text>Nangar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUS_LS_EXTRA_WONDER_HELP_10">
+			<Text>Increases City's [ICON_CULTURE] Culture, [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science by 10% if it's within City's borders.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

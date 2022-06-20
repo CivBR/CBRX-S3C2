@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/12/2020 9:40:24 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG">
+			<Text>Olive Yang</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ERW_OLIVE_YANG">
+			<Text>When a Trade deal ends, your trading partner enters [ICON_RESISTANCE] Anarchy per luxury lost. Generate Influence with all [ICON_CITY_STATE] City-States when sending trade routes to Cities in Anarchy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ERW_OLIVE_YANG_SHORT">
+			<Text>Angel's Tears</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_PEDIA">
+			<Text>Olive Yang was a member of Kokang royalty and prominent Opium Warlord who held de facto power over the region.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_SUBTITLE">
+			<Text>Leader of Kokang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_TITLES_1">
+			<Text>Sao Nang of Kokang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_LIVED">
+			<Text>1927-2017</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_HEADING_1">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_TEXT_1">
+			<Text>Olive Yang or Yang Jinxiu was an opium warlord princess of the Princely State of Kokang whose power peaked in the 1950s and early 1960s. She is also known for defying gender norms like foot-binding and having relations with famous Burmese actress Wah Wah Win Shwe. Although arrested in 1962, she was released in 1989 to broker peace between descendent organizations from her army and the Burmese military.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_HEADING_2">
+			<Text>Early Life and Marriage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_TEXT_2">
+			<Text>Yang Jinxiu was born into the Yang dynasty who hailed from Ming loyalists setting up the Chiefdom of Kokang in the 18th century. She attended an elite Christian academy in northern Burma. At one point she frightened classmates by hiding a revolver in her school bag. According to her family, she wore boys' clothes, refused to bind her feet, and frequently fell in love with her brother's romantic interests.[NEWLINE][NEWLINE] As a hereditary princess, her parents arranged a marriage between her and Duan Sao Wen of Tamaing early to tame their unconventional princess. However, by the time they were wed, Olive had already organized an ethnic Kokang army by the name of Olive's Boys. At the age of 21, she was wed and carried a son, Duan Jipu, to birth. She left her newborn son with a wet nurse and immediately ran to establish her base of power with Olive's Boys.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_HEADING_3">
+			<Text>China's Lost Army and the Kakweye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_TEXT_3">
+			<Text>In the 1950s, Olive Yang partnered with fleeing Kuomintang forces causing headaches for her brother. This so-called China's Lost Army and Olive's Boys formed the Kokang Kakweye- the Kokang People's Defence Force. Her influence and connection with KMT remnants and shrewd business sense allowed her to take de facto control of Kokang from her brother Edward who had de jure control.[NEWLINE][NEWLINE]With her thousands strong army, she would secure and establish clandestine routes through the hilly Eastern Shan hills and create the Golden Triangle boosting the heroin production and trade to become the second largest in the world. She modernized routes creating truck routes in former mule routes. By age 25, she commanded hundreds of trucks shipping raw opium across four countries. These opium sales would become instrumental in continuing to fund many rebel groups and army remnants based in the Shan state. At times, the CIA supported Olive Yang and her long shot efforts to overthrow the People's Republic of China by airlifting weapons along the Thai border.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_HEADING_4">
+			<Text>Capture and Lo Hsinghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_TEXT_4">
+			<Text>Olive Yang was arrested in 1962 after General Ne Win's coup d’état of Myanmar. On charges of supporting the Kuomintang, she was imprisoned in Mandalay for five years.  For drug charges brought up later, she was said to have endured torture and sexual abuse in prison.[NEWLINE][NEWLINE] In the 50s, her brother Jimmy Yang was elected to parliament and spoke about the Chinese invasion facilitated by his sister Olive. However, Jimmy was eventually ousted by Luo Xinghan or Lo-Hsinghan who would go on to be the kingpin of heroin trade in Eastern Asia after Olive's decline from power. Once one of Olive's lackeys tasked with bringing her cigarettes, Lo became the progenitor of one of the largest conglomerates in Myanmar: Asia World.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_HEADING_5">
+			<Text>Relationships</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_TEXT_5">
+			<Text>By the time Olive was released in 1958, Lo Hsinghan had taken control of the semiautonomous Golden Triangle realm. Olive instead took the 1960s to carve out a life of her own. Although she had been married, she did not want to have sex with her husband or be a mother and refused to help in any way. Instead, she pursued Louisa Benson Craig, an actress who had won the Miss Burma beauty competition. She showered her with gifts of Kokang tea, fabric, and bacon. However, Louisa went on to join the Karen National Liberation Army, becoming an ethnic armed leader herself and did not respond to Olive.[NEWLINE][NEWLINE]Olive would later begin a romantic relationship with the film actress Wah Wah Win Shwe, making headlines in Burmese tabloids when she put her name on the deed of a house together. Wah Wah Win Shwe would later insist that they were merely friends, but their shared relationship was evident and an open secret at the time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_HEADING_6">
+			<Text>Negotiation and MNDAA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_TEXT_6">
+			<Text>After having lived a relatively quiet life after her tabloid relationship with Wah Wah Win Shwe, Olive Yang re-emerged in 1989. Some believe that she may have been arrested or placed under house arrest during the 1980s, but it's more likely that she avoided the public eye as she deftly did in the 2000s. The Intelligence head of the Burmese military Khin Nyunt recruited her to broker ceasefire with the newly formed Myanmar National Democratic Alliance Army (MNDAA).[NEWLINE][NEWLINE]During the 1960s and 70s, Lo Hsinghan struggled to maintain power against a Communist Party of Burma and Kokang Revolutionary Force alliance headed by Olive's brother Jimmy Yang. the force was a descendent of Olive's own Kakweye and had taken power in the mid-1980s. However, internal divisions split the Communist Party and the MNDAA was formed.[NEWLINE][NEWLINE]Olive Yang was able to broker a long-term ceasefire negotiation between the MNDAA and the Burmese military as she was still a sort of founder figure for the MNDAA. The MNDAA continued their heroin operations and ceased guerrilla attacks until the fallout from the 2021 coup.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_HEADING_7">
+			<Text>Death and Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_TEXT_7">
+			<Text>After this last showing of her storied past, Olive Yang quietly retired in Yangon. According to some, she had become a Buddhist nun in her later years. In 2003, she developed a chronic illness and returned to Kokang for her last 14 years where she finally died in 2017 at the age of 90 just outside Kokang in the city of Muse. Local militia stood wake for her funeral.[NEWLINE][NEWLINE]Her legacy continues most prominently in the strong opium trade fuelling modern conflicts like the 2021 Spring Revolution and the Kachin Independence Army. The Kokang like a few other groups involved in the Golden Triangle have negotiate a profitable ceasefire. The Kokang Chinese were also recognized as an indigenous ethnic group of Burma, and they remain one of the small but salient ethnic groups in Burma. Olive also stands remembered as a war lady who broke gender norms as a lesbian in country where homosexuality was imprisonable for life until 2021.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_OLIVE_YANG_NAME">
+			<Text>Olive Yang</Text>
+		</Row>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG">
+			<Text>Kokang Self-Administered Zone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SHORT">
+			<Text>Kokang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_ADJ">
+			<Text>Kokang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_DOM">
+			<Text>Let no man tame you, miss Olive Yang. Your bold spirit guides you to fortune, for yourself and others around you. At just 19 you organized a Kokang military force, which would number over a thousand. Your ability to control the trade of opium assured you wealth, and your alignment with Kuomintang forces secured your people’s status as lords of the Golden Triangle. However, your arrest led to the downfall of the opium empire you created, even though your deeds helped secure your benevolent status among your soldiers.[NEWLINE][NEWLINE]Your boys seek renewed leadership, miss Olive Yang. Your assets are diminishing, and your profits are unforetold, but you still have the guidance to bring Kokang to new prosperity. Can you grow your wealth from barren soils? Can you guide your troops into uncharted riches? Can you build a Civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_TITLE">
+			<Text>Kokang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_HEADING_1">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_TEXT_1">
+			<Text>Kokang is a region located between the Salween River and the Yunnan, China in the northwest of modern-day Myanmar. Located in an incredibly remote, mountainous region of the Shan Hills, Kokang was largely ignored by many successive Chinese dynasties. It functioned as a dual tributary to the Konbaung Empire and the Qing Dynasty before being ceded to British Burma and becoming part of the Union of Burma. Today, 90% of the population remains ethnic Han Chinese officially listed as "Kokant" an ethnic Shan group by the Burmese government under its 8 national race system.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_HEADING_2">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_TEXT_2">
+			<Text>The region of Kokang has been part of the early states in southwest China in early history. It was a part of the Nanzhao realm and later Dali realm. Between Dali's fall in the 13th century and the 18th century Ming dynasty collapse, the region was progressively ignored by China as an unproductive hilly region. As Burmese empires rose and fell, the local small chiefdoms in the area became tributaries within the Burmese realms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_HEADING_3">
+			<Text>Chiefdom of Kokang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_TEXT_3">
+			<Text>The Ming loyalist Yang clan officially founded the start of the modern Kokang Special Region in 1739. Yang Xiancai took the title Chief of Xingdahu centred around the town of Ta Shwe Htan, called Xingdahu in Chinese. His son Yang Weixing expanded the territory tenfold to encompass most of modern day Kokang and renamed himself as the Chief of Mt. Kegan. His son would officially name the state Guogan (Kokang) and title himself as a Heng based on nearby ethnic traditions.[NEWLINE][NEWLINE]In 1840, the Chief of Kokang was entitled by the Qing dynasty within the tusi system- local magistrates recognized by the dynasty as independent rulers within the imperial realm. In 1874, Yang Guozheng succeeded to the title after the death of his brother and would oversee the peaceful annexation of Kokang as part of the British annexation of Upper Burma in the Second Anglo-Burmese War. Although Kokang was initially placed in Chinese territory in an 1894 treaty, this was corrected in an 1897 agreement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_HEADING_4">
+			<Text>Myosa of Kokang and WWII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_TEXT_4">
+			<Text>After the annexation of Kokang, the British formalized the status of Kokang with the Western need for mathematically zero-width borders and clear record of sovereignty. Kokang was incorporated within the Shan states as one of the Shan princely states. The Chief of Kokang was demoted from a Hereditable Magistrate to a Myosa, comparable to a Baron within the British noble system. Kokang was structured within the state of Hsenwi under Hsenwi's Saopha, comparable to a duke. Yang Guozheng abdicated due to blindness in 1916 in favour of his nephew.[NEWLINE][NEWLINE]His great-nephew Yang Wen Pi  ascended to the title in 1927 and was deposed by the Kuomintang in 1943 for two years. During World War 2, Kokang's location and its mountainous reach was largely made it irrelevant. However Thai conquests of Shan state lead to the temporary interregnum. In 1945, Yang Wen Pi returned, being recognized as a separate state from Hsenwi by British Burma. This was in part from the enthusiastic support of the allies by the Myosa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_HEADING_5">
+			<Text>Saopha of Kokang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_TEXT_5">
+			<Text>Yang Wen Pi was not entitled as Saopha until after the war in 1947. However, he took the title of Saopha for the last 2 years of his life before being succeeded by his son Yang Zhencai, Edward Yang. Several members of the Yang dynasty entered parliamentarian politics including Jimmy Yang, Edward's younger brother. As the Kuomintang lost power in China, the KMT invaded Burma twice in the 1950s, one such time occurring in Kokang.[NEWLINE][NEWLINE]This brief period saw the flourishing of the opium trade within Kokang led by Edward's sister Olive Yang who became a warlord, partnering with the Kuomintang after their invasion. She was officially the commander of the Kokang Kakweye but had de facto control of the region, even past the Edward's abdication in 1959. In 1959, the Shan Saophas collectively agreed to cede power to their people and take on a ceremonial role. At this time, Edward abdicated and abolished the Saopha of Kokang with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_HEADING_6">
+			<Text>The CPB And MNDAA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ERW_KOKANG_TEXT_6">
+			<Text>However, the political situation became increasingly unstable and General Ne Win's coup d’état in 1962 also led to the seizure of all the Shan titles and abolition of the de jure Shan nobility. The retreating Communist Party of Burma forces (CPB) took over the power vacuum and Olive Yang and Jimmy Yang were arrested and imprisoned in Insein Prison. The Kakweye became a Kokang Revolutionary Force that commenced guerrilla operations against the Burmese army. The remaining Yang family members remained active in anti-government guerrillas and opium trade.[NEWLINE][NEWLINE]In 1989, the Communist Party of Burma collapsed. It had been dwindling in influence but Peng Jia sheng of the CPB formed the Myanmar National Democratic Alliance Army and signed a peace treaty with the Burmese government. To secure this first peace deal, Olive Yang was freed from prison to negotiate with the MNDAA. She secured autonomy and opium fields for the next decades. Combining with Kokang interests, the group is now the de facto leadership and controls Kokang today as part of the Northern Alliance of Ethnic Armed Organizations. In 2021, they joined the rest of the Northern Alliance in restarting guerrilla operations against the new military junta of Burma.</Text>
+		</Row>
+		<!--Diplo-->
+		<Row Tag="TXT_KEY_LEADER_ERW_KOKANG_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now playing your bamboo pipes and enjoying lax drug and gambling laws! I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ERW_KOKANG_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are playing bamboo pipes and enjoying lax drug and gambling laws. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_FIRSTGREETING_1">
+            <Text>Did you wander too far? You're in Kokang, now and I'm Uncle Olive to you. What's your business here?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_FIRSTGREETING_2">
+            <Text>Come looking for the princess? Well you're looking at her and her several guns... State your business.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_DEFEATED_1">
+            <Text>Hah! You're quite funny. You haven't seen the end of me. Prison didn't stop me very much you know...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_DOW_GENERIC_1">
+            <Text>Your riches would greatly benefit Kokang and your armies are pre-occupied. It's a temptation I can't resist.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_ATTACKED_HOSTILE">
+            <Text>Funny to think we haven't been at war already. I see you've just realized how much we've been using your lands. Come see if you can take our holdouts then!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_DEC_FRIENDSHIP_1">
+            <Text>Working with you has been a great pleasure. You're quite a lovely leader and Kokang would be happy to cement our relationship into one of mutual benefit. Are you in?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_DENOUNCE_1">
+            <Text>Your insistence on outdated nonsense has been apalling. Irrational. Useless. Consider yourself an enemy of Kokang.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_DENOUNCE_FRIEND_1">
+            <Text>Quite a shame when someone turns out differently than you wish. But business is business, my dear. I can't keep this charade any longer![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_ERW_OLIVE_YANG_RESPONSE_TO_BEING_DENOUNCED_1">
+            <Text>Your words mean very little in the face of mountains and machine guns...</Text>
+        </Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_1">
+			<Text>Jipu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_2">
+			<Text>Wen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_3">
+			<Text>Jimmy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_4">
+			<Text>Edward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_5">
+			<Text>Hsing Han</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_6">
+			<Text>Wah Wah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_7">
+			<Text>Xiaowen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_8">
+			<Text>Judy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_9">
+			<Text>Jackie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ERW_KOKANG_SPY_10">
+			<Text>Li</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_1">
+			<Text>Laukkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_2">
+			<Text>Konkyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_3">
+			<Text>Kungkeng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_4">
+			<Text>Saungkang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_5">
+			<Text>Maw Hteik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_6">
+			<Text>Chin Shwe Haw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_7">
+			<Text>Wanchanshu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_8">
+			<Text>Long Htan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_9">
+			<Text>Muse </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_10">
+			<Text>Htin Par Keng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_11">
+			<Text>Nar Le</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_12">
+			<Text>Shwe Yin See</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_13">
+			<Text>Chan Tee Ai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_14">
+			<Text>Man Ton Par</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_15">
+			<Text>Tar Shan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_16">
+			<Text>Tar Shwe Htan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_17">
+			<Text>Mant Hkar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_18">
+			<Text>Chin Mu Lin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_19">
+			<Text>Shao Chin Su</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_20">
+			<Text>Kyin Nyeit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_21">
+			<Text>Man Dong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_22">
+			<Text>Kyu War Kyaing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_23">
+			<Text>Nam Kyar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_24">
+			<Text>War Sa Kyaing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_25">
+			<Text>Huong Si Tone Haw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_26">
+			<Text>Loi La</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_27">
+			<Text>Yan Kyin Htan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_28">
+			<Text>Lawng Yin Kenh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_29">
+			<Text>Yan Long Keng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_30">
+			<Text>Tin Htan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_31">
+			<Text>Lan Hpyi Lin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_32">
+			<Text>War Chu Keng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_33">
+			<Text>Tar Thwe Thwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_34">
+			<Text>Hay Shaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ERW_KOKANG_35">
+			<Text>Nan Tit</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_ERW_KAKWEYE">
+			<Text>Kakweye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ERW_KAKWEYE_HELP">
+			<Text>Replaces the Machine Gun. Can move after attacking. Receive +20% Combat Strength in the territory of Civilizations with less Happiness. May harvest [ICON_RES_ERW_POPPY] Opium Poppies from Poppy Fields, destroying the resource and improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ERW_KAKWEYE_STRATEGY">
+			<Text>The Kakweye is a powerful UU, with the ability to steal land and fights 20% stronger in the territory of Civilizations that have less Happiness. Build a lot of Happiness buildings and steal valuable resources in order to make best use of the Kakweye!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ERW_KAKWEYE_PEDIA">
+			<Text>The Kokang Kakweye (literally the Kokang Protection) were the formalized army under Olive Yang's command in the 1950s. Having evolved from the 1000 men strong Olive's Boys group that Olive commanded in the early 1950s, the Kakweye used various weapons sourced through Olive's alliance with the Kuomintang and remnant Kuomintang groups like the China's Lost Boys. They established and protected trade routes to fuel the heroin trade and form the Golden Triangle. After Olive's arrest and decline in power in the 1960s, the Kakweye became a more active guerrilla force resisting Burmese army aligned warlords to protect their heroin routes. The Kakweye would eventually evolve through its relations with the Kokang Revolutionary Force and the Communist Party of Burma to become the modern Myanmar National Democratic Alliance Army that continues to support and fund a significant amount of the ongoing 2021 revolution.</Text>
+		</Row>
+		<!--Improvements-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_ERW_POPPY_FIELD">
+			<Text>Poppy Field</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ERW_POPPY_FIELD_HELP">
+			<Text>Grants +1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold, but removes all other yields. Earns the relevant yields from allied City-States, and spawns an [ICON_RES_ERW_POPPY] Opium Poppy resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ERW_POPPY_FIELD_PEDIA">
+			<Text>The Papaver Somniferum poppy produces latex from the seed capsules in its flower-bud stage that is dried into opium. This can be refined into heroin and other narcotics. Selective breeding from ancient times have maximized this yield reducing the bulk weight and creating opium prime for converting to heroin.[NEWLINE][NEWLINE]Opium has been an integral component of world history as a relatively simple but addictive drug used famously in by the British to colonize China. In Kokang, as in many other semiautonomous mountainous regions, opium and heroin become reliable sources to generate income for guerrilla operations in relative infertile lands.</Text>
+		</Row>
+		<!--Builds-->
+		<Row Tag="TXT_KEY_BUILD_ERW_POPPY_FIELD">
+			<Text>Build Poppy Field</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ERW_POPPY_FIELD_HELP">
+			<Text>Allows you to build the Poppy Field unique improvement.[COLOR_NEGATIVE_TEXT] Removes all Terrain yields[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ERW_POPPY_FIELD_REC">
+			<Text>Build a Poppy Field here!</Text>
+		</Row>
+		<!--Resource-->
+		<Row Tag="TXT_KEY_RESOURCE_ERW_POPPY">
+			<Text>Opium Poppies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ERW_POPPY_HELP">
+			<Text>Doesn't provide any yields when worked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ERW_POPPY_PEDIA">
+			<Text>The Papaver Somniferum poppy produces latex from the seed capsules in its flower-bud stage that is dried into opium. This can be refined into heroin and other narcotics. Selective breeding from ancient times have maximized this yield reducing the bulk weight and creating opium prime for converting to heroin.[NEWLINE][NEWLINE]Opium has been an integral component of world history as a relatively simple but addictive drug used famously in by the British to colonize China. In Kokang, as in many other semiautonomous mountainous regions, opium and heroin become reliable sources to generate income for guerrilla operations in relative infertile lands.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_PROMOTION_ERW_KAKWEYE">
+			<Text>Olive's Boys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ERW_KAKWEYE_HELP">
+			<Text>+20% Combat Strength in Civilizations with Less Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ERW_KOKANG">
+			<Text>Trafficking Goods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ERW_KOKANG_HELP">
+			<Text>Allows for the Kakweye to Culture Bomb.</Text>
+		</Row>
+		<!--Mission-->
+		<Row Tag="TXT_KEY_MISSION_EW_KAKWEYE">
+			<Text>Harvest Opium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_EW_KAKWEYE_DESC">
+			<Text>Destroy the Poppy resource and any improvement on this tile in exchange for a Culture Bomb ability.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

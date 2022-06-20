@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2014 9:37:03 PM -->
+<GameData>
+	<Improvement_ResourceTypes>
+	<Row>
+		<ImprovementType>IMPROVEMENT_OFFERING</ImprovementType>
+		<ResourceType>RESOURCE_JADE</ResourceType>
+		<ResourceTrade>false</ResourceTrade>
+	</Row>
+	<Row>
+		<ImprovementType>IMPROVEMENT_OFFERING</ImprovementType>
+		<ResourceType>RESOURCE_AMBER</ResourceType>
+		<ResourceTrade>false</ResourceTrade>
+	</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OFFERING</ImprovementType>
+			<ResourceType>RESOURCE_LAPIS</ResourceType>
+			<ResourceTrade>false</ResourceTrade>
+		</Row>
+		</Improvement_ResourceTypes>
+	<Trait_ResourceQuantityModifiers>
+	<Row>
+		<TraitType>TRAIT_DORADO</TraitType>
+		<ResourceType>RESOURCE_JADE</ResourceType>
+		<ResourceQuantityModifier>100</ResourceQuantityModifier>
+	</Row>
+	<Row>
+		<TraitType>TRAIT_DORADO</TraitType>
+		<ResourceType>RESOURCE_AMBER</ResourceType>
+		<ResourceQuantityModifier>100</ResourceQuantityModifier>
+	</Row>
+		<Row>
+			<TraitType>TRAIT_DORADO</TraitType>
+			<ResourceType>RESOURCE_LAPIS</ResourceType>
+			<ResourceQuantityModifier>100</ResourceQuantityModifier>
+		</Row>
+	</Trait_ResourceQuantityModifiers>
+</GameData>

@@ -1,0 +1,66 @@
+===========================================================================
+== Credits
+===========================================================================
+-- JakeWalrusWhale
+----------------
+Art (Map)
+Code
+Design
+Text (Diplo and Misc)
+
+----------------
+-- RawSasquatch
+----------------
+Art (Leader Icon; Leaderscene; UU Icon; UB Icon; Resource Icon)
+
+----------------
+-- DarthKyofu
+----------------
+Art (Civ Icon, Unit Alpha), Text (Leader Pedia)
+
+----------------
+-- Zharques
+----------------
+Text (DoM)
+
+----------------
+-- Chrisy15
+----------------
+Code (Lua)
+
+----------------
+-- DMS
+----------------
+Text (Civ Pedia, City List)
+
+----------------
+-- Pouakai
+----------------
+Text (All Other Pedias)
+
+----------------
+-- snafusmith
+----------------
+Art (Unit Model)
+
+----------------
+-- Sukritact, TopHatPaladin
+----------------
+Lua help
+
+----------------
+-- TarcisioCM, Typhlomence
+----------------
+Code pillaged from
+
+----------------
+-- "Pala Ku Nuabesa Ó Muxima" by Nanutu
+----------------
+Music (Peace Theme)
+
+----------------
+-- "Savimbi's Pride" (Black Ops 2 Soundtrack) by Jack Wall
+----------------
+Music (War Theme)
+
+This mod was Decicated to DMS. Thanks for all your hard work in the Civ V Modding Community.

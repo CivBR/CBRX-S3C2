@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_HAN_WU_ADJECTIVE">
+			<Text>Han</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAN_WU_DESC">
+			<Text>Han Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAN_WU_SHORT_DESC">
+			<Text>Han</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_TEXT_1">
+			<Text>The Han Dynasty (206 BCE-220 CE) was one of the longest of China’s major dynasties. In terms of power and prestige, the Han Dynasty in the East rivalled its almost contemporary Roman Empire in the West. With only minor interruptions it lasted a span of over four centuries and was considered a golden age in Chinese history especially in arts, politics and technology. All subsequent Chinese dynasties looked back to the Han period as an inspiring model of a united empire and self-perpetuating government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_HEADING_2">
+			<Text>The Origins of the Han Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_TEXT_2">
+			<Text>In 202 BCE, Emperor Gaozu, whose given name was Liu Bang, became the first Han emperor after defeating the last rebellion against him. He had already been king of Han since 206 BCE (the formal beginning of the Han dynasty). During the previous dynasty, the Qin, Liu Bang had been a minor official. The Qin dynasty (221-206 BCE) was very short and cruel; by the time it collapsed, Liu Bang had raised an army and claimed the vacant throne. He was not the only one in the quest for power, and one of his most important opponents was a general named Xiang Yu (also known as Xiang Ji). We are told that Xiang Yu captured Liu Bang’s father and sent a final warning to Liu Bang, assuring that his father would be boiled alive unless Liu Bang surrendered. Liu Bang’s answer suggests that he did not get along very well with his father: “Send me a cup of the soup”, he replied. In the end, Liu Bang’s father was not turned into soup, and Xiang Yu decided to end his own life by committing suicide in 202 BCE. Some accounts say he was defeated in battle, while others tells us he was never defeated in battle but was gradually undermined by the popular support for Liu Bang; Liu Bang was the first Chinese emperor who was originally a commoner.[NEWLINE][NEWLINE]Liu Bang established the imperial capital in the city of Chang’an, located 3 km northwest of modern Xi’an, which was chosen due to its strategic importance: it not only had a central position (all major roads converged in Chang’an), but it would also become the eastern end of the Silk Road. The city turned into the political, economic, military, and cultural centre of China and by 2 CE its population was nearly 250,000. In 195 BCE, upon Liu Bang’s death, his empress Lü Zhi (also known as Lü Hou) tried to confiscate the empire for her own family. Her methods show a firm determination: she murdered several of Liu Bang's sons born to concubines, mutilated his favourite mistress and had her thrown into a latrine. She also replaced with her own relatives many of the loyal generals and members of Liu Bang’s family who ruled the fiefdoms. The conflict lasted for 15 years, until finally the Liu Bang clan regained control of the empire: Emperor Wen, a surviving Liu Bang son, was finally enthroned re-establishing the broken lineage. The imperial wrath was ruthless: the Lius killed every single member of Lü Zhi’s clan they managed to find.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_HEADING_3">
+			<Text>Achievements During the Han Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_TEXT_3">
+			<Text>During Han times, pulleys and wheelbarrows were used to move goods. To pulverize ores and grains, they employed the water-powered trip-hammer and air was pumped into furnaces thanks to the aid of bellows.[NEWLINE][NEWLINE]It was a eunuch named Cai Lun who, around 105 CE, came up with an innovation that would be invaluable for learning. A screen was dipped into a vat of watery oatmeal-like pulp made of rice straw and inner tree bark. When the screen was raised, it had a layer of dripping slush on top, which was later pressed and dried. The end result was a sheet of paper. However, during Han times, paper was used largely to wrap fish rather than for written documents. Just a few written paper sheets survived to our days from Han times, mostly found in tombs. Tens of thousands of written documents have come down to our day, most of them on wooden tablets and slips of bamboo. Examples include mathematical problems, historical records, poetry, government records, a massive dictionary, and the oldest surviving large-scale census of all history, which reports 57,671,400 people in 2 CE. All these documents have been critical in our fairly good historical knowledge of the Han dynasty.[NEWLINE][NEWLINE]The largest Chinese historiographic work, known as the “Records of the Grand Historian”, was written during the Han Dynasty by Sima Qian, who is referred to as the father of Chinese historiography. This work is a vast general history of China which covers a period of over 2,000 years, from the mythical times of the Yellow Emperor (the founder of the first Chinese dynasty, the Xia) to his own time during the reign of Emperor Wu (also known as Wu Di) who reigned between 141 and 87 BCE.[NEWLINE][NEWLINE]The opening of the Silk Road was probably the major economic achievement of the Han Dynasty. Emperor Wu took the initiative to set out on diplomatic missions to various rulers in Central Asia. This led to the exploration of trade routes that linked Xi’an to the Levant coast on the Mediterranean and opened up new roads for merchants. This increased the trade and economic prosperity of the empire and also led to a constant cultural exchange between several cultures.[NEWLINE][NEWLINE]It was also during Wu Di's time that China incorporated the whole of modern China proper, northern Vietnam, Inner Mongolia, southern Manchuria, and most of Korea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_HEADING_4">
+			<Text>The Sack of Chan’gan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_TEXT_4">
+			<Text>Wang Man was a government official and a member of a powerful family who took control of the empire by usurping the throne and proclaiming the the beginning of a new dynasty called Xin, or “new”, in 9 CE. He took advantage of the fact that since the time Emperor Wu died in 87 BCE, the Han Dynasty had been immersed in various political and social conflicts. The gap between rich and poor was already a serious problem. Sima Qian reports about this period that exploiters “were busy accumulating wealth and forcing the poor into their hire”. The court was also affected by complicated political turmoil: endless accusations, executions, treason, and battles were weakening the government.[NEWLINE][NEWLINE]Wang Man wanted to re-establish the social order by changing the land owning structure: he decreed that those large estates which had been favoured in the past (and threatened imperial power), be dissolved and their lands distributed among peasants, an initiative firmly opposed by the aristocracy. The 14 years of unsuccessful attempts to amend the unfair landownership pattern, coupled with a terrible flooding of the Yellow River, set the stage for Wang Man’s end: a full-scale peasant rebellion was triggered. The angry mobs of hungry peasant insurgents had their own identity badge: red paint smeared on their foreheads. The rebels thus were known as the “Red Eyebrows”. Wang Man tried to restore order, but late in 23 CE the Red Eyebrows entered Chang’an, sacked it, and cut off Wang Man’s head. Liu Xiu, a ninth-generation descendant of Liu Bang, took back control of the empire thus re-establishing the Han lineage. Liu Xiu led his loyal officials to the city of Luoyang, where the imperial capital was relocated after the disaster of Chang’an.[NEWLINE][NEWLINE]The Han reign in Chang’an is usually referred to as Western Han or Former Han, while the period in Luoyang is normally called Eastern Han or Later Han.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_HEADING_5">
+			<Text>The Last Days of the Han Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_TEXT_5">
+			<Text>By the end of the 1st century CE, one Han emperor after another had died either young or without a chosen heir. When an emperor died without sons, a close relative, such as his cousin, was named emperor. In some cases the new ruler was a child or even an infant, in which case the real power was in the hands of a guardian from the family of the empress, since even infant rulers had to have an empress. This scenario led to all types of cunning schemes in the court.[NEWLINE][NEWLINE]A number of different natural calamities such as tremors, floods, and grasshopper plagues took place during these days and were seen as manifestations of the anger of heaven; prognosticators concluded that the end of the dynasty was close. The situation finally ran out of control. Eunuchs turned into an influential group in the bloody political court conflicts, gaining power and enriching themselves and there was a big protest of thousands of members of the Confucian academy against the corruption of the government. In 184 CE a very large peasant uprising known as the Yellow Turban Rebellion (sometimes referred to as the Yellow Scarves Rebellion) threatened the imperial capital.[NEWLINE][NEWLINE]A warlord named Dong Zhou seized control of the imperial capital in 190 CE and placed a child, Liu Xie, as the new ruler. Liu Xie was also a member of the Han family, but real power was in the hands of Dong Zhou. Dong Zhou killed all the eunuchs and burned Luoyang to the ground. Battle after battle weakened the imperial order until Liu Xie finally abdicated in 220 CE, the last year of the Han period. Wars between warlords and states continued and China would have to wait around 350 years to be unified again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_HEADING_6">
+			<Text>The Legacy of the Han Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAN_WU_TEXT_6">
+			<Text>The Han Dynasty has influenced the East just like Greece or Rome has influenced the West. The biggest Chinese historiographic work of antiquity was written during this period. Chinese calligraphy developed into an art. Confucianism was made the official state ideology during the time of Emperor Wu Di, who built an academy solely devoted to the works of Confucius. The philosopher had long been dead, but his disciples managed to preserve his teachings. Confucianism, favoured by the patronage of the state, gained a strength similar to Buddhism during the time of Emperor Ashoka or Christianity after Constantine. Thousands of Confucian academies were built, spreading Confucian ethics across China and most of East Asia and would dominate Chinese ethics during the centuries to come. Even today, the ethnic Chinese refer to themselves as Han rem (Han people). Although history tells us, then, that the Han Dynasty ended in 220 CE, from the examples cited above it is clear that the Han still lives on today in many different forms.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_1">
+			<Text>Chang'an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_2">
+			<Text>Fanyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_3">
+			<Text>Jinyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_4">
+			<Text>Longbian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_5">
+			<Text>Jiangling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_6">
+			<Text>Xindu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_7">
+			<Text>Guzang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_8">
+			<Text>Linzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_9">
+			<Text>Pengcheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_10">
+			<Text>Jianye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_11">
+			<Text>Linqiu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_12">
+			<Text>Chengdu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_13">
+			<Text>Zhuoxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_14">
+			<Text>Chenxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_15">
+			<Text>Xiangping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_16">
+			<Text>Jixian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_17">
+			<Text>Nanzheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_18">
+			<Text>Dianchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_19">
+			<Text>Panyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_20">
+			<Text>Luoyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_21">
+			<Text>Linxiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_22">
+			<Text>Dunhuang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_23">
+			<Text>Yunnan-fu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_24">
+			<Text>Ye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_25">
+			<Text>Fulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_26">
+			<Text>Wulei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_27">
+			<Text>Canghai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_28">
+			<Text>Daifang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_29">
+			<Text>Lelang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAN_WU_30">
+			<Text>Handan</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_0">
+			<Text>Liu Xin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_1">
+			<Text>Liu Ao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_2">
+			<Text>Liu Shi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_3">
+			<Text>Liu Bingyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_4">
+			<Text>Liu He</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_5">
+			<Text>Liu Fuling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_6">
+			<Text>Liu Qi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_7">
+			<Text>Liu Heng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_8">
+			<Text>Liu Xu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_9">
+			<Text>Liu Dan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_10">
+			<Text>Liu Hong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAN_WU_11">
+			<Text>Liu Bo</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU">
+			<Text>Wu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAN_WU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAN_WU_TEXT_1">
+			<Text>Liu Che was probably the 11th son of the Jingdi emperor, the fifth ruler of the Han dynasty. Not being the eldest son, he would normally not have ascended the throne, but relatives of the emperor secured his designation as heir apparent at age seven. From his relatives and his teachers, the future emperor absorbed influences from two basically antagonistic schools: the Daoists, inclined to the legalist philosophy favouring an autocratic ruler guided by the rules of expediency, and the Confucianists, who sought through rituals and other means to check the growing power of the Han monarchs.[NEWLINE][NEWLINE]The Wudi emperor began his reign in 141 bc. During its early years he was under the moderating influence of relatives and court officials; however, by the late 130s he had decided that the essentially defensive foreign policy of his predecessors was not going to solve his foreign problems. From 133 bc he launched attacks on the nomadic Xiongnu people, who constituted China’s principal threat on the northern frontier, and thereafter he committed his realm to the expansion of the empire. By 101 bc Wudi’s troops, spurred by an emperor heedless of their hardships and intolerant of defeat, had extended Chinese control in all directions.[NEWLINE][NEWLINE]Southern China and northern and central Vietnam were incorporated into the empire. Northern and central Korea, which had slipped from Chinese control in 128 bc, were reconquered and again administered by imperial governors. Imperial troops were also sent across the Gobi (Desert) in unsuccessful attempts to eliminate the threat from the Xiongnu.[NEWLINE][NEWLINE]Han armies were farthest from home when they marched west into the Fergana Valley region (now in Uzbekistan). The first expedition, in 104 bc, was a failure, but the emperor refused to accept defeat. His intransigence stemmed from pride and his desire for horses. The horses Wudi wanted from Fergana were not principally intended for his war machine (although the Han armies suffered a chronic shortage of horses); rather, they were “blood sweating” horses (infected by a parasite causing skin hemorrhages), which for the emperor had a mystical significance in that possession of them was considered a mark of Heaven’s grace. The second expedition returned in 101 bc with some of the famous horses and the head of the ruler of Fergana; furthermore, the small states between China and Fergana had been humbled. Wudi had brought to submission all but the most distant parts of the world known to the Chinese.[NEWLINE][NEWLINE]His wars and other undertakings exhausted the state’s reserves and forced him to look for other sources of income. New taxes were decreed and state monopolies on salt, iron, and wine were instituted. Yet, by the latter part of his reign, his regime was in financial difficulties and confronted by popular unrest. The emperor’s economic controls were paralleled by his rigid control of the state apparatus. He created institutions for close supervision of the bureaucracy and drew into his personal service men who were outside the normal bureaucratic ranks and who made the bureaucracy more responsive to his will. He usually selected men whose behaviour was much like his own: harsh, demanding, and merciless.[NEWLINE][NEWLINE]In spite of his aggressive policies, the Wudi emperor is also known for making Confucianism the state orthodoxy. Although he was unimpressed with the image of the ideal Confucian ruler as a benevolent father figure, he nevertheless appreciated the literary grace of the Confucianists and particularly the Confucian emphasis on ritual, which complemented his religious interests.[NEWLINE][NEWLINE]Most of the rituals performed by the Wudi emperor had a dual function; although of dynastic political and religious significance, they frequently manifested his ceaseless search for immortality. He richly rewarded men who he believed could introduce him to immortals who would reveal their secrets to him. He sent men in search of the islands of the immortals and constructed elaborate palaces and towers designed to attract the spirits to him. At great expense he had conquered much of the world, and he invested heavily in the ardent hope that he would not have to leave it.[NEWLINE][NEWLINE]The last four years of Wudi’s life were a time of retreat and regret. His empire could no longer afford an aggressive foreign policy, and he was forced to begin a period of retrenchment. The deeply suspicious emperor suffered intense personal loss when, in 91 bc, his heir apparent was falsely accused by an imperial confidant of practicing witchcraft against the emperor. In desperation, the son led an uprising in which thousands of people were killed and in which the heir committed suicide. Shortly before the emperor’s death, he designated an eight-year-old son as heir apparent; then, anticipating his own death, he had the youth’s mother accused of a crime and imprisoned. Reportedly she “died of grief,” but Wudi condoned her death, and perhaps caused it, to avoid having the young emperor dominated by relatives as he himself had been. He died in 87 bc.[NEWLINE][NEWLINE]The Wudi emperor is best remembered for his military conquests; hence, his posthumous title, Wudi, meaning “Martial Emperor.” His administrative reforms left an enduring mark on the Chinese state, and his exclusive recognition of Confucianism had a permanent effect on subsequent East Asian history.</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAN_WU_NAME">
+			<Text>Wu</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAN_WU_LIVED">
+			<Text>156 - 87 BC</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAN_WU_SUBTITLE">
+			<Text>Leader of Han</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAN_WU_TITLES_1">
+			<Text>Emperor of Han</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_HAN_WU_TEXT">
+			<Text>May the auspices of Heaven bring you power and wisdom, O' great Emperor Wu. Beginning your 54 year-long reign in 141 BC, you would rise to become one of China's greatest emperors. Rejecting the weaknesses of the Taoist Wu wei philosophy, you swiftly adopted a model of governance in which the emperor and state were paramount and absolute. Wisdom and virtue, not title and wealth, brought your rule glory, and you put it to the work of expanding China's territory like never before.[NEWLINE][NEWLINE]O' Emperor Wu, the glory of the Han Dynasty awaits a ruler that practices the Confucian ethics. Can you bring together an empire in service of the state? Can you spread Chinese power and influence beyond the horizon? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_FIRSTGREETING_1">
+			<Text>Kowtow in my presence. I am Emperor Wu of Han. You may leave your tribute at my feet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_DEFEATED_1">
+			<Text>Conspirators everywhere. You win only by betraying good ethics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_ATTACKED_HOSTILE_1">
+			<Text>Your foolishness will not save your head.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_DEC_FRIENDSHIP_1">
+			<Text>The world is barbarous and unforgiving. Let us forge a public Declaration of Friendship to show the world what it means to live an ethical life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_DENOUNCE_1">
+			<Text>You serve no code of ethics.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_DENOUNCE_FRIEND_1">
+			<Text>Your conduct has been shameful.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_DOW_GENERIC_1">
+			<Text>Heaven favours my victory. Surrender quickly, and perhaps I will spare you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Expand as you please. But be sure to build up those lands. I desire something worthwhile to conquer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_GREETING_HOSTILE_HELLO_1">
+			<Text>You are not welcome in my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_GREETING_NEUTRAL_HELLO_1">
+			<Text>Speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_GREETING_POLITE_HELLO_1">
+			<Text>Welcome to my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>There is only one that may use their military to intimidate others. And that one is me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_LUXURY_TRADE_1">
+			<Text>I have come to discuss a trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>If you do not agree, then I will make you do so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Your wealth brings you shame and dishonour. You cannot buy these lands to keep them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_REQUEST_1">
+			<Text>My people are not faring well. I have come to beg your assistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Foolish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_TOO_SOON_FOR_DOF_1">
+			<Text>You ask too much of my greatness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAN_WU_TOO_SOON_NO_PEACE_1">
+			<Text>Your foolishness is the only peace you deserve.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAN_WU_SHORT">
+			<Text>Jianyuan Reforms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAN_WU">
+			<Text>[ICON_PRODUCTION] Production, [ICON_GOLD] Gold, and [ICON_RESEARCH] Science Yields from Specialists working outside the Capital are added to the [ICON_CAPITAL] Capital instead. In other cities, these Yields are added as [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HAN_WU">
+			<Text>Dummy: Han (Han Wudi)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HAN_WU_HELP">
+			<Text></Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_PAPER_MAKER">
+			<Text>Taixue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PAPER_MAKER_HELP">
+			<Text>+1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PAPER_MAKER_STRATEGY">
+			<Text>The Taixue is Han's unique Library replacement. In addition to increasing a city's [ICON_RESEARCH] Science output, the Taixue has a slot for the unique Scholar-Bureaucrat Specialist. This Specialist increases a City's [ICON_GOLD] Gold, [ICON_PRODUCTION] Production, and [ICON_RESEARCH] Science output when worked, although it does not contribute any Great People Points. The Taixue also does not cost any Gold maintenance. Build Taixue early to take advantage of its yields for your Capital.</Text>
+		</Row>
+		<!--Specialists-->
+		<Row Tag="TXT_KEY_SPECIALIST_JFD_PAPER_MAKER">
+			<Text>Scholar-Bureaucrat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_JFD_PAPER_MAKER_STRATEGY">
+			<Text>Work Scholar-Bureaucrats to increase [ICON_GOLD] Gold, [ICON_PRODUCTION] Production, and [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_QIANG_SPEARMAN">
+			<Text>Qiang Spearman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_QIANG_SPEARMAN_HELP">
+			<Text>Powerful Classical Era Spearman replacement that expands cultural borders as it is trained, particularly in conquered cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_QIANG_SPEARMAN_STRATEGY">
+			<Text>The Qiang Spearman replaces the Spearman for Han. When trained, the Qiang Spearman contributes to the cultural border expansion of the city, based on Total [ICON_CULTURE] Culture Per Turn. The amount is doubled in conquered cities. Train Qiang Spearman in fresh conquests to quickly expand your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_QIANG_SPEARMAN_TEXT">
+			<Text>The qiang spear is often called the “King of Weapons” because of its ubiquitous role as one of the longest used and most reliable Chinese weapons. Its flexible wax wood shaft varied from 7 feet long (for infantry) to nearly 13 feet (for cavalry). The qiang spear was popularized during the Shang Dynasty (seventeenth century-eleventh century BCE) and was used up until the end of the Qing Dynasty (1616-1911 CE). In that time, it changed very little.</Text>
+		</Row>
+		<!--UNIQUE REPLACEMENT-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_PAVILION">
+			<Text>Pavilion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PAVILION_HELP">
+			<Text>+25% [ICON_GREAT_PEOPLE] Great People generation in this City. Whilst a Great Person of any kind is stationed in the City, an extra +1% [ICON_GREAT_PEOPLE] Great People generation is added each turn (up to a max. of +25%).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PAVILION_STRATEGY">
+			<Text>The unique Pavilion replaces the Garden for Wu Zetian's Tang. In addition to the standard boost to [ICON_GREAT_PEOPLE] Great People generation in the city, the Pavilion increases [ICON_GREAT_PEOPLE] Great People generation by a further 1% for each turn a [ICON_GREAT_PEOPLE] Great Person of any kind has been stationed in it, up to a maximum of +25%. This rate decays by 1% whilst there is no Great Person stationed in the city, however.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PAVILION_TEXT">
+			<Text>In architecture, a pavilion has several meanings. In architectural terminology it refers to a subsidiary building that is either positioned separately or as an attachment to a main building. Often its function makes it an object of pleasure. A Chinese pavilion is a garden pavilion in traditional Chinese architecture. While often found within temples, pavilions are not exclusively religious structures. Many Chinese parks and gardens feature pavilions to provide shade and a place to rest. </Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_PAVILION">
+			<Text>Dummy: Pavilion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_PAVILION_HELP">
+			<Text></Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_HAN_WU_DESCRIPTION">
+			<Text>HAN (WU)[NEWLINE][NEWLINE]UNIQUE TRAIT: JIANYUAN REFORMS[NEWLINE][ICON_PRODUCTION] Production, [ICON_GOLD] Gold, and [ICON_RESEARCH] Science Yields from Specialists working outside the Capital are added to the [ICON_CAPITAL] Capital instead. In other cities, these Yields are added as [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]UNIQUE BUILDING: TAIXUE (LIBRARY)[NEWLINE]The Taixue is Han's unique Library replacement. In addition to increasing a city's [ICON_RESEARCH] Science output, the Taixue has a slot for the unique Scholar-Bureaucrat Specialist. This Specialist increases a City's [ICON_GOLD] Gold, [ICON_PRODUCTION] Production, and [ICON_RESEARCH] Science output when worked, although it does not contribute any Great People Points. The Taixue also does not cost any Gold maintenance. Build Taixue early to take advantage of its yields for your Capital.[NEWLINE][NEWLINE]UNIQUE UNIT: QIANG SPEARMAN (SPEARMAN)[NEWLINE]The Qiang Spearman replaces the Spearman for Han. When trained, the Qiang Spearman contributes to the cultural border expansion of the city, based on Total [ICON_CULTURE] Culture Per Turn. The amount is doubled in conquered cities. Train Qiang Spearman in fresh conquests to quickly expand your territory.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

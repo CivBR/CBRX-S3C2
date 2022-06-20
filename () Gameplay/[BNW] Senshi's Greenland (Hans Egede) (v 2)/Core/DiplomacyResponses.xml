@@ -1,0 +1,25 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_EGEDE">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_EGEDE_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_EGEDE">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_EGEDE_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_EGEDE_FIRSTGREETING_1">
+			<Text>Well met. I am Hans Egede, and I have traveled to bring holy light to this land, the coldest reaches of God's earth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_EGEDE_DEFEATED_1">
+			<Text>Taming this land was a fruitless endeavour to begin with. You've gained nothing from this warfare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SENSHI_GREENLAND_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are travelling further and further into the snow to build churches and trading posts! I worry the rest of the world will succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0d7c7c35-3e64-40eb-a5e3-344a64bc86aa" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Anglo-Norse (Canute)</Name>
+    <Teaser>Adds [COLOR_CYAN]Anglo-Norse under Canute[ENDCOLOR]. Click for details.</Teaser>
+    <Description>------------------------------------[NEWLINE]CIVILIZATION: ANGLO-NORSE[NEWLINE]LEADER: CANUTE[NEWLINE][NEWLINE]TRAIT: NORTH SEA EMPIRE[NEWLINE]Conquered Capitals begin with no [ICON_RESISTANCE] Resistance and half [ICON_PRODUCTION] progress toward their Courthouse. Construct Buildings present in a conquered Capital 10% faster.[NEWLINE][NEWLINE]UNIQUE UNIT: DRAKKER (GALLEASS)[NEWLINE]A powerful Knight replacement that heals damage every turn, increasing with the number of major Civilizations you are at war with. Only Greater Armenia may train it.A Medieval Era Melee Unit that generates Great General Points when garrisoned in a conquered city and Great Admiral Points when garrisoned in a settled one. Courthouses create a Tinglid for free. Unique to the Anglo-Norse.[NEWLINE][NEWLINE]UNIQUE UNIT: TINGLID (PIKEMAN)[NEWLINE]A Medieval Ranged Naval Unit that supports land units in pillaging coastal cities. Land Combat Units beginning within two tiles of a Drakker receive the Viking Raider promotion, allowing them to earn [ICON_GOLD] Gold from assaulting cities and to do so more effectively. The Drakker also begins with this promotion. Only the Anglo-Norse can build it.</Description>
+    <Authors>JFD, Tarcisio, DarthStarKiller</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="68CAFB000490E10DA446B50A12F8E2E9" import="1">Art/Font Icons/FontIcons_CheckBox_22.dds</File>
+    <File md5="DFD94044A521926701E1F822B88A57AF" import="1">Art/Font Icons/FontIcons_CheckBox_22.ggxml</File>
+    <File md5="53F7558A4E62422918B4A555AE3C1656" import="1">Art/Font Icons/FontIcons_UncheckBox_22.dds</File>
+    <File md5="E8510719093B198D9628B4BE0D9DB708" import="1">Art/Font Icons/FontIcons_UncheckBox_22.ggxml</File>
+    <File md5="AB896FF1E1E57DE8B1BE768EB3963527" import="1">Art/Graphics/Drakker/Skeid.fxsxml</File>
+    <File md5="267C4482364C82D2322EA3377106D79A" import="1">Art/Graphics/Drakker/skeid.gr2</File>
+    <File md5="75D00507D873451F7076C2131BC1855E" import="1">Art/Graphics/Drakker/skeid_diff.dds</File>
+    <File md5="B96A44021DFF0F7BAF11CC18BACB3F97" import="1">Art/Graphics/Drakker/skeid_diff_DAM.dds</File>
+    <File md5="EDE53CB185FA950036E0BF3F13540035" import="1">Art/Graphics/Drakker/sv_Drakker.dds</File>
+    <File md5="1C59A6A87A1C9F145D66DB9BA0EE7610" import="1">Art/Graphics/Tinglid/Pikeman_Viking.dds</File>
+    <File md5="511F43A40B4E6FFA742859D8B011F68E" import="1">Art/Graphics/Tinglid/Pikeman_Viking.fxsxml</File>
+    <File md5="609D5FC8461D79C892C6CCAAB71EEFD8" import="1">Art/Graphics/Tinglid/Pikeman_Viking.gr2</File>
+    <File md5="E065ED40F6C53685E8EAE073E672AB68" import="1">Art/Graphics/Tinglid/Pikeman_Viking_gloss.dds</File>
+    <File md5="450DB5D4779A7387E146138FA59F0339" import="1">Art/Graphics/Tinglid/sv_Tinglid.dds</File>
+    <File md5="B49F42C49C0F7ACF33B5FF0B22E6BAE6" import="1">Art/Icon Atlases/JFD_AngloNorse_AchievementAtlas_128.dds</File>
+    <File md5="4862AB6E14D6E2B0EEB735010BB25F25" import="1">Art/Icon Atlases/JFD_AngloNorse_AchievementAtlas_256.dds</File>
+    <File md5="0E522111387AFE49F4072E9D1804359D" import="1">Art/Icon Atlases/JFD_AngloNorse_AchievementAtlas_45.dds</File>
+    <File md5="2CE382878F4D826A57765E698E7B916E" import="1">Art/Icon Atlases/JFD_AngloNorse_AchievementAtlas_64.dds</File>
+    <File md5="CBB259273D2ECC1A20F200443E1359DA" import="1">Art/Icon Atlases/JFD_AngloNorse_AchievementAtlas_80.dds</File>
+    <File md5="F80A36DCA77E0DA23C74843F3D5753C6" import="1">Art/Icon Atlases/JFD_AngloNorse_AlphaAtlas_128.dds</File>
+    <File md5="A721C2C7449C6A2357E21BC86BBD43E9" import="1">Art/Icon Atlases/JFD_AngloNorse_AlphaAtlas_16.dds</File>
+    <File md5="9B76CCCE551E0A753439E020A926D228" import="1">Art/Icon Atlases/JFD_AngloNorse_AlphaAtlas_24.dds</File>
+    <File md5="366F87CE8BB7ADB0BD2A1B09C4309A35" import="1">Art/Icon Atlases/JFD_AngloNorse_AlphaAtlas_32.dds</File>
+    <File md5="873ED6DE13791EA39CD6F77837469021" import="1">Art/Icon Atlases/JFD_AngloNorse_AlphaAtlas_45.dds</File>
+    <File md5="60DCF3E72F65BBA1108E75B743392205" import="1">Art/Icon Atlases/JFD_AngloNorse_AlphaAtlas_48.dds</File>
+    <File md5="F80162F81343CF550A9FE3B3987B18A9" import="1">Art/Icon Atlases/JFD_AngloNorse_AlphaAtlas_64.dds</File>
+    <File md5="9EC2118DC36161263ECD2F70C8453E9F" import="1">Art/Icon Atlases/JFD_AngloNorse_AlphaAtlas_80.dds</File>
+    <File md5="ABCF1275313E04ABC9911DD53FA95E69" import="1">Art/Icon Atlases/JFD_AngloNorse_IconAtlas_128.dds</File>
+    <File md5="E48B00CAC8F07B66F801EDE14B7B9041" import="1">Art/Icon Atlases/JFD_AngloNorse_IconAtlas_256.dds</File>
+    <File md5="03471BC84B9C58D19131EA2F41D27CBB" import="1">Art/Icon Atlases/JFD_AngloNorse_IconAtlas_32.dds</File>
+    <File md5="5E16A7E9E66CE2C7DE2255BCFBEAF787" import="1">Art/Icon Atlases/JFD_AngloNorse_IconAtlas_45.dds</File>
+    <File md5="C3EBE00C250290F6440ADD25BBCDC519" import="1">Art/Icon Atlases/JFD_AngloNorse_IconAtlas_64.dds</File>
+    <File md5="37A47123570ABAD15CA172A28CB6BB81" import="1">Art/Icon Atlases/JFD_AngloNorse_IconAtlas_80.dds</File>
+    <File md5="1B407DD45F4DA912C1D23804EB681C79" import="1">Art/Icon Atlases/JFD_AngloNorse_UnitFlagAtlas_32.dds</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="1">Art/Icon Atlases/Tomatekh_PromotionAtlas_256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="1">Art/Icon Atlases/Tomatekh_PromotionAtlas_32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="1">Art/Icon Atlases/Tomatekh_PromotionAtlas_45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/Icon Atlases/Tomatekh_PromotionAtlas_64.dds</File>
+    <File md5="1B8A322BAA6559EBEB15C7E83ECB0D82" import="1">Art/Leaderscene/JFD_Canute_Diplo.dds</File>
+    <File md5="FFE7C6E5AC38823BCC30A3B550E8CA70" import="1">Art/Leaderscene/JFD_Canute_Scene.xml</File>
+    <File md5="85553E1929DDA37FBC5BB945A00EB4F5" import="1">Art/Map/JFD_DOM_AngloNorse.dds</File>
+    <File md5="B46B60983FC08CA3C25767073B091701" import="1">Art/Map/JFD_MapAngloNorse512.dds</File>
+    <File md5="1295A46A652B6F6517B2D4E431C55BD9" import="1">Audio/Themes/JFD_Canute_Peace.mp3</File>
+    <File md5="5E5887EAA9EE43BEDE0FCEE5EE22C93E" import="1">Audio/Themes/JFD_Canute_War.mp3</File>
+    <File md5="3ECDABEC263CF6648A0633BDAE4F2BA3" import="0">Core/AngloNorse_ArtDefines.sql</File>
+    <File md5="169B7848ED4A425477D23FB5D135DA15" import="0">Core/AngloNorse_GameDefines.sql</File>
+    <File md5="9B63C5B98D661E0E37549ABE9EE76F1B" import="0">Core/AngloNorse_GameText.xml</File>
+    <File md5="B35D99654D42833ACD857B101C28F0DA" import="0">Core/AngloNorse_ModSupport.sql</File>
+    <File md5="A95EABD152E65E4BB3ECDC46ACE94DA7" import="0">Credits.txt</File>
+    <File md5="D266ED91D7F19B64C5628279E571001A" import="1">Lua/JFD_Civs_AngloNorse_Decisions.lua</File>
+    <File md5="BE3C89476BFE02122F0B6C6FDD313F5A" import="0">Lua/JFD_Civs_AngloNorse_Functions.lua</File>
+    <File md5="5B204276619D2B35C98002E79B442FBB" import="1">Lua/Utilities/AdditionalAchievementsUtility.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.lua</File>
+    <File md5="4E7C5E4894BC0A0E0CBA1743787E1015" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.xml</File>
+    <File md5="FC10DD03D27846AC256B421C848A8C07" import="0">Lua/Utilities/Sukritact MCIS/JFD_Civs_AngloNorse_Tinglid_CityInfo.lua</File>
+    <File md5="FA8CCB9E1C9C1A62BA8851B051C728E5" import="0">Lua/Utilities/Sukritact MCIS/JFD_Civs_AngloNorse_Tinglid_CityInfo.xml</File>
+    <File md5="40EB2B7CF6AB6F348C55086A4DEF41DB" import="0">RandomSupport.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/AngloNorse_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AngloNorse_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AngloNorse_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/AngloNorse_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_AngloNorse_Functions.lua">
+      <Name>JFD_Civs_AngloNorse_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/CityInfoStack.lua">
+      <Name>CityInfoStack.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/JFD_Civs_AngloNorse_Tinglid_CityInfo.lua">
+      <Name>JFD_Civs_AngloNorse_Tinglid_CityInfo.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

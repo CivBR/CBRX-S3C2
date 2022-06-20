@@ -1,0 +1,549 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_01">
+			<Text>Kyzyl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_02">
+			<Text>Ak-Dovurak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_03">
+			<Text>Shagonar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_04">
+			<Text>Chadan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_05">
+			<Text>Turan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_06">
+			<Text>Kaa-Khem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_07">
+			<Text>Kyzyl-Mazhalyk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_08">
+			<Text>Bay-Khaak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_09">
+			<Text>Saryg-Sep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_10">
+			<Text>Teeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_11">
+			<Text>Sug-Aksy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_12">
+			<Text>Samagaltay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_13">
+			<Text>Erzin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_14">
+			<Text>Khovu-Aksy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_15">
+			<Text>Khandagayty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_16">
+			<Text>Chaa-Khol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_17">
+			<Text>Toora-Khem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_18">
+			<Text>Mugur-Aksy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_19">
+			<Text>Kungurtug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_20">
+			<Text>Ölgii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_21">
+			<Text>Mörön</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_22">
+			<Text>Ulaankhus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_23">
+			<Text>Tsengel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_24">
+			<Text>Delüün</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_25">
+			<Text>Nogoonnur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_26">
+			<Text>Tarialan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_27">
+			<Text>Bulgan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_28">
+			<Text>Tsagaan-Uul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_29">
+			<Text>Jargalant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_30">
+			<Text>Galt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_31">
+			<Text>Sagsai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THP_SEN_TUVA_32">
+			<Text>Bayannuur</Text>
+		</Row>
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_0">
+			<Text>Khertek</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_1">
+			<Text>Salchak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_2">
+			<Text>Sherig-ool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_3">
+			<Text>Kaadyr-ool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_4">
+			<Text>Saryg-Donggak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_5">
+			<Text>Irgit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_6">
+			<Text>Mongush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_7">
+			<Text>Shagdyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_8">
+			<Text>Kongar-ol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THP_SEN_TUVA_9">
+			<Text>Chechenol</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_THP_SEN_TUVA_ADJECTIVE">
+			<Text>Tuvan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THP_SEN_TUVA_DESC">
+			<Text>Tannu Tuva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THP_SEN_TUVA_SHORT_DESC">
+			<Text>Tuva</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_THP_SEN_DONDUK_TEXT">
+			<Text>Salutations, Donduk Kuular, defender of the revolution and the Tuvan people! Although the region of Tuva had a troubled history, with the Chinese and Russians both seeking to subsume you into their empires, you knew you would have to fight to defend the ancient and robust Tuvan culture. Originally a monk, you seized the opportunity in 1921 to declare a People's Republic of Tannu Tuva, independent from all of its rivals; however, your monastic background led you to maintain a long-running closeness with the lamas. These convictions would ultimately be your undoing. Angered by your defiance of his party line, Stalin arranged for a coup against Tannu Tuva, which saw you ousted from power and ultimately executed; however, you persist as a symbol of Tuvan autonomy.[NEWLINE][NEWLINE]O Chairman, the time has come for the Tuvans to seize their freedoms once again. Can you lead your people in a triumphant song, one that will resonate throughout all of Asia? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_THP_SEN_TUVA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THP_SEN_TUVA_TEXT_1">
+			<Text>
+				The Tuvans or Tuvinians are a Turkic ethnic group native to Tuva. They speak Tuvan, a Siberian Turkic language. They are also regarded in Mongolia as one of the Uriankhai peoples.
+				Tuvans have historically been cattle-herding nomads, tending to herds of goats, sheep, camels, reindeer, cattle and yaks for the past thousands of years. They have traditionally lived in yurts covered by felt or chums covered with birch bark or hide that they relocate seasonally as they move to newer pastures. Traditionally, the Tuvans were divided into nine regions called khoshuun, namely the Tozhu, Salchak, Oyunnar, Khemchik, Khaasuut, Shalyk, Nibazy, Daavan and Choodu, and Beezi. The first four were ruled by Uriankhai Mongol princes, while the rest were administered by Borjigin Mongol princes.
+			</Text>
+		</Row>
+		
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THP_SEN_DONDUK_LIVED">
+			<Text>1888 - 1932</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THP_SEN_DONDUK_NAME">
+			<Text>Donduk Kuular</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THP_SEN_DONDUK_SUBTITLE">
+			<Text>Chairman of Tannu Tuva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THP_SEN_DONDUK">
+			<Text>Donduk Kuular</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THP_SEN_DONDUK_TITLES_1">
+			<Text>Chairman of the Council of Ministers</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THP_SEN_DONDUK_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THP_SEN_DONDUK_TEXT_1">
+			<Text>
+				Born in Tannu Uriankhai, a Qing Dynasty vassal state, that become nominally independent at the fall of Qing dynasty due to 1911 revolution in China, Donduk was originally a Lamaist monk. As leader of a group of Russian-supported Bolsheviks, he proclaimed the independence of the People's Republic of Tannu Tuva from Russian Empire in 1921. He subsequently switched his affiliation to the Tuvan People's Revolutionary Party.
+				Aware of his young nation's vulnerability, Donduk sought to establish ties with the Mongolian People's Republic. His monastic background and theocratic inclinations gave him a close relationship with the country's lamas, whose interests he sought to advance in spite of Joseph Stalin's growing irritation. In 1926 he established Buddhism as the state religion of Tannu Tuva, which in November was renamed the Tuvan People's Republic.
+				Stalin found Donduk's separatist and theocratic tendencies obnoxious, and counter to communist principles of atheism and internationalism. In 1929 he was removed from power and arrested. Meanwhile, five Tuvan graduates of the Communist University of the Toilers of the East were appointed commissars extraordinary to Tuva. Their loyalty to Stalin ensured that they would pursue policies, such as collectivization, that Donduk had ignored. A coup was launched in 1929. One of these commissars, Salchak Toka, replaced Donduk as General Secretary of the Tuvan People’s Revolutionary Party. In the same year, Donduk was executed.
+			</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_THP_SEN_TUVA_SHORT">
+			<Text>Peaks of Uriankhai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_THP_SEN_TUVA">
+			<Text>Great Works exert Religious Pressure when stored in cities following your Religion. Mountains provide slots for a Great Work of Music to cities within two tiles.</Text>
+		</Row>
+
+		<!--Unique Units-->		
+		<Row Tag="TXT_KEY_UNIT_THP_SEN_THROAT_SINGER">
+			<Text>Throat Singer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_THP_SEN_THROAT_SINGER_STRATEGY">
+			<Text>Unique Tuvan replacement for the Great Musician. Has additional sight and movement compared to the base Great Musician, and may freely enter the territory of rival civilizations which share your religion. When expended, Removes Heresy in your nearby cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_THP_SEN_THROAT_SINGER_HELP">
+			<Text>Unique Tuvan replacement for the Great Musician. Has additional sight and movement compared to the base Great Musician, and may freely enter the territory of rival civilizations which share your religion. When expended, Removes Heresy in your nearby cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_THP_SEN_THROAT_SINGER_TEXT">
+			<Text>
+				Tuvan throat singing, Khoomei, Hooliin Chor (in Mongolian, ‘throat harmony’), or Mongolian throat singing is one particular variant of overtone singing practiced by people in Mongolia, Inner Mongolia, Tuva and Siberia. In 2009, it was inscribed on the Representative List of the Intangible Cultural Heritage of Humanity of UNESCO, under the name Mongolian art of singing, Khoomei.
+				In Tuvan throat singing, the performer produces a fundamental pitch and—simultaneously—one or more pitches over that. The history of Tuvan throat singing reaches far back. Many male herders can throat sing, but women are beginning to practice the technique as well. The popularity of throat singing among Mongolians seems to have arisen as a result of geographic location and culture. The open landscape of Mongolia allows for the sounds to carry a great distance. Ethnomusicologists studying throat singing in these areas mark khoomei as an integral part in the ancient pastoral animism that is still practiced today. Often, singers travel far into the countryside looking for the right river, or go up to the steppes of the mountainside to create the proper environment for throat-singing.
+				The animistic world view of this region identifies the spirituality of objects in nature, not just in their shape or location, but in their sound as well. Thus, human mimicry of nature's sounds is seen as the root of throat singing. An example of this is the Mongolian story of the waterfall above the Buyant Göl (Deer River in Tuvan), where mysterious harmonic sounds are said to have attracted deer to bask in the waters, and where it is said harmonic sounds were first revealed to people. Indeed, the cultures in this part of Asia have developed many instruments and techniques to mimic the sounds of animals, wind, and water. While the cultures of this region share throat singing, their styles vary in breadth of development.
+			</Text>
+		</Row>
+
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_01">
+			<Text>Kaigal-Ool Khovalyg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_01_DESC">
+			<Text>Kaigal-Ool Khovalyg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_01">
+			<Text>Song of the Caravan Drivers</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_02">
+			<Text>Anatoli Kuular</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_02_DESC">
+			<Text>Anatoli Kuular</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_02">
+			<Text>Herder's Conversation</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_03">
+			<Text>Kongar-Ool Ondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_03_DESC">
+			<Text>Kongar-Ool Ondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_03">
+			<Text>The Legend of Ondar the Groovin' Tuvan</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_04">
+			<Text>Okna Tsahan Zam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_04_DESC">
+			<Text>Okna Tsahan Zam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_04">
+			<Text>Edjin Duun</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_05">
+			<Text>Igor Koshkendey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_05_DESC">
+			<Text>Igor Koshkendey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_05">
+			<Text>The Wolf and the Kid</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_06">
+			<Text>Mongun-Ool Ondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_06_DESC">
+			<Text>Mongun-Ool Ondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_06">
+			<Text>White-Haired Mother</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_07">
+			<Text>Ejeegiin Toivgoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_07_DESC">
+			<Text>Ejeegiin Toivgoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_07">
+			<Text>Generous And Sacred Altai</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_08">
+			<Text>Albert Kuvezin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_08_DESC">
+			<Text>Albert Kuvezin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_08">
+			<Text>Kargyram</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_09">
+			<Text>Saidash Mongush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_09_DESC">
+			<Text>Saidash Mongush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_09">
+			<Text>Crane's Dance</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_10">
+			<Text>Ayan-Ool Sam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_10_DESC">
+			<Text>Ayan-Ool Sam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_10">
+			<Text>Karachal</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_11">
+			<Text>Enkhjargal Dandarvaanchig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_11_DESC">
+			<Text>Enkhjargal Dandarvaanchig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_11">
+			<Text>Celestial Ride</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_12">
+			<Text>Sainkho Namtchylak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_12_DESC">
+			<Text>Sainkho Namtchylak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_12">
+			<Text>Who Stole the Sky</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_13">
+			<Text>Shonchalai-Oorjak Choodu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_13_DESC">
+			<Text>Shonchalai-Oorjak Choodu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_13">
+			<Text>Tarlashkyn</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_14">
+			<Text>Türgen Kam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_14_DESC">
+			<Text>Türgen Kam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_14">
+			<Text>Shaman's Arrow</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_15">
+			<Text>Bady-Dorzhu Ondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_15_DESC">
+			<Text>Bady-Dorzhu Ondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_15">
+			<Text>Don't Let Me Freeze</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_16">
+			<Text>Ayan Shirizhik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_16_DESC">
+			<Text>Ayan Shirizhik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_16">
+			<Text>My Throat, The Cuckoo</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_17">
+			<Text>Palamjavyn Lkhamjav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_17_DESC">
+			<Text>Palamjavyn Lkhamjav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_17">
+			<Text>An Oirat Call</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_18">
+			<Text>Sambuugiin Pürevjav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_18_DESC">
+			<Text>Sambuugiin Pürevjav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_18">
+			<Text>Praising Chingis Khaan</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_19">
+			<Text>Childeegiin Palamjav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_19_DESC">
+			<Text>Childeegiin Palamjav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_19">
+			<Text>Praising The Altai</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_20">
+			<Text>Aldar Tamdyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_20_DESC">
+			<Text>Aldar Tamdyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_20">
+			<Text>Aryskan's Wind</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_21">
+			<Text>Aidysmaa Koshkendey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_21_DESC">
+			<Text>Aidysmaa Koshkendey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_21">
+			<Text>Black Crane</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_22">
+			<Text>Vladimir Oidupaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_22_DESC">
+			<Text>Vladimir Oidupaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_22">
+			<Text>It Is Windy In Ovur</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_23">
+			<Text>Sayan Bapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_23_DESC">
+			<Text>Sayan Bapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_23">
+			<Text>Fantasy on the Igil</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_24">
+			<Text>Radik Tülüsh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_24_DESC">
+			<Text>Radik Tülüsh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_24">
+			<Text>Osku Urug</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_25">
+			<Text>Alexei Saryglar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_25_DESC">
+			<Text>Alexei Saryglar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_25">
+			<Text>The Orphan's Lament</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_26">
+			<Text>Ai-Xaan Oorzhak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_26_DESC">
+			<Text>Ai-Xaan Oorzhak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_26">
+			<Text>Ene-Sai</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_27">
+			<Text>Kang-Xuler Saaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_27_DESC">
+			<Text>Kang-Xuler Saaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_27">
+			<Text>Homuzum</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_28">
+			<Text>Nikolai Damba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_28_DESC">
+			<Text>Nikolai Damba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_28">
+			<Text>Igilimni</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_29">
+			<Text>Mai-Ool Sedip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_29_DESC">
+			<Text>Mai-Ool Sedip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_29">
+			<Text>Ondar Girls</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THP_SEN_THROAT_SINGER_UNIQUE_NAME_30">
+			<Text>Nachyn Choodu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THP_SEN_THROAT_SINGER_GREAT_WORK_30_DESC">
+			<Text>Nachyn Choodu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THP_SEN_THROAT_SINGER_GREAT_WORK_30">
+			<Text>The Reindeer Herder's Song</Text>
+		</Row>
+
+		<!--Unique Improvement-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_THP_SEN_GER_KHARUUL">
+			<Text>Ger Kharuul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_THP_SEN_GER_KHARUUL_HELP">
+			<Text>Available at Trapping, the Ger Kharuul may be constructed on any terrain and provides +1 Production. It additionally provides +1 Faith and +25% Defensive Strength to stationed Units, doubled after adopting a Religion. Provides a burst of Great Musician points when a nearby city is converted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_THP_SEN_GER_KHARUUL_PEDIA">
+			<Text>The Evenki word for the Shaman’s tent (Shevenchedek) is glossed as the locale where the activity of spirits and totems take place, signaling that the shaman’s tent was not an inert shelter, but a place of spiritual encounter. Whether this encounter took place in an everyday dwelling or in a shevenchedek, a larch post was planted in the center of the structure and symbolized the world tree. The shaman would clamber up the world tree to journey to the upper worlds. His spirit-helpers rested in its branches. As the shaman meditated and fasted, his kinsmen built complex enclosures and totemic posts surrounding the tent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_THP_SEN_GER_KHARUUL">
+			<Text>Construct a [LINK=IMPROVEMENT_THP_SEN_GER_KHARUUL]Ger Kharuul[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_THP_SEN_GER_KHARUUL_HELP">
+			<Text>Available at Trapping, the Ger Kharuul may be constructed on any terrain and provides +1 Production. It additionally provides +1 Faith and +25% Defensive Strength to stationed Units, doubled after adopting a Religion. Provides a burst of Great Musician points when a nearby city is converted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_THP_SEN_GER_KHARUUL_REC">
+			<Text>Available at Trapping, the Ger Kharuul may be constructed on any terrain and provides +1 Production. It additionally provides +1 Faith and +25% Defensive Strength to stationed Units, doubled after adopting a Religion. Provides a burst of Great Musician points when a nearby city is converted.</Text>
+		</Row>
+			
+		<!--City-States-->
+		<Replace Tag="TXT_KEY_CITYSTATE_KYZYL">
+			<Text>Ürümqi</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITYSTATE_KYZYL_ADJ">
+			<Text>Ürümqian</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_KYZYL_TITLE">
+			<Text>Ürümqi</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_KYZYL_TEXT">
+			<Text>Ürümqi is an administrative and commercial center at the junction of several historical caravan routes from Central Asia, Lanzhou (Gansu prov.), and Kashi (Kashgar), and it remains a market and transshipment center for China's trade with Central Asia and Russia. It is linked to the Chinese rail network via Lanzhou. The main industrial center of Xinjiang, Ürümqi has benefited from the discovery of large petroleum deposits at Karamay. It has oil refineries, iron- and steelworks, textile mills, and plants manufacturing motor vehicles, agricultural machinery, chemicals, machine tools, and cement. Coal, tin, and silver mines are nearby. The population is mostly Uigur with minorities of Manchus, Chinese, and Kazakhs. Chinese influence began about 122 BC when Emperor Wu Ti of the Han dynasty conquered E Xinjiang.</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>
