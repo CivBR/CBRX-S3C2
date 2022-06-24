@@ -17,7 +17,7 @@ local g_MathCeil		= math.ceil
 local g_MathFloor		= math.floor
 local g_MathMax			= math.max
 local g_MathMin			= math.min
-				
+
 local Players 			= Players
 local HexToWorld 		= HexToWorld
 local ToHexFromGrid 	= ToHexFromGrid
@@ -45,7 +45,7 @@ local g_IsCPActive = Game_IsCPActive()
 ----------------------------------------------------------------------------------------------------------------------------
 --HasTrait
 function HasTrait(player, traitID)
-	if g_IsCPActive then 
+	if g_IsCPActive then
 		return player:HasTrait(traitID)
 	else
 		local leaderType = GameInfo.Leaders[player:GetLeaderType()].Type
@@ -65,7 +65,7 @@ function Player_SendWorldEvent(player, description, includeHuman)
 	if (not includeHuman) and player:IsHuman() then return end
 	if (not playerTeam:IsHasMet(activeTeamID)) then return end
 	activePlayer:AddNotification(notificationWorldEventID, description, "[COLOR_POSITIVE_TEXT]World Events[ENDCOLOR]", -1, -1)
-end 
+end
 -------------------------------------------------------------------------------------------------------------------------
 --Player_SendNotification
 function Player_SendNotification(player, notificationType, description, descriptionShort, global, data1, data2, unitID, data3, metOnly, includesSerialMessage)
@@ -87,11 +87,11 @@ function Player_SendNotification(player, notificationType, description, descript
 			if (includesSerialMessage and description) then Events.GameplayAlertMessage(description) end
 		end
 	end
-end   
+end
 -------------------------------------------------------------------------------------------------------------------------
 --g_JFD_GlobalUserSettings_Table
 local g_JFD_GlobalUserSettings_Table = {}
-for row in DB.Query("SELECT Type, Value FROM JFD_GlobalUserSettings;") do 	
+for row in DB.Query("SELECT Type, Value FROM JFD_GlobalUserSettings;") do
 	g_JFD_GlobalUserSettings_Table[row.Type] = row.Value
 end
 
@@ -133,7 +133,7 @@ local function JFD_VladimirSuzdal_PlayerDoTurn(playerID)
 	if (not player:IsAlive()) then return end
 	if player:IsMinorCiv() then return end
 	if player:IsBarbarian() then return end
-	
+
 	--TALE OF IGOR'S CAMPAIGN
 	if HasTrait(player, traitVladimirSuzdalID) then
 		for unit in player:Units() do
@@ -148,7 +148,7 @@ local unitMissionaryID = GameInfoTypes["UNIT_MISSIONARY"]
 function JFD_VladimirSuzdal_GreatPersonExpended(playerID, unitID, unitType, plotX, plotY)
 	local player = Players[playerID]
 	if unitType ~= unitGreatWriterID then return end
-	
+
 	--WHITE CATHEDRAL
 	local plot = g_MapGetPlot(plotX, plotY)
 	local city = plot:GetPlotCity()
@@ -162,10 +162,10 @@ function JFD_VladimirSuzdal_GreatPersonExpended(playerID, unitID, unitType, plot
 		end
 	end
 	if (not city:IsHasBuilding(buildingWhiteCathedralID)) then return end
-	
+
 	local religionID = city:GetReligiousMajority()
 	if religionID > 0 then
-		player:InitUnit(unitMissionaryID, city:GetX(), city:GetY()) 
+		player:InitUnit(unitMissionaryID, city:GetX(), city:GetY())
 	end
 end
 if g_IsCPActive then
@@ -193,6 +193,23 @@ end
 -- end
 -- GameEvents.MakePeace.Add(totalWar)
 
+local domainLand = GameInfoTypes["DOMAIN_LAND"]
+local promoEmbark = GameInfoTypes["PROMOTION_EMBARKATION"]
+local techSailing = GameInfoTypes["TECH_SAILING"]
+
+function EmbarkationForEveryone(teamID, techID, bValue)
+  if bValue and (techID == techSailing) then
+	local playerID = Teams[teamID]:GetLeaderID()
+	local pPlayer = Players[playerID]
+	for pUnit in pPlayer:Units() do
+	  if pUnit:GetDomainType() == domainLand then
+		pUnit:SetHasPromotion(promoEmbark, true)
+	  end
+	end
+  end
+end
+GameEvents.TeamSetHasTech.Add(EmbarkationForEveryone)
+
 --------------------------------------------------------------------------------------------------------------------------
 --JFD_VladimirSuzdal_UnitPrekill
 local buildingWritersGuildID = GameInfoTypes["BUILDING_WRITERS_GUILD"]
@@ -200,7 +217,7 @@ local specialistWriterID = GameInfoTypes["SPECIALIST_WRITER"]
 function JFD_VladimirSuzdal_UnitPrekill(unitOwnerID, unitID, unitType, plotX, plotY, isDelay, playerID)
 	local player = Players[playerID]
 	if isDelay then return end
-	
+
 	--WHITE CATHEDRAL
 	if playerID == -1 and (not g_IsCPActive) and HasTrait(Players[unitOwnerID], traitVladimirSuzdalID) then
 		JFD_VladimirSuzdal_GreatPersonExpended(unitOwnerID, unitID, unitType, plotX, plotY)
@@ -208,7 +225,7 @@ function JFD_VladimirSuzdal_UnitPrekill(unitOwnerID, unitID, unitType, plotX, pl
 
 	if (not player) then return end
 	if (not player:IsAlive()) then return end
-	
+
 	--TALE OF IGOR'S CAMPAIGN
 	if unitOwnerID ~= playerID and HasTrait(player, traitVladimirSuzdalID) then
 		local plot = Map.GetPlot(plotX, plotY)
@@ -245,7 +262,7 @@ local function JFD_VladimirSuzdal_SerialEventUnitCreated(playerID, unitID)
 	if (not unit) then return end
 	if unit:GetUnitType() ~= unitGreatWriterID then return end
 	if unit:IsHasPromotion(promotionVladimirSuzdalWriterID) then return end
-			
+
 	--TALE OF IGOR'S CAMPAIGN
 	if HasTrait(player, traitVladimirSuzdalID) then
 		for unit in player:Units() do
@@ -255,7 +272,7 @@ local function JFD_VladimirSuzdal_SerialEventUnitCreated(playerID, unitID)
 			end
 		end
 		unit:SetHasPromotion(promotionVladimirSuzdalWriterID, true)
-	end	
+	end
 end
 if (not g_IsCPActive) then
 	Events.SerialEventUnitCreated.Add(JFD_VladimirSuzdal_SerialEventUnitCreated)
@@ -267,7 +284,7 @@ local function JFD_VladimirSuzdal_UnitCreated(playerID, unitID, unitType, plotX,
 	local unit = player:GetUnitByID(unitID)
 	if (not unit) then return end
 	if unit:GetUnitType() ~= unitGreatWriterID then return end
-			
+
 	--TALE OF IGOR'S CAMPAIGN
 	if HasTrait(player, traitVladimirSuzdalID) then
 		for unit in player:Units() do
@@ -276,7 +293,7 @@ local function JFD_VladimirSuzdal_UnitCreated(playerID, unitID, unitType, plotX,
 				unit:ChangeMoves(120)
 			end
 		end
-	end	
+	end
 end
 if g_IsCPActive then
 	GameEvents.UnitCreated.Add(JFD_VladimirSuzdal_UnitCreated)
