@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_1">
+			<Text>Gaborone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_2">
+			<Text>Francistown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_3">
+			<Text>Molepolole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_4">
+			<Text>Serowe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_5">
+			<Text>Selibe Phikwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_6">
+			<Text>Maun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_7">
+			<Text>Kanye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_8">
+			<Text>Mahalapye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_9">
+			<Text>Mogoditshane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_10">
+			<Text>Mochudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_11">
+			<Text>Lobatse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_12">
+			<Text>Palapye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_13">
+			<Text>Ramotswa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_14">
+			<Text>Moshupa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_15">
+			<Text>Tlokweng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_16">
+			<Text>Bobonong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_17">
+			<Text>Thamaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_18">
+			<Text>Letlhakane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_19">
+			<Text>Tonota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_20">
+			<Text>Mmadinare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_21">
+			<Text>Jwaneng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_22">
+			<Text>Tutume</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_23">
+			<Text>Gabane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_24">
+			<Text>Shoshong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_25">
+			<Text>Ghanzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_26">
+			<Text>Letlhakeng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_27">
+			<Text>Orapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_28">
+			<Text>Kopong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_29">
+			<Text>Mmopane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_30">
+			<Text>Kasane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_31">
+			<Text>Shakawe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_32">
+			<Text>Lentsweletau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_33">
+			<Text>Molapowabojang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_34">
+			<Text>Gumare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_35">
+			<Text>Tshabong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_36">
+			<Text>Lerala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_37">
+			<Text>Mmathethe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_38">
+			<Text>Gweta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_39">
+			<Text>Mathangwane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_BOTSWANA_40">
+			<Text>Oodi</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_9">
+			<Text>Peter Fana Magosi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_8">
+			<Text>Isaac Kgosi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_7">
+			<Text>Ian Khama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_6">
+			<Text>Gaolathe Galebotswe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_5">
+			<Text>Ruth Williams Khama</Text>
+			<Gender>Female</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_4">
+			<Text>Queet Masire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_3">
+			<Text>Unity Dow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_2">
+			<Text>Festus Mogae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_1">
+			<Text>Mpule Kwelagobe</Text>
+			<Gender>Female</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_BOTSWANA_0">
+			<Text>Elizabeth Mataka</Text>
+			<Gender>Female</Gender>
+		</Row>
+		<!-- Botswana -->
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_BOTSWANA">
+			<Text>Botswanan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_BOTSWANA_SHORT">
+			<Text>Botswana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_BOTSWANA_ADJECTIVE">
+			<Text>Botswanan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_BOTSWANA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_BOTSWANA_TEXT_1">
+			<Text>Botswana, country in the centre of Southern Africa. The territory is roughly triangular—approximately 600 miles (965 km) from north to south and 600 miles from east to west—with its eastern side protruding into a sharp point. Its eastern and southern borders are marked by river courses and an old wagon road; its western borders are lines of longitude and latitude through the Kalahari, and its northern borders combine straight lines with a river course. Within the confines of Botswana’s borders is a rich variety of wildlife, including many species of mammals, birds, reptiles, amphibians, and fish.[NEWLINE][NEWLINE]Before its independence in 1966, Botswana was a British protectorate known as Bechuanaland. It was also one of the poorest and least-developed states in the world. The country is named after its dominant ethnic group, the Tswana (“Bechuana” in older variant orthography). Since its independence the Republic of Botswana has gained international stature as a peaceful and increasingly prosperous democratic state. It is a member of the United Nations, the Commonwealth, the African Union (AU), and the Southern African Development Community (SADC). The secretariat of SADC is housed in the capital of Botswana, Gaborone (until 1969 spelled Gaberones—i.e., Gaborone’s town, after the tribal chief who had his capital at the site during the colonial period).</Text>
+		</Row>
+		<!-- Seretse Khama -->
+		<Row Tag="TXT_KEY_LEADER_DMS_SERETSE_KHAMA">
+			<Text>Seretse Khama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SERETSE_KHAMA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SERETSE_KHAMA_TEXT_1">
+			<Text>Seretse Khama was the grandson of Khama III the Good, who had allied his kingdom in Bechuanaland with British colonizers in the late 19th century. Seretse Khama succeeded his father to the chieftainship of the Ngwato (Mangwato, or Bamangwato) people at age four. He was educated in South Africa and studied law at the University of Oxford. His marriage to Ruth Williams, a British woman, in 1948 caused considerable controversy in both Britain and Bechuanaland and was among the reasons the British government forced his exile from Bechuanaland until he agreed to renounce the chieftainship in 1956.[NEWLINE][NEWLINE]Following his return to Bechuanaland as a private citizen, he founded the Democratic Party in 1962, and in 1965 he became prime minister. He helped negotiate the terms of Botswana’s independence, and he was knighted in 1966.[NEWLINE][NEWLINE]As president of Botswana, Khama promoted his ideal of a multiracial democracy. He achieved free universal education in Botswana and sought to diversify and strengthen the country’s economy. He was reelected to successive terms and served as president of Botswana until his death. His son, Ian Khama, became president of Botswana in 2008.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SERETSE_KHAMA_NAME">
+			<Text>Sir Seretse Goitsebeng Maphiri Khama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SERETSE_KHAMA_SUBTITLE">
+			<Text>Leader of Botswana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SERETSE_KHAMA_TITLES_1">
+			<Text>President of Botswana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SERETSE_KHAMA_TITLES_2">
+			<Text>Sir Seretse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SERETSE_KHAMA_LIVED">
+			<Text>1921 - 1980</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DMS_BOTSWANA_TEXT">
+			<Text>Hail, Seretse Khama, for you are a true leader of Botswana! While you were born into a powerful royal family, and truly you did become the king of your tribe at the age of just four, you went on to become a president – not a king, nor an emperor – of the newly liberated nation of Botswana. It was under your brilliant stewardship, and with a vigorous program to enrich the country and root out corruption, that the country went from the third-poorest in the world to the fastest-growing economy in the world. The revenue generated from these wondrous successes went directly into the country, building new infrastructure, establishing modern healthcare, and implementing western education. Indeed, by the time of your death, Botswana had joined the ranks of the most successful African post-colonial nations.[NEWLINE][NEWLINE]Now, Seretse Khama, Botswana needs you once more. Will you marry traditional and western values, just as you married a white Englishwoman to your African royalty? Will you forge a new nation of promise and prosperity out of the last land the world would expect? Will you build a Civilization to stand the test of time?</Text>
+		</Row>
+		<!-- The Clay that Binds -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_THE_CLAY_THAT_BINDS">
+			<Text>Resources adjacent to Mines are automatically claimed and improved if you have the required Technology. For every two Mines worked by a City, get a free Engineer Specialist slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_THE_CLAY_THAT_BINDS_SHORT">
+			<Text>The Clay that Binds</Text>
+		</Row>
+		<!-- Kgotla -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_KGOTLA">
+			<Text>Kgotla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KGOTLA_TEXT">
+			<Text>A kgotla is a public meeting, community council or traditional law court of a Botswana village. It is usually headed by the village chief or headman, and community decisions are always arrived at by consensus. Anyone at all is allowed to speak, and no one may interrupt while someone is "having their say". In fact there is a Setswana saying that the highest form of war is dialogue (ntwa kgolo ke ya molomo). Because of this tradition, Botswana claims to be one of the world's oldest democracies.[NEWLINE][NEWLINE]The custom of allowing everyone their full say is carried over into meetings of all kinds, from discussing a bill to a staff briefing, and can mean meetings last many hours.[NEWLINE][NEWLINE]Kgotla can also refer to the place where such meetings are held. This can range from a few chairs under a shade canopy to a permanent ground with covered seating. In both senses, the term is a loan word in Botswana English from Setswana, where it means court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KGOTLA_HELP">
+			<Text>Unique Botswanan Constabulary replacement. Reduces enemy Spy stealing rate by 25%. +1 [ICON_CULTURE] Culture from Specialists. Units trained in this City, provides +1 [ICON_HAPPINESS_1] Happiness when garrisoned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KGOTLA_STRATEGY">
+			<Text>The Kgotla is the Botswanan Unique Building, replacing the Constabulary. Like the Constabulary, it reduces the rate at which enemy Spies can steal your Technologies, but has a higher Gold Maintenance. Additionally it provides +1 [ICON_CULTURE] Culture from Specialists and all Units trained in a City with a Kgotla provides +1 [ICON_HAPPINESS_1] Happiness when garrisoned in any City.</Text>
+		</Row>
+		<!-- Mophato -->
+		<Row Tag="TXT_KEY_UNIT_DMS_MOPHATO">
+			<Text>Mophato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_MOPHATO_TEXT">
+			<Text>A Mophato (plural: Mephato) is an age regiment made of men, and in more recent times also women, who had gone through Bogwera (initiation) at the same time. Allocation into a Mophato marked the beginning of adulthood and the members of the same regiment worked together and, in the case of men, fought together. They were intimate companions and equals and enjoyed a sense of solidarity and regimental pride. Members of a regiment were expected to respect the members of all previously formed regiments and would in turn be respected by their juniors. Local chiefs would create a new regiment every four to seven years, when eligible 16-20 year old boys and girls could be initiated together. The regiment would also include a member of the chief’s family who, from then on, would be the accepted leader of the group.[NEWLINE][NEWLINE]The Bogwera initiation disappeared during the 1930’s because European missionaries and were finally abolished by Khama during his rule. However, retained the mephato regiments as a source of free labour to build schools and churches.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_MOPHATO_STRATEGY">
+			<Text>The Mophato is the Botswanan Unique Unit, replacing the Infantry. They have the same abilities as the Infantry, and additionally provides +15% [ICON_PRODUCTION] Building Production in the nearest City if stationed on a Mine or +15% [ICON_CULTURE] Culture if stationed on an unimproved or pillaged tile. These effects stack with the bonus provided by other Mephato.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_MOPHATO_HELP">
+			<Text>Modern Era Unit that can boost [ICON_CULTURE] Culture in the nearest City if stationed on an unimproved or pillaged tile or [ICON_PRODUCTION] Building Production if stationed on a Mine. Only Botswana may build it.</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_DMS_KGOTLA">
+			<Text>Kgotla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_KGOTLA_HELP">
+			<Text>Units trained in a City with a Kgotla, provides +1 [ICON_HAPPINESS_1] when garrisoned in a City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_BOGWERA">
+			<Text>Bogwera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_BOGWERA_HELP">
+			<Text>+15% [ICON_PRODUCTION] Building Production in the nearest City if stationed on a Mine. +15% [ICON_CULTURE] Culture if stationed on an unimproved or pillaged tile</Text>
+		</Row>
+		<!-- Dummy buildings -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_THE_CLAY_THAT_BINDS_SPECIALIST">
+			<Text>The Clay that Binds Specialist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_THE_CLAY_THAT_BINDS_SPECIALIST_HELP">
+			<Text>Extra Engineer Specialist slot from domestic Mines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MOPHATO_CULTURE">
+			<Text>DMS: Botswana: Mophato Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MOPHATO_CULTURE_HELP">
+			<Text>Extra Culture from unimproved tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MOPHATO_PRODUCTION">
+			<Text>DMS: Botswana: Mophato Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MOPHATO_PRODUCTION_HELP">
+			<Text>Extra Building Production from Mines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KGOTLA_HAPPINESS">
+			<Text>DMS: Botswana: Kgotla Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KGOTLA_HAPPINESS_HELP">
+			<Text>Happiness from Units trained in a City with a Kgotla.</Text>
+		</Row>
+		<!-- MCIS -->
+	</Language_en_US>
+</GameData>
