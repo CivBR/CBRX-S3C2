@@ -10,7 +10,7 @@ cbrxTSLs["CIVILIZATION_UC_TURKEY"] = {X = 37, Y = 56, S = "F", O = "F"}
 --cbrxTSLs["CIVILIZATION_GT_PERM"] = {X = 54, Y = 77, S = "F", O = "F"}
 --cbrxTSLs["CIVILIZATION_JFD_KHAZARIA"] = {X = 46, Y = 64, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_GT_GOKTURKS"] = {X = 76, Y = 75, S = "F", O = "F"}
-cbrxTSLs["CIVILIZATION_JFD_ANGLO_NORSE"] = {X = 21, Y = 72, S = "T", O = "T"}
+cbrxTSLs["CIVILIZATION_JFD_ANGLO_NORSE"] = {X = 21, Y = 72, S = "T", O = "F"}
 cbrxTSLs["CIVILIZATION_THP_ZULU"] = {X = 37, Y = 10, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_THP_SEN_TUVA"] = {X = 71, Y = 78, S = "F", O = "F"}
 --cbrxTSLs["CIVILIZATION_DJ_PHILIPPINES_AGUINALDO"] = {X = 92, Y = 45, S = "T", O = "T"}
@@ -31,7 +31,7 @@ cbrxTSLs["CIVILIZATION_SENSHI_YUGOSLAVIA"] = {X = 27, Y = 58, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_UC_BEST_KOREA"] = {X = 92, Y = 70, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_SAS_MODOC"] = {X = 121, Y = 69, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_UC_SEMINOLE"] = {X = 144, Y = 58, S = "F", O = "F"}
-cbrxTSLs["CIVILIZATION_US_IRELAND"] = {X = 3, Y = 69, S = "T", O = "F"}
+cbrxTSLs["CIVILIZATION_US_IRELAND"] = {X = 3, Y = 69, S = "T", O = "T"}
 cbrxTSLs["CIVILIZATION_PB_MORI"] = {X = 97, Y = 65, S = "T", O = "F"}
 cbrxTSLs["CIVILIZATION_MUISCA"] = {X = 145, Y = 42, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_SENSHI_CAMBODIA"] = {X = 83, Y = 39, S = "F", O = "F"}
@@ -53,7 +53,7 @@ cbrxTSLs["CIVILIZATION_SENSHI_INDONESIA"] = {X = 85, Y = 25, S = "T", O = "T"}
 cbrxTSLs["CIVILIZATION_MALI_SUNDIATA"] = {X = 12, Y = 32, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_GT_QOCHO"] = {X = 73, Y = 69, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_TCM_MASSAGETAE"] = {X = 56, Y = 65, S = "F", O = "F"}
-cbrxTSLs["CIVILIZATION_MC_INCA"] = {X = 145, Y = 29, S = "F", O = "F"}
+cbrxTSLs["CIVILIZATION_MC_INCA"] = {X = 145, Y = 29, S = "T", O = "F"}
 cbrxTSLs["CIVILIZATION_JFD_VLADIMIR"] = {X = 40, Y = 72, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_SPLATDAY_DUTCH"] = {X = 14, Y = 66, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_URD_KWAK"] = {X = 118, Y = 79, S = "F", O = "F"}
@@ -128,10 +128,12 @@ function setTSLs()
 			end
 
 			player:InitUnit(1, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
+			player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 			player:InitUnit(81, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 
 			if cbrxTSLs[sCivilizationType].O == "T" then
 				local worker = false
+
 				player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 				player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 
