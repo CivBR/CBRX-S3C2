@@ -86,9 +86,9 @@ function addSailing(iPlayer)
 	local pTeam = Teams[player:GetTeam()]
 
 	if cbrxTSLs[sCivilizationType].S == "T" then
+		player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 		pTeam:SetHasTech(optics, true)
 		player:InitUnit(1, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
-		player:InitUnit(81, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 	end
 end
 GameEvents.PlayerDoTurn.Add(addSailing)
@@ -128,7 +128,6 @@ function setTSLs()
 			end
 
 			player:InitUnit(1, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
-			player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 			player:InitUnit(81, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 
 			if cbrxTSLs[sCivilizationType].O == "T" then
