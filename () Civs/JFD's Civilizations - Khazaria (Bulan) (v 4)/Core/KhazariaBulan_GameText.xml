@@ -37,7 +37,7 @@
 			<Text>Samandar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_KHAZARIA_BULAN_5">
-			<Text>Tamantarkha</Text>
+			<Text>Tamantarkhan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_KHAZARIA_BULAN_6">
 			<Text>Derbent</Text>
@@ -46,7 +46,7 @@
 			<Text>Astrakhan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_KHAZARIA_BULAN_8">
-			<Text>Kiev</Text>
+			<Text>Bolghar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_KHAZARIA_BULAN_9">
 			<Text>Sarychin</Text>
@@ -85,7 +85,7 @@
 			<Text>Sambalut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_KHAZARIA_BULAN_21">
-			<Text>Kazarski</Text>
+			<Text>Kazarki</Text>
 		</Row>
 		<!--Spies-->
 		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_BULAN_0">

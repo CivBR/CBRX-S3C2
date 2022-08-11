@@ -1,0 +1,53 @@
+===========================================================================
+== Credits
+===========================================================================
+-- JakeWalrusWhale
+----------------
+Art (UU, UB, and Leader Icons; Unit Alpha)
+Code
+Text (Diplomacy Responses; City List; Spy Names; Misc)
+Design
+Research
+
+----------------
+-- DarthKyofu
+----------------
+Art (Leaderscene; Civ Icons)
+TSL
+
+----------------
+-- Grant
+----------------
+Art (Map)
+
+----------------
+-- Zharques
+----------------
+Text (DoM; Pedias)
+
+----------------
+-- Uighur_Ceasar, TopHatPaladin
+----------------
+Design
+Research
+
+----------------
+-- The Tollan (Infantry)
+-- Snafusmith (Mechanized Infantry)
+----------------
+Art (Unit Model)
+
+----------------
+-- TarcisioCM
+----------------
+TSL
+
+----------------
+-- Gurbanguly Berdimuhamedow - Ö?e, di?e ö?e
+----------------
+Music (Peace Theme)
+
+----------------
+-- Yowla - Monde islamique
+----------------
+Music (War Theme)

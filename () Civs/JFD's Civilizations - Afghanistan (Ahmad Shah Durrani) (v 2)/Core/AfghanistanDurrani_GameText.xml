@@ -100,7 +100,7 @@
 			<Text>Herat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_4">
-			<Text>Isfahhan</Text>
+			<Text>Multan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_5">
 			<Text>Peshawar</Text>
@@ -112,16 +112,16 @@
 			<Text>Jalalabad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_8">
-			<Text>Samarkand</Text>
+			<Text>Jammu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_9">
 			<Text>Mazar-i-Sharif</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_10">
-			<Text>Lashkar Gar</Text>
+			<Text>Lashkargah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_11">
-			<Text>Taloquan</Text>
+			<Text>Taloqan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_12">
 			<Text>Khost</Text>
@@ -133,7 +133,7 @@
 			<Text>Ghazni</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_15">
-			<Text>Mundigak</Text>
+			<Text>Jalandhar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_16">
 			<Text>Kunduz</Text>

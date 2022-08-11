@@ -44,7 +44,7 @@
 			<Text>Segovia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_CASTILE_9">
-			<Text>Avila</Text>
+			<Text>Ávila</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_CASTILE_10">
 			<Text>Bilbao</Text>
@@ -113,10 +113,10 @@
 			<Text>Ciudad Real</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_CASTILE_32">
-			<Text>Gijon</Text>
+			<Text>Gijón</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_CASTILE_33">
-			<Text>Jaen</Text>
+			<Text>Jaén</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_CASTILE_34">
 			<Text>Plasencia</Text>
@@ -128,10 +128,10 @@
 			<Text>Penafiel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_CASTILE_37">
-			<Text>Caceres</Text>
+			<Text>Cáceres</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_CASTILE_38">
-			<Text>Siguenza</Text>
+			<Text>Sigüenza</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JFD_CASTILE_39">
 			<Text>Albacete</Text>

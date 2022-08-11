@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a5170303-445e-45c4-a441-138d1462fb11" version="3">
+  <Properties>
+    <Name>DMS' Civilizations - Botswana (Seretse Khama)</Name>
+    <Teaser>This adds [COLOR_POSITIVE_TEXT]Botswana[ENDCOLOR] led by Seretse Khama to the game.</Teaser>
+    <Description>see more on civfanatics.com</Description>
+    <Authors>DMS, GPuzzle, darth, Pouakai, lime</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B9BD656B659B018C8DF6049A2B251367" import="1">Art/DOM_Map/DMS_Botswana_Map512.dds</File>
+    <File md5="DD2126FCF8C644C0FF5CF3378FE1D52E" import="1">Art/DOM_Map/DMS_Khama_DOM.dds</File>
+    <File md5="18A29AE9D2D852B06E5ABFB9C7C90980" import="1">Art/Graphics/sv_mophato.dds</File>
+    <File md5="A5BD9A090DEE8635F6EEB4C7B42DD79D" import="1">Art/IconAtlases/DMS_Botswana_AlphaIcon_128.dds</File>
+    <File md5="FF1DF06422FF9760945C9579EB1F1E6F" import="1">Art/IconAtlases/DMS_Botswana_AlphaIcon_16.dds</File>
+    <File md5="2DBD704C6DC4C871AA5AE1F467D204D1" import="1">Art/IconAtlases/DMS_Botswana_AlphaIcon_24.dds</File>
+    <File md5="0C051802CA778CDCE3EB238F57BE38F6" import="1">Art/IconAtlases/DMS_Botswana_AlphaIcon_256.dds</File>
+    <File md5="3AC50CC63A08D243413690F40AEB4252" import="1">Art/IconAtlases/DMS_Botswana_AlphaIcon_32.dds</File>
+    <File md5="9216C870D1D79ED7A583D5271BD977F6" import="1">Art/IconAtlases/DMS_Botswana_AlphaIcon_45.dds</File>
+    <File md5="35AE0B250A00A45B2AC1640C0D5979AF" import="1">Art/IconAtlases/DMS_Botswana_AlphaIcon_48.dds</File>
+    <File md5="C7811B4CF7C54DE2AF5C023C93923D44" import="1">Art/IconAtlases/DMS_Botswana_AlphaIcon_64.dds</File>
+    <File md5="715CB883D87CC1F600220655096B9742" import="1">Art/IconAtlases/DMS_Botswana_AlphaIcon_80.dds</File>
+    <File md5="584AAC2E8B5DEAA78B3712E199817E9B" import="1">Art/IconAtlases/DMS_Botswana_IconAtlas_128.dds</File>
+    <File md5="AEA3268979CB6A6CF844FD94F581BFBC" import="1">Art/IconAtlases/DMS_Botswana_IconAtlas_256.dds</File>
+    <File md5="613AA6B70A9CE5442DC455AF6CFDF5BF" import="1">Art/IconAtlases/DMS_Botswana_IconAtlas_32.dds</File>
+    <File md5="B425324E211080B734D471468F844124" import="1">Art/IconAtlases/DMS_Botswana_IconAtlas_45.dds</File>
+    <File md5="C55B8E88868A77A06CEE321CD4ED6F76" import="1">Art/IconAtlases/DMS_Botswana_IconAtlas_64.dds</File>
+    <File md5="5629FD9BC7DB63CB428A2E31FE93DF50" import="1">Art/IconAtlases/DMS_Botswana_IconAtlas_80.dds</File>
+    <File md5="7FE4A243C9E31572DA94B19D4553136F" import="1">Art/IconAtlases/UnitFlag_Mophato_32.dds</File>
+    <File md5="5543C0ACD951EAD3912243FB591CE799" import="1">Art/Leaderscene/DMS_Seretse_Khama.dds</File>
+    <File md5="9E04B26DDD6EC2B1BF52EE08CEC28AD8" import="1">Art/Leaderscene/DMS_Seretse_Khama.xml</File>
+    <File md5="E8E774CF7ACBD46A5139ACD8E82B4A2D" import="1">Audio/DMS_Khama_Peace.mp3</File>
+    <File md5="E8E774CF7ACBD46A5139ACD8E82B4A2D" import="1">Audio/DMS_Khama_War.mp3</File>
+    <File md5="DCFC1A5883BBE7BF108DB450259764B2" import="0">Core/DMS_Botswana_ArtDefines.sql</File>
+    <File md5="07DBCDE91B57BD759EEF2D75D53E6A71" import="0">Core/DMS_Botswana_GameDefines.sql</File>
+    <File md5="3DC3BDD78918BB3790CBE030A1767643" import="0">Core/DMS_Botswana_GameDefines_Diplomacy.sql</File>
+    <File md5="91C8E6DFF66B0C90803C3E638946A0B8" import="0">Core/DMS_Botswana_GameText.xml</File>
+    <File md5="49EF454407B1B23104750C7BE17CA775" import="0">Core/DMS_Botswana_GameText_Diplomacy.xml</File>
+    <File md5="0A3BB5569FC76D508076C611C85B3EF6" import="0">Core/DMS_Botswana_GameDefines_ModSupport.sql</File>
+    <File md5="CACC12549524E62F26138058151371D6" import="0">DMS_Botswana_Credits.txt</File>
+    <File md5="400AA055186AF3CF48DC4D3D2A97914F" import="0">DMS_Botswana_UserSettings.sql</File>
+    <File md5="6354B5A90706DE2117256ED0A9DDC1F5" import="0">Lua/DMS_Botswana_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_Botswana_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Botswana_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Botswana_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Botswana_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Botswana_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_Botswana_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_Botswana_Functions.lua">
+      <Name>DMS_Botswana_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

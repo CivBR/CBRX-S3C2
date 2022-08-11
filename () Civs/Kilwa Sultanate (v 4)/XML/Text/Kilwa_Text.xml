@@ -183,7 +183,7 @@
 			<Text>Antsiranana</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_KISMAOYO">
-			<Text>Kismaoyo</Text>
+			<Text>Kismayo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MZIZIMA">
 			<Text>Mzizima</Text>
@@ -201,19 +201,19 @@
 			<Text>Songo Mnara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_BAZARULA">
-			<Text>Bazarula</Text>
+			<Text>Bazaruto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_CHILANE">
-			<Text>Chilane</Text>
+			<Text>Chiloane</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_PRIMEIRAS">
 			<Text>Primeiras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_ANGOSHA">
-			<Text>Angosha</Text>
+			<Text>Angoche</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MAYOTTA">
-			<Text>Mayotta</Text>
+			<Text>Mayotte</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_JOHANNA">
 			<Text>Anzwani</Text>

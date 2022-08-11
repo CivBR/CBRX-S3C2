@@ -47,7 +47,7 @@
 			<Text>Taranto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TRANQ_NORMANS_10">
-			<Text>Regio</Text>
+			<Text>Reggio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TRANQ_NORMANS_11">
 			<Text>Tripoli</Text>
@@ -83,13 +83,13 @@
 			<Text>Sfax</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TRANQ_NORMANS_22">
-			<Text>Valleta</Text>
+			<Text>Valletta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TRANQ_NORMANS_23">
 			<Text>Pantelleria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TRANQ_NORMANS_24">
-			<Text>Dyrrhacium</Text>
+			<Text>Durazzo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TRANQ_NORMANS_25">
 			<Text>Civitate</Text>

@@ -77,13 +77,13 @@
 			<Text>Midnapore</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_08">
-			<Text>Goraghat</Text>
+			<Text>Ghoraghat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_09">
 			<Text>Sylhet</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_10">
-			<Text>Rangupur</Text>
+			<Text>Rangpur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_11">
 			<Text>Sonargaon</Text>
@@ -92,7 +92,7 @@
 			<Text>Nasirabad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_13">
-			<Text>Plassey</Text>
+			<Text>Palashi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_14">
 			<Text>Hajipur</Text>
@@ -119,7 +119,7 @@
 			<Text>Serampore</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_22">
-			<Text>Mahmudpur</Text>
+			<Text>Ismailpur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_23">
 			<Text>Rajshahi</Text>
@@ -137,10 +137,10 @@
 			<Text>Jellasore</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_28">
-			<Text>Jharkhand</Text>
+			<Text>Bogra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_29">
-			<Text>Hooghly</Text>
+			<Text>Hugli</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_30">
 			<Text>Chandernagore</Text>
@@ -155,7 +155,7 @@
 			<Text>Madaripur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_34">
-			<Text>Mymensingh</Text>
+			<Text>Malda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERJAR_BENGAL_35">
 			<Text>Tarwas</Text>

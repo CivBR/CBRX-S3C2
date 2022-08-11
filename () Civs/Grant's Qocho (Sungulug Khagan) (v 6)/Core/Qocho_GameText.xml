@@ -64,7 +64,7 @@
 		<Text>Kumul</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_05">
-		<Text>Karashar</Text>
+		<Text>Karashahr</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_06">
 		<Text>Yidu</Text>
@@ -79,7 +79,7 @@
 		<Text>Bay</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_10">
-		<Text>Solmi</Text>
+		<Text>Korla</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_11">
 		<Text>Ush</Text>
@@ -91,16 +91,16 @@
 		<Text>Illiq</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_14">
-		<Text>Luntai</Text>
+		<Text>Toksu</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_15">
-		<Text>Idikutschari</Text>
+		<Text>Aksu</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_16">
-		<Text>Agni</Text>
+		<Text>Lopnur</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_17">
-		<Text>Jushi</Text>
+		<Text>Dabancheng</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_18">
 		<Text>Araturuk</Text>
@@ -133,7 +133,7 @@
 		<Text>Guqung</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_28">
-		<Text>Yar</Text>
+		<Text>Barkol</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_29">
 		<Text>Qutubi</Text>
@@ -157,7 +157,7 @@
 		<Text>Shuymogu</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_36">
-		<Text>Qamil</Text>
+		<Text>Tumshuk</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_37">
 		<Text>Piqan</Text>
@@ -199,7 +199,7 @@
 		<Text>Wujyaqu</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CITY_NAME_GT_QOCHO_50">
-		<Text>Xungul</Text>
+		<Text>Turfan</Text>
 	</Row>
 	<!--Spies-->
 	 <Row Tag="TXT_KEY_SPY_NAME_GT_QOCHO_0">

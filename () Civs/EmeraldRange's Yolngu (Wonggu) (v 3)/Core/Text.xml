@@ -237,7 +237,7 @@
 			<Text>Nhulunbuy</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_CIVILIZATION_ER_YOLNGU_CITY_6">	
-			<Text>Gunyangarra</Text>
+			<Text>Gunyangara</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_CIVILIZATION_ER_YOLNGU_CITY_7">	
 			<Text>Gapuwiyak</Text>
@@ -288,10 +288,10 @@
 			<Text>Bawaka</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_CIVILIZATION_ER_YOLNGU_CITY_23">	
-			<Text>Dhanaya</Text>
+			<Text>Dhaniya</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_CIVILIZATION_ER_YOLNGU_CITY_24">	
-			<Text>Buymurr</Text>
+			<Text>Buymarr</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_CIVILIZATION_ER_YOLNGU_CITY_25">	
 			<Text>Garrthalala</Text>
@@ -312,10 +312,10 @@
 			<Text>Martjanba</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_CIVILIZATION_ER_YOLNGU_CITY_31">	
-			<Text>Wunpurri</Text>
+			<Text>Wunburri</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_CIVILIZATION_ER_YOLNGU_CITY_32">	
-			<Text>Nanyinbarra</Text>
+			<Text>Nanyingburra</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_CIVILIZATION_ER_YOLNGU_CITY_33">	
 			<Text>Gawa</Text>
@@ -324,7 +324,7 @@
 			<Text>Djurranalpi</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_CIVILIZATION_ER_YOLNGU_CITY_35">	
-			<Text>Gulumarri</Text>
+			<Text>Gulmarri</Text>
 		</Row>	
 		<!--UNIQUE CULTURAL INFLUENCE-->
 		<Row Tag="TXT_KEY_GENERIC_CL_YOLNGU_INFLUENTIAL_ON_AI_1">

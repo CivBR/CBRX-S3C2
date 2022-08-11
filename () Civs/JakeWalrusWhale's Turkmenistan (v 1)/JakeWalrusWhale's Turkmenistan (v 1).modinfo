@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c5b04927-2c13-4884-9961-134b2bf76c8b" version="1">
+  <Properties>
+    <Name>JakeWalrusWhale's Turkmenistan</Name>
+    <Teaser>Adds the State of [COLOR_CITY_GREY]Turkmenistan[ENDCOLOR] under Saparmurat Niyazov.</Teaser>
+    <Description>Turkmenistan (Saparmurat Niyazov)[NEWLINE][NEWLINE]
+
+UA: Ruhnama[NEWLINE]
+Expending Great Writers start a "We Love the King" Day in all cities. The first Great Work of Writing in a city will spawn a random strategic resource nearby.
+[NEWLINE][NEWLINE]
+UU: Edermen (Marine) [NEWLINE]
+Weaker, but unlocked earlier, at Refrigeration. Trained faster if the city has a Great Work of Writing. If trained during a "We Love the King" Day, grant the city a Great Work of Writing slot.[NEWLINE][NEWLINE]
+
+UB: Gas Pipeline (Factory)[NEWLINE]
+Trading away strategic resources in city limits will generate Gold and Great Writer points. If strategic resources are improved during a "We Love the King" Day in this city, the amount of resources on the tile will be doubled.</Description>
+    <Authors>JakeWalrusWhale</Authors>
+    <SpecialThanks>Uighur_Ceasar, DarthKyofu, Zharques, Grant, TopHatPaladin</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="CBP" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Rise to Power" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="CulDiv" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="Mercenaries" />
+    <Mod id="86556be8-3557-4973-b2de-d7d8054ab211" minversion="0" maxversion="999" title="DMS Ireland (O'Connell)" />
+    <Mod id="75e1d7ed-06bd-48c6-911d-773d0164b050" minversion="0" maxversion="999" title="DMS Denmark (Frederick VII)" />
+    <Mod id="22d10473-f973-4049-8c13-89846c89f431" minversion="0" maxversion="999" title="DuskJockey Tuscany (Matilda)" />
+    <Mod id="a5c82311-01c0-435e-8da6-87f3fa17f05d" minversion="0" maxversion="999" title="SilentForza Antarctica (Amundsen)" />
+    <Mod id="dc02979c-0946-497d-b5b7-b50aec0c5f7b" minversion="0" maxversion="999" title="Grant Buganda (Muteesa I)" />
+    <Mod id="2ff76c02-4c35-4c13-82f8-83d4b964ca2f" minversion="0" maxversion="999" title="HI/Firebug Britain (Charles II)" />
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additonal Achievements" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2E946737849CF15A9D330750AB19C313" import="1">Art/Atlas/EdermanAlpha32.dds</File>
+    <File md5="EEADC4091A024C4804550EA51CBE3A1D" import="1">Art/Atlas/JWWTurkmenistanIconAtlas_128.dds</File>
+    <File md5="2FF90CC0BEC45EC5AAF07FFD2EF378B9" import="1">Art/Atlas/JWWTurkmenistanIconAtlas_24.dds</File>
+    <File md5="273E1C27D6948E87F278EA2F5869C4FD" import="1">Art/Atlas/JWWTurkmenistanIconAtlas_256.dds</File>
+    <File md5="220E85BA3964B2947E34431D3CB820E5" import="1">Art/Atlas/JWWTurkmenistanIconAtlas_32.dds</File>
+    <File md5="ED4411DA9A21BE9B1A99F824134CB966" import="1">Art/Atlas/JWWTurkmenistanIconAtlas_45.dds</File>
+    <File md5="4A7BF871F27475D0D8090AC0A96130E1" import="1">Art/Atlas/JWWTurkmenistanIconAtlas_48.dds</File>
+    <File md5="15F207544ED0A5D59409D85BFDFADB17" import="1">Art/Atlas/JWWTurkmenistanIconAtlas_64.dds</File>
+    <File md5="C55532AE88C1265820267169C071D111" import="1">Art/Atlas/JWWTurkmenistanIconAtlas_80.dds</File>
+    <File md5="8AA1280C4D404014B59C57E8E7D74830" import="1">Art/JWWNiyazovDoM.dds</File>
+    <File md5="5BCB53A01C4F9BBDDE68F9BA8F0C1F94" import="1">Art/JWWNiyazovScene.dds</File>
+    <File md5="AC398372F8A30FEDAC0835FE7A58E458" import="1">Art/JWWTurkmenistanMap.dds</File>
+    <File md5="CD4D99CBAA02668751882805E9365590" import="1">Art/Model/BMP2Iran.dds</File>
+    <File md5="1B033CD60F04D2C8E91CE8F9A02F0163" import="1">Art/Model/BMP2Iran.fxsxml</File>
+    <File md5="0A8D619D57377D82244825DEE8AB5530" import="1">Art/Model/BMP2Iran.gr2</File>
+    <File md5="6A16D73330412060248E971BB75F4E02" import="1">Art/Model/BMP2SREF.dds</File>
+    <File md5="FFBDF70B3E5632CB8856DE382A8B504C" import="1">Art/Model/fx_triggers_bmp2.ftsxml</File>
+    <File md5="9309774C33232FFC6E47E09F56BDD3C5" import="1">Art/Model/Misc/edited_aim_attack_city_to_run.dge</File>
+    <File md5="FA9CE373BB700CFCD8F0FA3A955B1E69" import="1">Art/Model/Misc/edited_aim_attack_to_run_graph.dge</File>
+    <File md5="BA4F6AEB27527AB47CC284B27C8288A8" import="1">Art/Model/Misc/edited_aim_bombard_defend_loop_graph.dge</File>
+    <File md5="CD02EC91E73F396297C2B3434A8BA034" import="1">Art/Model/Misc/edited_aim_combat_ready_graph.dge</File>
+    <File md5="6B4338103039DFBD431A44C89DA198D6" import="1">Art/Model/Misc/edited_aim_death_final_graph.dge</File>
+    <File md5="F9F109E1E43FD75DFC765D9B3A43CE48" import="1">Art/Model/Misc/edited_aim_death_graph.dge</File>
+    <File md5="7A5A0ADFBBB05D6E4FB126383988B264" import="1">Art/Model/Misc/edited_aim_enter_combat_ready_graph.dge</File>
+    <File md5="34488A641F9D948D865BBECF8B3878DF" import="1">Art/Model/Misc/edited_aim_enter_fortify.dge</File>
+    <File md5="F245B80AAC985C0011FEE5CBF3FB25DF" import="1">Art/Model/Misc/edited_aim_fidgets_graph.dge</File>
+    <File md5="65FED4E2E20D7512D6B5E92C1CD37EF7" import="1">Art/Model/Misc/edited_aim_fortify_fidget_graph.dge</File>
+    <File md5="F758D65157483D32C6763F817B216937" import="1">Art/Model/Misc/edited_aim_fortify_graph.dge</File>
+    <File md5="C2C8D0ADFA388980A03E814BF2B335F5" import="1">Art/Model/Misc/edited_aim_fortify_leave_graph.dge</File>
+    <File md5="EF6168FF0903555EDCBB9FD626CFB00F" import="1">Art/Model/Misc/edited_aim_idle_graph.dge</File>
+    <File md5="268797759660DA55A0F792A966EB586B" import="1">Art/Model/Misc/edited_aim_idle_offset_continue_true_graph.dge</File>
+    <File md5="C4D8B3EB164B5525B92514645521D0C3" import="1">Art/Model/Misc/edited_aim_leave_bombard_defend_trans_idle_a_graph.dge</File>
+    <File md5="189E34C23C7A19F2C190E1ACB4212C91" import="1">Art/Model/Misc/edited_aim_leave_combat_ready.dge</File>
+    <File md5="225D164523FE1270306005CCD71B075A" import="1">Art/Model/Misc/edited_aim_melee_attacks.dge</File>
+    <File md5="A64E86033B61613B4F39979D5603E65F" import="1">Art/Model/Misc/edited_aim_running_loop.dge</File>
+    <File md5="BCF1F945C0CBE7A1C9F62E5B46F84F99" import="1">Art/Model/Misc/edited_aim_start_running.dge</File>
+    <File md5="7B0232A8BE345EB899FF221FBD7BDCFB" import="1">Art/Model/Misc/edited_aim_stop_running.dge</File>
+    <File md5="2506D6C118D6A9FB915723F731C95FD4" import="1">Art/Model/Misc/edited_aim_transitions_for_idles.dge</File>
+    <File md5="108FD3B4BAAB4A605BF70CCD44F20E8B" import="1">Art/Model/Misc/edited_fx_triggers_tank.ftsxml</File>
+    <File md5="B233D27FC1FA1DB1127E263DC20D30DB" import="1">Art/Model/Misc/edited_mechanized_aim_state_01.fsmxml</File>
+    <File md5="2640438C22E70A38B044529133375510" import="1">Art/Model/modernsoldier.fxsxml</File>
+    <File md5="67B562119CF09F395C53DB7C897A7ADC" import="1">Art/Model/modernsoldier.gr2</File>
+    <File md5="E5388FF5F7F052F989FB51EDECAB21CA" import="1">Art/Model/modernsoldier_diff.dds</File>
+    <File md5="366961DDA05670297D26DE8CE7F5C577" import="1">Art/Model/sv_ederman.dds</File>
+    <File md5="005A60E8863587C4F52069E709569DD9" import="1">Art/Model/UnitFormations.xml</File>
+    <File md5="8FDEAC18CF01FF28E490C79C1D61A5A1" import="0">Code/Database/TurkmenistanArtDefines.sql</File>
+    <File md5="B341E986D3A196E2A777E2FDF841F7F3" import="0">Code/Database/TurkmenistanGameDefines.sql</File>
+    <File md5="96AF1B9FFC10CB41EE3025FD7E26A206" import="0">Code/Database/TurkmenistanModSupport.sql</File>
+    <File md5="338225FB4DEE47DE7280FF4CFDF17BB2" import="0">Code/Database/TurkmenistanText.xml</File>
+    <File md5="BA685011B65EEE44C2AC0F7DC24C79C7" import="1">Code/Database/JWWNiyazovScene.xml</File>
+    <File md5="5B204276619D2B35C98002E79B442FBB" import="1">Code/Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="BD4124AC51C255991CB7D4E11A73778B" import="0">Code/Lua/TurkmenistanAASupport.lua</File>
+    <File md5="20C8AA770A7C68DF91A6F67B196C2976" import="0">Code/Lua/TurkmenistanFunctions.lua</File>
+    <File md5="D26B68238289375A10E49818FD2CD0C8" import="1">Code/Lua/UniqueDiplomacyUtils.lua</File>
+    <File md5="E18E2EBCA5089106BF69EF5F64ADECB9" import="0">Credits.txt</File>
+    <File md5="127FCD63113CFF8A8215996D58294A64" import="1">Music/Turkmenistan_Peace.mp3</File>
+    <File md5="9E5CB3269830B16901F65129287E2C0A" import="1">Music/Turkmenistan_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Database/TurkmenistanArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/TurkmenistanGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/TurkmenistanText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Database/TurkmenistanModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/TurkmenistanFunctions.lua">
+      <Name>tuekwm dunctions</Name>
+      <Description>aw</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/TurkmenistanAASupport.lua">
+      <Name>Turkmen AA</Name>
+      <Description>All knowing, loving Turkmenbashy granted us an achievement!</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

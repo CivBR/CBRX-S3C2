@@ -63,7 +63,7 @@ cbrxTSLs["CIVILIZATION_JFD_HAN_WU"] = {X = 80, Y = 64, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_JWW_TIMOR-LESTE"] = {X = 94, Y = 26, S = "T", O = "T"}
 cbrxTSLs["CIVILIZATION_JFD_GREAT_MING_YONGLE"] = {X = 88, Y = 60, S = "F", O = "F"}
 
-local observerTechs = {GameInfoTypes["TECH_SAILING"].ID ,GameInfoTypes["TECH_POTTERY"].ID, GameInfoTypes["TECH_TRAPPING"].ID, GameInfoTypes["TECH_MINING"].ID, GameInfoTypes["TECH_AGRICULTURE"].ID, GameInfoTypes["TECH_ARCHERY"].ID}
+local observerTechs = {GameInfoTypes["TECH_SAILING"].ID, GameInfoTypes["TECH_POTTERY"].ID, GameInfoTypes["TECH_TRAPPING"].ID, GameInfoTypes["TECH_MINING"].ID, GameInfoTypes["TECH_AGRICULTURE"].ID, GameInfoTypes["TECH_ARCHERY"].ID}
 -- Pottery, Animal Husbandry, Mining, Calendar, Masonry, Compass
 -- local observerTechs = {1, 2, 4, 6, 10, 25}
 local optics = GameInfoTypes["TECH_OPTICS"]
