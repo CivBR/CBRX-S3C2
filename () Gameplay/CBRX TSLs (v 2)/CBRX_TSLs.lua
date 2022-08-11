@@ -63,9 +63,8 @@ cbrxTSLs["CIVILIZATION_JFD_HAN_WU"] = {X = 80, Y = 64, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_JWW_TIMOR-LESTE"] = {X = 94, Y = 26, S = "T", O = "T"}
 cbrxTSLs["CIVILIZATION_JFD_GREAT_MING_YONGLE"] = {X = 88, Y = 60, S = "F", O = "F"}
 
-local observerTechs = {GameInfoTypes["TECH_SAILING"].ID, GameInfoTypes["TECH_POTTERY"].ID, GameInfoTypes["TECH_TRAPPING"].ID, GameInfoTypes["TECH_MINING"].ID, GameInfoTypes["TECH_AGRICULTURE"].ID, GameInfoTypes["TECH_ARCHERY"].ID}
--- Pottery, Animal Husbandry, Mining, Calendar, Masonry, Compass
--- local observerTechs = {1, 2, 4, 6, 10, 25}
+-- Sailing, Pottery, Trapping, Mining, Agriculture, Archery, Compass (with EE + FW-lite enabled)
+local observerTechs = {0, 1, 3, 4, 5, 8}
 local optics = GameInfoTypes["TECH_OPTICS"]
 local galley = GameInfoTypes["UNIT_GALLEY"].ID
 
@@ -86,7 +85,6 @@ function addSailing(iPlayer)
 	local pTeam = Teams[player:GetTeam()]
 
 	if cbrxTSLs[sCivilizationType].S == "T" then
-		player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 		pTeam:SetHasTech(optics, true)
 		player:InitUnit(1, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 	end
@@ -102,10 +100,8 @@ function setTSLs()
 		local pTeam = Teams[player:GetTeam()]
 		local currentTeamID = pTeam:GetID()
 
-		if iPlayer == 0 then
-			for index, val in ipairs(observerTechs) do
-				pTeam:SetHasTech(val, true)
-			end
+		for index, val in ipairs(observerTechs) do
+			pTeam:SetHasTech(val, true)
 		end
 
 		for i = 0, Map.GetNumPlots() - 1, 1 do
@@ -133,6 +129,7 @@ function setTSLs()
 			if cbrxTSLs[sCivilizationType].O == "T" then
 				local worker = false
 
+				player:InitUnit(1, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 				player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 				player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 
