@@ -5,6 +5,7 @@
 		<!--Leader-->
 		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE">
 			<Text>Pretty Nose</Text>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ASQ_PRETTYNOSE_SHORT">
 			<Text>People of the Blue Sky</Text>
@@ -144,7 +145,7 @@
 		<Row Tag="TXT_KEY_PROMOTION_ASQ_ARAPAHO_IGNORE_ZOC_HELP">
 			<Text>Ignores Zone of Control.</Text>
 		</Row>
-		
+
 		<!--Cities
 		taken from https://www.colorado.edu/center/csilw/language-archives/arapaho-word-lists/place-names
 		ty sas :pleasedtibs:-->
@@ -238,7 +239,7 @@
 		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_CITY_30">
 			<Text>Hiwoxuu Hiniioon</Text>
 		</Row>
-		
+
 		<!--Spies-->
 		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_1">
 			<Text>Black Man</Text>
@@ -270,7 +271,7 @@
 		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_ARAPAHO_SPY_10">
 			<Text>Runs-on-Top</Text>
 		</Row>
-		
+
 		<!-- Diplomacy Responses -->
 		<Row Tag="TXT_KEY_LEADER_ASQ_PRETTYNOSE_FIRSTGREETING_1">
 			<Text>Tous, my fellow traveller. I am Pretty Nose of the Arapaho, and I would see that you do no harm while in my lands.</Text>

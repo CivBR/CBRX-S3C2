@@ -92,6 +92,7 @@
 	<!-- Leader -->
 		<Row Tag="TXT_KEY_LEADER_JWW_SAYYIDA_AL_HURRA">
 			<Text>Sayyida al-Hurra</Text>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_SAYYIDA_AL_HURRA_LIVED">
 			<Text>1485-1561 AD</Text>

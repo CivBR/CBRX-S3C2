@@ -5,6 +5,7 @@
 		<!--Leader-->
 		<Row Tag="TXT_KEY_LEADER_ASQ_ALLIRANI">
 			<Text>Alli Rani</Text>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ASQ_ALLIRANI">
 			<Text>Great people may be expended to start a golden age [ICON_GOLDEN_AGE] with a relevant science [ICON_RESEARCH] bonus for the duration.</Text>
@@ -54,7 +55,7 @@
 		<Row Tag="TXT_KEY_PEDIA_ASQ_ALLIRANI_SUBTITLE">
 			<Text>Queen of Kudiramalai</Text>
 		</Row>
-		
+
 		<!--Civilization-->
 		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA">
 			<Text>Pandya</Text>
@@ -71,7 +72,7 @@
 				[NEWLINE]
 				Alli Rani, this is your opportunity to turn back time, to build back the empire you once lead to greatness. The time is now to become the Amazonian ruler queen once again. Can you rebuild the fortunes of your kingdom? Will you build a civilization that can stand the test of time?
 			</Text>
-		</Row>  
+		</Row>
 		<Row Tag="TXT_KEY_PEDIA_ASQ_SANGAMPANDYA_HEADING_1">
 			<Text>Overview</Text>
 		</Row>
@@ -152,7 +153,7 @@
 		<Row Tag="TXT_KEY_ASQ_ALLIRANI_GP_TT">
 			<Text>Found a new Sangam!</Text>
 		</Row>
-		
+
 		<!--Spies-->
 
 		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_0">
@@ -185,7 +186,7 @@
 		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_SPY_9">
 			<Text>Praveen</Text>
 		</Row>
-		
+
 		<!--Cities-->
 		<!--sry Lacs tophat did these I think some of them might be obscure-->
 		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_1">
@@ -275,7 +276,7 @@
 		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SANGAMPANDYA_CITY_29">
 			<Text>Khandagiri</Text>
 		</Row>
-		
+
 		<!--Unit-->
 		<Row Tag="TXT_KEY_UNIT_ASQ_MARAVAL">
 			<Text>Maraval</Text>

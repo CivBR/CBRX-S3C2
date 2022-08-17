@@ -125,7 +125,7 @@
 		<!--DoM-->
 		<Row Tag="TXT_KEY_DOM_URD_YEMEN_TEXT">
 			<Text>
-				May the Imam bless your reign, oh mighty Queen Arwa al Sulayhi. Your position is one all too unique across Arabia, that of a woman able to ascend the rungs of power and become revered across the muslim world for your intelligent, capable rule, your military might and your world famous piety. The only woman ever to have her name read atop the Friday prayers in Mecca, during your reign Yemen expanded to its greatest extent, seizing the all-important Hijazi cities of Mecca and Asir, sending Za'idi missionaries as far afield as India and constructing some of the greatest mosques in Yemen. For these achievements, you were granted the prestigious title of Hujjah - the closest human to God of that age. The first woman ever to receive that title, your exploits would grant you a unique and incredible place in history as one of the most remarkeable rulers, man or woman, of your deeply patriarchal time. [NEWLINE][NEWLINE] Oh great Queen Arwa, the lands of Yemen lie divided and dry, bereft of the mighty hand of both God and Humanity. Can you dispense pious justice across these lands? Can you rise to the top in a world dominated by men, subduing all who dare question your god-given right to rule? Can you build a civilisation that will stand the test of time?  
+				May the Imam bless your reign, oh mighty Queen Arwa al Sulayhi. Your position is one all too unique across Arabia, that of a woman able to ascend the rungs of power and become revered across the muslim world for your intelligent, capable rule, your military might and your world famous piety. The only woman ever to have her name read atop the Friday prayers in Mecca, during your reign Yemen expanded to its greatest extent, seizing the all-important Hijazi cities of Mecca and Asir, sending Za'idi missionaries as far afield as India and constructing some of the greatest mosques in Yemen. For these achievements, you were granted the prestigious title of Hujjah - the closest human to God of that age. The first woman ever to receive that title, your exploits would grant you a unique and incredible place in history as one of the most remarkeable rulers, man or woman, of your deeply patriarchal time. [NEWLINE][NEWLINE] Oh great Queen Arwa, the lands of Yemen lie divided and dry, bereft of the mighty hand of both God and Humanity. Can you dispense pious justice across these lands? Can you rise to the top in a world dominated by men, subduing all who dare question your god-given right to rule? Can you build a civilisation that will stand the test of time?
 			</Text>
 		</Row>
 
@@ -142,6 +142,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_URD_ARWA_NAME">
 			<Text>Arwa al-Sulayhi</Text>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_URD_ARWA_TITLES_1">
 			<Text>Hujjah</Text>

@@ -9,7 +9,7 @@ cbrxTSLs["CIVILIZATION_ASQ_SANGAMPANDYA"] = {X = 66, Y = 32, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_UC_TURKEY"] = {X = 37, Y = 56, S = "F", O = "F"}
 --cbrxTSLs["CIVILIZATION_GT_PERM"] = {X = 54, Y = 77, S = "F", O = "F"}
 --cbrxTSLs["CIVILIZATION_JFD_KHAZARIA"] = {X = 46, Y = 64, S = "F", O = "F"}
-cbrxTSLs["CIVILIZATION_GT_GOKTURKS"] = {X = 76, Y = 75, S = "F", O = "F"}
+cbrxTSLs["CIVILIZATION_GT_GOKTURKS"] = {X = 78, Y = 76, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_JFD_ANGLO_NORSE"] = {X = 21, Y = 72, S = "T", O = "F"}
 cbrxTSLs["CIVILIZATION_THP_ZULU"] = {X = 37, Y = 10, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_THP_SEN_TUVA"] = {X = 71, Y = 78, S = "F", O = "F"}
@@ -51,7 +51,7 @@ cbrxTSLs["CIVILIZATION_LITE_AINU"] = {X = 101, Y = 79, S = "T", O = "T"}
 cbrxTSLs["CIVILIZATION_ERJAR_BENGAL"] = {X = 70, Y = 49, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_SENSHI_INDONESIA"] = {X = 85, Y = 25, S = "T", O = "T"}
 cbrxTSLs["CIVILIZATION_MALI_SUNDIATA"] = {X = 12, Y = 32, S = "F", O = "F"}
-cbrxTSLs["CIVILIZATION_GT_QOCHO"] = {X = 73, Y = 69, S = "F", O = "F"}
+cbrxTSLs["CIVILIZATION_GT_QOCHO"] = {X = 74, Y = 70, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_TCM_MASSAGETAE"] = {X = 56, Y = 65, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_MC_INCA"] = {X = 145, Y = 29, S = "T", O = "F"}
 cbrxTSLs["CIVILIZATION_JFD_VLADIMIR"] = {X = 40, Y = 72, S = "F", O = "F"}
