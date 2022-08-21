@@ -128,7 +128,7 @@ function TuvaSingerPromoCheck(playerID, unitID, iX, iY)
 		local bIsRivalAdjacent = false
 		local bShouldPromote = false
 		local tNearbyReligions = {}
-		
+
 		for pAdjPlot in PlotAreaSpiralIterator(pPlot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_INCLUDE) do
 			local ownerID = pAdjPlot:GetOwner()
 			if (ownerID > -1) and (ownerID ~= playerID) then
@@ -141,7 +141,7 @@ function TuvaSingerPromoCheck(playerID, unitID, iX, iY)
 				end
 			end
 		end
-		
+
 		if bIsRivalAdjacent then
 			local iHomeReligion = pPlayer:GetReligionCreatedByPlayer()
 			if (iHomeReligion < 1) and (pPlayer:GetCapitalCity()) then
@@ -154,7 +154,7 @@ function TuvaSingerPromoCheck(playerID, unitID, iX, iY)
 				end
 			end
 		end
-		
+
 		pUnit:SetHasPromotion(iSingerPromo, bShouldPromote)
 	end
 end

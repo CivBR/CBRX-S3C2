@@ -16,6 +16,8 @@ include("FLuaVector.lua")
 --include("TableSaverLoader016.lua");
 --include("ASQ_AlliRani_GlobalDefines.lua");
 
+include("CBRX_TSL_GlobalDefines.lua")
+
 -- I don't really know if this is how you're meant to set it up, if it doesn't work then make the edits in ASQ_AlliRani_TSLSerializerV3.lua instead as it instructs
 -- Would also recommend prefixing with g_ for clarity and because it's easier to autocomplete but /shrug
 ASQ_Civs_SangamPandya = {}
@@ -82,7 +84,7 @@ end
 local g_IsCPActive = Game_IsCPActive()
 --HasTrait
 function HasTrait(player, traitID)
-	if g_IsCPActive then 
+	if g_IsCPActive then
 		return player:HasTrait(traitID)
 	else
 		local leaderType = GameInfo.Leaders[player:GetLeaderType()].Type
@@ -119,7 +121,7 @@ function C15_ASQ_PolicyGet(pPlayer)
 			return k
 		end
 	end
-	
+
 	return -1
 end
 -- /C15 --
@@ -158,7 +160,7 @@ function JFD_GetRandom(lower, upper)
     return Game.Rand((upper + 1) - lower, "") + lower
 end
 
-function C15_ProdTextOnPlot(iX, iY, sString) -- Code's basically Suk's fwiw 
+function C15_ProdTextOnPlot(iX, iY, sString) -- Code's basically Suk's fwiw
     local pHexPos = ToHexFromGrid{x=iX, y=iY}
     local pWorldPos = HexToWorld(pHexPos)
     Events.AddPopupTextEvent(pWorldPos, sString)
@@ -223,7 +225,7 @@ function C15_ASQ_LoadScreen()
 				-- C15 --
 				--ASQ_Civs_SangamPandya[k] = {bGAState = false, iCurrentBonus = -1}
 				ASQ_Civs_SangamPandya[k] = {bGAState = v:IsGoldenAge(), iCurrentBonus = C15_ASQ_PolicyGet(v)}
-				
+
 				if not v:HasPolicy(tPolicies[ASQ_Civs_SangamPandya[k].iCurrentBonus]) then
 					if Player.GrantPolicy then
 						v:GrantPolicy(tPolicies[ASQ_Civs_SangamPandya[k].iCurrentBonus], true)
@@ -264,7 +266,7 @@ function C15_ASQ_DoTurn(playerID)
 			-- Whatever you need to do on GAEnd
 			C15_ASQ_PolicySet(pPlayer, -1)
 		end
-		
+
 		local iCurrentBonus = ASQ_Civs_SangamPandya[playerID].iCurrentBonus
 		if iCurrentBonus == ucArtist or pPlayer:CountNumBuildings(iArtistDummy) > 0 then
 			for pCity in pPlayer:Cities() do
@@ -311,7 +313,7 @@ function C15_ASQ_DoTurn(playerID)
 						local pPlot = pCity:GetCityIndexPlot(i)
 						if pPlot and pPlot:GetWorkingCity() == pCity then
 							local iResource = pPlot:GetResourceType(teamID)
-							if tResources[iResource] and (not tAccounted[iResource]) then 
+							if tResources[iResource] and (not tAccounted[iResource]) then
 								if pPlot:IsResourceConnectedByImprovement(pPlot:GetImprovementType()) then -- Woo new experimental method to give to someone else to test!
 									iCount = iCount + 1
 									tAccounted[iResource] = true
@@ -329,7 +331,7 @@ function C15_ASQ_DoTurn(playerID)
 				pCity:SetNumRealBuilding(iEngineerDummy, iCurrentBonus == ucEngineer and 1 or 0)
 			end
 		end
-	end 
+	end
 end
 
 GameEvents.PlayerDoTurn.Add(C15_ASQ_DoTurn)
@@ -338,7 +340,7 @@ function C15_Asq_CityTrained(playerID, cityID, unitID)
 	local pPlayer = Players[playerID]
 	if pPlayer:GetCivilizationType() == iCiv then
 		local pUnit = pPlayer:GetUnitByID(unitID)
-		if pUnit:IsCombatUnit() then		
+		if pUnit:IsCombatUnit() then
 			local iDomain = pUnit:GetDomainType()
 			if tDomains[iDomain] and tDomains[iDomain] == ASQ_Civs_SangamPandya[playerID].iCurrentBonus then
 				local iScience = math.max(pUnit:GetBaseCombatStrength(), pUnit:GetBaseRangedCombatStrength()) -- Change calculation as you wish
@@ -351,7 +353,7 @@ function C15_Asq_CityTrained(playerID, cityID, unitID)
 	end
 end
 
-GameEvents.CityTrained.Add(C15_Asq_CityTrained)	
+GameEvents.CityTrained.Add(C15_Asq_CityTrained)
 
 function C15_ASQ_Policy(playerID)
 	local pPlayer = Players[playerID]
@@ -386,7 +388,7 @@ function C15_ASQ_GPMission(playerID, unitID) -- Make sure this function is only 
 		end
 		C15_ASQ_DoTurn(playerID)
 	--end
-	
+
 	pUnit:Kill(false, -1)
 end
 -- Then RegisterCallback that
@@ -411,17 +413,17 @@ function ASQ_ALLIRANI_UI_SerialEventUnitInfoDirty()
 		else
 			Controls.UnitActionButton:SetHide(true)
 		end
-		
+
 		Controls.UnitActionButton:SetVoid1(activePlayerID)
 		Controls.UnitActionButton:SetVoid2(unit:GetID())
-		
+
 		local buildCityButtonActive = unit:IsFound();
-					
+
 		local primaryStack = ContextPtr:LookUpControl("/InGame/WorldView/UnitPanel/PrimaryStack")
 		local primaryStretchy = ContextPtr:LookUpControl("/InGame/WorldView/UnitPanel/PrimaryStretchy")
 		primaryStack:CalculateSize();
 		primaryStack:ReprocessAnchoring();
-		
+
 		local stackSize = primaryStack:GetSize();
 		local stretchySize = primaryStretchy:GetSize();
 		 local buildCityButtonSize = 0
@@ -453,7 +455,7 @@ local function ASQ_ALLIRANI_UI_UpdateUnitInfoPanel()
 	Controls.UnitActionButton:ChangeParent(ContextPtr:LookUpControl("/InGame/WorldView/UnitPanel/PrimaryStack"))
 end
  -------------------------------------------------------------------------------------------------------------------------
-local function Initialize()	
+local function Initialize()
 	Events.LoadScreenClose.Add(ASQ_ALLIRANI_UI_UpdateUnitInfoPanel);
 	Events.SerialEventUnitInfoDirty.Add(ASQ_ALLIRANI_UI_SerialEventUnitInfoDirty);
 end
@@ -480,7 +482,7 @@ function CityInfoStackDataRefresh(tCityInfoAddins, tEventsToHook)
 end
 LuaEvents.CityInfoStackDataRefresh.Add(CityInfoStackDataRefresh)
 LuaEvents.RequestCityInfoStackDataRefresh()
- 
+
 function CityInfoStackDirty(key, instance)
 	if key ~= "C15_ASQ_PANDYA_MCIS_Tooltip" then return end
 	ProcessCityScreen(instance)
@@ -497,7 +499,7 @@ function C15_ASQ_CanStartMission(playerID, unitID, iMission)
             return false
         end
     end
-    
+
     return true
 end
 
@@ -517,7 +519,7 @@ function ASQ_Pandya_SpawnPearls(pCity)
             end
         end
     end
-    
+
     return false
 end
 
@@ -561,7 +563,7 @@ function ASQ_Pandya_UU(iPlayer)
         pUnit:SetHasPromotion(GameInfoTypes["PROMOTION_ASQ_MARAVAL"], false)
         if pUnit:GetUnitType() == iMaraval then --assuming here its the UU, and that they lose this ability on upgrade. Can amend if need be
             local pPlot = Map.GetPlot(pUnit:GetX(), pUnit:GetY())
-            if pPlot and pPlot:IsAdjacentToShallowWater() and (not pPlot:IsLake()) then 
+            if pPlot and pPlot:IsAdjacentToShallowWater() and (not pPlot:IsLake()) then
                 pUnit:SetHasPromotion(GameInfoTypes["PROMOTION_ASQ_MARAVAL"], true)
             end
         end
@@ -569,7 +571,7 @@ function ASQ_Pandya_UU(iPlayer)
 end
 GameEvents.PlayerDoTurn.Add(ASQ_Pandya_UU)
 --=======================================================================================================================
--- CORE FUNCTIONS	
+-- CORE FUNCTIONS
 --=======================================================================================================================
 -- Globals
 --------------------------------------------------------------------------------------------------------------------------

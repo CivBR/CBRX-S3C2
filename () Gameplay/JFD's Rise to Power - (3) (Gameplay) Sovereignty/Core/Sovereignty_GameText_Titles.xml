@@ -18,7 +18,7 @@
 			<Text>{1_Title} {2_Leader}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_JFD_BLANK_LEADER_TITLE_REVERSE">
-			<Text>{2_Leader} {1_Title}</Text>
+			<Text>{1_Title} {2_Leader} </Text>
 		</Row>
 		<Row Tag="TXT_KEY_JFD_BLANK_STATE_TITLE">
 			<Text>{1_Title} of {2_Civ}</Text>
@@ -27,7 +27,7 @@
 			<Text>{1_Title} {2_Civ}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_JFD_BLANK_STATE_TITLE_REVERSE">
-			<Text>{2_Civ} {1_Title}</Text>
+			<Text>{1_Title} {2_Civ}</Text>
 		</Row>
 		<!--===================================================-->
 		<!--GOVERNMENT NAMES-->

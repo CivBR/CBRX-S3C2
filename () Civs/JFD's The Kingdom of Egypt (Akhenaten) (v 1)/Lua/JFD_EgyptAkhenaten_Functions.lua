@@ -189,14 +189,14 @@ function JFD_UpdateCapitalHymnBox()
 				local cityInfoBGSizeY = cityInfoBG:GetSizeY()
 				local cityInfoBGNewSizeY = GetPersistentProperty("JFD_CitySizeY")
 				if cityInfoBGSizeY < cityInfoBGNewSizeY then
-					cityInfoBG:SetSizeY(cityInfoBGNewSizeY) 
+					cityInfoBG:SetSizeY(cityInfoBGNewSizeY)
 				end
 			else
 				local topLeftPanel = ContextPtr:LookUpControl("/InGame/CityView/TopLeft")
 				local topLeftPanelSizeY = topLeftPanel:GetSizeY()
 				local topLeftPanelNewSizeY = GetPersistentProperty("JFD_CitySizeY")
 				if topLeftPanelSizeY < topLeftPanelNewSizeY then
-					topLeftPanel:SetSizeY(topLeftPanelNewSizeY) 
+					topLeftPanel:SetSizeY(topLeftPanelNewSizeY)
 				end
 			end
 			if (not OptionsManager.GetSmallUIAssets()) then
@@ -419,7 +419,7 @@ local improvementObeliskID = GameInfoTypes["IMPROVEMENT_JFD_OBELISK"]
 local resourceWheatID = GameInfoTypes["RESOURCE_JFD_WHEAT"]
 function JFD_EgyptAkhenaten_OnObeliskConstructed(playerID, plotX, plotY, improvementID)
 	local player = Players[playerID]
-	if (player:IsAlive() and player:GetCivilizationType() == civilizationID) then 
+	if (player:IsAlive() and player:GetCivilizationType() == civilizationID) then
 		if improvementID == improvementObeliskID then
 			if JFD_HasCompleteHymn(playerID) then
 				for city in player:Cities() do
@@ -437,7 +437,7 @@ function JFD_EgyptAkhenaten_OnObeliskConstructed(playerID, plotX, plotY, improve
 				local hex = ToHexFromGrid(Vector2(adjacentPlot:GetX(), adjacentPlot:GetY()))
 				LuaEvents.SerialEventRawResourceIconDestroyed(hex.x, hex.y)
 			end
-		end 
+		end
 	end
 end
 if isEgyptAkhenatenCivActive then
@@ -446,8 +446,8 @@ end
 ----------------------------------------------------------------------------------------------------------------------------
 -- KOPESH
 ----------------------------------------------------------------------------------------------------------------------------
-local unitPromotionKhopeshID = GameInfoTypes["PROMOTION_JFD_KHOPESH"] 
-local unitPromotionKhopeshDoubleID = GameInfoTypes["PROMOTION_JFD_KHOPESH_DOUBLE"] 
+local unitPromotionKhopeshID = GameInfoTypes["PROMOTION_JFD_KHOPESH"]
+local unitPromotionKhopeshDoubleID = GameInfoTypes["PROMOTION_JFD_KHOPESH_DOUBLE"]
 
 function JFD_EgyptAkhenaten_Khopesh(playerID, unitID, plotX, plotY)
 	local player = Players[playerID]
@@ -461,7 +461,7 @@ function JFD_EgyptAkhenaten_Khopesh(playerID, unitID, plotX, plotY)
 				local unitPlot = unit:GetPlot()
 				for adjacentPlot in PlotAreaSweepIterator(unitPlot, 2, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_INCLUDE) do
 					isUnitNearToObelisk = (adjacentPlot:GetImprovementType() == improvementObeliskID)
-					if isUnitNearToObelisk == true then 
+					if isUnitNearToObelisk == true then
 						break
 					end
 				end

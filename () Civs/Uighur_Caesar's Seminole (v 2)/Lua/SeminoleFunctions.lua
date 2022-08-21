@@ -163,7 +163,7 @@ Events.LoadScreenClose.Add(OnLoadScreenClose)
 
 function HammockFunction(playerID)
 	local player = Players[playerID]
-	if (player:IsAlive() and (not player:IsBarbarian())) then	
+	if (player:IsAlive() and (not player:IsBarbarian())) then
 		for unit in player:Units() do
 			if unit:IsHasPromotion(GameInfoTypes.PROMOTION_UC_HAMMOCK) then
 				local isAdjacentHammock = false
@@ -176,7 +176,7 @@ function HammockFunction(playerID)
 								break
 							end
 						end
-					end 
+					end
 				if isAdjacentHammock then
 					if (not unit:IsHasPromotion(GameInfoTypes.PROMOTION_UC_HAMMOCK_FLANK)) then
 						unit:SetHasPromotion(GameInfoTypes.PROMOTION_UC_HAMMOCK_FLANK, true)

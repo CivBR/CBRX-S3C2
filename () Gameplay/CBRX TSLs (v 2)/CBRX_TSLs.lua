@@ -4,7 +4,7 @@ cbrxTSLs["CIVILIZATION_BABYLON"] = {X = 9, Y = 0, S = "F", O = "F"} --Observer--
 cbrxTSLs["CIVILIZATION_JFD_AFGHANISTAN_DURRANI"] = {X = 56, Y = 50, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_JFD_EGYPT_AKHENATEN"] = {X = 34, Y = 43, S = "F", O = "F"}
 --cbrxTSLs["CIVILIZATION_MC_KILWA"] = {X = 40, Y = 20, S = "F", O = "F"}
-cbrxTSLs["CIVILIZATION_ASQ_SANGAMPANDYA"] = {X = 66, Y = 32, S = "F", O = "F"}
+cbrxTSLs["CIVILIZATION_ASQ_SANGAMPANDYA"] = {X = 66, Y = 32, S = "T", O = "F"}
 --cbrxTSLs["CIVILIZATION_URD_YEMEN"] = {X = 42, Y = 37, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_UC_TURKEY"] = {X = 37, Y = 56, S = "F", O = "F"}
 --cbrxTSLs["CIVILIZATION_GT_PERM"] = {X = 54, Y = 77, S = "F", O = "F"}
@@ -17,7 +17,7 @@ cbrxTSLs["CIVILIZATION_THP_SEN_TUVA"] = {X = 71, Y = 78, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_SAS_VERMONT"] = {X = 151, Y = 74, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_UC_CENTRAL_AMERICA"] = {X = 135, Y = 47, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_JFD_AMERICA_F_ROOSEVELT"] = {X = 147, Y = 67, S = "F", O = "F"}
-cbrxTSLs["CIVILIZATION_US_BRANDENBURG"] = {X = 20, Y = 67, S = "F", O = "F"}
+cbrxTSLs["CIVILIZATION_US_BRANDENBURG"] = {X = 21, Y = 67, S = "F", O = "F"}
 --cbrxTSLs["CIVILIZATION_JFD_LITHUANIA"] = {X = 31, Y = 71, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_SENSHI_GREENLAND"] = {X = 158, Y = 85, S = "T", O = "T"}
 cbrxTSLs["CIVILIZATION_SAS_UGANDA"] = {X = 37, Y = 28, S = "F", O = "F"}
@@ -30,11 +30,11 @@ cbrxTSLs["CIVILIZATION_PG_RIODELAPLATA"] = {X = 154, Y = 17, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_SENSHI_YUGOSLAVIA"] = {X = 27, Y = 58, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_UC_BEST_KOREA"] = {X = 92, Y = 70, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_SAS_MODOC"] = {X = 121, Y = 69, S = "F", O = "F"}
-cbrxTSLs["CIVILIZATION_UC_SEMINOLE"] = {X = 144, Y = 58, S = "F", O = "F"}
+cbrxTSLs["CIVILIZATION_UC_SEMINOLE"] = {X = 144, Y = 58, S = "T", O = "F"}
 cbrxTSLs["CIVILIZATION_US_IRELAND"] = {X = 3, Y = 69, S = "T", O = "T"}
 cbrxTSLs["CIVILIZATION_PB_MORI"] = {X = 97, Y = 65, S = "T", O = "F"}
 cbrxTSLs["CIVILIZATION_MUISCA"] = {X = 145, Y = 42, S = "F", O = "F"}
-cbrxTSLs["CIVILIZATION_SENSHI_CAMBODIA"] = {X = 83, Y = 39, S = "F", O = "F"}
+cbrxTSLs["CIVILIZATION_SENSHI_CAMBODIA"] = {X = 83, Y = 39, S = "T", O = "F"}
 cbrxTSLs["CIVILIZATION_TCM_KIEV"] = {X = 34, Y = 65, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_ERW_KOKANG"] = {X = 79, Y = 49, S = "F", O = "F"}
 cbrxTSLs["CIVILIZATION_JFD_BRAZIL_PEDRO_I"] = {X = 161, Y = 25, S = "F", O = "F"}
@@ -66,7 +66,6 @@ cbrxTSLs["CIVILIZATION_JFD_GREAT_MING_YONGLE"] = {X = 88, Y = 60, S = "F", O = "
 -- Sailing, Pottery, Trapping, Mining, Agriculture, Archery, Compass (with EE + FW-lite enabled)
 local observerTechs = {0, 1, 3, 4, 5, 8}
 local optics = GameInfoTypes["TECH_OPTICS"]
-local galley = GameInfoTypes["UNIT_GALLEY"].ID
 
 function addSailing(iPlayer)
 	if Game.GetGameTurn() > 2 then return end
@@ -130,8 +129,6 @@ function setTSLs()
 				local worker = false
 
 				player:InitUnit(1, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
-				player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
-				player:InitUnit(galley, cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 
 				for u in player:Units() do
 					if u:GetUnitType() == 83 then
