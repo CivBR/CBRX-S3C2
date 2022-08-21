@@ -11,8 +11,6 @@ UPDATE [Leader_Flavors] SET [Flavor] = [Flavor] + 2 WHERE [FlavorType] = 'FLAVOR
 UPDATE [Leader_Flavors] SET [Flavor] = [Flavor] + 2 WHERE [FlavorType] = 'FLAVOR_MOBILE';
 UPDATE [Leader_Flavors] SET [Flavor] = [Flavor] + 2 WHERE [FlavorType] = 'FLAVOR_EXPANSION'; */
 
-CIVILIZATION_THECREEFIRSTNATION
-
 
 UPDATE [leaders] SET [WonderCompetitiveness] = [WonderCompetitiveness] + 2 WHERE Type NOT IN ('LEADER_SENSHI_TITO', 'LEADER_PB_MORI_MOTONARI', 'LEADER_SPLATDAY_WILLIAM', 'LEADER_ERW_OLIVE_YANG', 'CIVILIZATION_THECREEFIRSTNATION');
 UPDATE [leaders] SET [MinorCivCompetitiveness] = [MinorCivCompetitiveness] + 2 WHERE Type NOT IN ('LEADER_SENSHI_TITO', 'LEADER_PB_MORI_MOTONARI', 'LEADER_SPLATDAY_WILLIAM', 'LEADER_ERW_OLIVE_YANG', 'CIVILIZATION_THECREEFIRSTNATION');
