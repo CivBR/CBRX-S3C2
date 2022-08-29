@@ -305,6 +305,13 @@
 		<Row Tag="TXT_KEY_EPITHET_JFD_WISE_HELP">
 			<Text>Your wisdom has left its mark; for the many Great Scientists that you have borne, you have become known as '[COLOR_JFD_EPITHET]the Wise[ENDCOLOR],' granting you a free [ICON_RESEARCH] Technology.</Text>
 		</Row>
+		<!--Lawgiver-->
+		<Row Tag="TXT_KEY_EPITHET_JFD_WISE_DESC">
+			<Text>the Lawgiver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EPITHET_JFD_WISE_SHORT_DESC">
+			<Text>Lawgiver</Text>
+		</Row>
 		<!--===================================================-->
 		<!--POLICY BRANCHES-->
 		<!--===================================================-->

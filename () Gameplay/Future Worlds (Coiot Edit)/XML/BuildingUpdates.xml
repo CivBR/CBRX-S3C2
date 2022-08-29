@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 3/16/2013 11:02:36 AM -->
 <GameData>
-	<Buildings>
+	<!-- <Buildings>
 		<Delete Type="BUILDING_SPACESHIP_FACTORY"/>
-	</Buildings>
+	</Buildings> -->
 	<Building_ResourceQuantityRequirements>
 		<!-- <Update>
 			<Where Type="BUILDING_SPACESHIP_FACTORY"/>

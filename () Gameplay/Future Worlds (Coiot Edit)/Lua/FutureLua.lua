@@ -528,81 +528,81 @@ function BioModReload(iPlayer, iUnit, ePromotion)
 end
 GameEvents.UnitPromoted.Add(BioModReload)
 
-function FWUnitDestroyed(iPlayer, iUnit, iUnitType, iX, iY, bDelay, iByPlayer)
-	local player = Players[iPlayer]
-	if not player:IsAlive() then return end
-	if not (player:GetCurrentEra() > 5) then return end
-	local teamID = player:GetTeam()
-	local pPlayerTeam = Teams[teamID]
-	local pUnit = player:GetUnitByID(iUnit)
+-- function FWUnitDestroyed(iPlayer, iUnit, iUnitType, iX, iY, bDelay, iByPlayer)
+-- 	local player = Players[iPlayer]
+-- 	if not player:IsAlive() then return end
+-- 	if not (player:GetCurrentEra() > 5) then return end
+-- 	local teamID = player:GetTeam()
+-- 	local pPlayerTeam = Teams[teamID]
+-- 	local pUnit = player:GetUnitByID(iUnit)
 
 	-- Must have been killed by another Player
-	if iPlayer == iByPlayer then return end
-	if iByPlayer == -1 then return end
+	-- if iPlayer == iByPlayer then return end
+	-- if iByPlayer == -1 then return end
 
 	-- Must have the Mutation Promotion
-	if not(unitHydra) then return end
+	-- if not(unitHydra) then return end
 -- Hydra effects
-	if unitHydra then
-		local pPlot = pUnit:GetPlot()
-		local bEnemyPresent = false
-		for pAdjacentPlot in PlotAreaSpiralIterator(pPlot, 2, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_INCLUDE) do
-			if pAdjacentPlot and not pAdjacentPlot:IsWater() then
-				for iVal = 0, (pAdjacentPlot:GetNumUnits() - 1) do
-					local loopUnit = pAdjacentPlot:GetUnit(iVal)
-					if loopUnit:GetOwner() ~= iPlayer then
-						local otherTeamID = Players[loopUnit:GetOwner()]:GetTeam()
-						if pPlayerTeam:IsAtWar(otherTeamID) then
-							bEnemyPresent = true
-						end
-					end
-				end
-			end
-		end
-		if bEnemyPresent and not pPlot:IsWater() then
-			local tPlots = {}
-			local pPlot = pUnit:GetPlot()
-			if pPlot then
-				for loopPlot in PlotAreaSweepIterator(pPlot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
-					if loopPlot then
-						if loopPlot:GetNumUnits() < 1 and not loopPlot:IsWater() and not loopPlot:IsMountain() and not loopPlot:IsCity() then
-							table.insert(tPlots, loopPlot)
-						end
-					end
-				end
-				local bShouldContinue = true
-				if #tPlots > 0 then
-					local randomNumber = JFD_GetRandom(1, #tPlots)
-					local tPlot = tPlots[randomNumber]
-					player:InitUnit(unitSwarm, tPlot:GetX(), tPlot:GetY())
-					table.remove(tPlots, randomNumber)
-					if #tPlots > 0 then
-						local randomNumber2 = JFD_GetRandom(1, #tPlots)
-						local tPlot2 = tPlots[randomNumber2]
-						player:InitUnit(unitSwarm, tPlot2:GetX(), tPlot2:GetY())
-						bShouldContinue = false
-					end
-				end
-				if bShouldContinue then
-					for pAdjacentPlot in PlotAreaSweepIterator(pPlot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
-						if pAdjacentPlot then
-							for iVal = 0,(pAdjacentPlot:GetNumUnits() - 1) do
-								local loopUnit = pAdjacentPlot:GetUnit(iVal)
-								if loopUnit:GetOwner() ~= iPlayer then
-									local otherTeamID = Players[loopUnit:GetOwner()]:GetTeam()
-									if pPlayerTeam:IsAtWar(otherTeamID) then
-										loopUnit:ChangeDamage(10)
-									end
-								end
-							end
-						end
-					end
-				end
-			end
-		end
-	end
-end
-GameEvents.UnitPrekill.Add(FWUnitDestroyed)
+	-- if unitHydra then
+	-- 	local pPlot = pUnit:GetPlot()
+	-- 	local bEnemyPresent = false
+	-- 	for pAdjacentPlot in PlotAreaSpiralIterator(pPlot, 2, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_INCLUDE) do
+	-- 		if pAdjacentPlot and not pAdjacentPlot:IsWater() then
+	-- 			for iVal = 0, (pAdjacentPlot:GetNumUnits() - 1) do
+	-- 				local loopUnit = pAdjacentPlot:GetUnit(iVal)
+	-- 				if loopUnit:GetOwner() ~= iPlayer then
+	-- 					local otherTeamID = Players[loopUnit:GetOwner()]:GetTeam()
+	-- 					if pPlayerTeam:IsAtWar(otherTeamID) then
+	-- 						bEnemyPresent = true
+	-- 					end
+	-- 				end
+	-- 			end
+	-- 		end
+	-- 	end
+		-- if bEnemyPresent and not pPlot:IsWater() then
+		-- 	local tPlots = {}
+		-- 	local pPlot = pUnit:GetPlot()
+		-- 	if pPlot then
+		-- 		for loopPlot in PlotAreaSweepIterator(pPlot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
+		-- 			if loopPlot then
+		-- 				if loopPlot:GetNumUnits() < 1 and not loopPlot:IsWater() and not loopPlot:IsMountain() and not loopPlot:IsCity() then
+		-- 					table.insert(tPlots, loopPlot)
+		-- 				end
+		-- 			end
+		-- 		end
+		-- 		local bShouldContinue = true
+		-- 		if #tPlots > 0 then
+		-- 			local randomNumber = JFD_GetRandom(1, #tPlots)
+		-- 			local tPlot = tPlots[randomNumber]
+		-- 			player:InitUnit(unitSwarm, tPlot:GetX(), tPlot:GetY())
+		-- 			table.remove(tPlots, randomNumber)
+		-- 			if #tPlots > 0 then
+		-- 				local randomNumber2 = JFD_GetRandom(1, #tPlots)
+		-- 				local tPlot2 = tPlots[randomNumber2]
+		-- 				player:InitUnit(unitSwarm, tPlot2:GetX(), tPlot2:GetY())
+		-- 				bShouldContinue = false
+		-- 			end
+		-- 		end
+		-- 		if bShouldContinue then
+		-- 			for pAdjacentPlot in PlotAreaSweepIterator(pPlot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
+		-- 				if pAdjacentPlot then
+		-- 					for iVal = 0,(pAdjacentPlot:GetNumUnits() - 1) do
+		-- 						local loopUnit = pAdjacentPlot:GetUnit(iVal)
+		-- 						if loopUnit:GetOwner() ~= iPlayer then
+		-- 							local otherTeamID = Players[loopUnit:GetOwner()]:GetTeam()
+		-- 							if pPlayerTeam:IsAtWar(otherTeamID) then
+		-- 								loopUnit:ChangeDamage(10)
+		-- 							end
+		-- 						end
+		-- 					end
+		-- 				end
+		-- 			end
+		-- 		end
+		-- 	end
+		-- end
+	-- end
+-- end
+-- GameEvents.UnitPrekill.Add(FWUnitDestroyed)
 
 --==========================================================================================================================
 -- WONDERS

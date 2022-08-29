@@ -16,8 +16,6 @@ include("FLuaVector.lua")
 --include("TableSaverLoader016.lua");
 --include("ASQ_AlliRani_GlobalDefines.lua");
 
-include("CBRX_TSL_GlobalDefines.lua")
-
 -- I don't really know if this is how you're meant to set it up, if it doesn't work then make the edits in ASQ_AlliRani_TSLSerializerV3.lua instead as it instructs
 -- Would also recommend prefixing with g_ for clarity and because it's easier to autocomplete but /shrug
 ASQ_Civs_SangamPandya = {}

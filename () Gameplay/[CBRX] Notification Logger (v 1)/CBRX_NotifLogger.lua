@@ -18,15 +18,15 @@ for row in GameInfo.Technologies() do
 	end
 end
 
-for row in GameInfo.BuildingClasses() do
-	if row.MaxGlobalInstances == 1 then
-		--print(row.Type)
-		local buildingID = GameInfo.Buildings[row.DefaultBuilding].ID;
-		if buildingID then
-			IsWonder[buildingID] = true;
-		end
-	end
-end
+-- for row in GameInfo.BuildingClasses() do
+-- 	if row.MaxGlobalInstances == 1 then
+-- 		--print(row.Type)
+-- 		local buildingID = GameInfo.Buildings[row.DefaultBuilding].ID;
+-- 		if buildingID then
+-- 			IsWonder[buildingID] = true;
+-- 		end
+-- 	end
+-- end
 
 GameEvents.PlayerCityFounded.Add(function(player, cityX, cityY)
 --	if Game.GetElapsedGameTurns() > 1 then

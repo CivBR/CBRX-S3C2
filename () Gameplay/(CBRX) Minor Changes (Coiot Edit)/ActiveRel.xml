@@ -15,15 +15,15 @@
 			<Where Type="WORLDSIZE_SMALL"/>
 		</Update>
 		<Update>
-			<Set MaxActiveReligions="12"/>
+			<Set MaxActiveReligions="14"/>
 			<Where Type="WORLDSIZE_STANDARD"/>
 		</Update>
 		<Update>
-			<Set MaxActiveReligions="12"/>
+			<Set MaxActiveReligions="14"/>
 			<Where Type="WORLDSIZE_LARGE"/>
 		</Update>
 		<Update>
-			<Set MaxActiveReligions="12"/>
+			<Set MaxActiveReligions="14"/>
 			<Where Type="WORLDSIZE_HUGE"/>
 		</Update>
 	</Worlds>

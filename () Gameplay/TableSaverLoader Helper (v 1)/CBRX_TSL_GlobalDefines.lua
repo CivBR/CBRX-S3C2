@@ -8,17 +8,11 @@ CBRX							= MapModData.CBRX
 CBRX.JFD_RTP					= CBRX.JFD_RTP or {}
 JFD_RTP							= CBRX.JFD_RTP
 
-CBRX.JFD_RTP_CyclesOfPower		= CBRX.JFD_RTP_CyclesOfPower or {}
-JFD_RTP_CyclesOfPower			= CBRX.JFD_RTP_CyclesOfPower
-
 CBRX.JFD_RTP_Epithets			= CBRX.JFD_RTP_Epithets or {}
 JFD_RTP_Epithets				= CBRX.JFD_RTP_Epithets
 
 CBRX.JFD_RTP_Sovereignty		= CBRX.JFD_RTP_Sovereignty or {}
 JFD_RTP_Sovereignty				= CBRX.JFD_RTP_Sovereignty
-
-CBRX.ASQ_Civs_SangamPandya		= CBRX.ASQ_Civs_SangamPandya or {}
-ASQ_Civs_SangamPandya			= CBRX.ASQ_Civs_SangamPandya
 --==========================================================================================================================
 --==========================================================================================================================
 --==========================================================================================================================

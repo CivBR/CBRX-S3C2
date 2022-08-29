@@ -547,7 +547,7 @@
 			<Class>UNITCLASS_FW_HYDRA</Class>
 			<Type>UNIT_FW_HYDRA</Type>
 			<PrereqTech>TECH_TERRAFORMING</PrereqTech>
-			<Combat>120</Combat>
+			<Combat>125</Combat>
 			<Cost>550</Cost>
 			<Moves>4</Moves>
 			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
@@ -561,8 +561,8 @@
 			<MilitaryProduction>true</MilitaryProduction>
 			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
 			<AdvancedStartCost>80</AdvancedStartCost>
-			<XPValueAttack>3</XPValueAttack>
-			<XPValueDefense>3</XPValueDefense>
+			<XPValueAttack>5</XPValueAttack>
+			<XPValueDefense>5</XPValueDefense>
 			<UnitArtInfo>ART_DEF_UNIT_FW_HYDRA</UnitArtInfo>
 			<UnitFlagAtlas>FLAG_ATLAS_FUTURE_5</UnitFlagAtlas>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
