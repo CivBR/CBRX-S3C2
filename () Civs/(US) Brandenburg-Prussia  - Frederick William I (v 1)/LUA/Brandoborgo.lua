@@ -1,5 +1,5 @@
 WARN_NOT_SHARED = false; include( "SaveUtils" ); MY_MOD_NAME = "usBrandenburg";
-include("PlotIterators")
+include("PlotIterators.lua")
 --==========================================================================================================================
 --AUTHOR: TarcisioCM
 --==========================================================================================================================
@@ -45,10 +45,10 @@ function potsdamReset(playerID)
 				table.insert(PotsdamGiants, unit)
 			end
 		end
-		for key,PotsdamGiant in pairs(PotsdamGiants) do 
+		for key,PotsdamGiant in pairs(PotsdamGiants) do
 			local plot = PotsdamGiant:GetPlot()
 			for loopPlot in PlotAreaSweepIterator(plot, 2, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_INCLUDE) do
-				for i = 0, loopPlot:GetNumUnits() - 1, 1 do  
+				for i = 0, loopPlot:GetNumUnits() - 1, 1 do
 					local otherUnit = loopPlot:GetUnit(i)
 					if otherUnit and otherUnit:GetOwner() == playerID and otherUnit:IsCombatUnit() then
 						local level = PotsdamGiant:GetLevel()
@@ -65,7 +65,7 @@ function potsdamReset(playerID)
 								end
 								otherUnit:SetHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_2"], true)
 							end
-						else 
+						else
 							if not(otherUnit:IsHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_3"])) and not(otherUnit:IsHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_2"])) then
 								otherUnit:SetHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_1"], true)
 							end
@@ -85,7 +85,7 @@ function potsdamGiant(playerID, unitID, unitX, unitY)
 		local plot = unit:GetPlot()
 		if unit:GetUnitType() == GameInfoTypes["UNIT_US_GIANTS"] then
 			for loopPlot in PlotAreaSweepIterator(plot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_INCLUDE) do
-				for i = 0, loopPlot:GetNumUnits() - 1, 1 do  
+				for i = 0, loopPlot:GetNumUnits() - 1, 1 do
 					local otherUnit = loopPlot:GetUnit(i)
 					if otherUnit and otherUnit:GetOwner() == playerID and otherUnit:IsCombatUnit() then
 						local level = unit:GetLevel()
@@ -102,7 +102,7 @@ function potsdamGiant(playerID, unitID, unitX, unitY)
 								end
 								otherUnit:SetHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_2"], true)
 							end
-						else 
+						else
 							if not(otherUnit:IsHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_3"])) and not(otherUnit:IsHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_2"])) then
 								otherUnit:SetHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_1"], true)
 							end
@@ -132,7 +132,7 @@ function potsdamGiant(playerID, unitID, unitX, unitY)
 								end
 								unit:SetHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_2"], true)
 							end
-						else 
+						else
 							if not(unit:IsHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_3"])) and not(unit:IsHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_2"])) then
 								unit:SetHasPromotion(GameInfoTypes["PROMOTION_US_GIANTS_1"], true)
 							end
@@ -150,7 +150,7 @@ function PotsdamGiantDisband(unitOwnerId, unitId, unitType, unitX, unitY, bDelay
 		local player = Players[unitOwnerId]
 		if eKillingPlayer == nil then
 			local unit = player:GetUnitByID(unitId)
-			if unit:GetUnitType() == GameInfoTypes["UNIT_US_GIANTS"] and unit:GetLevel() >= 5 then 
+			if unit:GetUnitType() == GameInfoTypes["UNIT_US_GIANTS"] and unit:GetLevel() >= 5 then
 				local plot = unit:GetPlot()
 				local city = plot:GetPlotCity()
 				if city then
@@ -182,12 +182,12 @@ GameEvents.CityTrained.Add(UnitTrained)
 function potsdamReset1(playerID)
 	local player = Players[playerID]
 	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_US_BRANDENBURG"] then
-		local turnsLeft = load(player, "usBrandenburgTurnsLeft") 
+		local turnsLeft = load(player, "usBrandenburgTurnsLeft")
 		if turnsLeft then
 			local newTurnsLeft = turnsLeft
 			if turnsLeft == 0 then
 				newTurnsLeft = nil
-			else 
+			else
 				newTurnsLeft = turnsLeft - 1
 			end
 			for unit in player:Units() do

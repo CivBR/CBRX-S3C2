@@ -376,11 +376,11 @@ function ProcessCityScreen(pInstance)
 		return
 	end
 	print("Player and City Owner are both Cree!")
-	
+
 	pInstance.IconFrame:SetToolTipType("CreeNationTip")
 	--Get Appropriate Cree Nation
 	local pNation = SabtuanAudit(pCity:Plot())
-	
+
 	if pNation == 0 then
 		--Swampy (Needs Warning)
 		IconHookup(3, 64, "CREENATIONS_ATLAS", pInstance.IconImage)
