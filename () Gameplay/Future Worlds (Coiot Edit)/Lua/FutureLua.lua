@@ -377,25 +377,25 @@ function FutureTurnUnitEffects(iPlayer)
 	for pUnit in player:Units() do
 		local iType = pUnit:GetUnitType()
 
-		-- Crawler effects
-		-- if iType == unitCrawler then
-		-- 	local iCheckForMissileProduction = JFD_GetRandom(1, 100)
-		-- 	if (iCheckForMissileProduction < iChanceMissileProduction) then
-		-- 		local pPlot = pUnit:GetPlot()
-		-- 		if pPlot then
-		-- 			local iNumMissiles = 0
-		-- 			for iVal = 0,(pPlot:GetNumUnits() - 1) do
-		-- 				local loopUnit = pPlot:GetUnit(iVal)
-		-- 				if loopUnit:GetUnitType() == unitHyperMissile then
-		-- 					iNumMissiles = iNumMissiles + 1
-		-- 				end
-		-- 			end
-		-- 			if iNumMissiles < 3 then
-		-- 				player:InitUnit(unitHyperMissile, pPlot:GetX(), pPlot:GetY())
-		-- 			end
-		-- 		end
-		-- 	end
-		-- end
+		Crawler effects
+		if iType == unitCrawler then
+			local iCheckForMissileProduction = JFD_GetRandom(1, 100)
+			if (iCheckForMissileProduction < iChanceMissileProduction) then
+				local pPlot = pUnit:GetPlot()
+				if pPlot then
+					local iNumMissiles = 0
+					for iVal = 0,(pPlot:GetNumUnits() - 1) do
+						local loopUnit = pPlot:GetUnit(iVal)
+						if loopUnit:GetUnitType() == unitHyperMissile then
+							iNumMissiles = iNumMissiles + 1
+						end
+					end
+					if iNumMissiles < 3 then
+						player:InitUnit(unitHyperMissile, pPlot:GetX(), pPlot:GetY())
+					end
+				end
+			end
+		end
 
 		if bIsAlive then
 			-- Healing adjacent to core

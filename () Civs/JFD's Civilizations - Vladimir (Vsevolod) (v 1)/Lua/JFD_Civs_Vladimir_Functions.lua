@@ -172,19 +172,19 @@ if g_IsCPActive then
 	GameEvents.GreatPersonExpended.Add(JFD_VladimirSuzdal_GreatPersonExpended)
 end
 
--- function WartimeInnovation(playerID, unitID, unitType, iX, iY, bDelay, killerID)
-  -- if not bDelay then return end
-  -- local pPlayer = Players[playerID]
-  -- local pUnit = pPlayer:GetUnitByID(unitID)
-  -- if pUnit:IsCombatUnit() then
-    -- local pTeam = Teams[pPlayer:GetTeam()]
-    -- local iCurrentTech = pPlayer:GetCurrentResearch()
-    -- local iStrength = GameInfo.Units[unitType].Combat
-    -- local iScienceGain = math.ceil(iStrength / 10)
-    -- pTeam:GetTeamTechs():ChangeResearchProgress(iCurrentTech, iScienceGain, playerID)
-  -- end
--- end
--- GameEvents.UnitPrekill.Add(WartimeInnovation)
+function WartimeInnovation(playerID, unitID, unitType, iX, iY, bDelay, killerID)
+  if not bDelay then return end
+  local pPlayer = Players[playerID]
+  local pUnit = pPlayer:GetUnitByID(unitID)
+  if pUnit:IsCombatUnit() then
+    local pTeam = Teams[pPlayer:GetTeam()]
+    local iCurrentTech = pPlayer:GetCurrentResearch()
+    local iStrength = GameInfo.Units[unitType].Combat
+    local iScienceGain = math.ceil(iStrength / 15)
+    pTeam:GetTeamTechs():ChangeResearchProgress(iCurrentTech, iScienceGain, playerID)
+  end
+end
+GameEvents.UnitPrekill.Add(WartimeInnovation)
 
 -- function totalWar(teamID, otherTeamID)
     -- if teamID == 0 or otherTeamID == 0 then return end

@@ -1,22 +1,28 @@
+print("UL Loading")
+
 local tCivilians = {}
-for row in DB.Query("SELECT * FROM Units WHERE (Combat = 0 AND AirCombat = 0)") do
+for row in DB.Query("SELECT * FROM Units WHERE (Combat = 0 AND RangedCombat = 0)") do
 	tCivilians[row.ID] = row.Type
 end
+print("UL CIVS")
 
 local tLandUnits = {}
-for row in DB.Query("SELECT * FROM Units WHERE (Domain = DOMAIN_Land)") do
+for row in DB.Query("SELECT * FROM Units WHERE Domain = 'DOMAIN_LAND'") do
 	tLandUnits[row.ID] = row.Type
 end
+print("UL LAND")
 
 local tAirUnits = {}
-for row in DB.Query("SELECT * FROM Units WHERE (Domain = DOMAIN_AIR)") do
+for row in DB.Query("SELECT * FROM Units WHERE Domain = 'DOMAIN_AIR'") do
 	tAirUnits[row.ID] = row.Type
 end
+print("UL AIR")
 
 local tSeaUnits = {}
-for row in DB.Query("SELECT * FROM Units WHERE (Domain = DOMAIN_SEA)") do
+for row in DB.Query("SELECT * FROM Units WHERE Domain = 'DOMAIN_SEA'") do
 	tSeaUnits[row.ID] = row.Type
 end
+print("UL Units")
 
 function EW_UnitLimits_Check(playerID)
 	local pPlayer = Players[playerID]
@@ -36,13 +42,13 @@ function EW_UnitLimits_Check(playerID)
 	local iAvg_Pop = iTotal_Pop / iCities
 
 	--Land Unit Count
-	iLandCap = iLandCap + math.ceil((5 * iCities) * iAvg_Pop)
+	iLandCap = iLandCap + math.ceil((12 * iCities) * iAvg_Pop)
 
 	--Air Unit Count
-	iAirCap = iAirLandCap + math.ceil((2 * iCities) * iAvg_Pop)
+	iAirCap = iAirCap + math.ceil((3 * iCities) * iAvg_Pop)
 
 	--Sea Unit Count
-	iSeaCap = iSeaCap + math.ceil((1.5 * iCities) * iAvg_Pop)
+	iSeaCap = iSeaCap + math.ceil((2 * iCities) * iAvg_Pop)
 
 	local iLandUnits = 0
 	for pUnit in pPlayer:Units() do
@@ -65,25 +71,20 @@ function EW_UnitLimits_Check(playerID)
 		end
 	end
 
-	local iTotalUnits = 0
-	for pUnit in pPlayer:Units() do
-		if not pUnit:IsCombatUnit() then
-			iTotalUnits = iTotalUnits + 1
-		end
-	end
-
-	return iLandCap, iAirCap, iSeaCap, iLandUnits, iAirUnits, iSeaUnits, iTotalUnits
+	return iLandCap, iAirCap, iSeaCap, iLandUnits, iAirUnits, iSeaUnits
 end
+print("UL Check")
 
 function EW_UnitLimits_Roundabout(playerID)
-	local iLandCap, iAirCap, iSeaCap, iLandUnits, iAirUnits, iSeaUnits, iTotalUnits = EW_UnitLimits_Check(playerID)
+	local iLandCap, iAirCap, iSeaCap, iLandUnits, iAirUnits, iSeaUnits = EW_UnitLimits_Check(playerID)
 end
 GameEvents.PlayerDoTurn.Add(EW_UnitLimits_Roundabout)
+print("UL Roundabout")
 
 function EW_UnitLimits_CanTrain(playerID, cityID, unitType)
 	local pPlayer = Players[playerID]
 
-	local iLandCap, iAirCap, iSeaCap, iLandUnits, iAirUnits, iSeaUnits, iTotalUnits = EW_UnitLimits_Check(playerID)
+	local iLandCap, iAirCap, iSeaCap, iLandUnits, iAirUnits, iSeaUnits = EW_UnitLimits_Check(playerID)
 
 	if tCivilians[unitType] then
 		return true
@@ -92,20 +93,19 @@ function EW_UnitLimits_CanTrain(playerID, cityID, unitType)
 			return false
 		end
 	elseif tAirUnits[unitType] then
-		if iAirUnits >= iAiCap then
+		if iAirUnits >= iAirCap then
 			return false
 		end
 	elseif tSeaUnits[unitType] then
 		if iSeaUnits >= iSeaCap then
 			return false
 		end
-	elseif iTotalUnits >= (iLandCap + iAirCap + iSeaCap) then
-		return false
 	end
 
 	return true
 end
 GameEvents.CityCanTrain.Add(EW_UnitLimits_CanTrain)
+print("UL Can Train")
 
 --Load for active player
 function EW_UnitLimits_GameLoad()
@@ -114,3 +114,4 @@ function EW_UnitLimits_GameLoad()
 end
 Events.SequenceGameInitComplete.Add(EW_UnitLimits_GameLoad)
 Events.SerialEventUnitInfoDirty.Add(EW_UnitLimits_GameLoad)
+print("UL Loaded")
