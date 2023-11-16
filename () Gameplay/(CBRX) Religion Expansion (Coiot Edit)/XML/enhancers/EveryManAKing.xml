@@ -15,50 +15,44 @@
 			<BeliefType>BELIEF_EVERY_MAN_A_KING</BeliefType>
 			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<YieldChange>2</YieldChange>
+			<YieldChange>-5</YieldChange>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_EVERY_MAN_A_KING</BeliefType>
 			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
-			<YieldType>YIELD_FOOD</YieldType>
-			<YieldChange>1</YieldChange>
-		</Row>
-		<Row>
-			<BeliefType>BELIEF_EVERY_MAN_A_KING</BeliefType>
-			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<YieldChange>1</YieldChange>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>-5</YieldChange>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_EVERY_MAN_A_KING</BeliefType>
 			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
 			<YieldType>YIELD_CULTURE</YieldType>
-			<YieldChange>1</YieldChange>
+			<YieldChange>-5</YieldChange>
 		</Row>
 	</Belief_BuildingClassYieldChanges>
 	
 	<Belief_CityYieldChanges>
 		<Row>
 			<BeliefType>BELIEF_EVERY_MAN_A_KING</BeliefType>
-			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>-10</Yield>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_EVERY_MAN_A_KING</BeliefType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>-10</Yield>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_EVERY_MAN_A_KING</BeliefType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>-10</Yield>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
 		</Row>
 	</Belief_CityYieldChanges>
 
 	<Language_en_US>
 	 <Delete Tag="TXT_KEY_BELIEF_EVERY_MAN_A_KING" />
 		<Row Tag="TXT_KEY_BELIEF_EVERY_MAN_A_KING">
-			<Text>All cities recieve +1 [ICON_FOOD] Food, [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, [ICON_PEACE] Faith, [ICON_CULTURE] Culture, [ICON_SCIENCE] Science per city. However the Palace loses 10 [ICON_CULTURE], [ICON_SCIENCE] Science and [ICON_PEACE] Faith.</Text>
+			<Text>All cities recieve +1 [ICON_FOOD] Food, [ICON_PRODUCTION] Production, and [ICON_GOLD] Gold Science per city. However the Palace loses 5 [ICON_CULTURE], [ICON_SCIENCE] Science, and [ICON_PEACE] Faith.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_EVERY_MAN_A_KING_SHORT">
 			<Text>Every Man A King</Text>

@@ -4,7 +4,7 @@
 
 	<Beliefs>
 		<Update>
-			<Set Pantheon="false" Follower="true" PlotCultureCostModifier="-40" />
+			<Set Pantheon="false" Follower="true" PlotCultureCostModifier="-30" />
 			<Where Type="BELIEF_MESSENGER_GODS" />
 		</Update>
 	</Beliefs>
@@ -17,8 +17,8 @@
 		</Row>
 		<Delete Tag="TXT_KEY_BELIEF_MESSENGER_GODS" />
 		<Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS">
-			<Text>40% faster border growth in Cities [ICON_CONNECTED] connected to the [ICON_CAPITAL] Capital.</Text>
+			<Text>30% faster border growth in Cities [ICON_CONNECTED] connected to the [ICON_CAPITAL] Capital.</Text>
 		</Row>
 	</Language_en_US>
-	
+
 </GameData>

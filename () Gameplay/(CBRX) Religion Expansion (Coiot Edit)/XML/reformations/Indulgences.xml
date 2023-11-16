@@ -20,12 +20,12 @@
 		<Row>
 			<BeliefType>BELIEF_INDULGENCES_NQ</BeliefType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>1</Yield>
+			<Yield>-1</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_INDULGENCES_NQ</BeliefType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>1</Yield>
+			<Yield>-1</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_INDULGENCES_NQ</BeliefType>
@@ -47,7 +47,7 @@
 	<Language_en_US>
 		<Delete Tag="TXT_KEY_BELIEF_INDULGENCES_NQ" />
 		<Row Tag="TXT_KEY_BELIEF_INDULGENCES_NQ">
-			<Text>+1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, +1 [ICON_RESEARCH] Science, +1 [ICON_GOLD] Gold, +1 [ICON_CULTURE] Culture, and +1 [ICON_PEACE] Faith in Cities following this Religion</Text>
+			<Text>+1 [ICON_FOOD] Food, +1 [ICON_RESEARCH] Science, +1 [ICON_CULTURE] Culture, and +1 [ICON_PEACE] Faith but -1 [ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production in Cities following this Religion</Text>
 		</Row>
 	</Language_en_US>
 

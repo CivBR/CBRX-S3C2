@@ -1125,7 +1125,7 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<AllowsRangeStrike>true</AllowsRangeStrike>
-			<Defense>1200</Defense>
+			<Defense>600</Defense>
 			<ExtraCityHitPoints>100</ExtraCityHitPoints>
 			<HurryCostModifier>0</HurryCostModifier>
 			<IconAtlas>CIV_COLOR_ATLAS_FW_2</IconAtlas>
@@ -1147,7 +1147,7 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<AllowsRangeStrike>true</AllowsRangeStrike>
-			<Defense>1200</Defense>
+			<Defense>300</Defense>
 			<ExtraCityHitPoints>100</ExtraCityHitPoints>
 			<HurryCostModifier>0</HurryCostModifier>
 			<IconAtlas>CIV_COLOR_ATLAS_FW_2</IconAtlas>

@@ -5,7 +5,7 @@
 	<!-- +1 [ICON_FOOD] Food and +15% [ICON_FOOD] Growth (excess Food) in all cities. -->
 	<Beliefs>
 		<Update>
-			<Set Follower="false" Reformation="true" CityGrowthModifier="25" RequiresPeace="false" />
+			<Set Follower="false" Reformation="true" CityGrowthModifier="20" RequiresPeace="false" />
 			<Where Type="BELIEF_SWORD_PLOWSHARES" />
 		</Update>
 	</Beliefs>

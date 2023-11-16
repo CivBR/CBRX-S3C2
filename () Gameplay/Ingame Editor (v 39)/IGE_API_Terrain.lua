@@ -482,6 +482,7 @@ end
 
 -------------------------------------------------------------------------------------------------
 function SetImprovement(improvement, plot)
+	print("improvement.ID", improvement.ID)
 	if plot and (plot:GetImprovementType() ~= improvement.ID or plot:IsImprovementPillaged() ~= IGE.pillaged) then
 		plot:SetImprovementType(improvement.ID);
 		plot:SetImprovementPillaged(IGE.pillaged);

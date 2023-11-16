@@ -65,10 +65,18 @@
 								ToolTip="TXT_KEY_IGE_EXPLORE_MAP_BUTTON_HELP">
 						<Label Anchor="C,C"  Offset="0,0" String="TXT_KEY_IGE_EXPLORE_MAP_BUTTON" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"  />
 					</GridButton>
+					<GridButton ID="ExploreMapAllButton" Anchor="L,T" Style="SmallButton" Size="180,24" Offset="0,5" StateOffsetIncrement="0,0"
+								ToolTip="TXT_KEY_IGE_EXPLORE_MAP_ALL_BUTTON_HELP">
+						<Label Anchor="C,C"  Offset="0,0" String="TXT_KEY_IGE_EXPLORE_MAP_ALL_BUTTON" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"  />
+					</GridButton>
 
 					<GridButton ID="UnexploreMapButton" Anchor="L,T" Style="SmallButton" Size="180,24" Offset="0,5" StateOffsetIncrement="0,0"
 								ToolTip="TXT_KEY_IGE_UNEXPLORE_MAP_BUTTON_HELP">
 						<Label Anchor="C,C"  Offset="0,0" String="TXT_KEY_IGE_UNEXPLORE_MAP_BUTTON" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"  />
+					</GridButton>
+					<GridButton ID="UnexploreMapAllButton" Anchor="L,T" Style="SmallButton" Size="180,24" Offset="0,5" StateOffsetIncrement="0,0"
+								ToolTip="TXT_KEY_IGE_UNEXPLORE_MAP_ALL_BUTTON_HELP">
+						<Label Anchor="C,C"  Offset="0,0" String="TXT_KEY_IGE_UNEXPLORE_MAP_ALL_BUTTON" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"  />
 					</GridButton>
 
 					<GridButton ID="KillUnitsButton" Anchor="L,T" Style="SmallButton" Size="180,24" Offset="0,5" StateOffsetIncrement="0,0"

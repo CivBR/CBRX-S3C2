@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="abcd2558-2f6f-4e6b-b4e5-10e0138464a8" version="1">
+  <Properties>
+    <Name>(EW) Eye Spies</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>[COLOR_POSITIVE_TEXT]Where in the world are they?[ENDCOLOR]</Teaser>
+    <Description>An observable list of all players' spies. Designed for use in AI games.[NEWLINE]
+[NEWLINE]
+Credit to the folks at the CivBattleRoyale on Reddit!</Description>
+    <Authors>ExplosiveWatermelon</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B358780FDCB410CC8D72FADFF9945D73" import="0">Functions/EW_Functions_EyeSpy.lua</File>
+    <File md5="C80CEB3A4EF48BFEFD05F73635C0FA66" import="1">Functions/EW_Functions_EyeSpy.xml</File>
+  </Files>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Functions/EW_Functions_EyeSpy.lua">
+      <Name>EW_Functions_EyeSpy</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

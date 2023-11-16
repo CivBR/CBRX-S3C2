@@ -32,6 +32,7 @@ function InitializeHelp()
 	print("IGE_TechsPanel.InitializeHelp");
 	for _, v in pairs(data.techsByTypes) do
 		v.help = GetIGEHelpTextForTech(v)
+		v.note = Locale.ConvertTextKey("[COLOR_POSITIVE_TEXT]RIGHT-click[ENDCOLOR] to grants the selected Technology to ALL Civilizations.")
 		AppendIDAndTypeToHelp(v)
 	end
 end
@@ -119,6 +120,7 @@ function InitializeControls()
 				instance.Portrait:SetTextureOffset(tech.smallTextureOffset);
 				instance.Button:SetToolTipCallback(function() ToolTipHandler(tech) end);
 				instance.Button:RegisterCallback(Mouse.eLClick, function() ClickHandler(tech) end);
+				instance.Button:RegisterCallback(Mouse.eRClick, function() ClickHandler(tech,true) end);
 			end
 		end
 	end
@@ -141,6 +143,7 @@ LuaEvents.IGE_SharingGlobalAndOptions.Add(OnSharingGlobalAndOptions);
 
 -------------------------------------------------------------------------------------------------
 function OnInitialize()
+	SetPlayersData(data, {});
 	SetTechnologiesData(data);
 	CheckLayoutForTechs(data);
 	SetBuildingsData(data);
@@ -165,58 +168,119 @@ end
 LuaEvents.IGE_SelectedPanel.Add(OnSelectedPanel);
 
 -------------------------------------------------------------------------------------------------
-function ClickHandler(tech)
+function ClickHandler(tech,grantToAll)
 	local pTeam = Teams[IGE.currentPlayer:GetTeam()];
 	local newValue = not pTeam:IsHasTech(tech.ID);
+	
+	if (not grantToAll) then
 
-	-- Toggle one tech
-	if not UIManager:GetShift() then
-		pTeam:SetHasTech(tech.ID, newValue, IGE.currentPlayerID, true, true);
-
-	-- Add the tech and all of its prereq
-	elseif newValue then
-		local added = { tech };
-		
-		while #added ~= 0 do
-			local added2 = {};
-			for _, tech in ipairs(added) do
-				pTeam:SetHasTech(tech.ID, true, IGE.currentPlayerID, true, true);
-
-				for _, prereq in ipairs(tech.prereqs) do
-					if not pTeam:IsHasTech(prereq.ID) then 
-						table.insert(added2, prereq);
-					end
-				end
-			end
-			added = added2;
-		end
-
-	-- Remove the tech and all of its children
-	else
-		local count = 1;
-		local removed = {};
-		removed[tech.ID] = true;
-
-		while count ~= 0 do
-			for id in pairs(removed) do
-				pTeam:SetHasTech(id, false, IGE.currentPlayerID, true, true);
-			end
-
-			count = 0;
-			local removed2 = {};
-			for _, tech in ipairs(data.techs) do
-				if pTeam:IsHasTech(tech.ID) then
+		-- Toggle one tech
+		if not UIManager:GetShift() then
+			pTeam:SetHasTech(tech.ID, newValue, IGE.currentPlayerID, true, true);
+	
+		-- Add the tech and all of its prereq
+		elseif newValue then
+			local added = { tech };
+			
+			while #added ~= 0 do
+				local added2 = {};
+				for _, tech in ipairs(added) do
+					pTeam:SetHasTech(tech.ID, true, IGE.currentPlayerID, true, true);
+	
 					for _, prereq in ipairs(tech.prereqs) do
-						if removed[prereq.ID] then 
-							removed2[tech.ID] = true;
-							count = count + 1;
+						if not pTeam:IsHasTech(prereq.ID) then 
+							table.insert(added2, prereq);
 						end
 					end
 				end
+				added = added2;
 			end
-
-			removed = removed2;
+	
+		-- Remove the tech and all of its children
+		else
+			local count = 1;
+			local removed = {};
+			removed[tech.ID] = true;
+	
+			while count ~= 0 do
+				for id in pairs(removed) do
+					pTeam:SetHasTech(id, false, IGE.currentPlayerID, true, true);
+				end
+	
+				count = 0;
+				local removed2 = {};
+				for _, tech in ipairs(data.techs) do
+					if pTeam:IsHasTech(tech.ID) then
+						for _, prereq in ipairs(tech.prereqs) do
+							if removed[prereq.ID] then 
+								removed2[tech.ID] = true;
+								count = count + 1;
+							end
+						end
+					end
+				end
+	
+				removed = removed2;
+			end
 		end
+	else
+		for i, v in ipairs(data.allPlayers) do
+			local player = Players[v.ID]
+			if player:IsAlive() then
+				local playerTeamID = player:GetTeam()
+				pTeam = Teams[playerTeamID];
+				
+				-- Toggle one tech
+				if not UIManager:GetShift() then
+					pTeam:SetHasTech(tech.ID, newValue, IGE.currentPlayerID, true, true);
+			
+				-- Add the tech and all of its prereq
+				elseif newValue then
+					local added = { tech };
+					
+					while #added ~= 0 do
+						local added2 = {};
+						for _, tech in ipairs(added) do
+							pTeam:SetHasTech(tech.ID, true, IGE.currentPlayerID, true, true);
+			
+							for _, prereq in ipairs(tech.prereqs) do
+								if not pTeam:IsHasTech(prereq.ID) then 
+									table.insert(added2, prereq);
+								end
+							end
+						end
+						added = added2;
+					end
+			
+				-- Remove the tech and all of its children
+				else
+					local count = 1;
+					local removed = {};
+					removed[tech.ID] = true;
+			
+					while count ~= 0 do
+						for id in pairs(removed) do
+							pTeam:SetHasTech(id, false, IGE.currentPlayerID, true, true);
+						end
+			
+						count = 0;
+						local removed2 = {};
+						for _, tech in ipairs(data.techs) do
+							if pTeam:IsHasTech(tech.ID) then
+								for _, prereq in ipairs(tech.prereqs) do
+									if removed[prereq.ID] then 
+										removed2[tech.ID] = true;
+										count = count + 1;
+									end
+								end
+							end
+						end
+			
+						removed = removed2;
+					end
+				end
+			end
+		end		
 	end
 	OnUpdate();
 end
@@ -272,7 +336,7 @@ function UpdateCore()
 				instance.Root:SetHide(not visible);
 				instance.Root:SetOffsetX(offset);
 
-				local width = UpdateList(era.techs, fallbackTechManagers[i], ClickHandler, nil, instances[era]);
+				local width = UpdateList(era.techs, fallbackTechManagers[i], ClickHandler, nil, nil, instances[era]);
 				offset = offset + width + 10;
 
 				instance.HeaderArea:SetSizeX(width + 10);

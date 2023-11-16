@@ -81,7 +81,7 @@
 			<ArtDefineTag>CASTLE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
 			<AllowsRangeStrike>true</AllowsRangeStrike>
-			<Defense>500</Defense>
+			<Defense>400</Defense>
 			<ExtraCityHitPoints>25</ExtraCityHitPoints>
 			<HurryCostModifier>25</HurryCostModifier>
 			<IconAtlas>ENLIGHTENMENT_BUILDING_ATLAS</IconAtlas>

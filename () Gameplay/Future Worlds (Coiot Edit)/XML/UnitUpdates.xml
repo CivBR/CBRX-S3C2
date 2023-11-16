@@ -18,7 +18,7 @@
 
 		<Update>
 			<Where Type="UNIT_MECH"/>
-			<Set PrereqTech="TECH_ADAMANTIUM" Cost="1200"/>
+			<Set PrereqTech="TECH_ADAMANTIUM" Cost="1100"/>
 		</Update>
 		<Update>
 			<Where Type="UNIT_STEALTH_BOMBER" />
@@ -30,7 +30,7 @@
 		</Update>
 		<Update>
 			<Where Type="UNIT_XCOM_SQUAD"/>
-			<Set Combat="110" Cost="500" Moves="4" PrereqTech="TECH_ENERGY_THEORY"/>
+			<Set Combat="115" Cost="450" Moves="5" PrereqTech="TECH_ENERGY_THEORY"/>
 		</Update>
 		<Update>
 			<Where Type="UNIT_GUIDED_MISSILE"/>
@@ -149,10 +149,10 @@
 	</Unit_Flavors>
 	<Unit_ResourceQuantityRequirements>
 		<Delete UnitType="UNIT_XCOM_SQUAD"/>
-		<Row>
+		<!-- <Row>
 			<UnitType>UNIT_XCOM_SQUAD</UnitType>
 			<ResourceType>RESOURCE_NANOMAT</ResourceType>
-		</Row>
+		</Row> -->
 		<Delete UnitType="UNIT_MECH"/>
 		<Row>
 			<UnitType>UNIT_MECH</UnitType>
@@ -162,7 +162,7 @@
 			<UnitType>UNIT_MECH</UnitType>
 			<ResourceType>RESOURCE_URANIUM</ResourceType>
 		</Row>
-		<Delete UnitType="UNIT_SS_ENGINE"/>
+		<!-- <Delete UnitType="UNIT_SS_ENGINE"/>
 		<Row>
 			<UnitType>UNIT_SS_ENGINE</UnitType>
 			<ResourceType>RESOURCE_NANOMAT</ResourceType>
@@ -181,7 +181,7 @@
 		<Row>
 			<UnitType>UNIT_SS_STASIS_CHAMBER</UnitType>
 			<ResourceType>RESOURCE_NANOMAT</ResourceType>
-		</Row>
+		</Row> -->
 	</Unit_ResourceQuantityRequirements>
 	<UnitPromotions>
 		<Update>

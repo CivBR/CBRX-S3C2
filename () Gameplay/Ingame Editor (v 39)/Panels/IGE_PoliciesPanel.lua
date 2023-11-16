@@ -48,7 +48,7 @@ function InitializeControls()
 				BranchInstance.Panel:SetOffsetX(-xmin);
 			else
 				itemManager = CreateInstanceManager("FallbackPolicyInstance", "Button", BranchInstance.Panel);
-				local width = UpdateList(branch.policies, itemManager, ClickHandler, nil, instances[i]);
+				local width = UpdateList(branch.policies, itemManager, ClickHandler, nil, nil, instances[i]);
 				if width > 170 then
 					BranchInstance.BlackMask:SetSizeX(width + 20);
 					BranchInstance.ImageMask:SetSizeX(width + 20);

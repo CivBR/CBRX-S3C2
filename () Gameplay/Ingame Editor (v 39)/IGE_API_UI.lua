@@ -72,13 +72,17 @@ TTManager:GetTypeControlTable("IGE_ToolTip", tipControlTable);
 --===============================================================================================
 -- LISTS UPDATE
 --===============================================================================================
-function SetupInstance(v, instance, clickHandler, rightClickHandler)
+function SetupInstance(v, instance, clickHandler, rightClickHandler, hoverHandler)
 	if clickHandler then
 		instance.Button:RegisterCallback(Mouse.eLClick, function() clickHandler(v) end);
 	end
 
 	if rightClickHandler then
 		instance.Button:RegisterCallback(Mouse.eRClick, function() rightClickHandler(v) end);
+	end
+	
+	if hoverHandler then
+		instance.Button:RegisterCallback(Mouse.eMouseEnter, function() hoverHandler(v) end);
 	end
 
 	if v.toolTip then
@@ -120,7 +124,7 @@ function SetupInstance(v, instance, clickHandler, rightClickHandler)
 	end
 
 	if instance.SelectionFrame then
-		instance.SelectionFrame:SetHide(not v.selected);
+		instance.SelectionFrame:SetHide((not v.selected) and (not v.selectedADD)); --JFD
 	end
 end
 
@@ -161,7 +165,7 @@ end
 
 -------------------------------------------------------------------------------------------------
 local columnPadding = 5;
-function UpdateList(items, listManager, clickHandler, rightClickHandler, instances)
+function UpdateList(items, listManager, clickHandler, rightClickHandler, hoverInstance, instances)
 	local parent = listManager.m_ParentControl;
 	local rootControlName = listManager.m_RootControlName;
 
@@ -184,7 +188,7 @@ function UpdateList(items, listManager, clickHandler, rightClickHandler, instanc
 				if instances then 
 					instances[v] = instance;
 				end
-				SetupInstance(v, instance, clickHandler, rightClickHandler);
+				SetupInstance(v, instance, clickHandler, rightClickHandler, hoverInstance);
 
 				-- Resize
 				ResizeListItemInstance(instance, columnWidth, labelWidth);
@@ -274,7 +278,7 @@ function UpdateHierarchizedList(items, itemManager, clickHandler, rightClickHand
 	end
 
 	-- Update list
-	UpdateList(items, itemManager, clickHandler, rightClickHandler, instances);
+	UpdateList(items, itemManager, clickHandler, rightClickHandler, hoverInstance, instances);
 end
 
 

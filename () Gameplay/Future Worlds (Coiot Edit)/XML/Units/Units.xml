@@ -467,7 +467,7 @@
 			<Moves>2</Moves>
 			<Range>2</Range>
 			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
-			<Domain>DOMAIN_LAND</Domain>
+			<Domain>DOMAIN_HOVER</Domain>
 			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_FW_UAV</Description>
 			<Civilopedia>TXT_KEY_UNIT_FW_UAV_TEXT</Civilopedia>
@@ -672,7 +672,7 @@
 			<Cost>500</Cost>
 			<FaithCost>1100</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
-			<Moves>4</Moves>
+			<Moves>3</Moves>
 			<CombatClass>UNITCOMBAT_GUN</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
@@ -724,7 +724,7 @@
 			<IconAtlas>CIV_COLOR_ATLAS_FW</IconAtlas>
 			<PortraitIndex>15</PortraitIndex>
 		</Row>
-		<Row>
+		<!-- <Row>
 			<Class>UNITCLASS_FW_ROBOT_INFANTRY</Class>
 			<Type>UNIT_FW_ROBOT_INFANTRY</Type>
 			<PrereqTech>TECH_AI</PrereqTech>
@@ -753,7 +753,7 @@
 			<UnitFlagIconOffset>2</UnitFlagIconOffset>
 			<IconAtlas>CIV_COLOR_ATLAS_FW</IconAtlas>
 			<PortraitIndex>49</PortraitIndex>
-		</Row>
+		</Row> -->
 		<Row>
 			<Class>UNITCLASS_FW_NANOHIVE</Class>
 			<Type>UNIT_FW_NANOHIVE</Type>
@@ -823,12 +823,12 @@
 			<PortraitIndex>56</PortraitIndex>
 		</Row>
 
-		<Row>
+		<!-- <Row>
 			<Class>UNITCLASS_FW_TREX</Class>
 			<Type>UNIT_FW_TREX</Type>
 			<PrereqTech>TECH_GENGINEERING</PrereqTech>
 			<Combat>120</Combat>
-			<Cost>500</Cost>
+			<Cost>460</Cost>
 			<Moves>3</Moves>
 			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -848,10 +848,10 @@
 			<UnitFlagIconOffset>1</UnitFlagIconOffset>
 			<IconAtlas>CIV_COLOR_ATLAS_FW</IconAtlas>
 			<PortraitIndex>60</PortraitIndex>
-		</Row>
+		</Row> -->
 	</Units>
 
-	<Civilization_UnitClassOverrides>
+	<!-- <Civilization_UnitClassOverrides>
 		<Row>
 			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
 			<UnitClassType>UNITCLASS_FW_TREX</UnitClassType>
@@ -862,7 +862,7 @@
 			<UnitClassType>UNITCLASS_FW_TREX</UnitClassType>
 			<UnitType/>
 		</Row>
-	</Civilization_UnitClassOverrides>
+	</Civilization_UnitClassOverrides> -->
 
 	<Unit_AITypes>
 		<Row>
@@ -881,10 +881,10 @@
 			<UnitType>UNIT_FW_MECH_ARTILLERY</UnitType>
 			<UnitAIType>UNITAI_RANGED</UnitAIType>
 		</Row>
-		<Row>
+		<!-- <Row>
 			<UnitType>UNIT_FW_UAV</UnitType>
 			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
-		</Row>
+		</Row> -->
 		<Row>
 			<UnitType>UNIT_FW_HOVERTANK</UnitType>
 			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
@@ -1073,7 +1073,7 @@
 			<UnitType>UNIT_FW_AUTOMATON</UnitType>
 			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
 		</Row>
-		<Row>
+		<!-- <Row>
 			<UnitType>UNIT_FW_ROBOT_INFANTRY</UnitType>
 			<UnitAIType>UNITAI_ATTACK</UnitAIType>
 		</Row>
@@ -1088,7 +1088,7 @@
 		<Row>
 			<UnitType>UNIT_FW_ROBOT_INFANTRY</UnitType>
 			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
-		</Row>
+		</Row> -->
 		<Row>
 			<UnitType>UNIT_FW_NANOHIVE</UnitType>
 			<UnitAIType>UNITAI_ATTACK</UnitAIType>
@@ -1365,16 +1365,16 @@
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
 			<Flavor>20</Flavor>
 		</Row>
-		<Row>
+		<!-- <Row>
 			<UnitType>UNIT_FW_ROBOT_INFANTRY</UnitType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
 			<Flavor>24</Flavor>
-		</Row>
-		<Row>
+		</Row> -->
+		<!-- <Row>
 			<UnitType>UNIT_FW_ROBOT_INFANTRY</UnitType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
 			<Flavor>24</Flavor>
-		</Row>
+		</Row> -->
 		<Row>
 			<UnitType>UNIT_FW_NANOHIVE</UnitType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
@@ -1400,11 +1400,11 @@
 			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
 			<Flavor>40</Flavor>
 		</Row>
-		<Row>
+		<!-- <Row>
 			<UnitType>UNIT_FW_TREX</UnitType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
 			<Flavor>20</Flavor>
-		</Row>
+		</Row> -->
 	</Unit_Flavors>
 	<Unit_FreePromotions>
 		<Row>
@@ -1766,14 +1766,14 @@
 			<PromotionType>PROMOTION_NO_CAPTURE</PromotionType>
 		</Row>
 
-		<Row>
+		<!-- <Row>
 			<UnitType>UNIT_FW_TREX</UnitType>
 			<PromotionType>PROMOTION_COVER_1</PromotionType>
 		</Row>
 		<Row>
 			<UnitType>UNIT_FW_TREX</UnitType>
 			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
-		</Row>
+		</Row> -->
 
 		<Delete UnitType="UNIT_STEALTH_BOMBER" PromotionType="PROMOTION_EVASION_II"/>
 		<Row>

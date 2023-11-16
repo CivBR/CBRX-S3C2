@@ -322,10 +322,10 @@
 			<Text>Teleport</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IGE_MOVE_UNIT_HELP">
-			<Text>Click the button to enter "teleport" mode, then right-click the map to teleport all the units at this place.</Text>
+			<Text>Click the button to enter "teleport" mode, then right-click the map to teleport the selected unit at this place.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IGE_MOVE_UNIT_MESSAGE">
-			<Text>Right-click the map to teleport the units.</Text>
+			<Text>Right-click the map to teleport the selected unit.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IGE_MOVE_UNIT_CANCEL">
 			<Text>Cancel</Text>
@@ -333,7 +333,25 @@
 		<Row Tag="TXT_KEY_IGE_INTELLIGENCE_AGENCY_WARNING">
 			<Text>[COLOR_NEGATIVE_TEXT]Do not add this building multiple times to acquire more spies than possible! This would result in game corruption.[ENDCOLOR]</Text>
 		</Row>
-		
+		<!--JFD added for Nopelad-->	
+		<Row Tag="TXT_KEY_IGE_MOVE_UNIT_HELP_TT">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]RIGHT-click[ENDCOLOR] other listed Units to include them for teleport. If adjacent, the direction is indicated in brackets by the units name.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IGE_MOVE_UNIT_ADJ_LIST">
+			<Text>Show Adjacent Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IGE_MOVE_UNIT_ADJ_LIST_TT">
+			<Text>Lists units (owned by you) adjacent to the selected unit.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_IGE_MOVE_ADJ_UNIT">
+			<Text>Teleport (Adj.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IGE_MOVE_ADJ_UNIT_HELP">
+			<Text>Click the button to enter "teleport" mode, then right-click the map to teleport all the units at this place as well as adjacent units. This will teleport </Text>
+		</Row>
+		<Row Tag="TXT_KEY_IGE_MOVE_ADJ_UNIT_MESSAGE">
+			<Text>Right-click the map to teleport all the units on this tile as well as adjacent units.</Text>
+		</Row>-->	
 
 
 
@@ -365,11 +383,23 @@
 		<Row Tag="TXT_KEY_IGE_EXPLORE_MAP_BUTTON_HELP">
 			<Text>Unveils the map as if you fully explored it. Triggers natural wonders' discover but does not trigger diplomatic contacts.</Text>
 		</Row>
+		<Row Tag="TXT_KEY_IGE_EXPLORE_MAP_ALL_BUTTON">
+			<Text>Explore map (ALL)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IGE_EXPLORE_MAP_ALL_BUTTON_HELP">
+			<Text>Unveils the map as if you fully explored it for ALL players. Triggers natural wonders' discover but does not trigger diplomatic contacts.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The game will appear to freeze for a second whilst this processes.[ENDCOLOR]</Text>
+		</Row>
 		<Row Tag="TXT_KEY_IGE_UNEXPLORE_MAP_BUTTON">
 			<Text>Unexplore map</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IGE_UNEXPLORE_MAP_BUTTON_HELP">
 			<Text>Hides the map as if you never explored it. Does not reset neither diplomatic contacts nor natural wonders' discoveries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IGE_UNEXPLORE_MAP_ALL_BUTTON">
+			<Text>Unexplore map (ALL)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IGE_UNEXPLORE_MAP_ALL_BUTTON_HELP">
+			<Text>Hides the map as if you never explored it for ALL players. Does not reset neither diplomatic contacts nor natural wonders' discoveries.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The game will appear to freeze for a second whilst this processes.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IGE_KILL_UNITS_BUTTON">
 			<Text>Delete units</Text>
@@ -616,7 +646,9 @@
 		<Row Tag="TXT_KEY_IGE_TECHS_COMPATIBILITY_NIGHTS">
 			<Text>Civilization Nights</Text>
 		</Row>
-
+		<Row Tag="TXT_KEY_IGE_GRANT_TECH_TO_ALL">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]RIGHT-click[ENDCOLOR] to grants the selected Technology to ALL Civilizations.</Text>
+		</Row>
 
 		<!--IGE_API_Misc.lua -->
 		<Row Tag="TXT_KEY_IGE_YIELD_CHANGE_TEMPLATE">

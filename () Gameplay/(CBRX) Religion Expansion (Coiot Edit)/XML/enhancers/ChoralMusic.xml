@@ -8,7 +8,7 @@
 			<Description>TXT_KEY_BELIEF_CHORAL_MUSIC</Description>
 			<ShortDescription>TXT_KEY_BELIEF_CHORAL_MUSIC_SHORT</ShortDescription>
 			<Enhancer>true</Enhancer>
-            <MinFollowers>5</MinFollowers>
+            <MinFollowers>10</MinFollowers>
 		</Row>
 	</Beliefs>
 

@@ -112,9 +112,13 @@ local function ShouldBeRevealed(plot, recursivity)
 end
 
 -------------------------------------------------------------------------------------------------
-local function OnForceRevealMap(revealing, disableFoW)
-	local currentTeamID = IGE.currentTeamID
-
+--JFD edited
+local function OnForceRevealMap(revealing, disableFoW, teamID)
+	local currentTeamID = teamID
+	if (not teamID) then
+		currentTeamID = IGE.currentTeamID
+	end
+	
 	for i = 0, Map.GetNumPlots()-1, 1 do
 		local plot = Map.GetPlotByIndex(i);
 		local oldVisibility = plot:GetVisibilityCount(currentTeamID)

@@ -1,6 +1,6 @@
 include('PlotIterators.lua')
 
---Log Spamming Mode 
+--Log Spamming Mode
 local bDebug = false
 if bDebug then print("Yemen Lua loaded") end
 
@@ -17,7 +17,7 @@ function HasTrait(player, traitID)
 		if (not traitID) then
 			print(player:GetName(), debug.traceback())
 		end
-		if Player.HasTrait then 
+		if Player.HasTrait then
 			return player:HasTrait(traitID)
 		else
 			local leaderType = GameInfo.Leaders[player:GetLeaderType()].Type
@@ -114,7 +114,7 @@ local function RelicAcquireLuxDoTurn(iPlayerID)
 	end
 end
 GameEvents.PlayerDoTurn.Add(RelicAcquireLuxDoTurn)
---Trade routes grant additional food to their origin city when passing over desert tiles. 
+--Trade routes grant additional food to their origin city when passing over desert tiles.
 local function RelicCheckTraderTiles(iPlayerID)
 	if bDebug then print("Starting Arwa UA Function, DoTurn Trader Event: "..iPlayerID) end
 	local pPlayer = Players[iPlayerID]
@@ -122,7 +122,7 @@ local function RelicCheckTraderTiles(iPlayerID)
 	if not pPlayer:IsAlive() then return end
 	if not HasTrait(pPlayer, iYemenTrait) then return end
 	if bDebug then print("Trait Check Passed") end
-	for pUnit in pPlayer:Units() do 
+	for pUnit in pPlayer:Units() do
 		if pUnit:IsTrade() then
 			pPlot = pUnit:GetPlot()
 			if pPlot:GetTerrainType() == iDesert then
@@ -146,7 +146,7 @@ local function RelicCheckForFreshWater(iPlayerID)
 	for pCity in pPlayer:Cities() do
         local bFreshWater = false
         local CityPlot = pCity:Plot()
-        --check if any existing buildings provide access to freshwater        
+        --check if any existing buildings provide access to freshwater
         for row in GameInfo.Building_ProvidesAccesstoFreshWater() do
             local iBuilding = GameInfo.Buildings[row.BuildingType].ID
             if pCity:IsHasBuilding(iBuilding) then

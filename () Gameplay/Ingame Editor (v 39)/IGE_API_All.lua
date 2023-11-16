@@ -10,6 +10,8 @@ include("IGE_API_UI");
 include("IGE_API_Misc");
 include("IGE_API_Data");
 include("IGE_API_Terrain");
+--JFD added for Nopelad
+include("PlotIterators.lua");
 
 IGE_MODE_NONE = 0;
 IGE_MODE_EDIT = 1;

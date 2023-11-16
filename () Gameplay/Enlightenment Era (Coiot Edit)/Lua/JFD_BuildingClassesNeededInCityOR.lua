@@ -29,6 +29,6 @@ function HasBuildingClass(pCity, sBuildingClass)
       return true
     end
   end
-  
+
   return false
 end

@@ -1,9 +1,0 @@
-<Asset>
-  <Mesh file="resource_poppy.gr2" source="Max" />
-  <Texture file="poppy_diff.dds" source="Max" />
-  <Texture file="poppy_sref.dds" source="Max" />
-  <Texture file="Generic_Grey_8.dds" source="Max" />
-  <Texture file="PlantRes_Grnd_Decal_DIFF.dds" source="Max" />
-  <Texture file="PlantRes_Grnd_Decal_H.dds" source="Max" />
-  <Texture file="Plant_Resource_Shadows.dds" source="Max" />
-</Asset>

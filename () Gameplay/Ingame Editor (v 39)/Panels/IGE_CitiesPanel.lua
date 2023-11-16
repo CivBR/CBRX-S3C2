@@ -9,19 +9,24 @@ local wonderItemManagers = {};
 local groupInstances = {};
 local eraItemManager = CreateInstanceManager("BuildingGroupInstance", "Stack", Controls.BuildingEraList );
 local unitsManager = CreateInstanceManager("ListItemInstance", "Button", Controls.UnitsOnPlotList );
+local unitsAdjManager = CreateInstanceManager("ListItemInstance", "Button", Controls.UnitsOnAdjPlotList );
 local conversionsManager = CreateInstanceManager("ConversionInstance", "Stack", Controls.ConversionStack );
 
 local data = {};
 local isVisible = false;
 local isTeleporting = false;
+-- local isTeleportingAdj = false;
 local currentPlot = nil;
+local oldPlot = nil;
 local currentCity = nil;
 local currentUnit = nil;
 local currentUnitIndex = 0;
 local currentReligion = 0;
 local teleportationStartPlot = nil;
 
-
+local selectedUnits = {};
+local selectedAdjUnits = {} 
+local adjUnitsHeadingOpen = false
 --===============================================================================================
 -- CORE EVENTS
 --===============================================================================================
@@ -76,14 +81,33 @@ LuaEvents.IGE_SelectedPlot.Add(OnSelectedPlot)
 --===============================================================================================
 -- UPDATE
 --===============================================================================================
+local directions = {}
+directions[DirectionTypes["DIRECTION_NORTHEAST"]] = "NE"
+directions[DirectionTypes["DIRECTION_EAST"]] = "E"
+directions[DirectionTypes["DIRECTION_SOUTHEAST"]] = "SE"
+directions[DirectionTypes["DIRECTION_SOUTHWEST"]] = "SW"
+directions[DirectionTypes["DIRECTION_WEST"]] = "W"
+directions[DirectionTypes["DIRECTION_NORTHWEST"]] = "NW"
+					
 local function UpdateUnits()
 	local count = currentPlot:GetNumUnits();
 	Controls.UnitEdition:SetHide(count == 0);
 	Controls.NoUnitOnPlot:SetHide(count ~= 0);
 	if count == 0 then return end
+	
+	if adjUnitsHeadingOpen then
+		local localizedLabel = "[ICON_MINUS] "..Locale.ConvertTextKey( "TXT_KEY_IGE_MOVE_UNIT_ADJ_LIST" );
+		Controls.UnitsAdjToPlotListLabel:SetText(localizedLabel);
+		Controls.UnitsOnAdjPlotList:SetHide(false);
+	else
+		local localizedLabel = "[ICON_PLUS] "..Locale.ConvertTextKey( "TXT_KEY_IGE_MOVE_UNIT_ADJ_LIST" );
+		Controls.UnitsAdjToPlotListLabel:SetText(localizedLabel);
+		Controls.UnitsOnAdjPlotList:SetHide(true);
+	end
 
 	-- Update units list
 	units = {};
+	unitsAdj = {};
 	currentUnit = currentPlot:GetUnit(0);
 	for i = 0, count - 1 do
 		local pUnit = currentPlot:GetUnit(i);
@@ -117,8 +141,9 @@ local function UpdateUnits()
 		item.subtitle = pOwner:GetCivilizationShortDescription();
 		item.textureOffset = unit.textureOffset;
 		item.texture = unit.texture;
-		item.help = unit.help;
+		item.help = unit.help .. Locale.ConvertTextKey("TXT_KEY_IGE_MOVE_UNIT_HELP_TT")
 		item.selected = (i == currentUnitIndex);
+		item.selectedADD = selectedUnits[pUnit:GetID()]
 		item.visible = true;
 		item.enabled = true;
 		item.index = i;
@@ -127,10 +152,77 @@ local function UpdateUnits()
 		table.insert(units, item);
 		if item.selected then
 			currentUnit = pUnit;
+			item.label = "[COLOR_POSITIVE_TEXT]" .. item.label .. "[ENDCOLOR]"
 		end
 	end
-
-	UpdateList(units, unitsManager, UnitClickHandler);
+	
+	if adjUnitsHeadingOpen then	
+		
+		for adjacentPlot in PlotAreaSweepIterator(currentPlot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
+			local thisCount = adjacentPlot:GetNumUnits();
+			for i = 0, thisCount - 1 do
+				local pUnit = adjacentPlot:GetUnit(i);
+				if pUnit then
+					local unitID = pUnit:GetUnitType();
+					local unit = data.unitsByID[unitID];
+					local pOwner = Players[pUnit:GetOwner()];
+					
+					print(pUnit:GetName(), "unit adjacent")
+			
+					local item = {};
+			
+					-- Label
+					if (pUnit:HasName()) then
+						local desc = L("TXT_KEY_PLOTROLL_UNIT_DESCRIPTION_CIV", pOwner:GetCivilizationAdjectiveKey(), pUnit:GetNameKey());
+						item.label = string.format("%s (%s)", pUnit:GetNameNoDesc(), desc); 
+					else
+						item.label = L("TXT_KEY_PLOTROLL_UNIT_DESCRIPTION_CIV", pOwner:GetCivilizationAdjectiveKey(), pUnit:GetNameKey());
+					end
+			
+					local strength = pUnit:GetBaseCombatStrength();
+					if (strength > 0) then
+						item.label = item.label..", [ICON_STRENGTH]" .. pUnit:GetBaseCombatStrength();
+					end
+						
+					local damage = pUnit:GetDamage();
+					if (damage > 0) then
+						item.label = item.label..", " .. L("TXT_KEY_PLOTROLL_UNIT_HP", GameDefines["MAX_HIT_POINTS"] - damage);
+					end
+			
+					-- Other unit
+					item.actor = pUnit;
+					item.name = unit.name;
+					item.subtitle = pOwner:GetCivilizationShortDescription();
+					item.textureOffset = unit.textureOffset;
+					item.texture = unit.texture;
+					item.help = unit.help .. Locale.ConvertTextKey("TXT_KEY_IGE_MOVE_UNIT_HELP_TT")
+					item.selectedADD = selectedAdjUnits[pUnit:GetID()]
+					item.visible = true;
+					item.enabled = true;
+					item.index = i;
+					
+					local numDirections = DirectionTypes.NUM_DIRECTION_TYPES;
+					local thisUnitDirection = {}
+					for direction = 0, numDirections - 1, 1 do
+						local adjPlot = Map.PlotDirection(currentPlot:GetX(), currentPlot:GetY(), direction)
+						if adjPlot ~= nil and adjPlot == adjacentPlot then
+							item.direction = directions[direction]
+							break
+						end
+					end
+					if item.direction then
+						item.label = Locale.ConvertTextKey("({1_Desc}) ", item.direction) .. item.label 
+					end
+					
+					-- Insertion
+					table.insert(unitsAdj, item);
+				end
+			end
+		end
+	end
+	
+	UpdateList(units, unitsManager, UnitClickHandler, UnitRClickHandler);
+	UpdateList(unitsAdj, unitsAdjManager, UnitClickHandler, UnitRClickHandler, HoverHandler);
 end
 
 -------------------------------------------------------------------------------------------------
@@ -295,6 +387,7 @@ function OnUpdate()
 	Controls.CityEdition:CalculateSize();
 	Controls.Stack:CalculateSize();
     Controls.ScrollPanel:CalculateInternalSize();
+	Controls.ScrollPanel:ReprocessAnchoring();
 	Controls.ScrollBar:SetSizeX(Controls.ScrollPanel:GetSizeX() - 36);
 end
 LuaEvents.IGE_Update.Add(OnUpdate);
@@ -440,9 +533,59 @@ function UnitClickHandler(unit)
 		v.selected = (v == unit);
 		if v.selected then currentUnitIndex = unit.index end
 	end
+	for _, v in ipairs(unitsAdj) do
+		v.selected = (v == unit);
+		if v.selected then 
+			currentUnitIndex = unit.index 
+			local pUnit = unit.actor
+			local plot = Map.GetPlot(pUnit:GetX(),pUnit:GetY())
+			OnSelectedPlot(plot)
+			LuaEvents.IGE_SetCurrentPlot(plot)
+			UI.LookAt(plot, 0);
+		end
+	end
 	OnUpdate();
 end
-
+-------------------------------------------------------------------------------------------------
+function UnitRClickHandler(unit)
+	for _, v in ipairs(units) do	
+		if (v == unit) then
+			local pUnit = unit.actor
+			local unitID = pUnit:GetID()
+			if (not selectedUnits[unitID]) then		
+				v.selectedADD = true
+				selectedUnits[unitID] = pUnit
+			else	
+				v.selectedADD = false
+				selectedUnits[unitID] = nil
+			end
+		end
+	end
+	for _, v in ipairs(unitsAdj) do	
+		if (v == unit) then
+			local pUnit = unit.actor
+			local unitID = pUnit:GetID()
+			if (not adjUnitsHeadingOpen) then
+				v.selectedADD = false
+				selectedAdjUnits[unitID] = nil
+			elseif selectedAdjUnits[unitID] then
+				v.selectedADD = false
+				selectedAdjUnits[unitID] = nil
+			else
+				local pUnit = unit.actor
+				local unitID = pUnit:GetID()
+				v.selectedADD = true
+				selectedAdjUnits[unitID] = pUnit
+			end
+		end
+	end
+	OnUpdate();
+end
+-------------------------------------------------------------------------------------------------
+function HoverHandler(unit)
+	local pUnit = unit.actor
+	Events.SerialEventHexHighlight(ToHexFromGrid(Vector2(pUnit:GetX(), pUnit:GetY())), true, Vector4(0.8, 0.0, 0.0, 1));
+end
 -------------------------------------------------------------------------------------------------
 function BuildingClickHandler(building)
 	local count = currentCity:GetNumRealBuilding(building.ID);
@@ -474,6 +617,14 @@ end
 -------------------------------------------------------------------------------------------------
 function OnDisbandUnitClick()
 	currentUnit:Kill();	
+	--JFD
+	for _, thisUnit in pairs(selectedUnits) do	
+		thisUnit:Kill();	
+	end		
+	for _, thisUnit in pairs(selectedAdjUnits) do	
+		thisUnit:Kill();	
+	end			
+			
 	Events.SerialEventGameDataDirty();
 	OnUpdate();
 end
@@ -484,7 +635,20 @@ function OnPromoteUnitClick()
 	local level = GetLevelFromXP(currentUnit:GetExperience());
 	local xp = GetXPForLevel(level + 1);
 	currentUnit:SetExperience(xp);
-	currentUnit:SetPromotionReady(true);
+	currentUnit:SetPromotionReady(true);	
+	--JFD
+	for _, thisUnit in pairs(selectedUnits) do	
+		local level = GetLevelFromXP(thisUnit:GetExperience());
+		local xp = GetXPForLevel(level + 1);
+		thisUnit:SetExperience(xp);
+		thisUnit:SetPromotionReady(true);
+	end
+	for _, thisUnit in pairs(selectedAdjUnits) do	
+		local level = GetLevelFromXP(thisUnit:GetExperience());
+		local xp = GetXPForLevel(level + 1);
+		thisUnit:SetExperience(xp);
+		thisUnit:SetPromotionReady(true);
+	end
 	Events.SerialEventGameDataDirty();
 	OnUpdate();
 end
@@ -492,7 +656,16 @@ Controls.PromoteUnitButton:RegisterCallback(Mouse.eLClick, OnPromoteUnitClick);
 
 -------------------------------------------------------------------------------------------------
 function OnHealUnitClick()
-	currentUnit:SetDamage(0);
+	currentUnit:SetDamage(0);	
+	--JFD
+	for _, thisUnit in pairs(selectedUnits) do	
+		local xp = GetXPForLevel(level + 1);
+		thisUnit:SetDamage(0);	
+	end
+	for _, thisUnit in pairs(selectedAdjUnits) do	
+		local xp = GetXPForLevel(level + 1);
+		thisUnit:SetDamage(0);	
+	end
 	OnUpdate();
 end
 Controls.HealUnitButton:RegisterCallback(Mouse.eLClick, OnHealUnitClick);
@@ -644,28 +817,138 @@ Controls.ReconqueredCityCB:RegisterCallback(Mouse.eLClick, OnReconqueredCityCBCh
 function OnMoveUnitButtonClick()
 	teleportationStartPlot = currentPlot;
 	isTeleporting = true;
+	-- isTeleportingAdj = false;
 	OnUpdate();
 end
 Controls.MoveUnitButton:RegisterCallback(Mouse.eLClick, OnMoveUnitButtonClick);
 
 -------------------------------------------------------------------------------------------------
+
+--JFD added for Nopelad
+-- function OnMoveAdjUnitButtonClick()
+	-- teleportationStartPlot = currentPlot;
+	-- isTeleporting = true;
+	-- isTeleportingAdj = true;
+	
+	-- OnUpdate();
+-- end
+-- Controls.MoveAdjUnitButton:RegisterCallback(Mouse.eLClick, OnMoveAdjUnitButtonClick);
+
+function OnShowAdjUnitsHeaderSelected()
+	adjUnitsHeadingOpen = not adjUnitsHeadingOpen;
+	isTeleporting = false;
+	isTeleportingAdj = false;
+	selectedAdjUnits = {}
+	OnUpdate();
+end
+Controls.UnitsAdjToPlotList:RegisterCallback( Mouse.eLClick, OnShowAdjUnitsHeaderSelected );
+
+
+-------------------------------------------------------------------------------------------------
 function OnMoveUnitCancelButtonClick()
 	teleportationStartPlot = nil;
 	isTeleporting = false;
+	-- isTeleportingAdj = false;
 	OnUpdate();
+	selectedUnits = {}
+	selectedAdjUnits = {}
 end
 Controls.MoveUnitCancelButton:RegisterCallback(Mouse.eLClick, OnMoveUnitCancelButtonClick);
 
 -------------------------------------------------------------------------------------------------
 function OnPlop(button, plot)
 	if not isVisible then return end
-
 	if isTeleporting then
 		if plot:GetX() ~= currentUnit:GetX() or plot:GetY() ~= currentUnit:GetY() then
 			currentUnit:SetXY(plot:GetX(), plot:GetY());
+			for _, thisUnit in pairs(selectedUnits) do	
+				if thisUnit:GetID() ~= currentUnit:GetID() then
+					thisUnit:SetXY(plot:GetX(), plot:GetY());
+					local plotType = plot:GetPlotType()
+					-- if plotType == PlotTypes.PLOT_OCEAN or
+					-- plotType == PlotTypes.PLOT_MOUNTAIN or 
+					-- plot:GetUnit() and plot:GetUnit():GetOwner() ~= thisUnit:GetOwner() then
+						-- thisUnit:JumpToNearestValidPlot()
+					-- end	
+				end
+			end
+			for _, thisUnit in pairs(selectedAdjUnits) do	
+				if thisUnit:GetID() ~= currentUnit:GetID() then
+					local numDirections = DirectionTypes.NUM_DIRECTION_TYPES;
+					local thisUnitDirection = {}
+					for direction = 0, numDirections - 1, 1 do
+						local adjPlot = Map.PlotDirection(currentPlot:GetX(), currentPlot:GetY(), direction)
+						if adjPlot ~= nil then
+							for index = 0, adjPlot:GetNumUnits() - 1, 1 do
+								local unit = adjPlot:GetUnit(index)
+								if unit and unit:GetID() == thisUnit:GetID() and unit:GetOwner() == currentUnit:GetOwner() then
+									thisUnitDirection[unit] = direction
+								end
+							end
+						end
+					end
+					
+					for adjacentPlot in PlotAreaSweepIterator(teleportationStartPlot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
+						for index = 0, adjacentPlot:GetNumUnits() - 1, 1 do
+							local unit = adjacentPlot:GetUnit(index)
+							if unit and unit ~= currentUnit and unit:GetOwner() == currentUnit:GetOwner() then
+								for direction = 0, numDirections - 1, 1 do
+									local adjPlot = Map.PlotDirection(plot:GetX(), plot:GetY(), direction)
+									local plotType = adjPlot:GetPlotType()
+									if adjPlot ~= nil then
+										if thisUnitDirection[unit] == direction then
+											unit:SetXY(adjPlot:GetX(), adjPlot:GetY());
+											-- if plotType == PlotTypes.PLOT_OCEAN or
+											-- plotType == PlotTypes.PLOT_MOUNTAIN or 
+											-- adjPlot:GetUnit() and adjPlot:GetUnit():GetOwner() ~= unit:GetOwner() then
+												-- unit:JumpToNearestValidPlot()
+											-- end											
+										end
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+			--JFD added for Nopelad
+			-- if isTeleportingAdj then
+				-- local numDirections = DirectionTypes.NUM_DIRECTION_TYPES;
+				-- local thisUnitDirection = {}
+				-- for direction = 0, numDirections - 1, 1 do
+					-- local adjPlot = Map.PlotDirection(teleportationStartPlot:GetX(), teleportationStartPlot:GetY(), direction)
+					-- if adjPlot ~= nil then
+						-- for index = 0, adjPlot:GetNumUnits() - 1, 1 do
+							-- local unit = adjPlot:GetUnit(index)
+							-- if unit and unit ~= currentUnit and unit:GetOwner() == currentUnit:GetOwner() then
+								-- thisUnitDirection[unit] = direction
+							-- end
+						-- end
+					-- end
+				-- end
+				
+				-- for adjacentPlot in PlotAreaSweepIterator(teleportationStartPlot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
+					-- for index = 0, adjacentPlot:GetNumUnits() - 1, 1 do
+						-- local unit = adjacentPlot:GetUnit(index)
+						-- if unit and unit ~= currentUnit and unit:GetOwner() == currentUnit:GetOwner() then
+							-- for direction = 0, numDirections - 1, 1 do
+								-- local adjPlot = Map.PlotDirection(plot:GetX(), plot:GetY(), direction)
+								-- if adjPlot ~= nil then
+									-- if thisUnitDirection[unit] == direction then
+										-- unit:SetXY(adjPlot:GetX(), adjPlot:GetY());
+									-- end
+								-- end
+							-- end
+						-- end
+					-- end
+				-- end
+			-- end
 		end
 		isTeleporting = false;
+		-- isTeleportingAdj = false;
 		OnUpdate();
+		selectedUnits = {}
+		selectedAdjUnits = {}
 	else
 		if plot:GetPlotCity() == nil then
 			IGE.currentPlayer:InitCity(plot:GetX(), plot:GetY());

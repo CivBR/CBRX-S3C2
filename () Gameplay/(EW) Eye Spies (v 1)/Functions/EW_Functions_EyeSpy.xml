@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/9/2022 10:55:43 AM -->
+<Context>
+	<!--Civilization-->
+	<!-- Instance Name="Instance_EW_Civilizations" Size="400,50">
+		<Grid ID="Grid_EW_Civilizations" Size="400,100" Anchor="L,T" AnchorSide="I,I" Style="Grid9Frame27SquareBlack">
+			<Label ID="Label_EW_Civilizations" Anchor="C,C" Offset="20,5" Font="TwCenMT22" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="ERROR"/>
+		</Grid>
+	</Instance> -->
+	<!--Spies-->
+	<Instance Name="Instance_EW_Spies">
+		<Grid ID="Grid_EW_Spies" Size="480,100" Anchor="L,T" AnchorSide="I,I" Style="Grid9Frame27SquareBlack">
+			<Label ID="Label_EW_Spies" Anchor="L,C" Offset="10,0" AnchorSide="I,I" Font="TwCenMT22" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" String="ERROR"/>
+			<Label ID="Label_EW_City" Anchor="L,C" Offset="350,0" AnchorSide="I,I" Font="TwCenMT22" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" String="ERROR"/>
+		</Grid>
+	</Instance>
+	<!--Container-->
+	<Grid ID="Grid_EW_Full" Size="500,700" Anchor="C,C" Style="Grid9DetailFive140">
+		<PullDown ID="PullDown_EW_Civilizations" Style="GenericPullDown" ScrollThreshold="170" Size="480,35" SpaceForScroll="1" Anchor="C,T" Offset="0,40"/>
+		<ScrollPanel ID="Scroll_EW_Spies" Anchor="C,T" AnchorSide="I,I" Size="480,600" Vertical="1" Offset="0,75">
+			<Stack ID="Stack_EW_Spies" Anchor="C,T" AnchorSide="I,I" Padding="0" StackGrowth="B"/>
+			<UpButton Anchor="R,T" Style="ScrollBarUp" AnchorSide="I,I"/>
+			<ScrollBar Anchor="R,C" Style="VertSlider" AnchorSide="I,I" Length="564"/>
+			<DownButton Anchor="R,B" Style="ScrollBarUp" AnchorSide="I,I"/>
+		</ScrollPanel>
+	</Grid>
+	<!--Open/Close Button-->
+	<Grid ID="EW_Box" Size="312,32" Style="Grid9FrameTurns" Anchor="C,T" AnchorSide="I,I" Offset="0,45">
+		<TextButton ID="TextButton_EW_OpenClose" Anchor="C,C" Offset="0,0" Font="TwCenMT20" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" String="Open"/>
+	</Grid>
+</Context>

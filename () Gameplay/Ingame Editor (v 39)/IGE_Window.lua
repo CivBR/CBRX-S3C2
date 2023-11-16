@@ -212,6 +212,7 @@ function SetCurrentPlot(plot)
 	LuaEvents.IGE_SelectedPlot(plot);
 	LuaEvents.IGE_Update();
 end
+LuaEvents.IGE_SetCurrentPlot.Add(SetCurrentPlot)
 
 -------------------------------------------------------------------------------------------------
 local function HighlightPlot(plot, color)

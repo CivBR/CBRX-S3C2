@@ -7,4 +7,22 @@
 			<Set Value="3"/>
 		</Update>
 	</Defines>
+
+	<Policies>
+		<Update>
+			<Where Type="POLICY_EXPLORATION_FINISHER"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+	</Policies>
+
+	<Defines>
+		<Replace>
+			<Name>MAXIMUM_WORK_PLOT_DISTANCE</Name>
+			<Value>4</Value>
+		</Replace>
+		<Replace>
+			<Name>MAXIMUM_BUY_PLOT_DISTANCE</Name>
+			<Value>4</Value>
+		</Replace>
+	</Defines>
 </GameData>

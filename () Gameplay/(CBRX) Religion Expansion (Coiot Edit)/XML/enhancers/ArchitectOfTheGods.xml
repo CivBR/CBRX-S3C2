@@ -14,43 +14,31 @@
 			<BeliefType>BELIEF_ARCHITECT_OF_THE_GODS</BeliefType>
 			<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_ARCHITECT_OF_THE_GODS</BeliefType>
 			<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>1</Yield>
-		</Row>
-		<Row>
-			<BeliefType>BELIEF_ARCHITECT_OF_THE_GODS</BeliefType>
-			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
-			<YieldType>YIELD_FOOD</YieldType>
-			<Yield>1</Yield>
-		</Row>
-		<Row>
-			<BeliefType>BELIEF_ARCHITECT_OF_THE_GODS</BeliefType>
-			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>1</Yield>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_ARCHITECT_OF_THE_GODS</BeliefType>
 			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_ARCHITECT_OF_THE_GODS</BeliefType>
 			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>1</Yield>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
 		</Row>
 	</Belief_ImprovementYieldChanges>
 	<Language_en_US>
 		<Delete Tag="TXT_KEY_BELIEF_ARCHITECT_OF_THE_GODS" />
 		<Row Tag="TXT_KEY_BELIEF_ARCHITECT_OF_THE_GODS">
-			<Text>+1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, +1 [ICON_PEACE] Faith and +1 [ICON_GOLD] Gold for Citadels.  +1 [ICON_FAITH] Faith and +1 [ICON_GOLD] Gold for Forts. </Text>
+			<Text>+1 [ICON_FAITH] Faith and +1 [ICON_CULTURE] Gold for Forts and Citadels. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ARCHITECT_OF_THE_GODS_SHORT">
 			<Text>Architect Of The Gods</Text>

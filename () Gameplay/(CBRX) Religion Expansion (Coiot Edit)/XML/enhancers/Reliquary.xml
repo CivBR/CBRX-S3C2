@@ -2,13 +2,22 @@
 <!-- Created by ModBuddy on 2016-09-25 05:44:53 -->
 <GameData>
 
-	<!-- Gain 50 Faith (on Quick Speed) whenever a Great Person is expended -->
+	<!-- Gain 60 Faith (on Quick Speed) whenever a Great Person is expended -->
 	<Beliefs>
 		<Update>
-			<Set GreatPersonExpendedFaith="40" />
+			<Set GreatPersonExpendedFaith="60" />
 			<Where Type="BELIEF_RELIQUARY" />
 		</Update>
 	</Beliefs>
+
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_RELIQUARY</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
 
 	<!-- localization -->
 	<Language_en_US>

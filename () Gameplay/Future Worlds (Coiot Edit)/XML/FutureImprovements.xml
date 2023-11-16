@@ -183,7 +183,7 @@
 		<Row>
 			<ImprovementType>IMPROVEMENT_FW_PRESERVE</ImprovementType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>4</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FW_BIOWELL</ImprovementType>

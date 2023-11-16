@@ -30,6 +30,7 @@ function OnInitialize()
 		Controls.FoundReligionButton:SetHide(true);
 		Controls.FaithContainer:SetHide(true);
 		Controls.FreeTechButton:SetOffsetVal(0, 20);
+		Controls.FreeTechAllButton:SetOffsetVal(0, 20);
 	end
 
 	Resize(Controls.Container);
@@ -411,13 +412,34 @@ function OnUnexploreMapClick()
 	LuaEvents.IGE_ForceRevealMap(false);
 end
 Controls.UnexploreMapButton:RegisterCallback(Mouse.eLClick, OnUnexploreMapClick);
+-------------------------------------------------------------------------------------------------
+function OnUnexploreMapAllClick()
+	for i, v in ipairs(data.allPlayers) do
+		local player = Players[v.ID]
+		if player:IsAlive() then
+			local playerTeamID = player:GetTeam()
+			LuaEvents.IGE_ForceRevealMap(false, false, playerTeamID);
+		end
+	end
+end
+Controls.UnexploreMapAllButton:RegisterCallback(Mouse.eLClick, OnUnexploreMapAllClick);
 
 -------------------------------------------------------------------------------------------------
 function OnExploreMapClick()
 	LuaEvents.IGE_ForceRevealMap(true, false);
 end
 Controls.ExploreMapButton:RegisterCallback(Mouse.eLClick, OnExploreMapClick);
-
+-------------------------------------------------------------------------------------------------
+function OnExploreMapAllClick()
+	for i, v in ipairs(data.allPlayers) do
+		local player = Players[v.ID]
+		if player:IsAlive() then
+			local playerTeamID = player:GetTeam()
+			LuaEvents.IGE_ForceRevealMap(true, false, playerTeamID);
+		end
+	end
+end
+Controls.ExploreMapAllButton:RegisterCallback(Mouse.eLClick, OnExploreMapAllClick);
 -------------------------------------------------------------------------------------------------
 function OnRevealMapClick()
 	LuaEvents.IGE_ForceRevealMap(true, true);
@@ -451,8 +473,6 @@ function OnFreeTechClick()
 	OnUpdate();
 end
 Controls.FreeTechButton:RegisterCallback(Mouse.eLClick, OnFreeTechClick);
-
-
 -------------------------------------------------------------------------------------------------
 function OnFreePolicyClick()
 	IGE.currentPlayer:SetNumFreePolicies(IGE.currentPlayer:GetNumFreePolicies() + 1);

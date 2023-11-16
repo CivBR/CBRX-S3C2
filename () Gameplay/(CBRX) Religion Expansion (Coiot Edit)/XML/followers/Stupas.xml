@@ -41,7 +41,7 @@
 			<ConquestProb>66</ConquestProb>
 			<PortraitIndex>11</PortraitIndex>
 			<!-- Gameplay effects below -->
-			<ReligiousPressureModifier>30</ReligiousPressureModifier>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
 		</Row>
 	</Buildings>
 	<Building_Flavors>
